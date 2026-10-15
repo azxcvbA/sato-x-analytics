@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 278,
+  "count": 279,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -485,7 +485,43 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 178
+      "views": 181
+    },
+    {
+      "id": "2110678432430555148",
+      "url": "https://x.com/sattoa_ball/status/2110678432430555148",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 10:25:27 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4のKSRE国名修正MODに小ネタを追加\n中道のロシアがアラスカを傀儡化すると\n国名が「ロシア領アメリカ会社」に変化する仕様に変更\n元ネタは1799年に設立されてロシア領アラスカの植民地経営や毛皮交易を担ったロシア帝国の勅許会社です",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110678319943536640",
+            "url": "https://pbs.twimg.com/media/HUqiv8daUAAs0Fx.jpg?name=orig",
+            "width": 1000,
+            "height": 804
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110678319943536640",
+            "url": "https://pbs.twimg.com/media/HUqiv8daUAAs0Fx.jpg?name=orig",
+            "width": 1000,
+            "height": 804
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 15
     },
     {
       "id": "2110665472505172348",
@@ -516,12 +552,12 @@
           }
         ]
       },
-      "likes": 2,
+      "likes": 6,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 84
+      "views": 430
     },
     {
       "id": "2110663221522952416",
@@ -552,12 +588,12 @@
           }
         ]
       },
-      "likes": 4,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 155
+      "views": 307
     },
     {
       "id": "2110646766240760043",
@@ -569,12 +605,12 @@
       "author_id": "1592826578786217984",
       "text": "俺って2024年12月19日と2026年1月29日に炎上したことあるんだけど\nどっちも炎上後30日間でYouTubeの登録者数が一度も純減してないの今考えるとおもろい\n実際にアナリティクスで確認\n2024年の炎上後は+2,596人\n2026年の炎上後も+361人\n炎上の規模自体がかなり小さくて\nほぼ界隈内で完結してたんだろうな",
       "media": [],
-      "likes": 6,
+      "likes": 8,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 435
+      "views": 453
     },
     {
       "id": "2110638148846076204",
@@ -586,12 +622,12 @@
       "author_id": "1592826578786217984",
       "text": "HoI4プレイヤーの皆さんに質問です\nこれまで発売されたDLCの中で一番好きなのはどれですか？\n国家方針ツリー、追加されたシステム、歴史改変ルートなど評価するポイントは何でも構いません\nDLCの名前とそのDLCを選んだ理由をリプライで教えてください\nどのDLCが最も人気なのか気になります",
       "media": [],
-      "likes": 9,
+      "likes": 10,
       "retweets": 0,
       "replies": 5,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 593
+      "bookmarks": 2,
+      "views": 767
     },
     {
       "id": "2110576256534339812",
@@ -608,7 +644,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 395
+      "views": 400
     },
     {
       "id": "2110561596582043878",
@@ -620,12 +656,12 @@
       "author_id": "1592826578786217984",
       "text": "ポーランドボール投稿者をhoi4の国名に入れる案を考えたが、途中で飽きたのでやめた\nドイツ→みかんボール\nイタリア→田中mid\n日本→ボウコムボール\nソ連→さとボール\nアメリカ→フヒフム\nイギリス→日本ボール\nフランス→Yukkuri ball\nハンガリー→ゆずボール\nスウェーデン→ぽるー\n辺りまで考えた",
       "media": [],
-      "likes": 15,
+      "likes": 16,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1027
+      "views": 1051
     },
     {
       "id": "2110549274811605423",
@@ -637,12 +673,12 @@
       "author_id": "1592826578786217984",
       "text": "普通の単語なのに不穏に聞こえる単語サッカー代表\nGK特別軍事作戦\nDF自衛\nDF再教育\nDF同志\nDF革命\nMF浄化\nMF尊師\nMF粛清\nFW聖戦\nFW総統\nFW解放\n監督：最終的解決\nキャプテン：総統\nチーム名：平和維持軍\nチームスローガン：「すべては平和のために」",
       "media": [],
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 461
+      "views": 467
     },
     {
       "id": "2110535515539939803",
@@ -694,12 +730,12 @@
           }
         }
       },
-      "likes": 85,
+      "likes": 87,
       "retweets": 10,
       "replies": 3,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 4041
+      "views": 4184
     },
     {
       "id": "2110534044647850040",
@@ -751,12 +787,12 @@
           }
         }
       },
-      "likes": 49,
+      "likes": 54,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 11,
-      "views": 5451
+      "bookmarks": 13,
+      "views": 6177
     },
     {
       "id": "2110530879009464362",
@@ -792,7 +828,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 865
+      "views": 878
     },
     {
       "id": "2110386965933908352",
@@ -811,7 +847,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 718,
+      "views": 724,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -843,7 +879,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 300,
+      "views": 301,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -878,8 +914,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 1071,
+      "bookmarks": 6,
+      "views": 1082,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -908,12 +944,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 213,
+      "likes": 215,
       "retweets": 9,
       "replies": 6,
-      "quotes": 1,
+      "quotes": 0,
       "bookmarks": 29,
-      "views": 22491,
+      "views": 22765,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -973,7 +1009,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1903,
+      "views": 1905,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1015,7 +1051,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2716,
+      "views": 2718,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1057,7 +1093,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 939,
+      "views": 940,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1093,7 +1129,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4313,
+      "views": 4314,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1146,7 +1182,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6003,
+      "views": 6009,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1197,7 +1233,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3564,
+      "views": 3572,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1248,7 +1284,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 537,
+      "views": 539,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1280,7 +1316,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1490,
+      "views": 1491,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1322,7 +1358,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 604,
+      "views": 605,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1377,7 +1413,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2514,
+      "views": 2516,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1409,7 +1445,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1141,
+      "views": 1142,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1472,7 +1508,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2155
+      "views": 2156
     },
     {
       "article": null,
@@ -1522,7 +1558,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 2180
+      "views": 2181
     },
     {
       "article": null,
@@ -1624,7 +1660,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3298
+      "views": 3304
     },
     {
       "article": null,
@@ -1697,7 +1733,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 458
+      "views": 462
     },
     {
       "article": null,
@@ -1739,7 +1775,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1746
+      "views": 1752
     },
     {
       "article": null,
@@ -10367,7 +10403,7 @@
       "text": "第一次世界大戦敗北………",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701223570821771599",
-      "views": 314
+      "views": 315
     },
     {
       "article": null,
@@ -11442,5 +11478,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T09:57:54.388044+00:00"
+  "last_metric_refresh_at": "2026-10-15T10:34:26.943011+00:00"
 }
