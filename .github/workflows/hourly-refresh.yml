@@ -1,6 +1,9 @@
 name: Hourly X analytics refresh
 
 on:
+  push:
+    paths:
+      - '.github/workflows/hourly-refresh.yml'
   schedule:
     - cron: '17 * * * *'
   workflow_dispatch:
