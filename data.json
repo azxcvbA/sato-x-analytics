@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 281,
+  "count": 282,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 134
+      "views": 136
     },
     {
       "id": "2110285328322015621",
@@ -488,6 +488,63 @@
       "views": 182
     },
     {
+      "id": "2110717307630854507",
+      "url": "https://x.com/sattoa_ball/status/2110717307630854507",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 12:59:56 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "集中工業と分散工業を大幅リワーク！\n集中工業は生産出力を大幅強化する代わりに生産効率の成長が鈍化\n分散工業は生産出力を抑えつつ初期生産効率と工場修理速度を強化\n単純な上位互換ではなく国家の戦略によって最適解が変わる設計にしました\nあなたならどちらを選ぶ？",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110717268200161280",
+            "url": "https://pbs.twimg.com/media/HUrGLCBagAAEgSn.png?name=orig",
+            "width": 464,
+            "height": 370
+          },
+          {
+            "type": "photo",
+            "id": "2110717294506921985",
+            "url": "https://pbs.twimg.com/media/HUrGMkBb0AEIr5Q.png?name=orig",
+            "width": 468,
+            "height": 423
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110717268200161280",
+            "url": "https://pbs.twimg.com/media/HUrGLCBagAAEgSn.png?name=orig",
+            "width": 464,
+            "height": 370
+          },
+          {
+            "type": "photo",
+            "id": "2110717294506921985",
+            "url": "https://pbs.twimg.com/media/HUrGMkBb0AEIr5Q.png?name=orig",
+            "width": 468,
+            "height": 423
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110717307630854507/HUrGLCBagAAEgSn/HUrGMkBb0AEIr5Q",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110717307630854507/HUrGLCBagAAEgSn/HUrGMkBb0AEIr5Q"
+          }
+        }
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 108
+    },
+    {
       "id": "2110708839695949870",
       "url": "https://x.com/sattoa_ball/status/2110708839695949870",
       "type": "tweet",
@@ -497,12 +554,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 2,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 63
+      "views": 265
     },
     {
       "id": "2110688633024139752",
@@ -519,7 +576,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 102
+      "views": 143
     },
     {
       "id": "2110678432430555148",
@@ -550,12 +607,12 @@
           }
         ]
       },
-      "likes": 19,
+      "likes": 22,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 559
+      "views": 721
     },
     {
       "id": "2110665472505172348",
@@ -586,12 +643,12 @@
           }
         ]
       },
-      "likes": 17,
+      "likes": 19,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 984
+      "bookmarks": 3,
+      "views": 1262
     },
     {
       "id": "2110663221522952416",
@@ -622,12 +679,12 @@
           }
         ]
       },
-      "likes": 14,
+      "likes": 16,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 417
+      "views": 439
     },
     {
       "id": "2110646766240760043",
@@ -644,7 +701,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 518
+      "views": 536
     },
     {
       "id": "2110638148846076204",
@@ -661,7 +718,7 @@
       "replies": 7,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1180
+      "views": 1255
     },
     {
       "id": "2110576256534339812",
@@ -678,7 +735,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 429
+      "views": 442
     },
     {
       "id": "2110561596582043878",
@@ -690,12 +747,12 @@
       "author_id": "1592826578786217984",
       "text": "ポーランドボール投稿者をhoi4の国名に入れる案を考えたが、途中で飽きたのでやめた\nドイツ→みかんボール\nイタリア→田中mid\n日本→ボウコムボール\nソ連→さとボール\nアメリカ→フヒフム\nイギリス→日本ボール\nフランス→Yukkuri ball\nハンガリー→ゆずボール\nスウェーデン→ぽるー\n辺りまで考えた",
       "media": [],
-      "likes": 17,
+      "likes": 18,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1173
+      "views": 1199
     },
     {
       "id": "2110549274811605423",
@@ -712,7 +769,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 490
+      "views": 499
     },
     {
       "id": "2110535515539939803",
@@ -768,8 +825,8 @@
       "retweets": 10,
       "replies": 3,
       "quotes": 3,
-      "bookmarks": 10,
-      "views": 4933
+      "bookmarks": 11,
+      "views": 5146
     },
     {
       "id": "2110534044647850040",
@@ -821,12 +878,12 @@
           }
         }
       },
-      "likes": 61,
-      "retweets": 2,
+      "likes": 66,
+      "retweets": 3,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 14,
-      "views": 8937
+      "views": 9865
     },
     {
       "id": "2110530879009464362",
@@ -857,12 +914,12 @@
           }
         ]
       },
-      "likes": 32,
+      "likes": 33,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 962
+      "views": 996
     },
     {
       "id": "2110386965933908352",
@@ -876,12 +933,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "2026年1月頃\nZetaにて煽ってくるメスガキキャラに対して、ひたすら論理的に詰める変な遊び方してた\n「ざぁこ♡」とか言われたら「雑魚だと判断した具体的な根拠は？」みたいに返してた記憶がある\n当時の会話履歴が手元にないから細かいやり取りは覚えていないけど、今考えると変な遊び方してたな",
       "lang": "ja",
-      "likes": 11,
+      "likes": 12,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 765,
+      "views": 783,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -913,7 +970,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 312,
+      "views": 315,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -949,7 +1006,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1142,
+      "views": 1156,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -978,12 +1035,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 218,
-      "retweets": 9,
-      "replies": 6,
+      "likes": 219,
+      "retweets": 10,
+      "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23010,
+      "views": 23067,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1043,7 +1100,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1920,
+      "views": 1928,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -11512,5 +11569,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T12:46:43.768245+00:00"
+  "last_metric_refresh_at": "2026-10-15T13:26:44.777677+00:00"
 }
