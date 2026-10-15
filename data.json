@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 141
+      "views": 142
     },
     {
       "id": "2110285328322015621",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 295
+      "views": 296
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 228
+      "views": 229
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 253
+      "views": 254
     },
     {
       "id": "2110192096607076516",
@@ -321,7 +321,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 276
+      "views": 277
     },
     {
       "id": "2110191800548008237",
@@ -378,7 +378,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 270
+      "views": 271
     },
     {
       "id": "2110191668049977486",
@@ -449,7 +449,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 278
+      "views": 279
     },
     {
       "id": "2109990179566133498",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 274
+      "views": 278
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 525
+      "views": 532
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 8,
+      "likes": 10,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 683
+      "views": 716
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 13,
+      "likes": 14,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 891
+      "views": 902
     },
     {
       "id": "2110688633024139752",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1360
+      "views": 1373
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2699
+      "views": 2726
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 527
+      "views": 528
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 640
+      "views": 643
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1551
+      "views": 1556
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 489
+      "views": 491
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1443
+      "views": 1448
     },
     {
       "id": "2110549274811605423",
@@ -914,7 +914,7 @@
       "replies": 4,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6099
+      "views": 6124
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 112,
+      "likes": 113,
       "retweets": 5,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 26,
-      "views": 28152
+      "bookmarks": 29,
+      "views": 29925
     },
     {
       "id": "2110530879009464362",
@@ -1002,12 +1002,12 @@
           }
         ]
       },
-      "likes": 39,
+      "likes": 40,
       "retweets": 2,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 1191
+      "bookmarks": 5,
+      "views": 1203
     },
     {
       "id": "2110386965933908352",
@@ -1026,7 +1026,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 828,
+      "views": 829,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1058,7 +1058,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 328,
+      "views": 330,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1089,12 +1089,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "【HoI4 国家別データベース公開】\n1936年開始時点の各国の工場数・資源量を比較できるWebサイトを作成しました。\n全90国家を掲載し、国家名検索・項目別ランキング・数値の並べ替えに対応しています。\n※現在は暫定集計版のため、数値は今後修正する可能性があります。\nhttps://azxcvba.github.io/hoi4-1936-data/",
       "lang": "ja",
-      "likes": 18,
+      "likes": 19,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1183,
+      "views": 1186,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1128,7 +1128,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23162,
+      "views": 23167,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1188,7 +1188,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1946,
+      "views": 1948,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1230,7 +1230,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2764,
+      "views": 2765,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1412,7 +1412,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3631,
+      "views": 3633,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1537,7 +1537,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 626,
+      "views": 627,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1592,7 +1592,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2546,
+      "views": 2551,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1624,7 +1624,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1159,
+      "views": 1160,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -11657,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T23:03:27.338430+00:00"
+  "last_metric_refresh_at": "2026-10-15T23:27:38.483767+00:00"
 }
