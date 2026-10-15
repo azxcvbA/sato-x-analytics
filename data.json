@@ -21,8 +21,472 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 259,
+  "count": 268,
   "tweets": [
+    {
+      "id": "2110379127421497774",
+      "url": "https://x.com/sattoa_ball/status/2110379127421497774",
+      "type": "reply",
+      "created_at": "Wed Oct 14 14:36:07 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "撤回　アプデ履歴機能を追加したため",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110379096245190656",
+            "url": "https://pbs.twimg.com/media/HUmSm1UawAA7FIa.png?name=orig",
+            "width": 788,
+            "height": 180
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110379096245190656",
+            "url": "https://pbs.twimg.com/media/HUmSm1UawAA7FIa.png?name=orig",
+            "width": 788,
+            "height": 180
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 71
+    },
+    {
+      "id": "2110285328322015621",
+      "url": "https://x.com/sattoa_ball/status/2110285328322015621",
+      "type": "reply",
+      "created_at": "Wed Oct 14 08:23:24 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "AIに考えさせた全く意味のない文字化けを送ったが\nまさか「譁�縺ｿ螟ｧ鬱ΞΔ縺�〆ﾂｧЖ∴ X…」で炎上する時代が来るとは\nがあるんで、文字列をそのまま定型文に差し込んでいるっぽい\n投稿の意味を理解して批判内容を考えているようには見えない",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110285103503114240",
+            "url": "https://pbs.twimg.com/media/HUk9HvEaAAABzQA.png?name=orig",
+            "width": 669,
+            "height": 745
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110285103503114240",
+            "url": "https://pbs.twimg.com/media/HUk9HvEaAAABzQA.png?name=orig",
+            "width": 669,
+            "height": 745
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 607
+    },
+    {
+      "id": "2110193016514499054",
+      "url": "https://x.com/sattoa_ball/status/2110193016514499054",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:16:35 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "総動員　第一次世界大戦のロシア帝国やドイツ帝国がモデル\n軍需生産への極端な集中\n民間経済の犠牲\n損害からの復旧能力の低下\n長期戦による社会への負担\n戦争遂行への国家総動員\n軍需生産能力は非常に高いのに国家の持続可能性は低下するという設計だ",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110192640897830912",
+            "url": "https://pbs.twimg.com/media/HUjpBtBb0AAtvZ_.png?name=orig",
+            "width": 309,
+            "height": 424
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110192640897830912",
+            "url": "https://pbs.twimg.com/media/HUjpBtBb0AAtvZ_.png?name=orig",
+            "width": 309,
+            "height": 424
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 261
+    },
+    {
+      "id": "2110192549000560755",
+      "url": "https://x.com/sattoa_ball/status/2110192549000560755",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:14:43 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "早期動員・部分動員・戦争経済\n安定度にデバフあり\nだが動員速度は上がる",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110192403563032576",
+            "url": "https://pbs.twimg.com/media/HUjoz44aMAA2Xlc.png?name=orig",
+            "width": 294,
+            "height": 228
+          },
+          {
+            "type": "photo",
+            "id": "2110192426828824576",
+            "url": "https://pbs.twimg.com/media/HUjo1PjaAAAzQ98.png?name=orig",
+            "width": 315,
+            "height": 158
+          },
+          {
+            "type": "photo",
+            "id": "2110192447745904640",
+            "url": "https://pbs.twimg.com/media/HUjo2debUAANP9K.png?name=orig",
+            "width": 304,
+            "height": 356
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110192403563032576",
+            "url": "https://pbs.twimg.com/media/HUjoz44aMAA2Xlc.png?name=orig",
+            "width": 294,
+            "height": 228
+          },
+          {
+            "type": "photo",
+            "id": "2110192426828824576",
+            "url": "https://pbs.twimg.com/media/HUjo1PjaAAAzQ98.png?name=orig",
+            "width": 315,
+            "height": 158
+          },
+          {
+            "type": "photo",
+            "id": "2110192447745904640",
+            "url": "https://pbs.twimg.com/media/HUjo2debUAANP9K.png?name=orig",
+            "width": 304,
+            "height": 356
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110192549000560755/HUjoz44aMAA2Xlc/HUjo1PjaAAAzQ98/HUjo2debUAANP9K",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110192549000560755/HUjoz44aMAA2Xlc/HUjo1PjaAAAzQ98/HUjo2debUAANP9K"
+          }
+        }
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 206
+    },
+    {
+      "id": "2110192370994290896",
+      "url": "https://x.com/sattoa_ball/status/2110192370994290896",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:14:01 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "民間経済\nバニラだとデバフ多すぎて民間経済のメリットが無いので民需工場系、インフラ建築速度にバフ\nしかし動員速度はかなり落ちる",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110192185018925056",
+            "url": "https://pbs.twimg.com/media/HUjonKvbwAAjaZK.png?name=orig",
+            "width": 292,
+            "height": 239
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110192185018925056",
+            "url": "https://pbs.twimg.com/media/HUjonKvbwAAjaZK.png?name=orig",
+            "width": 292,
+            "height": 239
+          }
+        ]
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 229
+    },
+    {
+      "id": "2110192096607076516",
+      "url": "https://x.com/sattoa_ball/status/2110192096607076516",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:12:55 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "貿易法\n活発貿易であるほど、外国から民生品を輸入できるので消費財工場が減る　閉鎖的なほど外国から民生品を手に入れにくく消費財工場上昇　という意図",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110191881896468480",
+            "url": "https://pbs.twimg.com/media/HUjoVhhaIAAkRuQ.png?name=orig",
+            "width": 310,
+            "height": 343
+          },
+          {
+            "type": "photo",
+            "id": "2110191903434244096",
+            "url": "https://pbs.twimg.com/media/HUjoWxwagAAmj7P.png?name=orig",
+            "width": 317,
+            "height": 326
+          },
+          {
+            "type": "photo",
+            "id": "2110191925106270208",
+            "url": "https://pbs.twimg.com/media/HUjoYCfbYAAQ9E9.png?name=orig",
+            "width": 309,
+            "height": 300
+          },
+          {
+            "type": "photo",
+            "id": "2110191946161623040",
+            "url": "https://pbs.twimg.com/media/HUjoZQ7akAAjurO.png?name=orig",
+            "width": 314,
+            "height": 469
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110191881896468480",
+            "url": "https://pbs.twimg.com/media/HUjoVhhaIAAkRuQ.png?name=orig",
+            "width": 310,
+            "height": 343
+          },
+          {
+            "type": "photo",
+            "id": "2110191903434244096",
+            "url": "https://pbs.twimg.com/media/HUjoWxwagAAmj7P.png?name=orig",
+            "width": 317,
+            "height": 326
+          },
+          {
+            "type": "photo",
+            "id": "2110191925106270208",
+            "url": "https://pbs.twimg.com/media/HUjoYCfbYAAQ9E9.png?name=orig",
+            "width": 309,
+            "height": 300
+          },
+          {
+            "type": "photo",
+            "id": "2110191946161623040",
+            "url": "https://pbs.twimg.com/media/HUjoZQ7akAAjurO.png?name=orig",
+            "width": 314,
+            "height": 469
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110192096607076516/HUjoVhhaIAAkRuQ/HUjoWxwagAAmj7P/HUjoYCfbYAAQ9E9/HUjoZQ7akAAjurO",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110192096607076516/HUjoVhhaIAAkRuQ/HUjoWxwagAAmj7P/HUjoYCfbYAAQ9E9/HUjoZQ7akAAjurO"
+          }
+        }
+      },
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 254
+    },
+    {
+      "id": "2110191800548008237",
+      "url": "https://x.com/sattoa_ball/status/2110191800548008237",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:11:45 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "全成人、根こそぎ",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110191705593159680",
+            "url": "https://pbs.twimg.com/media/HUjoLQvbIAAKXJG.png?name=orig",
+            "width": 295,
+            "height": 313
+          },
+          {
+            "type": "photo",
+            "id": "2110191732277268480",
+            "url": "https://pbs.twimg.com/media/HUjoM0JaUAAqdz9.png?name=orig",
+            "width": 294,
+            "height": 316
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110191705593159680",
+            "url": "https://pbs.twimg.com/media/HUjoLQvbIAAKXJG.png?name=orig",
+            "width": 295,
+            "height": 313
+          },
+          {
+            "type": "photo",
+            "id": "2110191732277268480",
+            "url": "https://pbs.twimg.com/media/HUjoM0JaUAAqdz9.png?name=orig",
+            "width": 294,
+            "height": 316
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110191800548008237/HUjoLQvbIAAKXJG/HUjoM0JaUAAqdz9",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110191800548008237/HUjoLQvbIAAKXJG/HUjoM0JaUAAqdz9"
+          }
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 247
+    },
+    {
+      "id": "2110191668049977486",
+      "url": "https://x.com/sattoa_ball/status/2110191668049977486",
+      "type": "reply",
+      "created_at": "Wed Oct 14 02:11:13 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "限定的徴兵～無際限徴兵\n安定度、戦争協力度、動員速度に影響あり",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110191516610355200",
+            "url": "https://pbs.twimg.com/media/HUjoAQuaYAAW6Pp.png?name=orig",
+            "width": 305,
+            "height": 116
+          },
+          {
+            "type": "photo",
+            "id": "2110191542401146880",
+            "url": "https://pbs.twimg.com/media/HUjoBwzaoAA_0xe.png?name=orig",
+            "width": 318,
+            "height": 312
+          },
+          {
+            "type": "photo",
+            "id": "2110191561082605568",
+            "url": "https://pbs.twimg.com/media/HUjoC2ZbEAAcxpC.png?name=orig",
+            "width": 312,
+            "height": 375
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110191516610355200",
+            "url": "https://pbs.twimg.com/media/HUjoAQuaYAAW6Pp.png?name=orig",
+            "width": 305,
+            "height": 116
+          },
+          {
+            "type": "photo",
+            "id": "2110191542401146880",
+            "url": "https://pbs.twimg.com/media/HUjoBwzaoAA_0xe.png?name=orig",
+            "width": 318,
+            "height": 312
+          },
+          {
+            "type": "photo",
+            "id": "2110191561082605568",
+            "url": "https://pbs.twimg.com/media/HUjoC2ZbEAAcxpC.png?name=orig",
+            "width": 312,
+            "height": 375
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110191668049977486/HUjoAQuaYAAW6Pp/HUjoBwzaoAA_0xe/HUjoC2ZbEAAcxpC",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110191668049977486/HUjoAQuaYAAW6Pp/HUjoBwzaoAA_0xe/HUjoC2ZbEAAcxpC"
+          }
+        }
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 254
+    },
+    {
+      "id": "2109990179566133498",
+      "url": "https://x.com/sattoa_ball/status/2109990179566133498",
+      "type": "reply",
+      "created_at": "Tue Oct 13 12:50:35 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "効果（2/2）",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2109990156673691648",
+            "url": "https://pbs.twimg.com/media/HUgw3kgbMAA0xlm.png?name=orig",
+            "width": 304,
+            "height": 317
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2109990156673691648",
+            "url": "https://pbs.twimg.com/media/HUgw3kgbMAA0xlm.png?name=orig",
+            "width": 304,
+            "height": 317
+          }
+        ]
+      },
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 169
+    },
     {
       "id": "2110386965933908352",
       "url": "https://x.com/sattoa_ball/status/2110386965933908352",
@@ -35,12 +499,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "2026年1月頃\nZetaにて煽ってくるメスガキキャラに対して、ひたすら論理的に詰める変な遊び方してた\n「ざぁこ♡」とか言われたら「雑魚だと判断した具体的な根拠は？」みたいに返してた記憶がある\n当時の会話履歴が手元にないから細かいやり取りは覚えていないけど、今考えると変な遊び方してたな",
       "lang": "ja",
-      "likes": 0,
+      "likes": 7,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 45,
+      "bookmarks": 1,
+      "views": 490,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -67,12 +531,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "アプデするたびにここに羅列する",
       "lang": "ja",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 60,
+      "views": 148,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -103,12 +567,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "【HoI4 国家別データベース公開】\n1936年開始時点の各国の工場数・資源量を比較できるWebサイトを作成しました。\n全90国家を掲載し、国家名検索・項目別ランキング・数値の並べ替えに対応しています。\n※現在は暫定集計版のため、数値は今後修正する可能性があります。\nhttps://azxcvba.github.io/hoi4-1936-data/",
       "lang": "ja",
-      "likes": 6,
+      "likes": 12,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 302,
+      "bookmarks": 4,
+      "views": 673,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -137,12 +601,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 80,
-      "retweets": 2,
-      "replies": 2,
+      "likes": 134,
+      "retweets": 6,
+      "replies": 4,
       "quotes": 0,
-      "bookmarks": 10,
-      "views": 8929,
+      "bookmarks": 17,
+      "views": 14578,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -197,12 +661,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "これこそ「連合国」じゃなくて「コモンウェルス」だろ\nイギリスを中心にカナダ・オーストラリア・南アフリカなどの英連邦諸国が集まっている\nアメリカもフランスもいないこの陣営を「連合国」と呼ぶより\n「コモンウェルス」の方が構成国の実態に合っていると思う",
       "lang": "ja",
-      "likes": 18,
+      "likes": 23,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1153,
+      "views": 1340,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -239,12 +703,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "「オランダ領東インド」を「ネーデルラント領インド」に変更\n当時の正式なオランダ語名称は「Nederlands-Indië」\n英語由来の「Dutch East Indies」ではなく\n現地宗主国の呼称に合わせ、史実との整合性を重視した変更です",
       "lang": "ja",
-      "likes": 40,
+      "likes": 54,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 1952,
+      "bookmarks": 5,
+      "views": 2304,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -286,7 +750,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 736,
+      "views": 845,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -317,12 +781,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "https://piko2game.com/enjou/\n遊んでみたがプロンプトインジェクション失敗",
       "lang": "ja",
-      "likes": 19,
+      "likes": 20,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 3585,
+      "bookmarks": 5,
+      "views": 4118,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -370,12 +834,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "←ビフォー　アフター→\nロシア帝国「ようやく帝政復古した実感が湧いてきたな」\nHoI4バニラと、さとMODでのロシア帝国傀儡国名の比較",
       "lang": "ja",
-      "likes": 73,
+      "likes": 94,
       "retweets": 3,
       "replies": 2,
       "quotes": 1,
-      "bookmarks": 10,
-      "views": 4087,
+      "bookmarks": 17,
+      "views": 5043,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -421,12 +885,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "←ビフォー　アフター→\nスペイン帝国「ようやく植民地帝国らしくなったな」\nHoI4バニラと、さとMODでのスペイン帝国傀儡国名の比較",
       "lang": "ja",
-      "likes": 59,
+      "likes": 63,
       "retweets": 2,
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 2787,
+      "views": 3037,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -472,12 +936,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "日にちって単語、「日（ひ）」と「日（にち）」で意味重複しててきしょい",
       "lang": "ja",
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 448,
+      "views": 470,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -504,12 +968,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "さとmod陣営アプデ\nイギリス無きイギリス連邦は違和感あるので\n「自治領共同体」にしました",
       "lang": "ja",
-      "likes": 24,
+      "likes": 27,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1235,
+      "views": 1352,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -546,12 +1010,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "武装解除国家　志願兵のみは効果変更なし　ツールチップ文のみ追加",
       "lang": "ja",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 482,
+      "views": 527,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -601,12 +1065,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "HoI4の経済法・徴兵法・貿易法を改修するMODを自作\n目的：上位の法律ほど強いという構造の見直し\n経済法は軍需優先による民需への影響\n徴兵法は兵力確保と国内経済の両立\n貿易法は資源確保と国際貿易の恩恵を重視\n各法律に強み弱みを持たせ、状況に応じて選択する\n\n興味ある人はリプライ見てくれ！",
       "lang": "ja",
-      "likes": 40,
+      "likes": 48,
       "retweets": 5,
-      "replies": 7,
+      "replies": 8,
       "quotes": 0,
-      "bookmarks": 6,
-      "views": 2079,
+      "bookmarks": 10,
+      "views": 2398,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -633,12 +1097,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "スイス、世界で最も四面楚歌な国説\n1940年、中立国スイスは領空侵犯したドイツ軍機11機を撃墜し、ドイツから報復を警告される事態に\n1943年、今度は連合国の米英軍機も領空に侵入し、スイス軍に撃墜された\n枢軸国にも連合国にも容赦しない\n第二次世界大戦で中立を貫くために、両陣営を攻撃していた",
       "lang": "ja",
-      "likes": 26,
+      "likes": 30,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1003,
+      "views": 1067,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -668,7 +1132,7 @@
       "id": "2110181257426649209",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 13,
+      "likes": 14,
       "links": [],
       "media": [],
       "mentions": [],
@@ -701,7 +1165,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2005
+      "views": 2072
     },
     {
       "article": null,
@@ -709,7 +1173,7 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "author_id": "1592826578786217984",
       "author_name": "さとボール",
-      "bookmarks": 1,
+      "bookmarks": 2,
       "card": null,
       "conversation_id": "2110176999511888153",
       "created_at": "2026-10-14T01:12:56.000Z",
@@ -718,7 +1182,7 @@
       "id": "2110176999511888153",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 24,
+      "likes": 32,
       "links": [],
       "media": [],
       "mentions": [],
@@ -751,7 +1215,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 1786
+      "views": 2102
     },
     {
       "article": null,
@@ -828,7 +1292,7 @@
       "id": "2110009295219957882",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 94,
+      "likes": 96,
       "links": [],
       "media": [
         {
@@ -853,7 +1317,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3183
+      "views": 3228
     },
     {
       "article": null,
@@ -874,7 +1338,7 @@
         "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員"
       },
       "lang": "ja",
-      "likes": 5,
+      "likes": 6,
       "links": [],
       "media": [
         {
@@ -926,7 +1390,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 405
+      "views": 415
     },
     {
       "article": null,
@@ -943,7 +1407,7 @@
       "id": "2109989605307249135",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 28,
+      "likes": 29,
       "links": [],
       "media": [
         {
@@ -968,7 +1432,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1675
+      "views": 1690
     },
     {
       "article": null,
@@ -985,7 +1449,7 @@
       "id": "2109973234087264731",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 115,
+      "likes": 117,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1000,7 +1464,7 @@
       "text": "HoI4で俺みたいな遊び方してる人っているんですかね？\n\n陸軍しか操作しない（海空軍は触れない）\n空軍はすべて解体して国際市場に売り出す\n師団はすべて民兵\n講和会議ではAIに一切介入させず、AI国家の分まで自分で領土分配する（非合理的な国境を防ぐため）\n特別研究施設は自国・敵国問わずすべて解体",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109973234087264731",
-      "views": 12485
+      "views": 12530
     },
     {
       "article": null,
@@ -1017,7 +1481,7 @@
       "id": "2109937027903102990",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 22,
+      "likes": 23,
       "links": [],
       "media": [
         {
@@ -1042,7 +1506,7 @@
       "text": "以前制作したHoI4の国名変更MODから日本の傀儡国のスクショを紹介\n史実の名称や統治形態に合わせて調整しています\nなお、スクショに登場する「冀東防共自治政府」は、KSRE MODで追加された国家です。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109937027903102990",
-      "views": 1072
+      "views": 1088
     },
     {
       "article": null,
@@ -1078,7 +1542,7 @@
       "text": "誤字：だったろ\n正字：だったり",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109931685366415680",
-      "views": 4969
+      "views": 5043
     },
     {
       "article": null,
@@ -1086,7 +1550,7 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "author_id": "1592826578786217984",
       "author_name": "さとボール",
-      "bookmarks": 48,
+      "bookmarks": 50,
       "card": null,
       "conversation_id": "2109931489169387870",
       "created_at": "2026-10-13T08:57:22.000Z",
@@ -1095,7 +1559,7 @@
       "id": "2109931489169387870",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 209,
+      "likes": 212,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1110,7 +1574,7 @@
       "text": "HoI4で「この国名は明らかにおかしいだろ」と思ったことはありますか？\n国名の誤訳だったろ史実・政治体制に合っていない国名など、不自然だと思うものがあればリプで教えてください\n確認し、明らかにおかしいものはMODで修正します",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109931489169387870",
-      "views": 44548
+      "views": 45453
     },
     {
       "article": null,
@@ -1127,7 +1591,7 @@
       "id": "2109847188096553453",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 15,
+      "likes": 16,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1160,7 +1624,7 @@
       "text": "エチオピアとエリトリアの双方に「相手が侵略者であり、自国は防衛している」って理屈が成立してるのが恐ろしい\nティグライ州への軍事侵入に対する自衛権の問題と、エチオピアが紅海へのアクセスを求める問題は別々に扱うべきもの\n今のところ、正式な宣戦布告は未確認なんで真に受け取らないように",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2109847188096553453",
-      "views": 1001
+      "views": 1014
     },
     {
       "article": null,
@@ -1177,7 +1641,7 @@
       "id": "2109816749495644412",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 6,
+      "likes": 7,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1192,7 +1656,7 @@
       "text": "フランス革命で国王が処刑された理由を考えると、絶対王政という制度には重大な欠陥があったことがわかる\n国王が絶対的な権力を持っているはずなのに、国民がその国王を処刑できてしまったのである\n\n絶対という言葉の信頼性が揺らぐ事件だ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109816749495644412",
-      "views": 284
+      "views": 293
     },
     {
       "article": null,
@@ -1209,7 +1673,7 @@
       "id": "2109810737808068894",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 10,
+      "likes": 11,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1224,7 +1688,7 @@
       "text": "愚痴目的ではないうえ、一般化する意図も全くないけど、女子同士の人間関係って複雑だなと思うことがある\n互いに褒め合っていても裏では心理戦が行われていたり\nどちらかの主張に賛同しただけでもう一方から敵視されたり\n主張への賛同が人間関係上の味方/敵の判断に結びつくのはなかなか複雑だと思う",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109810737808068894",
-      "views": 337
+      "views": 346
     },
     {
       "article": null,
@@ -1241,7 +1705,7 @@
       "id": "2109634232855437465",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 75,
+      "likes": 76,
       "links": [],
       "media": [
         {
@@ -1266,7 +1730,7 @@
       "text": "「皇道派ルートの日本の国名が『幕政日本』になるのはおかしい！」という人へ\n皇道派が掲げたのは昭和維新による天皇親政で、政は幕府による政治を指す言葉\n天皇を中心とした国家改造を目指す勢力なのに、なぜ幕府政治を意味する国名になるのか？\n…というわけで、MODで「大日本皇国」に変更しました。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109634232855437465",
-      "views": 2625
+      "views": 2638
     },
     {
       "article": null,
@@ -1298,7 +1762,7 @@
       "text": "想像のマジノ線：国境に巨大な壁がある\n🇫🇷🧱🧱🧱🧱🧱🇩🇪\n実際のマジノ線：地下に鉄道、兵舎、発電所、弾薬庫、砲台まで備えた要塞が埋まっている\n🇫🇷💣🏰💣🇩🇪\n🚇🛏️⚡🔗\n地下都市かな？\n第二次世界大戦、ドイツがマジノ線を迂回しようとしたのも納得できる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109542993439166967",
-      "views": 8996
+      "views": 9007
     },
     {
       "article": null,
@@ -1319,7 +1783,7 @@
         "text": "Grok使って遊んでみる"
       },
       "lang": "ja",
-      "likes": 2,
+      "likes": 3,
       "links": [],
       "media": [],
       "mentions": [
@@ -1336,7 +1800,7 @@
       "text": "@grok 民主主義国家で国民の過半数が自由かつ公正な国民投票によって独裁制への移行を支持した場合、その決定は民主的と言える？\n「決定の手続きが民主的か」と「決定後の政治体制が民主的か」を区別して論じてください",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109526308569116980",
-      "views": 299
+      "views": 308
     },
     {
       "article": null,
@@ -1353,7 +1817,7 @@
       "id": "2109525784662851758",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 4,
+      "likes": 5,
       "links": [],
       "media": [],
       "mentions": [],
@@ -1368,7 +1832,7 @@
       "text": "Grok使って遊んでみる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109525784662851758",
-      "views": 407
+      "views": 415
     },
     {
       "article": null,
@@ -2771,7 +3235,7 @@
       "text": "ポーランちゃん",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897864526579876191",
-      "views": 1990
+      "views": 1991
     },
     {
       "article": null,
@@ -2803,7 +3267,7 @@
       "text": "生きててよかった",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897608257507856834",
-      "views": 1590
+      "views": 1591
     },
     {
       "article": null,
@@ -2835,7 +3299,7 @@
       "text": "すこるある死んでて草",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897504091032707327",
-      "views": 1858
+      "views": 1859
     },
     {
       "article": null,
@@ -2904,7 +3368,7 @@
       "text": "グーグルアースでウクライナ戦線作るのにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897470148988297569",
-      "views": 1335
+      "views": 1336
     },
     {
       "article": null,
@@ -2936,7 +3400,7 @@
       "text": "ベッドウォーズたのちい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896184043584262439",
-      "views": 1195
+      "views": 1196
     },
     {
       "article": null,
@@ -2978,7 +3442,7 @@
       "text": "top25近い人多いね\nそれとtop25じゃなくてtop50の間違いね",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896005747831685177",
-      "views": 1377
+      "views": 1378
     },
     {
       "article": null,
@@ -3020,7 +3484,7 @@
       "text": "満タンになったら笑顔になりそうなやつ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895801041511473610",
-      "views": 1460
+      "views": 1461
     },
     {
       "article": null,
@@ -3062,7 +3526,7 @@
       "text": "",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895741096250183892",
-      "views": 1382
+      "views": 1383
     },
     {
       "article": null,
@@ -3094,7 +3558,7 @@
       "text": "2025年　6分の1終了",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895657297046880723",
-      "views": 1309
+      "views": 1310
     },
     {
       "article": null,
@@ -3126,7 +3590,7 @@
       "text": "2025年2月の登録者数増加量\nフヒフム +1800~+2000\nにこちゅう +1900\n作 +5100\nこるあ +1600\nスターボール +1910\nうずまき+1500\nデストロノミア +1800\n\nとにかく作さんの勢いがすごい\n月間再生数も急激に増加中で\n登録者数増加量の先月比が+2460%を超えてて\n月間再生数の先月比も1760%オーバー",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895477041790955913",
-      "views": 1789
+      "views": 1790
     },
     {
       "article": null,
@@ -3158,7 +3622,7 @@
       "text": "登録者数top50に入れようかどうか迷ってるチャンネルが３つくらいある\nポーランドボーラーの定義が明確にはっきりしてないので\nとりあえず入れないことにした",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895474836232946170",
-      "views": 1250
+      "views": 1251
     },
     {
       "article": null,
@@ -3200,7 +3664,7 @@
       "text": "さっきのがあまりにも雑すぎたので\n代わりに作ってもらった",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895054650975625573",
-      "views": 1852
+      "views": 1853
     },
     {
       "article": null,
@@ -10670,5 +11134,6 @@
       "url": "https://x.com/sattoa_ball/status/1593731604387860480",
       "views": null
     }
-  ]
+  ],
+  "last_metric_refresh_at": "2026-10-15T00:25:57.523879+00:00"
 }
