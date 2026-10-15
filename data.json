@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 278
+      "views": 284
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 532
+      "views": 546
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 716
+      "views": 786
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 902
+      "views": 938
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 215
+      "views": 219
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1373
+      "views": 1402
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2726
+      "views": 2761
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 528
+      "views": 532
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 643
+      "views": 647
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1556
+      "views": 1568
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 491
+      "views": 495
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1448
+      "views": 1455
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 530
+      "views": 533
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 4,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6124
+      "views": 6146
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 113,
-      "retweets": 5,
+      "likes": 116,
+      "retweets": 6,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 29,
-      "views": 29925
+      "views": 32278
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1203
+      "views": 1210
     },
     {
       "id": "2110386965933908352",
@@ -1026,7 +1026,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 829,
+      "views": 832,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1058,7 +1058,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 330,
+      "views": 332,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1094,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1186,
+      "views": 1188,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1128,7 +1128,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23167,
+      "views": 23173,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1188,7 +1188,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1948,
+      "views": 1951,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1230,7 +1230,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2765,
+      "views": 2768,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1272,7 +1272,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 965,
+      "views": 967,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1308,7 +1308,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4356,
+      "views": 4358,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1361,7 +1361,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6077,
+      "views": 6080,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1412,7 +1412,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3633,
+      "views": 3638,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1463,7 +1463,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 557,
+      "views": 559,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1495,7 +1495,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1515,
+      "views": 1517,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1537,7 +1537,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 627,
+      "views": 629,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1592,7 +1592,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2551,
+      "views": 2553,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1624,7 +1624,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1160,
+      "views": 1162,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1687,7 +1687,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2179
+      "views": 2181
     },
     {
       "article": null,
@@ -4680,7 +4680,7 @@
       "text": "TOP25はよく作るけど\n26位から50位までは初めて作った",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1891805504734634143",
-      "views": 1261
+      "views": 1263
     },
     {
       "article": null,
@@ -11657,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T23:27:38.483767+00:00"
+  "last_metric_refresh_at": "2026-10-15T23:54:54.577668+00:00"
 }
