@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 234
+      "views": 237
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 389
+      "views": 394
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 530
+      "views": 554
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 13,
+      "likes": 12,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 781
+      "bookmarks": 1,
+      "views": 803
     },
     {
       "id": "2110688633024139752",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1235
+      "views": 1246
     },
     {
       "id": "2110665472505172348",
@@ -735,8 +735,8 @@
       "retweets": 0,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 2374
+      "bookmarks": 4,
+      "views": 2408
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 508
+      "views": 511
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 624
+      "views": 625
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1508
+      "views": 1513
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 481
+      "views": 482
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1396
+      "views": 1406
     },
     {
       "id": "2110549274811605423",
@@ -909,12 +909,12 @@
           }
         }
       },
-      "likes": 109,
-      "retweets": 12,
+      "likes": 110,
+      "retweets": 13,
       "replies": 3,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 5841
+      "views": 5880
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 91,
+      "likes": 94,
       "retweets": 4,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 20,
-      "views": 18225
+      "bookmarks": 25,
+      "views": 19571
     },
     {
       "id": "2110530879009464362",
@@ -1004,10 +1004,10 @@
       },
       "likes": 38,
       "retweets": 2,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1139
+      "views": 1148
     },
     {
       "id": "2110386965933908352",
@@ -1094,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1180,
+      "views": 1181,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1128,7 +1128,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23152,
+      "views": 23155,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1230,7 +1230,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2757,
+      "views": 2758,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1361,7 +1361,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6070,
+      "views": 6071,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1412,7 +1412,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3628,
+      "views": 3629,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1592,7 +1592,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2544,
+      "views": 2545,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3284,7 +3284,7 @@
       "text": "日本かいた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1900859020224634885",
-      "views": 2694
+      "views": 2704
     },
     {
       "article": null,
@@ -3326,7 +3326,7 @@
       "text": "ドッスンになったさと",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899473332577370593",
-      "views": 2697
+      "views": 2707
     },
     {
       "article": null,
@@ -3358,7 +3358,7 @@
       "text": "スクラッチさんBANされたの悲しいなぁ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899414365776089348",
-      "views": 1709
+      "views": 1714
     },
     {
       "article": null,
@@ -3390,7 +3390,7 @@
       "text": "あつまれどうぶつの森にまたハマってる\nどうぶつの森はストレス要素少ないから\n一生プレイできてていいよね\n…もちろん疲れたらやめるけど",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899411271923204430",
-      "views": 1558
+      "views": 1564
     },
     {
       "article": null,
@@ -3432,7 +3432,7 @@
       "text": "ま　　た　　お　　前　　か",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899101923799888205",
-      "views": 1801
+      "views": 1809
     },
     {
       "article": null,
@@ -3474,7 +3474,7 @@
       "text": "やばいなこりゃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041285576794511",
-      "views": 1952
+      "views": 1960
     },
     {
       "article": null,
@@ -3506,7 +3506,7 @@
       "text": "ツイッター死んでた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041086133387346",
-      "views": 1404
+      "views": 1414
     },
     {
       "article": null,
@@ -3538,7 +3538,7 @@
       "text": "ベッドウォーズにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899015128378724841",
-      "views": 1411
+      "views": 1421
     },
     {
       "article": null,
@@ -3589,7 +3589,7 @@
       "text": "今日も更新",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898603621488681332",
-      "views": 1914
+      "views": 1918
     },
     {
       "article": null,
@@ -3631,7 +3631,7 @@
       "text": "もち",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898373186078797944",
-      "views": 1791
+      "views": 1794
     },
     {
       "article": null,
@@ -3673,7 +3673,7 @@
       "text": "top50の登録者数合計",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898245810522898642",
-      "views": 1490
+      "views": 1493
     },
     {
       "article": null,
@@ -3715,7 +3715,7 @@
       "text": "たいこちゅうAN",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898167971631317225",
-      "views": 2449
+      "views": 2454
     },
     {
       "article": null,
@@ -11657,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T19:51:56.743502+00:00"
+  "last_metric_refresh_at": "2026-10-15T20:46:49.670846+00:00"
 }
