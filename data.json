@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 273,
+  "count": 274,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 81
+      "views": 95
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 615
+      "views": 619
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 266
+      "views": 269
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 209
+      "views": 211
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 232
+      "views": 234
     },
     {
       "id": "2110192096607076516",
@@ -321,7 +321,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 257
+      "views": 259
     },
     {
       "id": "2110191800548008237",
@@ -378,7 +378,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 250
+      "views": 252
     },
     {
       "id": "2110191668049977486",
@@ -449,7 +449,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 258
+      "views": 260
     },
     {
       "id": "2109990179566133498",
@@ -485,7 +485,24 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 170
+      "views": 172
+    },
+    {
+      "id": "2110576256534339812",
+      "url": "https://x.com/sattoa_ball/status/2110576256534339812",
+      "type": "quote",
+      "created_at": "Thu Oct 15 03:39:26 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "英語版wikipediaの「プロバイド・コンフォート作戦」では\nイラク側の支援国にベラルーシが記載されているんだよね\n調べたところ、作戦期間中の1995年にも両国間の軍事関連取引を示す証言が存在するっぽい\nけどこの作戦を直接支援した証拠は見つからんかった",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 8
     },
     {
       "id": "2110561596582043878",
@@ -497,12 +514,12 @@
       "author_id": "1592826578786217984",
       "text": "ポーランドボール投稿者をhoi4の国名に入れる案を考えたが、途中で飽きたのでやめた\nドイツ→みかんボール\nイタリア→田中mid\n日本→ボウコムボール\nソ連→さとボール\nアメリカ→フヒフム\nイギリス→日本ボール\nフランス→Yukkuri ball\nハンガリー→ゆずボール\nスウェーデン→ぽるー\n辺りまで考えた",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 86
+      "views": 344
     },
     {
       "id": "2110549274811605423",
@@ -519,7 +536,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 209
+      "views": 271
     },
     {
       "id": "2110535515539939803",
@@ -571,12 +588,12 @@
           }
         }
       },
-      "likes": 26,
-      "retweets": 6,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 1,
-      "views": 894
+      "likes": 32,
+      "retweets": 7,
+      "replies": 1,
+      "quotes": 1,
+      "bookmarks": 2,
+      "views": 1235
     },
     {
       "id": "2110534044647850040",
@@ -628,12 +645,12 @@
           }
         }
       },
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 83
+      "views": 135
     },
     {
       "id": "2110530879009464362",
@@ -664,12 +681,12 @@
           }
         ]
       },
-      "likes": 12,
+      "likes": 15,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 523
+      "views": 578
     },
     {
       "id": "2110386965933908352",
@@ -688,7 +705,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 568,
+      "views": 585,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -720,7 +737,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 181,
+      "views": 204,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -756,7 +773,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 757,
+      "views": 795,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -785,12 +802,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 166,
+      "likes": 169,
       "retweets": 7,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 24,
-      "views": 18052,
+      "bookmarks": 25,
+      "views": 18758,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -845,12 +862,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "これこそ「連合国」じゃなくて「コモンウェルス」だろ\nイギリスを中心にカナダ・オーストラリア・南アフリカなどの英連邦諸国が集まっている\nアメリカもフランスもいないこの陣営を「連合国」と呼ぶより\n「コモンウェルス」の方が構成国の実態に合っていると思う",
       "lang": "ja",
-      "likes": 26,
+      "likes": 28,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1492,
+      "views": 1548,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -892,7 +909,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2389,
+      "views": 2424,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -934,7 +951,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 864,
+      "views": 876,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -970,7 +987,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 4173,
+      "views": 4191,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1018,12 +1035,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "←ビフォー　アフター→\nロシア帝国「ようやく帝政復古した実感が湧いてきたな」\nHoI4バニラと、さとMODでのロシア帝国傀儡国名の比較",
       "lang": "ja",
-      "likes": 102,
+      "likes": 103,
       "retweets": 3,
       "replies": 2,
       "quotes": 1,
-      "bookmarks": 18,
-      "views": 5592,
+      "bookmarks": 19,
+      "views": 5673,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1074,7 +1091,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3113,
+      "views": 3149,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1125,7 +1142,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 481,
+      "views": 493,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1157,7 +1174,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1422,
+      "views": 1439,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1199,7 +1216,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 543,
+      "views": 554,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1254,7 +1271,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2442,
+      "views": 2452,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1286,7 +1303,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1089,
+      "views": 1098,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1349,7 +1366,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2094
+      "views": 2104
     },
     {
       "article": null,
@@ -1399,7 +1416,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 2128
+      "views": 2138
     },
     {
       "article": null,
@@ -1501,7 +1518,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3241
+      "views": 3250
     },
     {
       "article": null,
@@ -1574,7 +1591,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 423
+      "views": 431
     },
     {
       "article": null,
@@ -1616,7 +1633,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1701
+      "views": 1710
     },
     {
       "article": null,
@@ -1648,7 +1665,7 @@
       "text": "HoI4で俺みたいな遊び方してる人っているんですかね？\n\n陸軍しか操作しない（海空軍は触れない）\n空軍はすべて解体して国際市場に売り出す\n師団はすべて民兵\n講和会議ではAIに一切介入させず、AI国家の分まで自分で領土分配する（非合理的な国境を防ぐため）\n特別研究施設は自国・敵国問わずすべて解体",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109973234087264731",
-      "views": 12552
+      "views": 12560
     },
     {
       "article": null,
@@ -1690,7 +1707,7 @@
       "text": "以前制作したHoI4の国名変更MODから日本の傀儡国のスクショを紹介\n史実の名称や統治形態に合わせて調整しています\nなお、スクショに登場する「冀東防共自治政府」は、KSRE MODで追加された国家です。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109937027903102990",
-      "views": 1098
+      "views": 1105
     },
     {
       "article": null,
@@ -1726,7 +1743,7 @@
       "text": "誤字：だったろ\n正字：だったり",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109931685366415680",
-      "views": 5058
+      "views": 5064
     },
     {
       "article": null,
@@ -1758,7 +1775,7 @@
       "text": "HoI4で「この国名は明らかにおかしいだろ」と思ったことはありますか？\n国名の誤訳だったろ史実・政治体制に合っていない国名など、不自然だと思うものがあればリプで教えてください\n確認し、明らかにおかしいものはMODで修正します",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109931489169387870",
-      "views": 45599
+      "views": 45665
     },
     {
       "article": null,
@@ -1808,7 +1825,7 @@
       "text": "エチオピアとエリトリアの双方に「相手が侵略者であり、自国は防衛している」って理屈が成立してるのが恐ろしい\nティグライ州への軍事侵入に対する自衛権の問題と、エチオピアが紅海へのアクセスを求める問題は別々に扱うべきもの\n今のところ、正式な宣戦布告は未確認なんで真に受け取らないように",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2109847188096553453",
-      "views": 1019
+      "views": 1023
     },
     {
       "article": null,
@@ -6851,7 +6868,7 @@
       "text": "ドイツ帝国の国境カッコよすぎだろ…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1780148478192271611",
-      "views": 1470
+      "views": 1471
     },
     {
       "article": null,
@@ -7093,7 +7110,7 @@
       "text": "結構前から横動画も伸びてるけど\n全然伸びてなかったShorts動画も再生数安定してて嬉しい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1778026434537341334",
-      "views": 632
+      "views": 631
     },
     {
       "article": null,
@@ -7167,7 +7184,7 @@
       "text": "2.2万人ありがとうございます！\n20万高評価でキリが良い👍\n1000万再生はもう目前ですね🏆\n皆様ありがとうございます🎊",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1777661348911956220",
-      "views": 877
+      "views": 876
     },
     {
       "article": null,
@@ -11319,5 +11336,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T03:11:52.993240+00:00"
+  "last_metric_refresh_at": "2026-10-15T03:44:39.368534+00:00"
 }
