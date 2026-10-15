@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 275,
+  "count": 276,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 116
+      "views": 120
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 637
+      "views": 642
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 276
+      "views": 280
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 217
+      "views": 220
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 242
+      "views": 245
     },
     {
       "id": "2110192096607076516",
@@ -321,7 +321,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 265
+      "views": 268
     },
     {
       "id": "2110191800548008237",
@@ -378,7 +378,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 259
+      "views": 262
     },
     {
       "id": "2110191668049977486",
@@ -449,7 +449,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 267
+      "views": 270
     },
     {
       "id": "2109990179566133498",
@@ -485,7 +485,24 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 175
+      "views": 178
+    },
+    {
+      "id": "2110646766240760043",
+      "url": "https://x.com/sattoa_ball/status/2110646766240760043",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 08:19:37 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "俺って2024年12月19日と2026年1月29日に炎上したことあるんだけど\nどっちも炎上後30日間でYouTubeの登録者数が一度も純減してないの今考えるとおもろい\n実際にアナリティクスで確認\n2024年の炎上後は+2,596人\n2026年の炎上後も+361人\n炎上の規模自体がかなり小さくて\nほぼ界隈内で完結してたんだろうな",
+      "media": [],
+      "likes": 4,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 247
     },
     {
       "id": "2110638148846076204",
@@ -497,12 +514,12 @@
       "author_id": "1592826578786217984",
       "text": "HoI4プレイヤーの皆さんに質問です\nこれまで発売されたDLCの中で一番好きなのはどれですか？\n国家方針ツリー、追加されたシステム、歴史改変ルートなど評価するポイントは何でも構いません\nDLCの名前とそのDLCを選んだ理由をリプライで教えてください\nどのDLCが最も人気なのか気になります",
       "media": [],
-      "likes": 2,
+      "likes": 6,
       "retweets": 0,
-      "replies": 2,
+      "replies": 4,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 124
+      "views": 371
     },
     {
       "id": "2110576256534339812",
@@ -519,7 +536,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 319
+      "views": 356
     },
     {
       "id": "2110561596582043878",
@@ -536,7 +553,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 853
+      "views": 928
     },
     {
       "id": "2110549274811605423",
@@ -553,7 +570,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 414
+      "views": 435
     },
     {
       "id": "2110535515539939803",
@@ -605,12 +622,12 @@
           }
         }
       },
-      "likes": 77,
+      "likes": 81,
       "retweets": 10,
-      "replies": 2,
+      "replies": 3,
       "quotes": 2,
-      "bookmarks": 6,
-      "views": 3367
+      "bookmarks": 8,
+      "views": 3643
     },
     {
       "id": "2110534044647850040",
@@ -662,12 +679,12 @@
           }
         }
       },
-      "likes": 33,
+      "likes": 42,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 3447
+      "bookmarks": 9,
+      "views": 4157
     },
     {
       "id": "2110530879009464362",
@@ -703,7 +720,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 812
+      "views": 833
     },
     {
       "id": "2110386965933908352",
@@ -722,7 +739,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 689,
+      "views": 698,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -754,7 +771,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 273,
+      "views": 282,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -790,7 +807,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 981,
+      "views": 1017,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -819,12 +836,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 204,
-      "retweets": 8,
+      "likes": 209,
+      "retweets": 9,
       "replies": 6,
       "quotes": 1,
-      "bookmarks": 27,
-      "views": 21914,
+      "bookmarks": 29,
+      "views": 22143,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -879,12 +896,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "これこそ「連合国」じゃなくて「コモンウェルス」だろ\nイギリスを中心にカナダ・オーストラリア・南アフリカなどの英連邦諸国が集まっている\nアメリカもフランスもいないこの陣営を「連合国」と呼ぶより\n「コモンウェルス」の方が構成国の実態に合っていると思う",
       "lang": "ja",
-      "likes": 37,
+      "likes": 38,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1832,
+      "views": 1885,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -921,12 +938,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "「オランダ領東インド」を「ネーデルラント領インド」に変更\n当時の正式なオランダ語名称は「Nederlands-Indië」\n英語由来の「Dutch East Indies」ではなく\n現地宗主国の呼称に合わせ、史実との整合性を重視した変更です",
       "lang": "ja",
-      "likes": 59,
+      "likes": 60,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2649,
+      "views": 2699,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -968,7 +985,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 925,
+      "views": 930,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1004,7 +1021,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4283,
+      "views": 4298,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1057,7 +1074,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 5973,
+      "views": 5988,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1103,12 +1120,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "←ビフォー　アフター→\nスペイン帝国「ようやく植民地帝国らしくなったな」\nHoI4バニラと、さとMODでのスペイン帝国傀儡国名の比較",
       "lang": "ja",
-      "likes": 67,
+      "likes": 68,
       "retweets": 2,
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3471,
+      "views": 3550,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1159,7 +1176,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 525,
+      "views": 528,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1191,7 +1208,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1473,
+      "views": 1481,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1233,7 +1250,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 588,
+      "views": 596,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1288,7 +1305,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2494,
+      "views": 2504,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1320,7 +1337,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1125,
+      "views": 1131,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1383,7 +1400,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2138
+      "views": 2145
     },
     {
       "article": null,
@@ -1433,7 +1450,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 2164
+      "views": 2169
     },
     {
       "article": null,
@@ -1535,7 +1552,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3282
+      "views": 3290
     },
     {
       "article": null,
@@ -1608,7 +1625,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 449
+      "views": 454
     },
     {
       "article": null,
@@ -1650,7 +1667,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1733
+      "views": 1742
     },
     {
       "article": null,
@@ -1682,7 +1699,7 @@
       "text": "HoI4で俺みたいな遊び方してる人っているんですかね？\n\n陸軍しか操作しない（海空軍は触れない）\n空軍はすべて解体して国際市場に売り出す\n師団はすべて民兵\n講和会議ではAIに一切介入させず、AI国家の分まで自分で領土分配する（非合理的な国境を防ぐため）\n特別研究施設は自国・敵国問わずすべて解体",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109973234087264731",
-      "views": 12584
+      "views": 12590
     },
     {
       "article": null,
@@ -1724,7 +1741,7 @@
       "text": "以前制作したHoI4の国名変更MODから日本の傀儡国のスクショを紹介\n史実の名称や統治形態に合わせて調整しています\nなお、スクショに登場する「冀東防共自治政府」は、KSRE MODで追加された国家です。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109937027903102990",
-      "views": 1130
+      "views": 1134
     },
     {
       "article": null,
@@ -1760,7 +1777,7 @@
       "text": "誤字：だったろ\n正字：だったり",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109931685366415680",
-      "views": 5108
+      "views": 5117
     },
     {
       "article": null,
@@ -1792,7 +1809,7 @@
       "text": "HoI4で「この国名は明らかにおかしいだろ」と思ったことはありますか？\n国名の誤訳だったろ史実・政治体制に合っていない国名など、不自然だと思うものがあればリプで教えてください\n確認し、明らかにおかしいものはMODで修正します",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109931489169387870",
-      "views": 46076
+      "views": 46173
     },
     {
       "article": null,
@@ -3285,7 +3302,7 @@
       "text": "今日も更新",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898603621488681332",
-      "views": 1906
+      "views": 1914
     },
     {
       "article": null,
@@ -3327,7 +3344,7 @@
       "text": "もち",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898373186078797944",
-      "views": 1784
+      "views": 1791
     },
     {
       "article": null,
@@ -3369,7 +3386,7 @@
       "text": "top50の登録者数合計",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898245810522898642",
-      "views": 1484
+      "views": 1490
     },
     {
       "article": null,
@@ -3411,7 +3428,7 @@
       "text": "たいこちゅうAN",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898167971631317225",
-      "views": 2443
+      "views": 2449
     },
     {
       "article": null,
@@ -3453,7 +3470,7 @@
       "text": "ポーランちゃん",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897864526579876191",
-      "views": 1991
+      "views": 1995
     },
     {
       "article": null,
@@ -3485,7 +3502,7 @@
       "text": "生きててよかった",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897608257507856834",
-      "views": 1591
+      "views": 1594
     },
     {
       "article": null,
@@ -3517,7 +3534,7 @@
       "text": "すこるある死んでて草",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897504091032707327",
-      "views": 1859
+      "views": 1862
     },
     {
       "article": null,
@@ -3586,7 +3603,7 @@
       "text": "グーグルアースでウクライナ戦線作るのにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897470148988297569",
-      "views": 1336
+      "views": 1340
     },
     {
       "article": null,
@@ -3618,7 +3635,7 @@
       "text": "ベッドウォーズたのちい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896184043584262439",
-      "views": 1196
+      "views": 1199
     },
     {
       "article": null,
@@ -3660,7 +3677,7 @@
       "text": "top25近い人多いね\nそれとtop25じゃなくてtop50の間違いね",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896005747831685177",
-      "views": 1378
+      "views": 1382
     },
     {
       "article": null,
@@ -3702,7 +3719,7 @@
       "text": "満タンになったら笑顔になりそうなやつ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895801041511473610",
-      "views": 1461
+      "views": 1465
     },
     {
       "article": null,
@@ -3744,7 +3761,7 @@
       "text": "",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895741096250183892",
-      "views": 1383
+      "views": 1387
     },
     {
       "article": null,
@@ -11353,5 +11370,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T08:16:29.041495+00:00"
+  "last_metric_refresh_at": "2026-10-15T08:55:17.021756+00:00"
 }
