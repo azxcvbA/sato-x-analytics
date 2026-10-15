@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 279,
+  "count": 280,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 131
+      "views": 132
     },
     {
       "id": "2110285328322015621",
@@ -488,6 +488,23 @@
       "views": 181
     },
     {
+      "id": "2110688633024139752",
+      "url": "https://x.com/sattoa_ball/status/2110688633024139752",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 11:05:59 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "Xで数千万インプレッションを集めている人生シミュレーターをやってみた\n3回プレイしたけど3回とも出生国がインドだった\nただ、生まれた後の人生を進めることに興味が湧かず出生国だけ確認して毎回終了\n映画を見始めて5分で映画館から出ていくやつだ",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 42
+    },
+    {
       "id": "2110678432430555148",
       "url": "https://x.com/sattoa_ball/status/2110678432430555148",
       "type": "tweet",
@@ -516,12 +533,12 @@
           }
         ]
       },
-      "likes": 9,
+      "likes": 11,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 208
+      "bookmarks": 1,
+      "views": 301
     },
     {
       "id": "2110665472505172348",
@@ -556,8 +573,8 @@
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 587
+      "bookmarks": 1,
+      "views": 676
     },
     {
       "id": "2110663221522952416",
@@ -588,12 +605,12 @@
           }
         ]
       },
-      "likes": 9,
+      "likes": 11,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 334
+      "views": 354
     },
     {
       "id": "2110646766240760043",
@@ -610,7 +627,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 474
+      "views": 481
     },
     {
       "id": "2110638148846076204",
@@ -622,12 +639,12 @@
       "author_id": "1592826578786217984",
       "text": "HoI4プレイヤーの皆さんに質問です\nこれまで発売されたDLCの中で一番好きなのはどれですか？\n国家方針ツリー、追加されたシステム、歴史改変ルートなど評価するポイントは何でも構いません\nDLCの名前とそのDLCを選んだ理由をリプライで教えてください\nどのDLCが最も人気なのか気になります",
       "media": [],
-      "likes": 13,
+      "likes": 14,
       "retweets": 0,
-      "replies": 5,
+      "replies": 6,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 884
+      "views": 944
     },
     {
       "id": "2110576256534339812",
@@ -644,7 +661,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 411
+      "views": 414
     },
     {
       "id": "2110561596582043878",
@@ -661,7 +678,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1085
+      "views": 1112
     },
     {
       "id": "2110549274811605423",
@@ -678,7 +695,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 472
+      "views": 478
     },
     {
       "id": "2110535515539939803",
@@ -735,7 +752,7 @@
       "replies": 3,
       "quotes": 3,
       "bookmarks": 9,
-      "views": 4361
+      "views": 4558
     },
     {
       "id": "2110534044647850040",
@@ -792,7 +809,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 13,
-      "views": 6811
+      "views": 7365
     },
     {
       "id": "2110530879009464362",
@@ -823,12 +840,12 @@
           }
         ]
       },
-      "likes": 29,
+      "likes": 31,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 894
+      "views": 910
     },
     {
       "id": "2110386965933908352",
@@ -847,7 +864,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 731,
+      "views": 738,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -879,7 +896,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 305,
+      "views": 307,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -915,7 +932,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1102,
+      "views": 1113,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -944,12 +961,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 216,
+      "likes": 217,
       "retweets": 9,
       "replies": 6,
       "quotes": 0,
       "bookmarks": 29,
-      "views": 22851,
+      "views": 22916,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1051,7 +1068,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2725,
+      "views": 2727,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1129,7 +1146,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4318,
+      "views": 4319,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1182,7 +1199,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6014,
+      "views": 6018,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1233,7 +1250,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3583,
+      "views": 3584,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1660,7 +1677,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3307
+      "views": 3309
     },
     {
       "article": null,
@@ -1733,7 +1750,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 465
+      "views": 466
     },
     {
       "article": null,
@@ -1775,7 +1792,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1755
+      "views": 1756
     },
     {
       "article": null,
@@ -10711,7 +10728,7 @@
       "text": "youtubeで動画上げてるから見てくださいね！\nhttps://youtube.com/@sattoaPB?si=P7AYKDzWYwWIctKp",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698338296706068605",
-      "views": 23268
+      "views": 23274
     },
     {
       "article": null,
@@ -11478,5 +11495,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T11:05:42.699188+00:00"
+  "last_metric_refresh_at": "2026-10-15T11:36:22.723279+00:00"
 }
