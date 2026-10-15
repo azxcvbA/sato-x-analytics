@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 132
+      "views": 133
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 645
+      "views": 646
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 284
+      "views": 285
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 222
+      "views": 223
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 247
+      "views": 248
     },
     {
       "id": "2110192096607076516",
@@ -321,7 +321,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 270
+      "views": 271
     },
     {
       "id": "2110191800548008237",
@@ -378,7 +378,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 264
+      "views": 265
     },
     {
       "id": "2110191668049977486",
@@ -449,7 +449,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 272
+      "views": 273
     },
     {
       "id": "2109990179566133498",
@@ -485,7 +485,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 181
+      "views": 182
     },
     {
       "id": "2110688633024139752",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 42
+      "views": 66
     },
     {
       "id": "2110678432430555148",
@@ -533,12 +533,12 @@
           }
         ]
       },
-      "likes": 11,
+      "likes": 15,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 301
+      "views": 382
     },
     {
       "id": "2110665472505172348",
@@ -569,12 +569,12 @@
           }
         ]
       },
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 676
+      "bookmarks": 2,
+      "views": 760
     },
     {
       "id": "2110663221522952416",
@@ -605,12 +605,12 @@
           }
         ]
       },
-      "likes": 11,
+      "likes": 12,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 354
+      "views": 377
     },
     {
       "id": "2110646766240760043",
@@ -622,12 +622,12 @@
       "author_id": "1592826578786217984",
       "text": "俺って2024年12月19日と2026年1月29日に炎上したことあるんだけど\nどっちも炎上後30日間でYouTubeの登録者数が一度も純減してないの今考えるとおもろい\n実際にアナリティクスで確認\n2024年の炎上後は+2,596人\n2026年の炎上後も+361人\n炎上の規模自体がかなり小さくて\nほぼ界隈内で完結してたんだろうな",
       "media": [],
-      "likes": 9,
+      "likes": 10,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 481
+      "views": 493
     },
     {
       "id": "2110638148846076204",
@@ -644,7 +644,7 @@
       "replies": 6,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 944
+      "views": 1044
     },
     {
       "id": "2110576256534339812",
@@ -661,7 +661,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 414
+      "views": 419
     },
     {
       "id": "2110561596582043878",
@@ -678,7 +678,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1112
+      "views": 1140
     },
     {
       "id": "2110549274811605423",
@@ -695,7 +695,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 478
+      "views": 483
     },
     {
       "id": "2110535515539939803",
@@ -747,12 +747,12 @@
           }
         }
       },
-      "likes": 90,
+      "likes": 93,
       "retweets": 10,
       "replies": 3,
       "quotes": 3,
       "bookmarks": 9,
-      "views": 4558
+      "views": 4708
     },
     {
       "id": "2110534044647850040",
@@ -804,12 +804,12 @@
           }
         }
       },
-      "likes": 54,
+      "likes": 56,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 13,
-      "views": 7365
+      "bookmarks": 14,
+      "views": 8045
     },
     {
       "id": "2110530879009464362",
@@ -840,12 +840,12 @@
           }
         ]
       },
-      "likes": 31,
+      "likes": 32,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 910
+      "views": 935
     },
     {
       "id": "2110386965933908352",
@@ -859,12 +859,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "2026年1月頃\nZetaにて煽ってくるメスガキキャラに対して、ひたすら論理的に詰める変な遊び方してた\n「ざぁこ♡」とか言われたら「雑魚だと判断した具体的な根拠は？」みたいに返してた記憶がある\n当時の会話履歴が手元にないから細かいやり取りは覚えていないけど、今考えると変な遊び方してたな",
       "lang": "ja",
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 738,
+      "views": 745,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -896,7 +896,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 307,
+      "views": 308,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -932,7 +932,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1113,
+      "views": 1125,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -961,12 +961,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 217,
+      "likes": 218,
       "retweets": 9,
       "replies": 6,
-      "quotes": 0,
+      "quotes": 1,
       "bookmarks": 29,
-      "views": 22916,
+      "views": 22958,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1026,7 +1026,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1910,
+      "views": 1914,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1068,7 +1068,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2727,
+      "views": 2728,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1146,7 +1146,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4319,
+      "views": 4320,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1199,7 +1199,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6018,
+      "views": 6020,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1250,7 +1250,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3584,
+      "views": 3585,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1333,7 +1333,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1494,
+      "views": 1495,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1375,7 +1375,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 609,
+      "views": 610,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1525,7 +1525,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2160
+      "views": 2161
     },
     {
       "article": null,
@@ -1677,7 +1677,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3309
+      "views": 3313
     },
     {
       "article": null,
@@ -1750,7 +1750,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 466
+      "views": 467
     },
     {
       "article": null,
@@ -1792,7 +1792,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1756
+      "views": 1757
     },
     {
       "article": null,
@@ -11495,5 +11495,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T11:36:22.723279+00:00"
+  "last_metric_refresh_at": "2026-10-15T12:06:44.416816+00:00"
 }
