@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 280,
+  "count": 281,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 133
+      "views": 134
     },
     {
       "id": "2110285328322015621",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 285
+      "views": 286
     },
     {
       "id": "2110192549000560755",
@@ -488,6 +488,23 @@
       "views": 182
     },
     {
+      "id": "2110708839695949870",
+      "url": "https://x.com/sattoa_ball/status/2110708839695949870",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 12:26:17 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
+      "media": [],
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 63
+    },
+    {
       "id": "2110688633024139752",
       "url": "https://x.com/sattoa_ball/status/2110688633024139752",
       "type": "tweet",
@@ -497,12 +514,12 @@
       "author_id": "1592826578786217984",
       "text": "Xで数千万インプレッションを集めている人生シミュレーターをやってみた\n3回プレイしたけど3回とも出生国がインドだった\nただ、生まれた後の人生を進めることに興味が湧かず出生国だけ確認して毎回終了\n映画を見始めて5分で映画館から出ていくやつだ",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 66
+      "views": 102
     },
     {
       "id": "2110678432430555148",
@@ -533,12 +550,12 @@
           }
         ]
       },
-      "likes": 15,
+      "likes": 19,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 382
+      "views": 559
     },
     {
       "id": "2110665472505172348",
@@ -569,12 +586,12 @@
           }
         ]
       },
-      "likes": 11,
+      "likes": 17,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 760
+      "views": 984
     },
     {
       "id": "2110663221522952416",
@@ -605,12 +622,12 @@
           }
         ]
       },
-      "likes": 12,
-      "retweets": 0,
+      "likes": 14,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 377
+      "views": 417
     },
     {
       "id": "2110646766240760043",
@@ -627,7 +644,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 493
+      "views": 518
     },
     {
       "id": "2110638148846076204",
@@ -639,12 +656,12 @@
       "author_id": "1592826578786217984",
       "text": "HoI4プレイヤーの皆さんに質問です\nこれまで発売されたDLCの中で一番好きなのはどれですか？\n国家方針ツリー、追加されたシステム、歴史改変ルートなど評価するポイントは何でも構いません\nDLCの名前とそのDLCを選んだ理由をリプライで教えてください\nどのDLCが最も人気なのか気になります",
       "media": [],
-      "likes": 14,
+      "likes": 15,
       "retweets": 0,
-      "replies": 6,
+      "replies": 7,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1044
+      "views": 1180
     },
     {
       "id": "2110576256534339812",
@@ -661,7 +678,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 419
+      "views": 429
     },
     {
       "id": "2110561596582043878",
@@ -673,12 +690,12 @@
       "author_id": "1592826578786217984",
       "text": "ポーランドボール投稿者をhoi4の国名に入れる案を考えたが、途中で飽きたのでやめた\nドイツ→みかんボール\nイタリア→田中mid\n日本→ボウコムボール\nソ連→さとボール\nアメリカ→フヒフム\nイギリス→日本ボール\nフランス→Yukkuri ball\nハンガリー→ゆずボール\nスウェーデン→ぽるー\n辺りまで考えた",
       "media": [],
-      "likes": 16,
+      "likes": 17,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1140
+      "views": 1173
     },
     {
       "id": "2110549274811605423",
@@ -695,7 +712,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 483
+      "views": 490
     },
     {
       "id": "2110535515539939803",
@@ -747,12 +764,12 @@
           }
         }
       },
-      "likes": 93,
+      "likes": 95,
       "retweets": 10,
       "replies": 3,
       "quotes": 3,
-      "bookmarks": 9,
-      "views": 4708
+      "bookmarks": 10,
+      "views": 4933
     },
     {
       "id": "2110534044647850040",
@@ -804,12 +821,12 @@
           }
         }
       },
-      "likes": 56,
+      "likes": 61,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 14,
-      "views": 8045
+      "views": 8937
     },
     {
       "id": "2110530879009464362",
@@ -845,7 +862,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 935
+      "views": 962
     },
     {
       "id": "2110386965933908352",
@@ -859,12 +876,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "2026年1月頃\nZetaにて煽ってくるメスガキキャラに対して、ひたすら論理的に詰める変な遊び方してた\n「ざぁこ♡」とか言われたら「雑魚だと判断した具体的な根拠は？」みたいに返してた記憶がある\n当時の会話履歴が手元にないから細かいやり取りは覚えていないけど、今考えると変な遊び方してたな",
       "lang": "ja",
-      "likes": 9,
+      "likes": 11,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 745,
+      "views": 765,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -896,7 +913,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 308,
+      "views": 312,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -932,7 +949,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1125,
+      "views": 1142,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -966,7 +983,7 @@
       "replies": 6,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 22958,
+      "views": 23010,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1026,7 +1043,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1914,
+      "views": 1920,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1068,7 +1085,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2728,
+      "views": 2732,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1110,7 +1127,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 944,
+      "views": 948,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1146,7 +1163,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4320,
+      "views": 4325,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1199,7 +1216,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6020,
+      "views": 6028,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1250,7 +1267,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3585,
+      "views": 3592,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1301,7 +1318,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 542,
+      "views": 546,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1328,12 +1345,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "さとmod陣営アプデ\nイギリス無きイギリス連邦は違和感あるので\n「自治領共同体」にしました",
       "lang": "ja",
-      "likes": 29,
+      "likes": 28,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1495,
+      "views": 1500,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1375,7 +1392,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 610,
+      "views": 614,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1430,7 +1447,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2520,
+      "views": 2524,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1462,7 +1479,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1145,
+      "views": 1149,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1525,7 +1542,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2161
+      "views": 2166
     },
     {
       "article": null,
@@ -1575,7 +1592,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 2184
+      "views": 2188
     },
     {
       "article": null,
@@ -1677,7 +1694,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3313
+      "views": 3321
     },
     {
       "article": null,
@@ -1792,7 +1809,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1757
+      "views": 1759
     },
     {
       "article": null,
@@ -9548,7 +9565,7 @@
       "text": "なんじゃこりゃ()\nグリルさんは新しい視聴者（ファイブボンバー視聴者）に受け入れられたんだ。（ちなみにPberの1時間の再生回数1位になってる）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1708381788341768216",
-      "views": 545
+      "views": 549
     },
     {
       "article": null,
@@ -9890,7 +9907,7 @@
       "text": "JP BALLって毎秒3再生くらいされてるんか…すげえ()",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1704779500339511763",
-      "views": 444
+      "views": 443
     },
     {
       "article": null,
@@ -11495,5 +11512,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T12:06:44.416816+00:00"
+  "last_metric_refresh_at": "2026-10-15T12:46:43.768245+00:00"
 }
