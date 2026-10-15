@@ -497,12 +497,12 @@
       "author_id": "1592826578786217984",
       "text": "日本に不要な県は\n北海道,東京都,京都府,大阪府だと思う\n全部「県」ではないから",
       "media": [],
-      "likes": 1,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 11
+      "bookmarks": 1,
+      "views": 104
     },
     {
       "id": "2110727885514514465",
@@ -568,12 +568,12 @@
           }
         }
       },
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 41
+      "views": 106
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 197
+      "views": 225
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 5,
+      "likes": 8,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 376
+      "views": 466
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 160
+      "views": 168
     },
     {
       "id": "2110678432430555148",
@@ -695,12 +695,12 @@
           }
         ]
       },
-      "likes": 23,
+      "likes": 28,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 850
+      "views": 952
     },
     {
       "id": "2110665472505172348",
@@ -731,12 +731,12 @@
           }
         ]
       },
-      "likes": 21,
+      "likes": 26,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 1644
+      "bookmarks": 4,
+      "views": 1889
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 456
+      "views": 467
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 552
+      "views": 576
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 7,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1306
+      "views": 1346
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 448
+      "views": 455
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1257
+      "views": 1309
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 503
+      "views": 509
     },
     {
       "id": "2110535515539939803",
@@ -909,12 +909,12 @@
           }
         }
       },
-      "likes": 100,
+      "likes": 101,
       "retweets": 11,
       "replies": 3,
       "quotes": 3,
       "bookmarks": 11,
-      "views": 5287
+      "views": 5405
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 68,
+      "likes": 77,
       "retweets": 3,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 14,
-      "views": 10878
+      "views": 11910
     },
     {
       "id": "2110530879009464362",
@@ -1002,12 +1002,12 @@
           }
         ]
       },
-      "likes": 34,
+      "likes": 35,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1029
+      "views": 1060
     },
     {
       "id": "2110386965933908352",
@@ -1026,7 +1026,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 797,
+      "views": 806,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1058,7 +1058,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 318,
+      "views": 322,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1094,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1167,
+      "views": 1173,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -2810,7 +2810,7 @@
       "text": "8月23日辺りからこのサイトを閲覧しているが\n当時から再生数が一致していないのが気になる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108910223218065855",
-      "views": 734
+      "views": 750
     },
     {
       "article": null,
@@ -2852,7 +2852,7 @@
       "text": "HoI4でオスマン帝国を復活させて、旧領を再建中\n画像はKSREとその日本語化MODをベースに個人用にさらに改造した「Sato KSREjap」を使用しています\nオスマン帝国の従属国名も独自に変更しているので、かなり雰囲気が出てきた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108788865314197851",
-      "views": 965
+      "views": 985
     },
     {
       "article": null,
@@ -2894,7 +2894,7 @@
       "text": "みかんぼーるとフヒフムの登録者数の差をまとめたぞ\n9月26日〜10月9日の13日間での平均\nみかんぼーる　約1,846人/日\nフヒフム　約692人/日\n差の埋まり　約1,154人/日\n今の差は35,000人なので、逆転まで約30.3日という計算になる\n11月8〜9日ごろ予想",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108533675461898605",
-      "views": 640
+      "views": 656
     },
     {
       "article": null,
@@ -2926,7 +2926,7 @@
       "text": "約1年半ぶりのツイートですね\n長期間ログインしていなかったんで本気で「ログインしてなさすぎてBANされた」と思い込んでいました\n普通にログインできました　びっくり",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108528903405146401",
-      "views": 2538
+      "views": 2558
     },
     {
       "article": null,
@@ -2958,7 +2958,7 @@
       "text": "久しぶりにゴッドフィールドやったけどおもろいわ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1908853777571922223",
-      "views": 5983
+      "views": 5993
     },
     {
       "article": null,
@@ -2990,7 +2990,7 @@
       "text": "スイッチ２の値段いくらなんだろう・・・\n一番気になるとこ何も言ってなかったからかなｃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1907433905172733967",
-      "views": 6270
+      "views": 6281
     },
     {
       "article": null,
@@ -3050,7 +3050,7 @@
       "text": "",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1906154886401826835",
-      "views": 7528
+      "views": 7540
     },
     {
       "article": null,
@@ -3094,7 +3094,7 @@
       "text": "#フヒフ紫キャベツ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1906153786261020929",
-      "views": 19823
+      "views": 19837
     },
     {
       "article": null,
@@ -3136,7 +3136,7 @@
       "text": "トレンドのランキングで\nトモコレがニンダイ超えちゃった、えぐい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1905269673870188811",
-      "views": 2512
+      "views": 2521
     },
     {
       "article": null,
@@ -3178,7 +3178,7 @@
       "text": "ウクライナのロシア侵攻パート２",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1904498386562101337",
-      "views": 2433
+      "views": 2442
     },
     {
       "article": null,
@@ -3210,7 +3210,7 @@
       "text": "そういえば日本垢2周年　いえーい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1903385131265708102",
-      "views": 2060
+      "views": 2066
     },
     {
       "article": null,
@@ -3242,7 +3242,7 @@
       "text": "ちょっと前に始まったばっかりの3月が\n3分の2終わるのやばいって",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1903096539297489159",
-      "views": 1874
+      "views": 1880
     },
     {
       "article": null,
@@ -11657,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T14:08:06.311172+00:00"
+  "last_metric_refresh_at": "2026-10-15T14:46:12.696963+00:00"
 }
