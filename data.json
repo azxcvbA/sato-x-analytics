@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 282,
+  "count": 284,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 136
+      "views": 137
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 646
+      "views": 651
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 286
+      "views": 287
     },
     {
       "id": "2110192549000560755",
@@ -488,6 +488,94 @@
       "views": 182
     },
     {
+      "id": "2110733273794236648",
+      "url": "https://x.com/sattoa_ball/status/2110733273794236648",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 14:03:22 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "日本に不要な県は\n北海道,東京都,京都府,大阪府だと思う\n全部「県」ではないから",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 11
+    },
+    {
+      "id": "2110727885514514465",
+      "url": "https://x.com/sattoa_ball/status/2110727885514514465",
+      "type": "tweet",
+      "created_at": "Thu Oct 15 13:41:57 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4の不具合について質問\n陣営の盟主が交代しても陣営マップカラーが旧盟主の色から変わりません\nMOD全無効化\n新規ゲームでも発生\n整合性チェック済み\n通常のゲーム内操作でも発生\nバージョン1.19.3\nHoI4を始めてから一度も正常に変化したことがありません\n原因や直し方をご存じの方はいませんか？",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110727129889652736",
+            "url": "https://pbs.twimg.com/media/HUrPJDraQAAhI9p.jpg?name=orig",
+            "width": 1247,
+            "height": 693
+          },
+          {
+            "type": "photo",
+            "id": "2110727329710567424",
+            "url": "https://pbs.twimg.com/media/HUrPUsEbcAA0SjK.jpg?name=orig",
+            "width": 1288,
+            "height": 713
+          },
+          {
+            "type": "photo",
+            "id": "2110727880271618048",
+            "url": "https://pbs.twimg.com/media/HUrP0vEaYAAYQm8.jpg?name=orig",
+            "width": 1310,
+            "height": 672
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110727129889652736",
+            "url": "https://pbs.twimg.com/media/HUrPJDraQAAhI9p.jpg?name=orig",
+            "width": 1247,
+            "height": 693
+          },
+          {
+            "type": "photo",
+            "id": "2110727329710567424",
+            "url": "https://pbs.twimg.com/media/HUrPUsEbcAA0SjK.jpg?name=orig",
+            "width": 1288,
+            "height": 713
+          },
+          {
+            "type": "photo",
+            "id": "2110727880271618048",
+            "url": "https://pbs.twimg.com/media/HUrP0vEaYAAYQm8.jpg?name=orig",
+            "width": 1310,
+            "height": 672
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110727885514514465/HUrPJDraQAAhI9p/HUrPUsEbcAA0SjK/HUrP0vEaYAAYQm8",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110727885514514465/HUrPJDraQAAhI9p/HUrPUsEbcAA0SjK/HUrP0vEaYAAYQm8"
+          }
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 41
+    },
+    {
       "id": "2110717307630854507",
       "url": "https://x.com/sattoa_ball/status/2110717307630854507",
       "type": "tweet",
@@ -542,7 +630,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 108
+      "views": 197
     },
     {
       "id": "2110708839695949870",
@@ -554,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 4,
-      "retweets": 0,
-      "replies": 1,
+      "likes": 5,
+      "retweets": 1,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 265
+      "views": 376
     },
     {
       "id": "2110688633024139752",
@@ -571,12 +659,12 @@
       "author_id": "1592826578786217984",
       "text": "Xで数千万インプレッションを集めている人生シミュレーターをやってみた\n3回プレイしたけど3回とも出生国がインドだった\nただ、生まれた後の人生を進めることに興味が湧かず出生国だけ確認して毎回終了\n映画を見始めて5分で映画館から出ていくやつだ",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 143
+      "views": 160
     },
     {
       "id": "2110678432430555148",
@@ -607,12 +695,12 @@
           }
         ]
       },
-      "likes": 22,
+      "likes": 23,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 721
+      "bookmarks": 2,
+      "views": 850
     },
     {
       "id": "2110665472505172348",
@@ -643,12 +731,12 @@
           }
         ]
       },
-      "likes": 19,
+      "likes": 21,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1262
+      "views": 1644
     },
     {
       "id": "2110663221522952416",
@@ -684,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 439
+      "views": 456
     },
     {
       "id": "2110646766240760043",
@@ -701,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 536
+      "views": 552
     },
     {
       "id": "2110638148846076204",
@@ -713,12 +801,12 @@
       "author_id": "1592826578786217984",
       "text": "HoI4プレイヤーの皆さんに質問です\nこれまで発売されたDLCの中で一番好きなのはどれですか？\n国家方針ツリー、追加されたシステム、歴史改変ルートなど評価するポイントは何でも構いません\nDLCの名前とそのDLCを選んだ理由をリプライで教えてください\nどのDLCが最も人気なのか気になります",
       "media": [],
-      "likes": 15,
+      "likes": 16,
       "retweets": 0,
       "replies": 7,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1255
+      "views": 1306
     },
     {
       "id": "2110576256534339812",
@@ -735,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 442
+      "views": 448
     },
     {
       "id": "2110561596582043878",
@@ -747,12 +835,12 @@
       "author_id": "1592826578786217984",
       "text": "ポーランドボール投稿者をhoi4の国名に入れる案を考えたが、途中で飽きたのでやめた\nドイツ→みかんボール\nイタリア→田中mid\n日本→ボウコムボール\nソ連→さとボール\nアメリカ→フヒフム\nイギリス→日本ボール\nフランス→Yukkuri ball\nハンガリー→ゆずボール\nスウェーデン→ぽるー\n辺りまで考えた",
       "media": [],
-      "likes": 18,
-      "retweets": 2,
+      "likes": 20,
+      "retweets": 3,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1199
+      "views": 1257
     },
     {
       "id": "2110549274811605423",
@@ -769,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 499
+      "views": 503
     },
     {
       "id": "2110535515539939803",
@@ -821,12 +909,12 @@
           }
         }
       },
-      "likes": 95,
-      "retweets": 10,
+      "likes": 100,
+      "retweets": 11,
       "replies": 3,
       "quotes": 3,
       "bookmarks": 11,
-      "views": 5146
+      "views": 5287
     },
     {
       "id": "2110534044647850040",
@@ -878,12 +966,12 @@
           }
         }
       },
-      "likes": 66,
+      "likes": 68,
       "retweets": 3,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 14,
-      "views": 9865
+      "views": 10878
     },
     {
       "id": "2110530879009464362",
@@ -914,12 +1002,12 @@
           }
         ]
       },
-      "likes": 33,
+      "likes": 34,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 996
+      "views": 1029
     },
     {
       "id": "2110386965933908352",
@@ -933,12 +1021,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "2026年1月頃\nZetaにて煽ってくるメスガキキャラに対して、ひたすら論理的に詰める変な遊び方してた\n「ざぁこ♡」とか言われたら「雑魚だと判断した具体的な根拠は？」みたいに返してた記憶がある\n当時の会話履歴が手元にないから細かいやり取りは覚えていないけど、今考えると変な遊び方してたな",
       "lang": "ja",
-      "likes": 12,
+      "likes": 13,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 783,
+      "views": 797,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -970,7 +1058,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 315,
+      "views": 318,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1006,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1156,
+      "views": 1167,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1035,12 +1123,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "1936年\nヒトラー:メフォ手形廃止！価格統制撤廃！自由貿易！\nシャハト:経済が健全化している…！\nゲーリング:再軍備は？\nヒトラー:民需を建てろ\n1938年\nゲーリング:軍需工場は？\nヒトラー:ない。歩兵装備だけだ\nゲーリング:…帰る\nフランス:ラインラントがまだ非武装地帯？\nヒトラー:工場は増えたぞ！",
       "lang": "ja",
-      "likes": 219,
+      "likes": 220,
       "retweets": 10,
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23067,
+      "views": 23094,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1100,7 +1188,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1928,
+      "views": 1932,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1142,7 +1230,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2732,
+      "views": 2743,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1184,7 +1272,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 948,
+      "views": 956,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1220,7 +1308,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4325,
+      "views": 4336,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1273,7 +1361,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6028,
+      "views": 6042,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1324,7 +1412,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3592,
+      "views": 3610,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1375,7 +1463,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 546,
+      "views": 550,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1407,7 +1495,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1500,
+      "views": 1504,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1449,7 +1537,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 614,
+      "views": 617,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1504,7 +1592,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2524,
+      "views": 2529,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1536,7 +1624,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1149,
+      "views": 1152,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1599,7 +1687,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2166
+      "views": 2170
     },
     {
       "article": null,
@@ -11569,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T13:26:44.777677+00:00"
+  "last_metric_refresh_at": "2026-10-15T14:08:06.311172+00:00"
 }
