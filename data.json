@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 606
+      "views": 611
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1002
+      "views": 1049
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1191
+      "views": 1230
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 236
+      "views": 238
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1479
+      "views": 1494
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2827
+      "views": 2836
     },
     {
       "id": "2110663221522952416",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1605
+      "views": 1611
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 509
+      "views": 510
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1492
+      "views": 1495
     },
     {
       "id": "2110549274811605423",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6250
+      "views": 6255
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 35,
-      "views": 42008
+      "views": 42164
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1231
+      "views": 1233
     },
     {
       "id": "2110891854078341434",
@@ -1038,12 +1038,12 @@
           }
         ]
       },
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 453
+      "views": 507
     },
     {
       "id": "2110386965933908352",
@@ -1164,7 +1164,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23192,
+      "views": 23194,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1224,7 +1224,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1960,
+      "views": 1961,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -6899,7 +6899,7 @@
       "text": "いつの間に記憶から消えてた出来事\nワグネルの反乱",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1783040175058395268",
-      "views": 1314
+      "views": 1315
     },
     {
       "article": null,
@@ -7225,7 +7225,7 @@
       "text": "ドイツ帝国の国境カッコよすぎだろ…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1780148478192271611",
-      "views": 1473
+      "views": 1474
     },
     {
       "article": null,
@@ -11693,5 +11693,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T02:03:33.080652+00:00"
+  "last_metric_refresh_at": "2026-10-16T02:33:12.559238+00:00"
 }
