@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 298
+      "views": 307
     },
     {
       "id": "2110727885514514465",
@@ -568,12 +568,12 @@
           }
         }
       },
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 565
+      "views": 580
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 11,
+      "likes": 13,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 885
+      "views": 962
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 14,
+      "likes": 15,
       "retweets": 1,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1036
+      "views": 1119
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 226
+      "views": 231
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1436
+      "views": 1450
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2791
+      "views": 2810
     },
     {
       "id": "2110663221522952416",
@@ -767,12 +767,12 @@
           }
         ]
       },
-      "likes": 18,
+      "likes": 19,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 537
+      "views": 544
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 655
+      "views": 659
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1584
+      "views": 1595
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 500
+      "views": 504
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1471
+      "views": 1480
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 537
+      "views": 539
     },
     {
       "id": "2110535515539939803",
@@ -909,12 +909,12 @@
           }
         }
       },
-      "likes": 111,
+      "likes": 113,
       "retweets": 13,
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6216
+      "views": 6239
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 131,
-      "retweets": 8,
+      "likes": 135,
+      "retweets": 9,
       "replies": 5,
       "quotes": 0,
-      "bookmarks": 33,
-      "views": 39992
+      "bookmarks": 35,
+      "views": 41718
     },
     {
       "id": "2110530879009464362",
@@ -1004,10 +1004,10 @@
       },
       "likes": 40,
       "retweets": 2,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1221
+      "views": 1223
     },
     {
       "id": "2110891854078341434",
@@ -1038,12 +1038,12 @@
           }
         ]
       },
-      "likes": 1,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 40
+      "bookmarks": 2,
+      "views": 266
     },
     {
       "id": "2110386965933908352",
@@ -1062,7 +1062,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 837,
+      "views": 839,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1094,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 336,
+      "views": 338,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1130,7 +1130,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1193,
+      "views": 1196,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1164,7 +1164,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23180,
+      "views": 23185,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1224,7 +1224,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1954,
+      "views": 1955,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1266,7 +1266,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2771,
+      "views": 2773,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1308,7 +1308,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 970,
+      "views": 971,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1344,7 +1344,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4362,
+      "views": 4363,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1397,7 +1397,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6084,
+      "views": 6085,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1448,7 +1448,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3642,
+      "views": 3643,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -6352,7 +6352,7 @@
       "text": "ショートの再生数も横動画に追いついてほしいな〜",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1789121295831179468",
-      "views": 1084
+      "views": 1085
     },
     {
       "article": null,
@@ -6394,7 +6394,7 @@
       "text": "真ん中にあるこれなに？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1788150075568611820",
-      "views": 2091
+      "views": 2093
     },
     {
       "article": null,
@@ -6668,7 +6668,7 @@
       "text": "魔人つおい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1785202594144727279",
-      "views": 1481
+      "views": 1483
     },
     {
       "article": null,
@@ -11693,5 +11693,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T00:58:48.752303+00:00"
+  "last_metric_refresh_at": "2026-10-16T01:32:39.867381+00:00"
 }
