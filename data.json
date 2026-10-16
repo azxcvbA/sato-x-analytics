@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 290,
+  "count": 291,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 337
+      "views": 342
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 682
+      "views": 699
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 21,
+      "likes": 22,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1248
+      "views": 1263
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1420
+      "views": 1432
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 255
+      "views": 257
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1612
+      "views": 1627
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 4,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2885
+      "views": 2888
     },
     {
       "id": "2110663221522952416",
@@ -767,12 +767,12 @@
           }
         ]
       },
-      "likes": 20,
+      "likes": 21,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 565
+      "views": 566
     },
     {
       "id": "2110646766240760043",
@@ -784,12 +784,12 @@
       "author_id": "1592826578786217984",
       "text": "俺って2024年12月19日と2026年1月29日に炎上したことあるんだけど\nどっちも炎上後30日間でYouTubeの登録者数が一度も純減してないの今考えるとおもろい\n実際にアナリティクスで確認\n2024年の炎上後は+2,596人\n2026年の炎上後も+361人\n炎上の規模自体がかなり小さくて\nほぼ界隈内で完結してたんだろうな",
       "media": [],
-      "likes": 11,
+      "likes": 12,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 692
+      "views": 695
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1656
+      "views": 1663
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 520
+      "views": 521
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1510
+      "views": 1512
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 551
+      "views": 552
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6316
+      "views": 6324
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 35,
-      "views": 42736
+      "views": 42771
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,64 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1243
+      "views": 1244
+    },
+    {
+      "id": "2110962959723950300",
+      "url": "https://x.com/sattoa_ball/status/2110962959723950300",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 05:16:04 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4の英仏連合をMODで改修しました！\n国名を「フランス＝イギリス連合」から「英仏連合」に変更\n成立時に陣営名が「英仏同盟」から「英仏連合共同戦線」へ自動変更\nバニラではユニオンジャックのままだった国旗を、英仏両国の国旗を組み合わせた専用旗に変更\n←バニラ　MOD導入後→",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110962657839009792",
+            "url": "https://pbs.twimg.com/media/HUulWlqb0AAn0v5.png?name=orig",
+            "width": 847,
+            "height": 522
+          },
+          {
+            "type": "photo",
+            "id": "2110962878811615232",
+            "url": "https://pbs.twimg.com/media/HUuljc2aMAA6gSK.png?name=orig",
+            "width": 758,
+            "height": 678
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110962657839009792",
+            "url": "https://pbs.twimg.com/media/HUulWlqb0AAn0v5.png?name=orig",
+            "width": 847,
+            "height": 522
+          },
+          {
+            "type": "photo",
+            "id": "2110962878811615232",
+            "url": "https://pbs.twimg.com/media/HUuljc2aMAA6gSK.png?name=orig",
+            "width": 758,
+            "height": 678
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2110962959723950300/HUulWlqb0AAn0v5/HUuljc2aMAA6gSK",
+            "webp": "https://mosaic.fxtwitter.com/webp/2110962959723950300/HUulWlqb0AAn0v5/HUuljc2aMAA6gSK"
+          }
+        }
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 31
     },
     {
       "id": "2110954978970046542",
@@ -1024,7 +1081,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 21
+      "views": 53
     },
     {
       "id": "2110953087582302489",
@@ -1060,7 +1117,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 24
+      "views": 92
     },
     {
       "id": "2110944489787531388",
@@ -1077,7 +1134,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 133
+      "views": 232
     },
     {
       "id": "2110941863209537744",
@@ -1094,7 +1151,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 583
+      "views": 605
     },
     {
       "id": "2110940695334965329",
@@ -1111,7 +1168,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 342
+      "views": 349
     },
     {
       "id": "2110891854078341434",
@@ -1142,12 +1199,12 @@
           }
         ]
       },
-      "likes": 18,
+      "likes": 19,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 939
+      "views": 1006
     },
     {
       "id": "2110386965933908352",
@@ -1234,7 +1291,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1206,
+      "views": 1207,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1501,7 +1558,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6097,
+      "views": 6098,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1979,7 +2036,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3363
+      "views": 3365
     },
     {
       "article": null,
@@ -2052,7 +2109,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 473
+      "views": 481
     },
     {
       "article": null,
@@ -2094,7 +2151,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1768
+      "views": 1781
     },
     {
       "article": null,
@@ -2111,7 +2168,7 @@
       "id": "2109973234087264731",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 118,
+      "likes": 119,
       "links": [],
       "media": [],
       "mentions": [],
@@ -2126,7 +2183,7 @@
       "text": "HoI4で俺みたいな遊び方してる人っているんですかね？\n\n陸軍しか操作しない（海空軍は触れない）\n空軍はすべて解体して国際市場に売り出す\n師団はすべて民兵\n講和会議ではAIに一切介入させず、AI国家の分まで自分で領土分配する（非合理的な国境を防ぐため）\n特別研究施設は自国・敵国問わずすべて解体",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109973234087264731",
-      "views": 12631
+      "views": 12657
     },
     {
       "article": null,
@@ -2168,7 +2225,7 @@
       "text": "以前制作したHoI4の国名変更MODから日本の傀儡国のスクショを紹介\n史実の名称や統治形態に合わせて調整しています\nなお、スクショに登場する「冀東防共自治政府」は、KSRE MODで追加された国家です。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109937027903102990",
-      "views": 1159
+      "views": 1173
     },
     {
       "article": null,
@@ -2204,7 +2261,7 @@
       "text": "誤字：だったろ\n正字：だったり",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109931685366415680",
-      "views": 5132
+      "views": 5142
     },
     {
       "article": null,
@@ -2236,7 +2293,7 @@
       "text": "HoI4で「この国名は明らかにおかしいだろ」と思ったことはありますか？\n国名の誤訳だったろ史実・政治体制に合っていない国名など、不自然だと思うものがあればリプで教えてください\n確認し、明らかにおかしいものはMODで修正します",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109931489169387870",
-      "views": 46299
+      "views": 46354
     },
     {
       "article": null,
@@ -2286,7 +2343,7 @@
       "text": "エチオピアとエリトリアの双方に「相手が侵略者であり、自国は防衛している」って理屈が成立してるのが恐ろしい\nティグライ州への軍事侵入に対する自衛権の問題と、エチオピアが紅海へのアクセスを求める問題は別々に扱うべきもの\n今のところ、正式な宣戦布告は未確認なんで真に受け取らないように",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2109847188096553453",
-      "views": 1063
+      "views": 1074
     },
     {
       "article": null,
@@ -2318,7 +2375,7 @@
       "text": "フランス革命で国王が処刑された理由を考えると、絶対王政という制度には重大な欠陥があったことがわかる\n国王が絶対的な権力を持っているはずなのに、国民がその国王を処刑できてしまったのである\n\n絶対という言葉の信頼性が揺らぐ事件だ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109816749495644412",
-      "views": 323
+      "views": 331
     },
     {
       "article": null,
@@ -11797,5 +11854,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T05:06:22.990628+00:00"
+  "last_metric_refresh_at": "2026-10-16T05:35:05.785229+00:00"
 }
