@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 292,
+  "count": 293,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 409
+      "views": 422
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1041
+      "views": 1077
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1727
+      "views": 1765
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1578
+      "views": 1603
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 306
+      "views": 314
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1904
+      "views": 1912
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2994
+      "views": 3005
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 616
+      "views": 624
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 744
+      "views": 749
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1748
+      "views": 1757
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 550
+      "views": 555
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1576
+      "views": 1583
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 577
+      "views": 580
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6561
+      "views": 6568
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 35,
-      "views": 43055
+      "views": 43089
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,24 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1278
+      "views": 1281
+    },
+    {
+      "id": "2111064545662021765",
+      "url": "https://x.com/sattoa_ball/status/2111064545662021765",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 11:59:44 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
+      "media": [],
+      "likes": 7,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 138
     },
     {
       "id": "2111001326801007084",
@@ -1073,12 +1090,12 @@
           }
         }
       },
-      "likes": 13,
+      "likes": 17,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 857
+      "views": 977
     },
     {
       "id": "2110962959723950300",
@@ -1130,12 +1147,12 @@
           }
         }
       },
-      "likes": 27,
+      "likes": 28,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1914
+      "views": 2248
     },
     {
       "id": "2110954978970046542",
@@ -1152,7 +1169,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 294
+      "views": 318
     },
     {
       "id": "2110953087582302489",
@@ -1183,12 +1200,12 @@
           }
         ]
       },
-      "likes": 49,
-      "retweets": 2,
-      "replies": 0,
+      "likes": 60,
+      "retweets": 3,
+      "replies": 1,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 2942
+      "bookmarks": 4,
+      "views": 3635
     },
     {
       "id": "2110944489787531388",
@@ -1205,7 +1222,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 413
+      "views": 434
     },
     {
       "id": "2110941863209537744",
@@ -1222,7 +1239,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 756
+      "views": 771
     },
     {
       "id": "2110940695334965329",
@@ -1239,7 +1256,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 430
+      "views": 442
     },
     {
       "id": "2110891854078341434",
@@ -1270,12 +1287,12 @@
           }
         ]
       },
-      "likes": 29,
+      "likes": 33,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1693
+      "views": 1753
     },
     {
       "id": "2110386965933908352",
@@ -1294,7 +1311,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 876,
+      "views": 878,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1326,7 +1343,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 364,
+      "views": 366,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1362,7 +1379,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 1234,
+      "views": 1236,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1396,7 +1413,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23250,
+      "views": 23255,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1456,7 +1473,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1991,
+      "views": 1993,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1498,7 +1515,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2807,
+      "views": 2809,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1540,7 +1557,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 989,
+      "views": 991,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1576,7 +1593,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4393,
+      "views": 4395,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1629,7 +1646,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6125,
+      "views": 6129,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1680,7 +1697,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3683,
+      "views": 3684,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1731,7 +1748,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 574,
+      "views": 575,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1763,7 +1780,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1539,
+      "views": 1540,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1860,7 +1877,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2581,
+      "views": 2582,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -9484,7 +9501,7 @@
       "text": "今の登録者数を100倍にしてみた！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1714552648668721200",
-      "views": 677
+      "views": 678
     },
     {
       "article": null,
@@ -9660,7 +9677,7 @@
       "text": "israel hamas war",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1712297883167527407",
-      "views": 631
+      "views": 632
     },
     {
       "article": null,
@@ -9774,7 +9791,7 @@
       "text": "※開始1日目です",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1710607882826469786",
-      "views": 339
+      "views": 340
     },
     {
       "article": null,
@@ -11925,5 +11942,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T12:15:49.919421+00:00"
+  "last_metric_refresh_at": "2026-10-16T13:03:14.980291+00:00"
 }
