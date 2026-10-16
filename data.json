@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 338
+      "views": 340
     },
     {
       "id": "2110678432430555148",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 592
+      "views": 593
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6616
+      "views": 6617
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43192
+      "views": 43193
     },
     {
       "id": "2110530879009464362",
@@ -1043,7 +1043,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 281
+      "views": 292
     },
     {
       "id": "2111100026684690728",
@@ -1123,12 +1123,12 @@
           }
         }
       },
-      "likes": 27,
+      "likes": 29,
       "retweets": 0,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 3005
+      "bookmarks": 5,
+      "views": 3074
     },
     {
       "id": "2111064545662021765",
@@ -1140,12 +1140,12 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 15,
+      "likes": 18,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 376
+      "views": 380
     },
     {
       "id": "2111001326801007084",
@@ -1211,12 +1211,12 @@
           }
         }
       },
-      "likes": 27,
+      "likes": 28,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1495
+      "views": 1501
     },
     {
       "id": "2110962959723950300",
@@ -1273,7 +1273,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2964
+      "views": 2977
     },
     {
       "id": "2110954978970046542",
@@ -1326,7 +1326,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 5582
+      "views": 5618
     },
     {
       "id": "2110944489787531388",
@@ -1343,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 491
+      "views": 492
     },
     {
       "id": "2110941863209537744",
@@ -1360,7 +1360,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 814
+      "views": 815
     },
     {
       "id": "2110940695334965329",
@@ -1377,7 +1377,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 469
+      "views": 470
     },
     {
       "id": "2110891854078341434",
@@ -1408,12 +1408,12 @@
           }
         ]
       },
-      "likes": 39,
+      "likes": 40,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1919
+      "views": 1921
     },
     {
       "id": "2110386965933908352",
@@ -4634,7 +4634,7 @@
       "text": "ｻｯﾄｻｯﾄ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895052979935629806",
-      "views": 1489
+      "views": 1490
     },
     {
       "article": null,
@@ -4716,7 +4716,7 @@
       "text": "omedetou",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1894688144580391365",
-      "views": 1322
+      "views": 1321
     },
     {
       "article": null,
@@ -4758,7 +4758,7 @@
       "text": "你好すこるアル",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1894295697438253317",
-      "views": 2889
+      "views": 2890
     },
     {
       "article": null,
@@ -4800,7 +4800,7 @@
       "text": "よしゃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1893290315571716188",
-      "views": 1499
+      "views": 1502
     },
     {
       "article": null,
@@ -4832,7 +4832,7 @@
       "text": "うどんまじうまい\nずっとたべてたい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1893257922018189325",
-      "views": 1034
+      "views": 1036
     },
     {
       "article": null,
@@ -4874,7 +4874,7 @@
       "text": "作さんの勢いすごい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1893145112173257187",
-      "views": 1749
+      "views": 1752
     },
     {
       "article": null,
@@ -4906,7 +4906,7 @@
       "text": "あと５日でロシア軍のウクライナ全面侵攻から３年って本当？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1892207127684391411",
-      "views": 988
+      "views": 990
     },
     {
       "article": null,
@@ -4938,7 +4938,7 @@
       "text": "フヒフムがベッドウォーズ作ってそこで遊んだ\nたのちい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1892206325662134719",
-      "views": 996
+      "views": 998
     },
     {
       "article": null,
@@ -4970,7 +4970,7 @@
       "text": "マイクラでフヒフムのオープニングのbgm作った",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1892116435549262113",
-      "views": 1468
+      "views": 1470
     },
     {
       "article": null,
@@ -4987,7 +4987,7 @@
       "id": "1892066136893882736",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 18,
+      "likes": 19,
       "links": [],
       "media": [
         {
@@ -5012,7 +5012,7 @@
       "text": "あとでこんな風に引っ張ってやる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1892066136893882736",
-      "views": 2000
+      "views": 2002
     },
     {
       "article": null,
@@ -5044,7 +5044,7 @@
       "text": "悲報：あむぼーるのチャンネルBANされる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1892053327447314433",
-      "views": 5060
+      "views": 5061
     },
     {
       "article": null,
@@ -12063,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T21:42:20.333551+00:00"
+  "last_metric_refresh_at": "2026-10-16T22:09:19.383574+00:00"
 }
