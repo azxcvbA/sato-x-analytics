@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 284
+      "views": 288
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 546
+      "views": 552
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 786
+      "views": 816
     },
     {
       "id": "2110708839695949870",
@@ -644,10 +644,10 @@
       "media": [],
       "likes": 14,
       "retweets": 1,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 938
+      "views": 965
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 219
+      "views": 220
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1402
+      "views": 1416
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2761
+      "views": 2774
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 532
+      "views": 534
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 647
+      "views": 648
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1568
+      "views": 1574
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 495
+      "views": 496
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1455
+      "views": 1461
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 533
+      "views": 534
     },
     {
       "id": "2110535515539939803",
@@ -911,10 +911,10 @@
       },
       "likes": 111,
       "retweets": 13,
-      "replies": 4,
+      "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6146
+      "views": 6170
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 116,
-      "retweets": 6,
+      "likes": 121,
+      "retweets": 8,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 29,
-      "views": 32278
+      "bookmarks": 31,
+      "views": 34473
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1210
+      "views": 1214
     },
     {
       "id": "2110386965933908352",
@@ -1026,7 +1026,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 832,
+      "views": 834,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1058,7 +1058,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 332,
+      "views": 333,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1094,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1188,
+      "views": 1189,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1128,7 +1128,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23173,
+      "views": 23175,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1188,7 +1188,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1951,
+      "views": 1952,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1230,7 +1230,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2768,
+      "views": 2769,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1272,7 +1272,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 967,
+      "views": 968,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1308,7 +1308,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4358,
+      "views": 4359,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1361,7 +1361,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6080,
+      "views": 6081,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1412,7 +1412,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3638,
+      "views": 3639,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1592,7 +1592,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2553,
+      "views": 2554,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -5139,7 +5139,7 @@
       "text": "最近動画上げてないのは\nネタが無いとか界隈にうんざりとかじゃなくて\n動画作ること自体飽きてしまっただけよ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1847097433828085866",
-      "views": 2973
+      "views": 2976
     },
     {
       "article": null,
@@ -5171,7 +5171,7 @@
       "text": "ポーランドボーラーウィキの\n自分・あるいは仲いいpberさんのページを編集してみたい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1836676313337467021",
-      "views": 2065
+      "views": 2067
     },
     {
       "article": null,
@@ -5213,7 +5213,7 @@
       "text": "ボー人亜種",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1831983079327711320",
-      "views": 2896
+      "views": 2901
     },
     {
       "article": null,
@@ -5255,7 +5255,7 @@
       "text": "クリスティアーノ・ロナウドさんの\nyoutubeチャンネル、\nチャンネル登録者数の勢いがとんでもなくて笑う\n（１日で５４０万人から２４００万人まで増えた）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1827265249252405703",
-      "views": 2776
+      "views": 2790
     },
     {
       "article": null,
@@ -5297,7 +5297,7 @@
       "text": "2人の問題なら2人で解決してくださいとありますが、彼は第三者ですよね。口出しする必要はあるのだろうか？discord上の北米ボールを知っているのだろうか？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1822778981701284320",
-      "views": 3220
+      "views": 3224
     },
     {
       "article": null,
@@ -5329,7 +5329,7 @@
       "text": "地震が来ても生きてたら会おう。必ずや",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1822095531352699345",
-      "views": 3041
+      "views": 3045
     },
     {
       "article": null,
@@ -5371,7 +5371,7 @@
       "text": "おっしゃあ！自分自身に打ち勝ったぞ！\n誰も止められない！私でさえ止められない！\nﾔｯﾀｱｱｱｱｱ!!!! hoooooooo",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821902344587768020",
-      "views": 2990
+      "views": 2993
     },
     {
       "article": null,
@@ -5413,7 +5413,7 @@
       "text": "反省できないの間違い",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821822865970491793",
-      "views": 3866
+      "views": 3870
     },
     {
       "article": null,
@@ -5464,7 +5464,7 @@
       "text": "ちょっと愚痴になるんですけど、北米ボールって人がいましてね。最初は仲良しだったんですけど、だんだんおかしくなっていって最終的には「さとカス」って呼ばれたんですよね…\n動画もパクられるらしいです\nもしパクられてたら通報してくれるとありがたいです",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821784807225045375",
-      "views": 5479
+      "views": 5481
     },
     {
       "article": null,
@@ -5506,7 +5506,7 @@
       "text": "ロシアのウクライナ侵攻×\nウクライナのロシア侵攻〇",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821733671596109923",
-      "views": 4764
+      "views": 4770
     },
     {
       "article": null,
@@ -5548,7 +5548,7 @@
       "text": "まさか最初の1日で5万再生いくとは・・・\nどの動画よりも勢いあるね！\nこんなにたくさんの人たちが視聴してくれて嬉しいです",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820721955915620751",
-      "views": 1816
+      "views": 1817
     },
     {
       "article": null,
@@ -5590,7 +5590,7 @@
       "text": "あすえいボールさんが復活してから、再生数も登録者数も勢いやばすぎておい、笑える",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820407042575925253",
-      "views": 2083
+      "views": 2085
     },
     {
       "article": null,
@@ -11657,5 +11657,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-15T23:54:54.577668+00:00"
+  "last_metric_refresh_at": "2026-10-16T00:15:54.685573+00:00"
 }
