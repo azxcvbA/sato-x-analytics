@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 291,
+  "count": 292,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 659
+      "views": 660
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 300
+      "views": 301
     },
     {
       "id": "2110192549000560755",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 360
+      "views": 371
     },
     {
       "id": "2110727885514514465",
@@ -570,10 +570,10 @@
       },
       "likes": 9,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 768
+      "views": 812
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 24,
+      "likes": 25,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1401
+      "views": 1503
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 18,
+      "likes": 20,
       "retweets": 1,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 1472
+      "bookmarks": 2,
+      "views": 1492
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 269
+      "views": 277
     },
     {
       "id": "2110678432430555148",
@@ -695,12 +695,12 @@
           }
         ]
       },
-      "likes": 38,
+      "likes": 41,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 1684
+      "bookmarks": 4,
+      "views": 1727
     },
     {
       "id": "2110665472505172348",
@@ -731,12 +731,12 @@
           }
         ]
       },
-      "likes": 41,
+      "likes": 42,
       "retweets": 0,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2910
+      "views": 2924
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 581
+      "views": 588
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 703
+      "views": 710
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1698
+      "views": 1709
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 525
+      "views": 530
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1524
+      "views": 1532
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 555
+      "views": 559
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6358
+      "views": 6383
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 136,
+      "likes": 137,
       "retweets": 9,
       "replies": 5,
       "quotes": 0,
-      "bookmarks": 35,
-      "views": 42876
+      "bookmarks": 36,
+      "views": 42918
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,78 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1250
+      "views": 1256
+    },
+    {
+      "id": "2111001326801007084",
+      "url": "https://x.com/sattoa_ball/status/2111001326801007084",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 07:48:31 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4のソ連の国名をMODで変更\n通常：ソビエト社会主義共和国連邦\n左翼反対派：ヨーロッパ及びアジア・ソビエト共和国連邦\n右翼反対派：労農・農業協同連盟ソビエト共和国連邦\n国名を長くした理由は単純\n国土がでかいから国名もでかくしました",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111000778798415872",
+            "url": "https://pbs.twimg.com/media/HUvIBhTaQAAT29B.jpg?name=orig",
+            "width": 928,
+            "height": 745
+          },
+          {
+            "type": "photo",
+            "id": "2111000833169240065",
+            "url": "https://pbs.twimg.com/media/HUvIEr2bMAEEfhT.jpg?name=orig",
+            "width": 924,
+            "height": 754
+          },
+          {
+            "type": "photo",
+            "id": "2111000902928863232",
+            "url": "https://pbs.twimg.com/media/HUvIIvuakAAYHoi.png?name=orig",
+            "width": 895,
+            "height": 750
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111000778798415872",
+            "url": "https://pbs.twimg.com/media/HUvIBhTaQAAT29B.jpg?name=orig",
+            "width": 928,
+            "height": 745
+          },
+          {
+            "type": "photo",
+            "id": "2111000833169240065",
+            "url": "https://pbs.twimg.com/media/HUvIEr2bMAEEfhT.jpg?name=orig",
+            "width": 924,
+            "height": 754
+          },
+          {
+            "type": "photo",
+            "id": "2111000902928863232",
+            "url": "https://pbs.twimg.com/media/HUvIIvuakAAYHoi.png?name=orig",
+            "width": 895,
+            "height": 750
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2111001326801007084/HUvIBhTaQAAT29B/HUvIEr2bMAEEfhT/HUvIIvuakAAYHoi",
+            "webp": "https://mosaic.fxtwitter.com/webp/2111001326801007084/HUvIBhTaQAAT29B/HUvIEr2bMAEEfhT/HUvIIvuakAAYHoi"
+          }
+        }
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 34
     },
     {
       "id": "2110962959723950300",
@@ -1059,12 +1130,12 @@
           }
         }
       },
-      "likes": 5,
+      "likes": 14,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 560
+      "bookmarks": 3,
+      "views": 845
     },
     {
       "id": "2110954978970046542",
@@ -1081,7 +1152,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 179
+      "views": 199
     },
     {
       "id": "2110953087582302489",
@@ -1112,12 +1183,12 @@
           }
         ]
       },
-      "likes": 7,
-      "retweets": 0,
+      "likes": 10,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 459
+      "views": 593
     },
     {
       "id": "2110944489787531388",
@@ -1134,7 +1205,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 315
+      "views": 336
     },
     {
       "id": "2110941863209537744",
@@ -1146,12 +1217,12 @@
       "author_id": "1592826578786217984",
       "text": "今回のマグニチュード9.9の緊急地震速報の原因、原因は何だったんだろう？\n単なるシステムの不具合なのか\nそれともサイバー攻撃が関係しているのか\n現時点では原因が分からないから気になる",
       "media": [],
-      "likes": 12,
+      "likes": 14,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 661
+      "views": 690
     },
     {
       "id": "2110940695334965329",
@@ -1168,7 +1239,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 367
+      "views": 377
     },
     {
       "id": "2110891854078341434",
@@ -1199,12 +1270,12 @@
           }
         ]
       },
-      "likes": 23,
+      "likes": 24,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1197
+      "views": 1313
     },
     {
       "id": "2110386965933908352",
@@ -1223,7 +1294,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 857,
+      "views": 861,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1255,7 +1326,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 348,
+      "views": 353,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1291,7 +1362,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1213,
+      "views": 1219,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1325,7 +1396,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23218,
+      "views": 23226,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1385,7 +1456,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1971,
+      "views": 1977,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1427,7 +1498,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2788,
+      "views": 2793,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1469,7 +1540,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 977,
+      "views": 981,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1505,7 +1576,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4376,
+      "views": 4381,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1558,7 +1629,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6106,
+      "views": 6111,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1609,7 +1680,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3661,
+      "views": 3665,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1660,7 +1731,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 566,
+      "views": 568,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1692,7 +1763,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1528,
+      "views": 1530,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1789,7 +1860,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2566,
+      "views": 2569,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -11087,7 +11158,7 @@
       "text": "youtubeで動画上げてるから見てくださいね！\nhttps://youtube.com/@sattoaPB?si=P7AYKDzWYwWIctKp",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698338296706068605",
-      "views": 23395
+      "views": 23565
     },
     {
       "article": null,
@@ -11129,7 +11200,7 @@
       "text": "分断ドイツ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698337733050278205",
-      "views": 310
+      "views": 311
     },
     {
       "article": null,
@@ -11268,7 +11339,7 @@
       "text": "",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1667753496270233600",
-      "views": 211
+      "views": 213
     },
     {
       "article": null,
@@ -11854,5 +11925,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T07:21:35.887813+00:00"
+  "last_metric_refresh_at": "2026-10-16T07:58:51.373546+00:00"
 }
