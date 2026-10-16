@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 293,
+  "count": 294,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 428
+      "views": 431
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1113
+      "views": 1114
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1784
+      "views": 1785
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1611
+      "views": 1614
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 323
+      "views": 324
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1924
+      "views": 1925
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3017
+      "views": 3019
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 633
+      "views": 634
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 756
+      "views": 758
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1765
+      "views": 1768
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 559
+      "views": 560
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1595
+      "views": 1600
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 584
+      "views": 585
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6580
+      "views": 6590
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43124
+      "views": 43137
     },
     {
       "id": "2110530879009464362",
@@ -1010,6 +1010,91 @@
       "views": 1287
     },
     {
+      "id": "2111100026684690728",
+      "url": "https://x.com/sattoa_ball/status/2111100026684690728",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 14:20:43 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "既存の国家タグが\nファシズムのナチス・ドイツに傀儡化された場合の国名を作成中",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111099751387348992",
+            "url": "https://pbs.twimg.com/media/HUwiCe7bwAAG4Ot.png?name=orig",
+            "width": 703,
+            "height": 648
+          },
+          {
+            "type": "photo",
+            "id": "2111099839845212160",
+            "url": "https://pbs.twimg.com/media/HUwiHodboAAmum0.jpg?name=orig",
+            "width": 1098,
+            "height": 785
+          },
+          {
+            "type": "photo",
+            "id": "2111099912108838913",
+            "url": "https://pbs.twimg.com/media/HUwiL1qbEAEYMLd.jpg?name=orig",
+            "width": 1500,
+            "height": 826
+          },
+          {
+            "type": "photo",
+            "id": "2111099986809372672",
+            "url": "https://pbs.twimg.com/media/HUwiQL8awAAfISc.jpg?name=orig",
+            "width": 1252,
+            "height": 762
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111099751387348992",
+            "url": "https://pbs.twimg.com/media/HUwiCe7bwAAG4Ot.png?name=orig",
+            "width": 703,
+            "height": 648
+          },
+          {
+            "type": "photo",
+            "id": "2111099839845212160",
+            "url": "https://pbs.twimg.com/media/HUwiHodboAAmum0.jpg?name=orig",
+            "width": 1098,
+            "height": 785
+          },
+          {
+            "type": "photo",
+            "id": "2111099912108838913",
+            "url": "https://pbs.twimg.com/media/HUwiL1qbEAEYMLd.jpg?name=orig",
+            "width": 1500,
+            "height": 826
+          },
+          {
+            "type": "photo",
+            "id": "2111099986809372672",
+            "url": "https://pbs.twimg.com/media/HUwiQL8awAAfISc.jpg?name=orig",
+            "width": 1252,
+            "height": 762
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2111100026684690728/HUwiCe7bwAAG4Ot/HUwiHodboAAmum0/HUwiL1qbEAEYMLd/HUwiQL8awAAfISc",
+            "webp": "https://mosaic.fxtwitter.com/webp/2111100026684690728/HUwiCe7bwAAG4Ot/HUwiHodboAAmum0/HUwiL1qbEAEYMLd/HUwiQL8awAAfISc"
+          }
+        }
+      },
+      "likes": 5,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 132
+    },
+    {
       "id": "2111064545662021765",
       "url": "https://x.com/sattoa_ball/status/2111064545662021765",
       "type": "tweet",
@@ -1019,12 +1104,12 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 11,
+      "likes": 13,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 295
+      "views": 317
     },
     {
       "id": "2111001326801007084",
@@ -1095,7 +1180,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1135
+      "views": 1213
     },
     {
       "id": "2110962959723950300",
@@ -1147,12 +1232,12 @@
           }
         }
       },
-      "likes": 30,
+      "likes": 31,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2535
+      "views": 2599
     },
     {
       "id": "2110954978970046542",
@@ -1169,7 +1254,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 335
+      "views": 337
     },
     {
       "id": "2110953087582302489",
@@ -1200,12 +1285,12 @@
           }
         ]
       },
-      "likes": 75,
+      "likes": 81,
       "retweets": 3,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4182
+      "views": 4461
     },
     {
       "id": "2110944489787531388",
@@ -1222,7 +1307,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 453
+      "views": 459
     },
     {
       "id": "2110941863209537744",
@@ -1239,7 +1324,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 784
+      "views": 790
     },
     {
       "id": "2110940695334965329",
@@ -1251,12 +1336,12 @@
       "author_id": "1592826578786217984",
       "text": "地震が起こるたびに死ぬサイト、その名もX\nマグニチュード9.9(M9.9)は疑うけどビビる",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 449
+      "views": 452
     },
     {
       "id": "2110891854078341434",
@@ -1287,12 +1372,12 @@
           }
         ]
       },
-      "likes": 36,
+      "likes": 37,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1817
+      "views": 1831
     },
     {
       "id": "2110386965933908352",
@@ -1413,7 +1498,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23258,
+      "views": 23259,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1473,7 +1558,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1995,
+      "views": 1996,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1646,7 +1731,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6134,
+      "views": 6136,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3095,7 +3180,7 @@
       "text": "8月23日辺りからこのサイトを閲覧しているが\n当時から再生数が一致していないのが気になる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108910223218065855",
-      "views": 766
+      "views": 767
     },
     {
       "article": null,
@@ -3137,7 +3222,7 @@
       "text": "HoI4でオスマン帝国を復活させて、旧領を再建中\n画像はKSREとその日本語化MODをベースに個人用にさらに改造した「Sato KSREjap」を使用しています\nオスマン帝国の従属国名も独自に変更しているので、かなり雰囲気が出てきた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108788865314197851",
-      "views": 1012
+      "views": 1017
     },
     {
       "article": null,
@@ -3179,7 +3264,7 @@
       "text": "みかんぼーるとフヒフムの登録者数の差をまとめたぞ\n9月26日〜10月9日の13日間での平均\nみかんぼーる　約1,846人/日\nフヒフム　約692人/日\n差の埋まり　約1,154人/日\n今の差は35,000人なので、逆転まで約30.3日という計算になる\n11月8〜9日ごろ予想",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108533675461898605",
-      "views": 674
+      "views": 675
     },
     {
       "article": null,
@@ -3211,7 +3296,7 @@
       "text": "約1年半ぶりのツイートですね\n長期間ログインしていなかったんで本気で「ログインしてなさすぎてBANされた」と思い込んでいました\n普通にログインできました　びっくり",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108528903405146401",
-      "views": 2577
+      "views": 2580
     },
     {
       "article": null,
@@ -3243,7 +3328,7 @@
       "text": "久しぶりにゴッドフィールドやったけどおもろいわ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1908853777571922223",
-      "views": 6002
+      "views": 6003
     },
     {
       "article": null,
@@ -3275,7 +3360,7 @@
       "text": "スイッチ２の値段いくらなんだろう・・・\n一番気になるとこ何も言ってなかったからかなｃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1907433905172733967",
-      "views": 6286
+      "views": 6291
     },
     {
       "article": null,
@@ -3335,7 +3420,7 @@
       "text": "",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1906154886401826835",
-      "views": 7550
+      "views": 7556
     },
     {
       "article": null,
@@ -3379,7 +3464,7 @@
       "text": "#フヒフ紫キャベツ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1906153786261020929",
-      "views": 19848
+      "views": 19857
     },
     {
       "article": null,
@@ -3421,7 +3506,7 @@
       "text": "トレンドのランキングで\nトモコレがニンダイ超えちゃった、えぐい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1905269673870188811",
-      "views": 2522
+      "views": 2535
     },
     {
       "article": null,
@@ -3463,7 +3548,7 @@
       "text": "ウクライナのロシア侵攻パート２",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1904498386562101337",
-      "views": 2443
+      "views": 2456
     },
     {
       "article": null,
@@ -3495,7 +3580,7 @@
       "text": "そういえば日本垢2周年　いえーい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1903385131265708102",
-      "views": 2067
+      "views": 2076
     },
     {
       "article": null,
@@ -3527,7 +3612,7 @@
       "text": "ちょっと前に始まったばっかりの3月が\n3分の2終わるのやばいって",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1903096539297489159",
-      "views": 1881
+      "views": 1890
     },
     {
       "article": null,
@@ -11942,5 +12027,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T14:14:43.894875+00:00"
+  "last_metric_refresh_at": "2026-10-16T14:50:23.092078+00:00"
 }
