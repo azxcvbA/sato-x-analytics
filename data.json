@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 288,
+  "count": 290,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -485,7 +485,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 182
+      "views": 183
     },
     {
       "id": "2110733273794236648",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 335
+      "views": 337
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 671
+      "views": 682
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 20,
+      "likes": 21,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1230
+      "views": 1248
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1400
+      "views": 1420
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 254
+      "views": 255
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1596
+      "views": 1612
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 4,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2881
+      "views": 2885
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 564
+      "views": 565
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 688
+      "views": 692
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1647
+      "views": 1656
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 519
+      "views": 520
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1507
+      "views": 1510
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 549
+      "views": 551
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6307
+      "views": 6316
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 35,
-      "views": 42685
+      "views": 42736
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,60 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1241
+      "views": 1243
+    },
+    {
+      "id": "2110954978970046542",
+      "url": "https://x.com/sattoa_ball/status/2110954978970046542",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 04:44:21 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "1939年のポーランドは\nイギリスとフランスから独立保障を受けていた\nドイツが侵攻し、英仏はドイツに宣戦布告した\n要するにポーランドを攻撃したドイツは世界大戦に突入した\nしかしポーランドは約1か月で敗北した\n世界大戦によって約束通りポーランドの独立は無事に消滅したのだ",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 21
+    },
+    {
+      "id": "2110953087582302489",
+      "url": "https://x.com/sattoa_ball/status/2110953087582302489",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 04:36:50 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ヒトラー:ラインラントに軍を進める！\nマッケンゼン:英仏との戦争を招く気か！\nヒトラー:総統の決定に逆らうのか？\nマッケンゼン:国防軍は貴様の私兵ではない！\nヒトラー:反逆者め！\nマッケンゼン:臨時軍政府の樹立を宣言する！全軍ヒトラー政権を打倒せよ！\n1936年3月11日ドイツ内戦勃発",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110953083287298049",
+            "url": "https://pbs.twimg.com/media/HUucpRra4AE6W_5.jpg?name=orig",
+            "width": 965,
+            "height": 631
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110953083287298049",
+            "url": "https://pbs.twimg.com/media/HUucpRra4AE6W_5.jpg?name=orig",
+            "width": 965,
+            "height": 631
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 24
     },
     {
       "id": "2110944489787531388",
@@ -1019,12 +1072,12 @@
       "author_id": "1592826578786217984",
       "text": "M9.9がどのくらいのエネルギーかというと\n東日本大震災（M9.0）の約22倍\n能登半島地震（M7.6）の約2800倍\n※M9.9の地震が実際に発生したわけではなく仮に発生した場合の計算である",
       "media": [],
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 120
+      "views": 133
     },
     {
       "id": "2110941863209537744",
@@ -1036,12 +1089,12 @@
       "author_id": "1592826578786217984",
       "text": "今回のマグニチュード9.9の緊急地震速報の原因、原因は何だったんだろう？\n単なるシステムの不具合なのか\nそれともサイバー攻撃が関係しているのか\n現時点では原因が分からないから気になる",
       "media": [],
-      "likes": 8,
+      "likes": 11,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 536
+      "views": 583
     },
     {
       "id": "2110940695334965329",
@@ -1058,7 +1111,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 331
+      "views": 342
     },
     {
       "id": "2110891854078341434",
@@ -1094,7 +1147,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 874
+      "views": 939
     },
     {
       "id": "2110386965933908352",
@@ -1113,7 +1166,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 850,
+      "views": 851,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1145,7 +1198,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 345,
+      "views": 346,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1181,7 +1234,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1205,
+      "views": 1206,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1215,7 +1268,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23205,
+      "views": 23209,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1275,7 +1328,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1965,
+      "views": 1966,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1317,7 +1370,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2780,
+      "views": 2782,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1359,7 +1412,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 975,
+      "views": 976,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1395,7 +1448,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4371,
+      "views": 4372,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1448,7 +1501,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6096,
+      "views": 6097,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1499,7 +1552,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3653,
+      "views": 3654,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1774,7 +1827,7 @@
       "text": "動画によってコメント欄に求める役割って変わるし\n投稿者側でGIFコメントの有効・無効を選べる仕組みがあるのが妥当だと思う\nGIFを使いたい人と使いたくない人を、どちらか一方に合わせる必要がなくなるうえ\n視聴者側にも「GIFを非表示にする」設定があれば文章だけ読みたい人にも対応できる",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110181257426649209",
-      "views": 2181
+      "views": 2188
     },
     {
       "article": null,
@@ -1824,7 +1877,7 @@
       "text": "Grokでは失敗したんで要約\nHoI4開発者が、ゲーム内で十分に扱われていない歴史上の集団や出来事について意見を募集。ユーザーからは、先住民部隊、植民地軍、亡命科学者、諜報活動、戦争の途中講和、国際連盟、傀儡政権などの再現を求める提案が寄せられている。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110176999511888153",
-      "views": 2198
+      "views": 2209
     },
     {
       "article": null,
@@ -1884,7 +1937,7 @@
       "text": "@grok https://forum.paradoxplaza.com/forum/threads/hoi-iv-dev-corner-talk-to-me-but-not-in-code.1944307/\n以下のHearts of Iron IV（HoI4）公式フォーラムの内容を、日本語で要約してください。\n最後に、今回の議論で特に注目すべき提案を3つ挙げてください。",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2110171805902397690",
-      "views": 334
+      "views": 342
     },
     {
       "article": null,
@@ -1926,7 +1979,7 @@
       "text": "KSREというMODを知ったきっかけは、HoI4配信中にリスナーが教えてくれたから\n史実の国境や国家分割を細かく再現できるから結構気に入ってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2110009295219957882",
-      "views": 3339
+      "views": 3363
     },
     {
       "article": null,
@@ -11744,5 +11797,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T04:35:13.536752+00:00"
+  "last_metric_refresh_at": "2026-10-16T05:06:22.990628+00:00"
 }
