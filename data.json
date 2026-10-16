@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 422
+      "views": 428
     },
     {
       "id": "2110727885514514465",
@@ -568,12 +568,12 @@
           }
         }
       },
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1077
+      "views": 1113
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1765
+      "views": 1784
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1603
+      "views": 1611
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 314
+      "views": 323
     },
     {
       "id": "2110678432430555148",
@@ -695,12 +695,12 @@
           }
         ]
       },
-      "likes": 44,
+      "likes": 45,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1912
+      "views": 1924
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3005
+      "views": 3017
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 624
+      "views": 633
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 749
+      "views": 756
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1757
+      "views": 1765
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 555
+      "views": 559
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1583
+      "views": 1595
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 580
+      "views": 584
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6568
+      "views": 6580
     },
     {
       "id": "2110534044647850040",
@@ -970,8 +970,8 @@
       "retweets": 9,
       "replies": 5,
       "quotes": 0,
-      "bookmarks": 35,
-      "views": 43089
+      "bookmarks": 34,
+      "views": 43124
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1281
+      "views": 1287
     },
     {
       "id": "2111064545662021765",
@@ -1019,12 +1019,12 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 7,
-      "retweets": 0,
+      "likes": 11,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 138
+      "bookmarks": 1,
+      "views": 295
     },
     {
       "id": "2111001326801007084",
@@ -1090,12 +1090,12 @@
           }
         }
       },
-      "likes": 17,
+      "likes": 23,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 977
+      "bookmarks": 3,
+      "views": 1135
     },
     {
       "id": "2110962959723950300",
@@ -1147,12 +1147,12 @@
           }
         }
       },
-      "likes": 28,
+      "likes": 30,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2248
+      "views": 2535
     },
     {
       "id": "2110954978970046542",
@@ -1169,7 +1169,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 318
+      "views": 335
     },
     {
       "id": "2110953087582302489",
@@ -1200,12 +1200,12 @@
           }
         ]
       },
-      "likes": 60,
+      "likes": 75,
       "retweets": 3,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 3635
+      "bookmarks": 5,
+      "views": 4182
     },
     {
       "id": "2110944489787531388",
@@ -1222,7 +1222,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 434
+      "views": 453
     },
     {
       "id": "2110941863209537744",
@@ -1234,12 +1234,12 @@
       "author_id": "1592826578786217984",
       "text": "今回のマグニチュード9.9の緊急地震速報の原因、原因は何だったんだろう？\n単なるシステムの不具合なのか\nそれともサイバー攻撃が関係しているのか\n現時点では原因が分からないから気になる",
       "media": [],
-      "likes": 14,
+      "likes": 15,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 771
+      "views": 784
     },
     {
       "id": "2110940695334965329",
@@ -1256,7 +1256,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 442
+      "views": 449
     },
     {
       "id": "2110891854078341434",
@@ -1287,12 +1287,12 @@
           }
         ]
       },
-      "likes": 33,
+      "likes": 36,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1753
+      "views": 1817
     },
     {
       "id": "2110386965933908352",
@@ -1311,7 +1311,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 878,
+      "views": 881,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1343,7 +1343,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 366,
+      "views": 368,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1379,7 +1379,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 1236,
+      "views": 1243,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1413,7 +1413,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23255,
+      "views": 23258,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1473,7 +1473,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1993,
+      "views": 1995,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1515,7 +1515,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2809,
+      "views": 2811,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1557,7 +1557,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 991,
+      "views": 992,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1593,7 +1593,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4395,
+      "views": 4397,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1646,7 +1646,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6129,
+      "views": 6134,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1697,7 +1697,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3684,
+      "views": 3688,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1748,7 +1748,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 575,
+      "views": 576,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1780,7 +1780,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1540,
+      "views": 1541,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1877,7 +1877,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2582,
+      "views": 2584,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -9995,7 +9995,7 @@
       "text": "なんじゃこりゃ()\nグリルさんは新しい視聴者（ファイブボンバー視聴者）に受け入れられたんだ。（ちなみにPberの1時間の再生回数1位になってる）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1708381788341768216",
-      "views": 549
+      "views": 552
     },
     {
       "article": null,
@@ -10037,7 +10037,7 @@
       "text": "1万人の瞬間にスクショしたぜい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1708295972013699222",
-      "views": 544
+      "views": 545
     },
     {
       "article": null,
@@ -10295,7 +10295,7 @@
       "text": "謎の動画できた()",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1705550152902258926",
-      "views": 334
+      "views": 336
     },
     {
       "article": null,
@@ -10337,7 +10337,7 @@
       "text": "JP BALLって毎秒3再生くらいされてるんか…すげえ()",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1704779500339511763",
-      "views": 443
+      "views": 445
     },
     {
       "article": null,
@@ -11942,5 +11942,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T13:03:14.980291+00:00"
+  "last_metric_refresh_at": "2026-10-16T14:14:43.894875+00:00"
 }
