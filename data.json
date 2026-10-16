@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 285,
+  "count": 288,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 327
+      "views": 332
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 633
+      "views": 652
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 17,
+      "likes": 19,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1124
+      "views": 1188
     },
     {
       "id": "2110708839695949870",
@@ -642,12 +642,12 @@
       "author_id": "1592826578786217984",
       "text": "La Résistanceの諜報システムはhoi4に結構負荷を与えてラグの原因に繋がってるっぽいんでLa Résistanceから諜報機関を消したmodを自作\nプレイヤーの諜報機関設立ボタンを塞ぎ\nAIには諜報機関を設立させないようにする仕組み",
       "media": [],
-      "likes": 17,
+      "likes": 18,
       "retweets": 1,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1318
+      "views": 1376
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 248
+      "views": 251
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1537
+      "views": 1580
     },
     {
       "id": "2110665472505172348",
@@ -731,12 +731,12 @@
           }
         ]
       },
-      "likes": 40,
+      "likes": 41,
       "retweets": 0,
-      "replies": 3,
+      "replies": 4,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2857
+      "views": 2879
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 561
+      "views": 563
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 675
+      "views": 682
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1626
+      "views": 1636
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 518
+      "views": 519
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1502
+      "views": 1507
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 547
+      "views": 549
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6276
+      "views": 6290
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 35,
-      "views": 42468
+      "views": 42625
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,58 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1239
+      "views": 1240
+    },
+    {
+      "id": "2110944489787531388",
+      "url": "https://x.com/sattoa_ball/status/2110944489787531388",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 04:02:40 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "M9.9がどのくらいのエネルギーかというと\n東日本大震災（M9.0）の約22倍\n能登半島地震（M7.6）の約2800倍\n※M9.9の地震が実際に発生したわけではなく仮に発生した場合の計算である",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 87
+    },
+    {
+      "id": "2110941863209537744",
+      "url": "https://x.com/sattoa_ball/status/2110941863209537744",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 03:52:14 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "今回のマグニチュード9.9の緊急地震速報の原因、原因は何だったんだろう？\n単なるシステムの不具合なのか\nそれともサイバー攻撃が関係しているのか\n現時点では原因が分からないから気になる",
+      "media": [],
+      "likes": 4,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 170
+    },
+    {
+      "id": "2110940695334965329",
+      "url": "https://x.com/sattoa_ball/status/2110940695334965329",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 03:47:35 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "地震が起こるたびに死ぬサイト、その名もX\nマグニチュード9.9(M9.9)は疑うけどビビる",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 324
     },
     {
       "id": "2110891854078341434",
@@ -1038,12 +1089,12 @@
           }
         ]
       },
-      "likes": 14,
+      "likes": 18,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 648
+      "views": 783
     },
     {
       "id": "2110386965933908352",
@@ -1062,7 +1113,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 848,
+      "views": 849,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1130,7 +1181,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1204,
+      "views": 1205,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1164,7 +1215,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23201,
+      "views": 23203,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1397,7 +1448,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6092,
+      "views": 6095,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1448,7 +1499,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3650,
+      "views": 3653,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3542,7 +3593,7 @@
       "text": "ツイッター死んでた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041086133387346",
-      "views": 1414
+      "views": 1419
     },
     {
       "article": null,
@@ -3574,7 +3625,7 @@
       "text": "ベッドウォーズにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899015128378724841",
-      "views": 1421
+      "views": 1426
     },
     {
       "article": null,
@@ -3625,7 +3676,7 @@
       "text": "今日も更新",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898603621488681332",
-      "views": 1918
+      "views": 1923
     },
     {
       "article": null,
@@ -3667,7 +3718,7 @@
       "text": "もち",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898373186078797944",
-      "views": 1794
+      "views": 1799
     },
     {
       "article": null,
@@ -3709,7 +3760,7 @@
       "text": "top50の登録者数合計",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898245810522898642",
-      "views": 1493
+      "views": 1498
     },
     {
       "article": null,
@@ -3751,7 +3802,7 @@
       "text": "たいこちゅうAN",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898167971631317225",
-      "views": 2454
+      "views": 2459
     },
     {
       "article": null,
@@ -3793,7 +3844,7 @@
       "text": "ポーランちゃん",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897864526579876191",
-      "views": 1999
+      "views": 2003
     },
     {
       "article": null,
@@ -3825,7 +3876,7 @@
       "text": "生きててよかった",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897608257507856834",
-      "views": 1596
+      "views": 1599
     },
     {
       "article": null,
@@ -3857,7 +3908,7 @@
       "text": "すこるある死んでて草",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897504091032707327",
-      "views": 1864
+      "views": 1867
     },
     {
       "article": null,
@@ -3926,7 +3977,7 @@
       "text": "グーグルアースでウクライナ戦線作るのにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1897470148988297569",
-      "views": 1342
+      "views": 1345
     },
     {
       "article": null,
@@ -3958,7 +4009,7 @@
       "text": "ベッドウォーズたのちい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896184043584262439",
-      "views": 1200
+      "views": 1203
     },
     {
       "article": null,
@@ -4000,7 +4051,7 @@
       "text": "top25近い人多いね\nそれとtop25じゃなくてtop50の間違いね",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1896005747831685177",
-      "views": 1384
+      "views": 1387
     },
     {
       "article": null,
@@ -11693,5 +11744,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T03:32:47.964643+00:00"
+  "last_metric_refresh_at": "2026-10-16T04:06:00.465782+00:00"
 }
