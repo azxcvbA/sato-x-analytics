@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43184
+      "views": 43186
     },
     {
       "id": "2110530879009464362",
@@ -1043,7 +1043,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 260
+      "views": 266
     },
     {
       "id": "2111100026684690728",
@@ -1127,8 +1127,8 @@
       "retweets": 0,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 2695
+      "bookmarks": 3,
+      "views": 2740
     },
     {
       "id": "2111064545662021765",
@@ -1145,7 +1145,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 365
+      "views": 366
     },
     {
       "id": "2111001326801007084",
@@ -1216,7 +1216,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1472
+      "views": 1476
     },
     {
       "id": "2110962959723950300",
@@ -1273,7 +1273,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2890
+      "views": 2903
     },
     {
       "id": "2110954978970046542",
@@ -1326,7 +1326,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 5447
+      "views": 5461
     },
     {
       "id": "2110944489787531388",
@@ -1343,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 485
+      "views": 486
     },
     {
       "id": "2110941863209537744",
@@ -1636,7 +1636,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2819,
+      "views": 2820,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3838,7 +3838,7 @@
       "text": "ま　　た　　お　　前　　か",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899101923799888205",
-      "views": 1809
+      "views": 1821
     },
     {
       "article": null,
@@ -3880,7 +3880,7 @@
       "text": "やばいなこりゃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041285576794511",
-      "views": 1960
+      "views": 1972
     },
     {
       "article": null,
@@ -3912,7 +3912,7 @@
       "text": "ツイッター死んでた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041086133387346",
-      "views": 1419
+      "views": 1423
     },
     {
       "article": null,
@@ -3944,7 +3944,7 @@
       "text": "ベッドウォーズにハマってる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899015128378724841",
-      "views": 1426
+      "views": 1430
     },
     {
       "article": null,
@@ -3995,7 +3995,7 @@
       "text": "今日も更新",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898603621488681332",
-      "views": 1923
+      "views": 1930
     },
     {
       "article": null,
@@ -4037,7 +4037,7 @@
       "text": "もち",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898373186078797944",
-      "views": 1799
+      "views": 1806
     },
     {
       "article": null,
@@ -4079,7 +4079,7 @@
       "text": "top50の登録者数合計",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898245810522898642",
-      "views": 1498
+      "views": 1505
     },
     {
       "article": null,
@@ -4121,7 +4121,7 @@
       "text": "たいこちゅうAN",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898167971631317225",
-      "views": 2459
+      "views": 2466
     },
     {
       "article": null,
@@ -12063,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T19:50:25.070305+00:00"
+  "last_metric_refresh_at": "2026-10-16T20:10:22.493463+00:00"
 }
