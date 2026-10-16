@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 284,
+  "count": 285,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 288
+      "views": 298
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 552
+      "views": 565
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 816
+      "views": 885
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 965
+      "views": 1036
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 220
+      "views": 226
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1416
+      "views": 1436
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2774
+      "views": 2791
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 534
+      "views": 537
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 648
+      "views": 655
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1574
+      "views": 1584
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 496
+      "views": 500
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1461
+      "views": 1471
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 534
+      "views": 537
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6170
+      "views": 6216
     },
     {
       "id": "2110534044647850040",
@@ -966,12 +966,12 @@
           }
         }
       },
-      "likes": 121,
+      "likes": 131,
       "retweets": 8,
-      "replies": 4,
+      "replies": 5,
       "quotes": 0,
-      "bookmarks": 31,
-      "views": 34473
+      "bookmarks": 33,
+      "views": 39992
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,43 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1214
+      "views": 1221
+    },
+    {
+      "id": "2110891854078341434",
+      "url": "https://x.com/sattoa_ball/status/2110891854078341434",
+      "type": "tweet",
+      "created_at": "Fri Oct 16 00:33:31 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "さとMODの国名変更要素\nオーストリア大公国がドイツを傀儡化すると国名が「ドイツ連邦」に変化する仕様に\n元ネタは1815年のウィーン議定書に基づいて成立\n史実ではオーストリア帝国を盟主として成立し、1866年の普墺戦争でプロイセンが勝利したことで解体された\nオーストリア主導のドイツ秩序を再現",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2110891847132512256",
+            "url": "https://pbs.twimg.com/media/HUtk83OaAAAjYHo.png?name=orig",
+            "width": 818,
+            "height": 716
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2110891847132512256",
+            "url": "https://pbs.twimg.com/media/HUtk83OaAAAjYHo.png?name=orig",
+            "width": 818,
+            "height": 716
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 40
     },
     {
       "id": "2110386965933908352",
@@ -1026,7 +1062,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 834,
+      "views": 837,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1058,7 +1094,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 333,
+      "views": 336,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1094,7 +1130,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1189,
+      "views": 1193,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1128,7 +1164,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23175,
+      "views": 23180,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1188,7 +1224,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1952,
+      "views": 1954,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1230,7 +1266,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2769,
+      "views": 2771,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1272,7 +1308,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 968,
+      "views": 970,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1308,7 +1344,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4359,
+      "views": 4362,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1361,7 +1397,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6081,
+      "views": 6084,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1412,7 +1448,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3639,
+      "views": 3642,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1463,7 +1499,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 559,
+      "views": 561,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1495,7 +1531,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1517,
+      "views": 1519,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1537,7 +1573,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 629,
+      "views": 630,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1592,7 +1628,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2554,
+      "views": 2556,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1624,7 +1660,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1162,
+      "views": 1163,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -5814,7 +5850,7 @@
       "text": "@fuhifum \n一ヶ月で50万再生は速すぎるでしょ…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1807282745053167757",
-      "views": 397
+      "views": 398
     },
     {
       "article": null,
@@ -5856,7 +5892,7 @@
       "text": ":)",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1806905237296513510",
-      "views": 2780
+      "views": 2782
     },
     {
       "article": null,
@@ -5906,7 +5942,7 @@
       "text": "ありがとうございます！",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1804772648393806092",
-      "views": 2040
+      "views": 2041
     },
     {
       "article": null,
@@ -5948,7 +5984,7 @@
       "text": "これぞ本来のPB!って感じの動画上げたのに、10本中8位か…\n私の視聴者からしたらブラックジョークより歴史IFの方が需要あるんだね〜",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1804330981064876050",
-      "views": 1967
+      "views": 1969
     },
     {
       "article": null,
@@ -5990,7 +6026,7 @@
       "text": "途中から増え方おかしくて笑う",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1800428940445798802",
-      "views": 1364
+      "views": 1365
     },
     {
       "article": null,
@@ -6032,7 +6068,7 @@
       "text": "日本垢と海外垢を比べる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1798611029750157697",
-      "views": 1771
+      "views": 1781
     },
     {
       "article": null,
@@ -6074,7 +6110,7 @@
       "text": "2.7万人突破!\n皆様ありがとうございます！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1796548683351330945",
-      "views": 1365
+      "views": 1366
     },
     {
       "article": null,
@@ -6116,7 +6152,7 @@
       "text": "れいの🤖「オスマン帝国が残ってたらパレスチナ問題なかったのに…」",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1795000972034613468",
-      "views": 1551
+      "views": 1552
     },
     {
       "article": null,
@@ -6158,7 +6194,7 @@
       "text": "北大西洋条約機構ことNATOさん\n私の動画に使った地図なんだけど、よく見たらオーストリア入っとるやんけ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1793911034371322356",
-      "views": 1649
+      "views": 1650
     },
     {
       "article": null,
@@ -6200,7 +6236,7 @@
       "text": "チャンネル登録者数2.6万人突破！\n皆様いつも見てくれてありがとうございます！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1793546765570027836",
-      "views": 1047
+      "views": 1048
     },
     {
       "article": null,
@@ -6232,7 +6268,7 @@
       "text": "なにツイートすればいいかわかんない時あるよね\n今の私がそう",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1792133977777881206",
-      "views": 979
+      "views": 980
     },
     {
       "article": null,
@@ -6274,7 +6310,7 @@
       "text": "ただの愚痴です。ごめんなさい\n私の配信で関係ない話ばっかりして、何回も注意してるのにそれを聞かず、コメント非表示にされて「これは自分のせいじゃない！\n」と冤罪かぁ…\nルールに関係ない話はしないで！ってあるのにね…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1790742810502779263",
-      "views": 2541
+      "views": 2543
     },
     {
       "article": null,
@@ -11657,5 +11693,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T00:15:54.685573+00:00"
+  "last_metric_refresh_at": "2026-10-16T00:58:48.752303+00:00"
 }
