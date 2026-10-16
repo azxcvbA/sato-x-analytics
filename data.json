@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 146
+      "views": 147
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 660
+      "views": 661
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 301
+      "views": 302
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 233
+      "views": 234
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 258
+      "views": 259
     },
     {
       "id": "2110192096607076516",
@@ -321,7 +321,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 279
+      "views": 282
     },
     {
       "id": "2110191800548008237",
@@ -378,7 +378,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 273
+      "views": 276
     },
     {
       "id": "2110191668049977486",
@@ -449,7 +449,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 281
+      "views": 284
     },
     {
       "id": "2109990179566133498",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 371
+      "views": 381
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 812
+      "views": 858
     },
     {
       "id": "2110717307630854507",
@@ -625,12 +625,12 @@
           }
         }
       },
-      "likes": 25,
+      "likes": 26,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1503
+      "views": 1557
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1492
+      "views": 1505
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 277
+      "views": 284
     },
     {
       "id": "2110678432430555148",
@@ -695,12 +695,12 @@
           }
         ]
       },
-      "likes": 41,
+      "likes": 42,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1727
+      "views": 1768
     },
     {
       "id": "2110665472505172348",
@@ -733,10 +733,10 @@
       },
       "likes": 42,
       "retweets": 0,
-      "replies": 4,
+      "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2924
+      "views": 2940
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 588
+      "views": 596
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 710
+      "views": 719
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1709
+      "views": 1717
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 530
+      "views": 535
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1532
+      "views": 1538
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 559
+      "views": 564
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6383
+      "views": 6436
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 36,
-      "views": 42918
+      "views": 42943
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1256
+      "views": 1261
     },
     {
       "id": "2111001326801007084",
@@ -1073,12 +1073,12 @@
           }
         }
       },
-      "likes": 1,
+      "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 34
+      "bookmarks": 2,
+      "views": 337
     },
     {
       "id": "2110962959723950300",
@@ -1130,12 +1130,12 @@
           }
         }
       },
-      "likes": 14,
+      "likes": 17,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 845
+      "bookmarks": 4,
+      "views": 1010
     },
     {
       "id": "2110954978970046542",
@@ -1152,7 +1152,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 199
+      "views": 219
     },
     {
       "id": "2110953087582302489",
@@ -1183,12 +1183,12 @@
           }
         ]
       },
-      "likes": 10,
+      "likes": 13,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 593
+      "views": 769
     },
     {
       "id": "2110944489787531388",
@@ -1205,7 +1205,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 336
+      "views": 359
     },
     {
       "id": "2110941863209537744",
@@ -1222,7 +1222,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 690
+      "views": 711
     },
     {
       "id": "2110940695334965329",
@@ -1239,7 +1239,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 377
+      "views": 392
     },
     {
       "id": "2110891854078341434",
@@ -1270,12 +1270,12 @@
           }
         ]
       },
-      "likes": 24,
+      "likes": 27,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 1313
+      "bookmarks": 4,
+      "views": 1431
     },
     {
       "id": "2110386965933908352",
@@ -1294,7 +1294,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 861,
+      "views": 865,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1326,7 +1326,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 353,
+      "views": 357,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1362,7 +1362,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 1219,
+      "views": 1224,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1396,7 +1396,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23226,
+      "views": 23234,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1456,7 +1456,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1977,
+      "views": 1982,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1498,7 +1498,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2793,
+      "views": 2799,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1540,7 +1540,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 981,
+      "views": 984,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1571,12 +1571,12 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "text": "https://piko2game.com/enjou/\n遊んでみたがプロンプトインジェクション失敗",
       "lang": "ja",
-      "likes": 20,
+      "likes": 21,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4381,
+      "views": 4387,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1629,7 +1629,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6111,
+      "views": 6116,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1680,7 +1680,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3665,
+      "views": 3672,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1731,7 +1731,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 568,
+      "views": 570,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1763,7 +1763,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1530,
+      "views": 1533,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1860,7 +1860,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2569,
+      "views": 2571,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -11925,5 +11925,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T07:58:51.373546+00:00"
+  "last_metric_refresh_at": "2026-10-16T08:34:20.930764+00:00"
 }
