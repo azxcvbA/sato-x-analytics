@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 294,
+  "count": 295,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 149
+      "views": 150
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 662
+      "views": 663
     },
     {
       "id": "2110193016514499054",
@@ -129,7 +129,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 303
+      "views": 304
     },
     {
       "id": "2110192549000560755",
@@ -200,7 +200,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 235
+      "views": 236
     },
     {
       "id": "2110192370994290896",
@@ -236,7 +236,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 259
+      "views": 261
     },
     {
       "id": "2110192096607076516",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 431
+      "views": 432
     },
     {
       "id": "2110727885514514465",
@@ -568,12 +568,12 @@
           }
         }
       },
-      "likes": 11,
+      "likes": 12,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1114
+      "views": 1116
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1785
+      "views": 1787
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1614
+      "views": 1616
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 324
+      "views": 326
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1925
+      "views": 1927
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3019
+      "views": 3020
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 634
+      "views": 635
     },
     {
       "id": "2110646766240760043",
@@ -784,12 +784,12 @@
       "author_id": "1592826578786217984",
       "text": "俺って2024年12月19日と2026年1月29日に炎上したことあるんだけど\nどっちも炎上後30日間でYouTubeの登録者数が一度も純減してないの今考えるとおもろい\n実際にアナリティクスで確認\n2024年の炎上後は+2,596人\n2026年の炎上後も+361人\n炎上の規模自体がかなり小さくて\nほぼ界隈内で完結してたんだろうな",
       "media": [],
-      "likes": 12,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 758
+      "views": 761
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1768
+      "views": 1769
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 560
+      "views": 561
     },
     {
       "id": "2110561596582043878",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6590
+      "views": 6593
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43137
+      "views": 43144
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,43 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1287
+      "views": 1288
+    },
+    {
+      "id": "2111111748040433800",
+      "url": "https://x.com/sattoa_ball/status/2111111748040433800",
+      "type": "reply",
+      "created_at": "Fri Oct 16 15:07:17 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "Battle for the Bosporus組が変わらねぇ\ncosmetic tagどうなってんねんこの3国",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111111595556515840",
+            "url": "https://pbs.twimg.com/media/HUwsz55asAA65CV.jpg?name=orig",
+            "width": 1066,
+            "height": 553
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111111595556515840",
+            "url": "https://pbs.twimg.com/media/HUwsz55asAA65CV.jpg?name=orig",
+            "width": 1066,
+            "height": 553
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 24
     },
     {
       "id": "2111100026684690728",
@@ -1087,12 +1123,12 @@
           }
         }
       },
-      "likes": 5,
+      "likes": 15,
       "retweets": 0,
-      "replies": 1,
+      "replies": 3,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 132
+      "bookmarks": 1,
+      "views": 579
     },
     {
       "id": "2111064545662021765",
@@ -1109,7 +1145,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 317
+      "views": 328
     },
     {
       "id": "2111001326801007084",
@@ -1175,12 +1211,12 @@
           }
         }
       },
-      "likes": 23,
+      "likes": 25,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1213
+      "views": 1247
     },
     {
       "id": "2110962959723950300",
@@ -1232,12 +1268,12 @@
           }
         }
       },
-      "likes": 31,
+      "likes": 32,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2599
+      "views": 2643
     },
     {
       "id": "2110954978970046542",
@@ -1254,7 +1290,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 337
+      "views": 339
     },
     {
       "id": "2110953087582302489",
@@ -1285,12 +1321,12 @@
           }
         ]
       },
-      "likes": 81,
+      "likes": 83,
       "retweets": 3,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4461
+      "views": 4631
     },
     {
       "id": "2110944489787531388",
@@ -1307,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 459
+      "views": 460
     },
     {
       "id": "2110941863209537744",
@@ -1324,7 +1360,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 790
+      "views": 792
     },
     {
       "id": "2110940695334965329",
@@ -1341,7 +1377,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 452
+      "views": 453
     },
     {
       "id": "2110891854078341434",
@@ -1372,12 +1408,12 @@
           }
         ]
       },
-      "likes": 37,
+      "likes": 38,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1831
+      "views": 1843
     },
     {
       "id": "2110386965933908352",
@@ -1498,7 +1534,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23259,
+      "views": 23260,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1558,7 +1594,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1996,
+      "views": 1997,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1600,7 +1636,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2811,
+      "views": 2812,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1678,7 +1714,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4397,
+      "views": 4398,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1731,7 +1767,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6136,
+      "views": 6137,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1782,7 +1818,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3688,
+      "views": 3689,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -12027,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T14:50:23.092078+00:00"
+  "last_metric_refresh_at": "2026-10-16T15:16:23.961181+00:00"
 }
