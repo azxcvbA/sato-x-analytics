@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1804
+      "views": 1805
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1635
+      "views": 1636
     },
     {
       "id": "2110688633024139752",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1783
+      "views": 1784
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 569
+      "views": 570
     },
     {
       "id": "2110561596582043878",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43193
+      "views": 43198
     },
     {
       "id": "2110530879009464362",
@@ -1043,7 +1043,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 292
+      "views": 311
     },
     {
       "id": "2111100026684690728",
@@ -1123,12 +1123,12 @@
           }
         }
       },
-      "likes": 29,
-      "retweets": 0,
+      "likes": 31,
+      "retweets": 1,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 3074
+      "bookmarks": 7,
+      "views": 3273
     },
     {
       "id": "2111064545662021765",
@@ -1145,7 +1145,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 380
+      "views": 389
     },
     {
       "id": "2111001326801007084",
@@ -1216,7 +1216,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1501
+      "views": 1512
     },
     {
       "id": "2110962959723950300",
@@ -1273,7 +1273,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2977
+      "views": 3014
     },
     {
       "id": "2110954978970046542",
@@ -1290,7 +1290,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 365
+      "views": 366
     },
     {
       "id": "2110953087582302489",
@@ -1326,7 +1326,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 5618
+      "views": 5679
     },
     {
       "id": "2110944489787531388",
@@ -1343,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 492
+      "views": 493
     },
     {
       "id": "2110941863209537744",
@@ -1360,7 +1360,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 815
+      "views": 816
     },
     {
       "id": "2110940695334965329",
@@ -1408,12 +1408,12 @@
           }
         ]
       },
-      "likes": 40,
+      "likes": 41,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1921
+      "views": 1924
     },
     {
       "id": "2110386965933908352",
@@ -1534,7 +1534,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23275,
+      "views": 23280,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1767,7 +1767,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6150,
+      "views": 6151,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -12063,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T22:09:19.383574+00:00"
+  "last_metric_refresh_at": "2026-10-16T22:42:42.388701+00:00"
 }
