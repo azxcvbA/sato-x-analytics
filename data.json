@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1637
+      "views": 1638
     },
     {
       "id": "2110688633024139752",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1616
+      "views": 1617
     },
     {
       "id": "2110549274811605423",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43203
+      "views": 43205
     },
     {
       "id": "2110530879009464362",
@@ -1043,7 +1043,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 328
+      "views": 346
     },
     {
       "id": "2111100026684690728",
@@ -1123,12 +1123,12 @@
           }
         }
       },
-      "likes": 35,
+      "likes": 37,
       "retweets": 1,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 7,
-      "views": 3435
+      "bookmarks": 8,
+      "views": 3548
     },
     {
       "id": "2111064545662021765",
@@ -1145,7 +1145,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 393
+      "views": 396
     },
     {
       "id": "2111001326801007084",
@@ -1216,7 +1216,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1520
+      "views": 1537
     },
     {
       "id": "2110962959723950300",
@@ -1273,7 +1273,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3044
+      "views": 3072
     },
     {
       "id": "2110954978970046542",
@@ -1290,7 +1290,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 367
+      "views": 369
     },
     {
       "id": "2110953087582302489",
@@ -1321,12 +1321,12 @@
           }
         ]
       },
-      "likes": 93,
+      "likes": 94,
       "retweets": 3,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 5741
+      "views": 5805
     },
     {
       "id": "2110944489787531388",
@@ -1343,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 494
+      "views": 496
     },
     {
       "id": "2110941863209537744",
@@ -1360,7 +1360,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 819
+      "views": 820
     },
     {
       "id": "2110940695334965329",
@@ -1377,7 +1377,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 471
+      "views": 472
     },
     {
       "id": "2110891854078341434",
@@ -1413,7 +1413,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1928
+      "views": 1930
     },
     {
       "id": "2110386965933908352",
@@ -1534,7 +1534,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23283,
+      "views": 23284,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -5128,7 +5128,7 @@
       "text": "日本向け総再生ランキング\n上位25位まで",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1891686105981862362",
-      "views": 3767
+      "views": 3768
     },
     {
       "article": null,
@@ -5274,7 +5274,7 @@
       "text": "２０２４年振り返り前半\n１月　ライブした瞬間M7.6の地震来てビビった\n２月　○○した人の○○投稿して爆伸び\n３月　大日本帝国シリーズまたはやる\n４月　この辺なんかあったっけ、覚えてない\n５月　にこちゅうと関わり開始\n６月　通話組鯖設立",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1867938635393486909",
-      "views": 3481
+      "views": 3482
     },
     {
       "article": null,
@@ -5463,7 +5463,7 @@
       "text": "ブラックジョークを理解できない者は道を開けな。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1857968796478460373",
-      "views": 15798
+      "views": 15799
     },
     {
       "article": null,
@@ -12063,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T23:06:27.058309+00:00"
+  "last_metric_refresh_at": "2026-10-16T23:30:01.695286+00:00"
 }
