@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 391
+      "views": 395
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 905
+      "views": 947
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1596
+      "views": 1623
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1523
+      "views": 1537
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 292
+      "views": 295
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1815
+      "views": 1839
     },
     {
       "id": "2110665472505172348",
@@ -731,12 +731,12 @@
           }
         ]
       },
-      "likes": 43,
+      "likes": 44,
       "retweets": 0,
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2958
+      "views": 2970
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 603
+      "views": 609
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 726
+      "views": 731
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1728
+      "views": 1731
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 541
+      "views": 544
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1546
+      "views": 1551
     },
     {
       "id": "2110549274811605423",
@@ -1073,12 +1073,12 @@
           }
         }
       },
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 517
+      "views": 626
     },
     {
       "id": "2110962959723950300",
@@ -1130,12 +1130,12 @@
           }
         }
       },
-      "likes": 20,
+      "likes": 22,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1196
+      "views": 1352
     },
     {
       "id": "2110954978970046542",
@@ -1152,7 +1152,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 236
+      "views": 252
     },
     {
       "id": "2110953087582302489",
@@ -1183,12 +1183,12 @@
           }
         ]
       },
-      "likes": 17,
+      "likes": 26,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 903
+      "bookmarks": 1,
+      "views": 1194
     },
     {
       "id": "2110944489787531388",
@@ -1205,7 +1205,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 373
+      "views": 385
     },
     {
       "id": "2110941863209537744",
@@ -1222,7 +1222,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 728
+      "views": 735
     },
     {
       "id": "2110940695334965329",
@@ -1239,7 +1239,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 406
+      "views": 414
     },
     {
       "id": "2110891854078341434",
@@ -1275,7 +1275,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1528
+      "views": 1585
     },
     {
       "id": "2110386965933908352",
@@ -11925,5 +11925,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T09:07:48.924829+00:00"
+  "last_metric_refresh_at": "2026-10-16T09:43:55.110646+00:00"
 }
