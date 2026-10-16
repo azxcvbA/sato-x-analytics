@@ -57,7 +57,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 150
+      "views": 151
     },
     {
       "id": "2110285328322015621",
@@ -93,7 +93,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 663
+      "views": 664
     },
     {
       "id": "2110193016514499054",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 437
+      "views": 439
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1124
+      "views": 1127
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1794
+      "views": 1798
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1624
+      "views": 1629
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 332
+      "views": 335
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1934
+      "views": 1937
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3026
+      "views": 3028
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 641
+      "views": 643
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 766
+      "views": 768
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1771
+      "views": 1778
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 562
+      "views": 566
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1603
+      "views": 1610
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 586
+      "views": 590
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6597
+      "views": 6605
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43151
+      "views": 43168
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1290
+      "views": 1295
     },
     {
       "id": "2111111748040433800",
@@ -1043,7 +1043,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 147
+      "views": 211
     },
     {
       "id": "2111100026684690728",
@@ -1123,12 +1123,12 @@
           }
         }
       },
-      "likes": 21,
+      "likes": 26,
       "retweets": 0,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1491
+      "views": 2167
     },
     {
       "id": "2111064545662021765",
@@ -1145,7 +1145,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 349
+      "views": 356
     },
     {
       "id": "2111001326801007084",
@@ -1211,12 +1211,12 @@
           }
         }
       },
-      "likes": 26,
+      "likes": 27,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1364
+      "views": 1422
     },
     {
       "id": "2110962959723950300",
@@ -1273,7 +1273,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2765
+      "views": 2817
     },
     {
       "id": "2110954978970046542",
@@ -1290,7 +1290,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 351
+      "views": 355
     },
     {
       "id": "2110953087582302489",
@@ -1321,12 +1321,12 @@
           }
         ]
       },
-      "likes": 86,
+      "likes": 88,
       "retweets": 3,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 4976
+      "bookmarks": 6,
+      "views": 5201
     },
     {
       "id": "2110944489787531388",
@@ -1343,7 +1343,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 470
+      "views": 480
     },
     {
       "id": "2110941863209537744",
@@ -1360,7 +1360,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 800
+      "views": 803
     },
     {
       "id": "2110940695334965329",
@@ -1377,7 +1377,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 461
+      "views": 464
     },
     {
       "id": "2110891854078341434",
@@ -1413,7 +1413,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1874
+      "views": 1893
     },
     {
       "id": "2110386965933908352",
@@ -1432,7 +1432,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 882,
+      "views": 885,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1464,7 +1464,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 369,
+      "views": 372,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1500,7 +1500,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 1246,
+      "views": 1249,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1534,7 +1534,7 @@
       "replies": 7,
       "quotes": 1,
       "bookmarks": 29,
-      "views": 23263,
+      "views": 23270,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1594,7 +1594,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1998,
+      "views": 2002,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1636,7 +1636,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2813,
+      "views": 2818,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1678,7 +1678,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 993,
+      "views": 996,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1714,7 +1714,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4399,
+      "views": 4404,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -1767,7 +1767,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6141,
+      "views": 6149,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1818,7 +1818,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3690,
+      "views": 3695,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1869,7 +1869,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 577,
+      "views": 580,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -2318,7 +2318,7 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 488
+      "views": 495
     },
     {
       "article": null,
@@ -2360,7 +2360,7 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1788
+      "views": 1805
     },
     {
       "article": null,
@@ -2392,7 +2392,7 @@
       "text": "HoI4で俺みたいな遊び方してる人っているんですかね？\n\n陸軍しか操作しない（海空軍は触れない）\n空軍はすべて解体して国際市場に売り出す\n師団はすべて民兵\n講和会議ではAIに一切介入させず、AI国家の分まで自分で領土分配する（非合理的な国境を防ぐため）\n特別研究施設は自国・敵国問わずすべて解体",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109973234087264731",
-      "views": 12673
+      "views": 12706
     },
     {
       "article": null,
@@ -2434,7 +2434,7 @@
       "text": "以前制作したHoI4の国名変更MODから日本の傀儡国のスクショを紹介\n史実の名称や統治形態に合わせて調整しています\nなお、スクショに登場する「冀東防共自治政府」は、KSRE MODで追加された国家です。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109937027903102990",
-      "views": 1182
+      "views": 1198
     },
     {
       "article": null,
@@ -2470,7 +2470,7 @@
       "text": "誤字：だったろ\n正字：だったり",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109931685366415680",
-      "views": 5149
+      "views": 5160
     },
     {
       "article": null,
@@ -2502,7 +2502,7 @@
       "text": "HoI4で「この国名は明らかにおかしいだろ」と思ったことはありますか？\n国名の誤訳だったろ史実・政治体制に合っていない国名など、不自然だと思うものがあればリプで教えてください\n確認し、明らかにおかしいものはMODで修正します",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109931489169387870",
-      "views": 46408
+      "views": 46477
     },
     {
       "article": null,
@@ -2552,7 +2552,7 @@
       "text": "エチオピアとエリトリアの双方に「相手が侵略者であり、自国は防衛している」って理屈が成立してるのが恐ろしい\nティグライ州への軍事侵入に対する自衛権の問題と、エチオピアが紅海へのアクセスを求める問題は別々に扱うべきもの\n今のところ、正式な宣戦布告は未確認なんで真に受け取らないように",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/2109847188096553453",
-      "views": 1079
+      "views": 1083
     },
     {
       "article": null,
@@ -2584,7 +2584,7 @@
       "text": "フランス革命で国王が処刑された理由を考えると、絶対王政という制度には重大な欠陥があったことがわかる\n国王が絶対的な権力を持っているはずなのに、国民がその国王を処刑できてしまったのである\n\n絶対という言葉の信頼性が揺らぐ事件だ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109816749495644412",
-      "views": 336
+      "views": 339
     },
     {
       "article": null,
@@ -2592,7 +2592,7 @@
       "author_avatar": "https://pbs.twimg.com/profile_images/1895477456615645184/joOTExI8_normal.jpg",
       "author_id": "1592826578786217984",
       "author_name": "さとボール",
-      "bookmarks": 1,
+      "bookmarks": 2,
       "card": null,
       "conversation_id": "2109810737808068894",
       "created_at": "2026-10-13T00:57:32.000Z",
@@ -2616,7 +2616,7 @@
       "text": "愚痴目的ではないうえ、一般化する意図も全くないけど、女子同士の人間関係って複雑だなと思うことがある\n互いに褒め合っていても裏では心理戦が行われていたり\nどちらかの主張に賛同しただけでもう一方から敵視されたり\n主張への賛同が人間関係上の味方/敵の判断に結びつくのはなかなか複雑だと思う",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109810737808068894",
-      "views": 385
+      "views": 389
     },
     {
       "article": null,
@@ -2633,7 +2633,7 @@
       "id": "2109634232855437465",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 77,
+      "likes": 78,
       "links": [],
       "media": [
         {
@@ -2658,7 +2658,7 @@
       "text": "「皇道派ルートの日本の国名が『幕政日本』になるのはおかしい！」という人へ\n皇道派が掲げたのは昭和維新による天皇親政で、政は幕府による政治を指す言葉\n天皇を中心とした国家改造を目指す勢力なのに、なぜ幕府政治を意味する国名になるのか？\n…というわけで、MODで「大日本皇国」に変更しました。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109634232855437465",
-      "views": 2707
+      "views": 2716
     },
     {
       "article": null,
@@ -2690,7 +2690,7 @@
       "text": "想像のマジノ線：国境に巨大な壁がある\n🇫🇷🧱🧱🧱🧱🧱🇩🇪\n実際のマジノ線：地下に鉄道、兵舎、発電所、弾薬庫、砲台まで備えた要塞が埋まっている\n🇫🇷💣🏰💣🇩🇪\n🚇🛏️⚡🔗\n地下都市かな？\n第二次世界大戦、ドイツがマジノ線を迂回しようとしたのも納得できる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109542993439166967",
-      "views": 9071
+      "views": 9080
     },
     {
       "article": null,
@@ -2728,7 +2728,7 @@
       "text": "@grok 民主主義国家で国民の過半数が自由かつ公正な国民投票によって独裁制への移行を支持した場合、その決定は民主的と言える？\n「決定の手続きが民主的か」と「決定後の政治体制が民主的か」を区別して論じてください",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109526308569116980",
-      "views": 347
+      "views": 352
     },
     {
       "article": null,
@@ -12063,5 +12063,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-16T16:52:37.654702+00:00"
+  "last_metric_refresh_at": "2026-10-16T17:16:16.589872+00:00"
 }
