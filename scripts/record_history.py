@@ -60,6 +60,11 @@ def main():
                    if type(t.get(k)) is int and t[k] >= 0}
         if not metrics:
             continue
+        # Prefer the exact per-post time from a successful metric request.
+        # For older exported data, the dataset-wide refresh is only an
+        # approximate first observation; never fabricate finer granularity.
+        item_time = utc_date(t.get("metric_observed_at")) or timestamp
+        item_observed = item_time.isoformat(timespec="seconds").replace("+00:00", "Z")
         record = history.setdefault(tid, {
             "text": t.get("text", "")[:250],
             "url": t.get("url", f"https://x.com/sattoa_ball/status/{tid}"),
@@ -72,11 +77,11 @@ def main():
         if samples:
             last = samples[-1]
             last_time = utc_date(last.get("at"))
-            if last_time and timestamp <= last_time:
+            if last_time and item_time <= last_time:
                 continue  # never manufacture a backwards/duplicate measurement
-            if all(last.get(k) == v for k, v in metrics.items()):
-                continue  # unchanged possibly stale source; no false flat sample
-        samples.append({"at": observed, **metrics})
+            if not t.get("metric_observed_at") and all(last.get(k) == v for k, v in metrics.items()):
+                continue  # unchanged + no confirmed new sample; avoid a fake flat period
+        samples.append({"at": item_observed, **metrics})
         if len(samples) > MAX_SAMPLES_PER_POST:
             del samples[:-MAX_SAMPLES_PER_POST]
         written += 1
