@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 296,
+  "count": 302,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 447
+      "views": 450
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1140
+      "views": 1145
     },
     {
       "id": "2110717307630854507",
@@ -1010,6 +1010,106 @@
       "views": 1300
     },
     {
+      "id": "2111274890901041519",
+      "url": "https://x.com/sattoa_ball/status/2111274890901041519",
+      "type": "reply",
+      "created_at": "Sat Oct 17 01:55:34 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "逆に地図系、カオス系は\n動画にすることで面白さが増幅される構造じゃないかな？",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "2111274805861535802",
+      "url": "https://x.com/sattoa_ball/status/2111274805861535802",
+      "type": "reply",
+      "created_at": "Sat Oct 17 01:55:13 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "仮説の続き\nRedditのr/polandballでブラックジョークが多いのって\n映像ではなく画像だからか？\nYoutubeとRedditでは面白さを伝える方法が違って\n特に違うのは、読者が読む速度を決められること\nブラックジョークは映像化するより\n静止画の段階ですでに面白さが完成しやすくて～\n↓続き",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0
+    },
+    {
+      "id": "2111273613588664767",
+      "url": "https://x.com/sattoa_ball/status/2111273613588664767",
+      "type": "tweet",
+      "created_at": "Sat Oct 17 01:50:29 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "これは俺の仮説なんだけど\nyoutubeにおけるPBとブラックジョークが合わないのって ブラックジョークが映像である必要が無いからでは？\n逆にカオス系や地図系は映像が本命だから合うのでは？\nPBに向いているのってそのネタの面白さが視覚で増幅されるかどうかでは？",
+      "media": [],
+      "likes": 1,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 16
+    },
+    {
+      "id": "2111270643979473090",
+      "url": "https://x.com/sattoa_ball/status/2111270643979473090",
+      "type": "reply",
+      "created_at": "Sat Oct 17 01:38:41 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "レビュー：★☆☆☆☆ @BritishTourist1814\n首都の建物は非常に燃えやすくて見ごたえがあったが、帰国後に土地が1エーカーも増えていなかったので星1です。",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 6
+    },
+    {
+      "id": "2111270194433966385",
+      "url": "https://x.com/sattoa_ball/status/2111270194433966385",
+      "type": "tweet",
+      "created_at": "Sat Oct 17 01:36:54 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "1814年\nイギリス軍はアメリカの首都ワシントンに到達した\nホワイトハウスと連邦議会議事堂を焼き払った\nところが戦後の講和条約では英米の領土は基本的に戦前の状態へ戻された\nつまりイギリスは領土を増やさずにアメリカの首都まで行って帰ってきたことになる\n世界史上最も物騒な観光旅行では？",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 19
+    },
+    {
+      "id": "2111264026315706760",
+      "url": "https://x.com/sattoa_ball/status/2111264026315706760",
+      "type": "tweet",
+      "created_at": "Sat Oct 17 01:12:23 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
+      "media": [],
+      "likes": 5,
+      "retweets": 0,
+      "replies": 3,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 272
+    },
+    {
       "id": "2111249331202515358",
       "url": "https://x.com/sattoa_ball/status/2111249331202515358",
       "type": "tweet",
@@ -1038,12 +1138,12 @@
           }
         ]
       },
-      "likes": 7,
+      "likes": 15,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 122
+      "bookmarks": 2,
+      "views": 374
     },
     {
       "id": "2111111748040433800",
@@ -1074,12 +1174,12 @@
           }
         ]
       },
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 394
+      "views": 441
     },
     {
       "id": "2111100026684690728",
@@ -1159,12 +1259,12 @@
           }
         }
       },
-      "likes": 41,
-      "retweets": 2,
+      "likes": 45,
+      "retweets": 3,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 9,
-      "views": 3901
+      "bookmarks": 11,
+      "views": 4270
     },
     {
       "id": "2111064545662021765",
@@ -1181,7 +1281,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 408
+      "views": 415
     },
     {
       "id": "2111001326801007084",
@@ -1247,12 +1347,12 @@
           }
         }
       },
-      "likes": 29,
+      "likes": 30,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1607
+      "views": 1666
     },
     {
       "id": "2110962959723950300",
@@ -1308,8 +1408,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 3140
+      "bookmarks": 5,
+      "views": 3188
     },
     {
       "id": "2110954978970046542",
@@ -1326,7 +1426,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 375
+      "views": 378
     },
     {
       "id": "2110953087582302489",
@@ -1357,12 +1457,12 @@
           }
         ]
       },
-      "likes": 96,
+      "likes": 97,
       "retweets": 3,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5911
+      "views": 5977
     },
     {
       "id": "2110944489787531388",
@@ -1379,7 +1479,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 504
+      "views": 507
     },
     {
       "id": "2110941863209537744",
@@ -1396,7 +1496,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 826
+      "views": 829
     },
     {
       "id": "2110940695334965329",
@@ -1413,7 +1513,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 476
+      "views": 478
     },
     {
       "id": "2110891854078341434",
@@ -1449,7 +1549,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1945
+      "views": 1949
     },
     {
       "id": "2110386965933908352",
@@ -12099,5 +12199,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T01:25:49.301478+00:00"
+  "last_metric_refresh_at": "2026-10-17T01:56:10.747955+00:00"
 }
