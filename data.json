@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 302,
+  "count": 304,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 450
+      "views": 451
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1145
+      "views": 1146
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1811
+      "views": 1815
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1642
+      "views": 1646
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 346
+      "views": 349
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1949
+      "views": 1954
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3048
+      "views": 3054
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 651
+      "views": 654
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 778
+      "views": 785
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1790
+      "views": 1796
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 572
+      "views": 576
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1619
+      "views": 1625
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 597
+      "views": 600
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6626
+      "views": 6630
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43210
+      "views": 43220
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,41 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1300
+      "views": 1302
+    },
+    {
+      "id": "2111277351757853063",
+      "url": "https://x.com/sattoa_ball/status/2111277351757853063",
+      "type": "reply",
+      "created_at": "Sat Oct 17 02:05:20 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "https://pbers.com/board/\n実際に意見聞いてみるべ",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 2
+    },
+    {
+      "id": "2111276332273541239",
+      "url": "https://x.com/sattoa_ball/status/2111276332273541239",
+      "type": "reply",
+      "created_at": "Sat Oct 17 02:01:17 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ブラックジョークにポーランドボールの映像を付けたとしても映像が新しい面白さを生み出すとは限らないのに対し\n地図系なら国境が変わる瞬間　カオス系なら多数の国家が同時に行動する状況そのものが見どころになるんだよね",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 5
     },
     {
       "id": "2111274890901041519",
@@ -1051,12 +1085,12 @@
       "author_id": "1592826578786217984",
       "text": "これは俺の仮説なんだけど\nyoutubeにおけるPBとブラックジョークが合わないのって ブラックジョークが映像である必要が無いからでは？\n逆にカオス系や地図系は映像が本命だから合うのでは？\nPBに向いているのってそのネタの面白さが視覚で増幅されるかどうかでは？",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 16
+      "views": 141
     },
     {
       "id": "2111270643979473090",
@@ -1073,7 +1107,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 6
+      "views": 20
     },
     {
       "id": "2111270194433966385",
@@ -1085,12 +1119,12 @@
       "author_id": "1592826578786217984",
       "text": "1814年\nイギリス軍はアメリカの首都ワシントンに到達した\nホワイトハウスと連邦議会議事堂を焼き払った\nところが戦後の講和条約では英米の領土は基本的に戦前の状態へ戻された\nつまりイギリスは領土を増やさずにアメリカの首都まで行って帰ってきたことになる\n世界史上最も物騒な観光旅行では？",
       "media": [],
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 19
+      "views": 115
     },
     {
       "id": "2111264026315706760",
@@ -1102,12 +1136,12 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 5,
+      "likes": 9,
       "retweets": 0,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 272
+      "bookmarks": 1,
+      "views": 785
     },
     {
       "id": "2111249331202515358",
@@ -1138,12 +1172,12 @@
           }
         ]
       },
-      "likes": 15,
+      "likes": 18,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 374
+      "views": 441
     },
     {
       "id": "2111111748040433800",
@@ -1179,7 +1213,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 441
+      "views": 451
     },
     {
       "id": "2111100026684690728",
@@ -1259,12 +1293,12 @@
           }
         }
       },
-      "likes": 45,
+      "likes": 46,
       "retweets": 3,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 4270
+      "views": 4366
     },
     {
       "id": "2111064545662021765",
@@ -1276,12 +1310,12 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 18,
+      "likes": 19,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 415
+      "views": 418
     },
     {
       "id": "2111001326801007084",
@@ -1347,12 +1381,12 @@
           }
         }
       },
-      "likes": 30,
+      "likes": 32,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1666
+      "views": 1704
     },
     {
       "id": "2110962959723950300",
@@ -1409,7 +1443,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3188
+      "views": 3207
     },
     {
       "id": "2110954978970046542",
@@ -1426,7 +1460,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 378
+      "views": 380
     },
     {
       "id": "2110953087582302489",
@@ -1462,7 +1496,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5977
+      "views": 6023
     },
     {
       "id": "2110944489787531388",
@@ -1479,7 +1513,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 507
+      "views": 510
     },
     {
       "id": "2110941863209537744",
@@ -1496,7 +1530,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 829
+      "views": 830
     },
     {
       "id": "2110940695334965329",
@@ -1513,7 +1547,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 478
+      "views": 479
     },
     {
       "id": "2110891854078341434",
@@ -1549,7 +1583,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1949
+      "views": 1951
     },
     {
       "id": "2110386965933908352",
@@ -1568,7 +1602,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 891,
+      "views": 893,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1600,7 +1634,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 376,
+      "views": 378,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1636,7 +1670,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 1256,
+      "views": 1259,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -12199,5 +12233,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T01:56:10.747955+00:00"
+  "last_metric_refresh_at": "2026-10-17T02:21:07.075774+00:00"
 }
