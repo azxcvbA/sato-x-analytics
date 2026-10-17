@@ -8507,7 +8507,8 @@
       "text": "スパチャの例の動画消えてるし確信犯だと思います。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1753245859062727066",
-      "views": 2905
+      "views": 2905,
+      "metric_observed_at": "2026-10-17T12:49:43.150530+00:00"
     },
     {
       "article": null,
@@ -8584,7 +8585,8 @@
       "text": "やっぱ右下が一番見慣れてますね！",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1752709595976614216",
-      "views": 1416
+      "views": 1416,
+      "metric_observed_at": "2026-10-17T12:49:43.150585+00:00"
     },
     {
       "article": null,
@@ -8626,7 +8628,8 @@
       "text": "ここの中に一つだけいるでも誇れる…よね？あとやよいどきさんは神",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1751963906430603396",
-      "views": 1241
+      "views": 1241,
+      "metric_observed_at": "2026-10-17T12:49:43.150597+00:00"
     },
     {
       "article": null,
@@ -8680,7 +8683,8 @@
       "text": "私って知名度ある方だと思いますか？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1750340788452737515",
-      "views": 1524
+      "views": 1524,
+      "metric_observed_at": "2026-10-17T12:49:43.150607+00:00"
     },
     {
       "article": null,
@@ -8712,7 +8716,8 @@
       "text": "1万人ありがとう\n皆ありがとう",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1746404736885268535",
-      "views": 2996
+      "views": 2998,
+      "metric_observed_at": "2026-10-17T12:49:43.150616+00:00"
     },
     {
       "article": null,
@@ -8744,7 +8749,8 @@
       "text": "ツイッター(X)を見る頻度、そしてツイートする頻度があまりにもひくすぎる。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1745343293284917543",
-      "views": 920
+      "views": 920,
+      "metric_observed_at": "2026-10-17T12:49:43.150626+00:00"
     },
     {
       "article": null,
@@ -8795,7 +8801,8 @@
       "text": "Shortsだけ異様に再生数が少ない呪いにかかった",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1744181071124849024",
-      "views": 1125
+      "views": 1125,
+      "metric_observed_at": "2026-10-17T12:49:43.150633+00:00"
     },
     {
       "article": null,
@@ -8837,7 +8844,8 @@
       "text": "約9000万%だ、見たこと無いや、すごいね",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1743269039525560376",
-      "views": 958
+      "views": 958,
+      "metric_observed_at": "2026-10-17T12:49:43.150640+00:00"
     },
     {
       "article": null,
@@ -8879,7 +8887,8 @@
       "text": "9000人だ!あと少しで1万!",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1742820736862228942",
-      "views": 1340
+      "views": 1340,
+      "metric_observed_at": "2026-10-17T12:49:43.150647+00:00"
     },
     {
       "article": null,
@@ -9021,7 +9030,8 @@
       "text": "登録者数が7000人いったので\n泣いてるイタリア王国あげます",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1737798409602662776",
-      "views": 991
+      "views": 991,
+      "metric_observed_at": "2026-10-17T12:49:43.150659+00:00"
     },
     {
       "article": null,
@@ -12437,5 +12447,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T11:41:17.358937+00:00"
+  "last_metric_refresh_at": "2026-10-17T12:49:43.150753+00:00"
 }
