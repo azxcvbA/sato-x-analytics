@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 304,
+  "count": 305,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,7 +502,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 457
+      "views": 461
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +573,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1158
+      "views": 1161
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +630,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1821
+      "views": 1824
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +647,7 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1658
+      "views": 1661
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +664,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 357
+      "views": 360
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +700,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1961
+      "views": 1964
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +736,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3065
+      "views": 3067
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +772,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 663
+      "views": 665
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +789,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 793
+      "views": 794
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +806,7 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1808
+      "views": 1811
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +823,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 581
+      "views": 583
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +840,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1637
+      "views": 1638
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +857,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 605
+      "views": 606
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +914,7 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6637
+      "views": 6638
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +971,7 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43240
+      "views": 43249
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1007,43 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1307
+      "views": 1308
+    },
+    {
+      "id": "2111322756516401585",
+      "url": "https://x.com/sattoa_ball/status/2111322756516401585",
+      "type": "tweet",
+      "created_at": "Sat Oct 17 05:05:46 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "世界の国旗をデザイン性でTier分けしてみた\n国力・政治体制・国家への好感度は評価対象外\nみんなならどの国旗を上げ下げする？\n異論・反論はむしろ積極的にしてほしい\n「この国旗はもっと上だろ」「これは過大評価じゃないか」など理由も含めて意見を聞きたい",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111322120315928577",
+            "url": "https://pbs.twimg.com/media/HUzsSDvbAAEViI1.png?name=orig",
+            "width": 918,
+            "height": 879
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111322120315928577",
+            "url": "https://pbs.twimg.com/media/HUzsSDvbAAEViI1.png?name=orig",
+            "width": 918,
+            "height": 879
+          }
+        ]
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 15
     },
     {
       "id": "2111277351757853063",
@@ -1024,7 +1060,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 26
+      "views": 29
     },
     {
       "id": "2111276332273541239",
@@ -1041,7 +1077,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 41
+      "views": 44
     },
     {
       "id": "2111274890901041519",
@@ -1090,7 +1126,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 558
+      "views": 586
     },
     {
       "id": "2111270643979473090",
@@ -1107,7 +1143,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 164
+      "views": 177
     },
     {
       "id": "2111270194433966385",
@@ -1124,7 +1160,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 991
+      "views": 1059
     },
     {
       "id": "2111264026315706760",
@@ -1136,12 +1172,12 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 264,
-      "retweets": 12,
-      "replies": 42,
-      "quotes": 17,
-      "bookmarks": 49,
-      "views": 55645
+      "likes": 355,
+      "retweets": 16,
+      "replies": 57,
+      "quotes": 20,
+      "bookmarks": 62,
+      "views": 75168
     },
     {
       "id": "2111249331202515358",
@@ -1172,12 +1208,12 @@
           }
         ]
       },
-      "likes": 22,
+      "likes": 23,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 646
+      "views": 659
     },
     {
       "id": "2111111748040433800",
@@ -1213,7 +1249,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 521
+      "views": 530
     },
     {
       "id": "2111100026684690728",
@@ -1293,12 +1329,12 @@
           }
         }
       },
-      "likes": 50,
+      "likes": 52,
       "retweets": 3,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 4878
+      "views": 4962
     },
     {
       "id": "2111064545662021765",
@@ -1310,12 +1346,12 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 20,
+      "likes": 21,
       "retweets": 1,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 448
+      "views": 460
     },
     {
       "id": "2111001326801007084",
@@ -1381,12 +1417,12 @@
           }
         }
       },
-      "likes": 32,
+      "likes": 34,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2009
+      "views": 2069
     },
     {
       "id": "2110962959723950300",
@@ -1443,7 +1479,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3317
+      "views": 3330
     },
     {
       "id": "2110954978970046542",
@@ -1460,7 +1496,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 410
+      "views": 414
     },
     {
       "id": "2110953087582302489",
@@ -1496,7 +1532,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 6215
+      "views": 6230
     },
     {
       "id": "2110944489787531388",
@@ -1513,7 +1549,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 539
+      "views": 545
     },
     {
       "id": "2110941863209537744",
@@ -1530,7 +1566,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 842
+      "views": 847
     },
     {
       "id": "2110940695334965329",
@@ -1547,7 +1583,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 486
+      "views": 491
     },
     {
       "id": "2110891854078341434",
@@ -1583,7 +1619,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1963
+      "views": 1968
     },
     {
       "id": "2110386965933908352",
@@ -1602,7 +1638,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 900,
+      "views": 901,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -5157,7 +5193,7 @@
       "id": "1892066136893882736",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 18,
+      "likes": 19,
       "links": [],
       "media": [
         {
@@ -5298,7 +5334,7 @@
       "text": "日本向け総再生ランキング\n上位25位まで",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1891686105981862362",
-      "views": 3768
+      "views": 3767
     },
     {
       "article": null,
@@ -12233,5 +12269,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T04:45:27.557354+00:00"
+  "last_metric_refresh_at": "2026-10-17T05:09:45.914493+00:00"
 }
