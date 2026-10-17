@@ -502,7 +502,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 465
+      "views": 468,
+      "metric_observed_at": "2026-10-17T07:01:41.762360+00:00"
     },
     {
       "id": "2110727885514514465",
@@ -573,7 +574,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1165
+      "views": 1169,
+      "metric_observed_at": "2026-10-17T07:01:41.762369+00:00"
     },
     {
       "id": "2110717307630854507",
@@ -630,7 +632,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1830
+      "views": 1834,
+      "metric_observed_at": "2026-10-17T07:01:41.762377+00:00"
     },
     {
       "id": "2110708839695949870",
@@ -647,7 +650,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1665
+      "views": 1668,
+      "metric_observed_at": "2026-10-17T07:01:41.762385+00:00"
     },
     {
       "id": "2110688633024139752",
@@ -664,7 +668,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 364
+      "views": 367,
+      "metric_observed_at": "2026-10-17T07:01:41.762393+00:00"
     },
     {
       "id": "2110678432430555148",
@@ -700,7 +705,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1968
+      "views": 1971,
+      "metric_observed_at": "2026-10-17T07:01:41.762402+00:00"
     },
     {
       "id": "2110665472505172348",
@@ -736,7 +742,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3070
+      "views": 3073,
+      "metric_observed_at": "2026-10-17T07:01:41.762410+00:00"
     },
     {
       "id": "2110663221522952416",
@@ -772,7 +779,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 668
+      "views": 670,
+      "metric_observed_at": "2026-10-17T07:01:41.762419+00:00"
     },
     {
       "id": "2110646766240760043",
@@ -789,7 +797,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 798
+      "views": 802,
+      "metric_observed_at": "2026-10-17T07:01:41.762428+00:00"
     },
     {
       "id": "2110638148846076204",
@@ -806,7 +815,8 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1815
+      "views": 1818,
+      "metric_observed_at": "2026-10-17T07:01:41.762436+00:00"
     },
     {
       "id": "2110576256534339812",
@@ -823,7 +833,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 585
+      "views": 587,
+      "metric_observed_at": "2026-10-17T07:01:41.762445+00:00"
     },
     {
       "id": "2110561596582043878",
@@ -840,7 +851,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1644
+      "views": 1646,
+      "metric_observed_at": "2026-10-17T07:01:41.762455+00:00"
     },
     {
       "id": "2110549274811605423",
@@ -857,7 +869,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 608
+      "views": 611,
+      "metric_observed_at": "2026-10-17T07:01:41.762463+00:00"
     },
     {
       "id": "2110535515539939803",
@@ -914,7 +927,8 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6642
+      "views": 6645,
+      "metric_observed_at": "2026-10-17T07:01:41.762471+00:00"
     },
     {
       "id": "2110534044647850040",
@@ -971,7 +985,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43253
+      "views": 43259,
+      "metric_observed_at": "2026-10-17T07:01:41.762480+00:00"
     },
     {
       "id": "2110530879009464362",
@@ -1007,7 +1022,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1310
+      "views": 1312,
+      "metric_observed_at": "2026-10-17T07:01:41.762489+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1038,12 +1054,13 @@
           }
         ]
       },
-      "likes": 6,
+      "likes": 7,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 447
+      "views": 632,
+      "metric_observed_at": "2026-10-17T07:01:41.762113+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1060,7 +1077,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 35
+      "views": 37,
+      "metric_observed_at": "2026-10-17T07:01:41.762207+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1077,7 +1095,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 52
+      "views": 55,
+      "metric_observed_at": "2026-10-17T07:01:41.762195+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1126,7 +1145,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 640
+      "views": 665,
+      "metric_observed_at": "2026-10-17T07:01:41.762179+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1143,7 +1163,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 223
+      "views": 263,
+      "metric_observed_at": "2026-10-17T07:01:41.762228+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1155,12 +1176,13 @@
       "author_id": "1592826578786217984",
       "text": "1814年\nイギリス軍はアメリカの首都ワシントンに到達した\nホワイトハウスと連邦議会議事堂を焼き払った\nところが戦後の講和条約では英米の領土は基本的に戦前の状態へ戻された\nつまりイギリスは領土を増やさずにアメリカの首都まで行って帰ってきたことになる\n世界史上最も物騒な観光旅行では？",
       "media": [],
-      "likes": 12,
+      "likes": 16,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 1249
+      "bookmarks": 2,
+      "views": 1490,
+      "metric_observed_at": "2026-10-17T07:01:41.762218+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1172,12 +1194,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 554,
-      "retweets": 26,
-      "replies": 81,
-      "quotes": 36,
-      "bookmarks": 90,
-      "views": 120089
+      "likes": 732,
+      "retweets": 33,
+      "replies": 97,
+      "quotes": 43,
+      "bookmarks": 123,
+      "views": 160390,
+      "metric_observed_at": "2026-10-17T07:01:41.762238+00:00"
     },
     {
       "id": "2111249331202515358",
@@ -1213,7 +1236,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 715
+      "views": 772,
+      "metric_observed_at": "2026-10-17T07:01:41.762248+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -1249,7 +1273,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 564
+      "views": 583,
+      "metric_observed_at": "2026-10-17T07:01:41.762268+00:00"
     },
     {
       "id": "2111100026684690728",
@@ -1329,12 +1354,13 @@
           }
         }
       },
-      "likes": 54,
+      "likes": 55,
       "retweets": 4,
       "replies": 4,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 5268
+      "views": 5531,
+      "metric_observed_at": "2026-10-17T07:01:41.762258+00:00"
     },
     {
       "id": "2111064545662021765",
@@ -1346,12 +1372,13 @@
       "author_id": "1592826578786217984",
       "text": "さとはHoI4をプレイするとき、基本的にセーブデータをロードしてやり直すことはしない\n現実の歴史では時間を巻き戻せないからゲームでも自分の判断による失敗はそのまま受け入れるんよ\nただし、配信中の操作ミスや選択ミスなど、意図しない状況になった場合は例外としてロードする",
       "media": [],
-      "likes": 21,
+      "likes": 22,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 509
+      "views": 554,
+      "metric_observed_at": "2026-10-17T07:01:41.762277+00:00"
     },
     {
       "id": "2111001326801007084",
@@ -1417,12 +1444,13 @@
           }
         }
       },
-      "likes": 38,
+      "likes": 39,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2251
+      "views": 2328,
+      "metric_observed_at": "2026-10-17T07:01:41.762291+00:00"
     },
     {
       "id": "2110962959723950300",
@@ -1479,7 +1507,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3360
+      "views": 3371,
+      "metric_observed_at": "2026-10-17T07:01:41.762299+00:00"
     },
     {
       "id": "2110954978970046542",
@@ -1496,7 +1525,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 420
+      "views": 425,
+      "metric_observed_at": "2026-10-17T07:01:41.762308+00:00"
     },
     {
       "id": "2110953087582302489",
@@ -1532,7 +1562,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 6241
+      "views": 6255,
+      "metric_observed_at": "2026-10-17T07:01:41.762316+00:00"
     },
     {
       "id": "2110944489787531388",
@@ -1549,7 +1580,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 550
+      "views": 553,
+      "metric_observed_at": "2026-10-17T07:01:41.762325+00:00"
     },
     {
       "id": "2110941863209537744",
@@ -1566,7 +1598,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 853
+      "views": 856,
+      "metric_observed_at": "2026-10-17T07:01:41.762335+00:00"
     },
     {
       "id": "2110940695334965329",
@@ -1583,7 +1616,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 496
+      "views": 499,
+      "metric_observed_at": "2026-10-17T07:01:41.762343+00:00"
     },
     {
       "id": "2110891854078341434",
@@ -1619,7 +1653,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1975
+      "views": 1979,
+      "metric_observed_at": "2026-10-17T07:01:41.762351+00:00"
     },
     {
       "id": "2110386965933908352",
@@ -1638,7 +1673,7 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 902,
+      "views": 904,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -1651,7 +1686,8 @@
       "sensitive": false,
       "edited": false,
       "retweeted": null,
-      "quoted": null
+      "quoted": null,
+      "metric_observed_at": "2026-10-17T07:01:41.762510+00:00"
     },
     {
       "id": "2110371818267890030",
@@ -5867,7 +5903,8 @@
       "text": "クリスティアーノ・ロナウドさんの\nyoutubeチャンネル、\nチャンネル登録者数の勢いがとんでもなくて笑う\n（１日で５４０万人から２４００万人まで増えた）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1827265249252405703",
-      "views": 2795
+      "views": 2795,
+      "metric_observed_at": "2026-10-17T07:01:41.762520+00:00"
     },
     {
       "article": null,
@@ -5909,7 +5946,8 @@
       "text": "2人の問題なら2人で解決してくださいとありますが、彼は第三者ですよね。口出しする必要はあるのだろうか？discord上の北米ボールを知っているのだろうか？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1822778981701284320",
-      "views": 3224
+      "views": 3224,
+      "metric_observed_at": "2026-10-17T07:01:41.762531+00:00"
     },
     {
       "article": null,
@@ -5941,7 +5979,8 @@
       "text": "地震が来ても生きてたら会おう。必ずや",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1822095531352699345",
-      "views": 3045
+      "views": 3045,
+      "metric_observed_at": "2026-10-17T07:01:41.762540+00:00"
     },
     {
       "article": null,
@@ -5983,7 +6022,8 @@
       "text": "おっしゃあ！自分自身に打ち勝ったぞ！\n誰も止められない！私でさえ止められない！\nﾔｯﾀｱｱｱｱｱ!!!! hoooooooo",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821902344587768020",
-      "views": 2994
+      "views": 2994,
+      "metric_observed_at": "2026-10-17T07:01:41.762549+00:00"
     },
     {
       "article": null,
@@ -6025,7 +6065,8 @@
       "text": "反省できないの間違い",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821822865970491793",
-      "views": 3870
+      "views": 3870,
+      "metric_observed_at": "2026-10-17T07:01:41.762558+00:00"
     },
     {
       "article": null,
@@ -6076,7 +6117,8 @@
       "text": "ちょっと愚痴になるんですけど、北米ボールって人がいましてね。最初は仲良しだったんですけど、だんだんおかしくなっていって最終的には「さとカス」って呼ばれたんですよね…\n動画もパクられるらしいです\nもしパクられてたら通報してくれるとありがたいです",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821784807225045375",
-      "views": 5482
+      "views": 5482,
+      "metric_observed_at": "2026-10-17T07:01:41.762567+00:00"
     },
     {
       "article": null,
@@ -6118,7 +6160,8 @@
       "text": "ロシアのウクライナ侵攻×\nウクライナのロシア侵攻〇",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1821733671596109923",
-      "views": 4770
+      "views": 4770,
+      "metric_observed_at": "2026-10-17T07:01:41.762577+00:00"
     },
     {
       "article": null,
@@ -6160,7 +6203,8 @@
       "text": "まさか最初の1日で5万再生いくとは・・・\nどの動画よりも勢いあるね！\nこんなにたくさんの人たちが視聴してくれて嬉しいです",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820721955915620751",
-      "views": 1817
+      "views": 1817,
+      "metric_observed_at": "2026-10-17T07:01:41.762586+00:00"
     },
     {
       "article": null,
@@ -6202,7 +6246,8 @@
       "text": "あすえいボールさんが復活してから、再生数も登録者数も勢いやばすぎておい、笑える",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820407042575925253",
-      "views": 2085
+      "views": 2085,
+      "metric_observed_at": "2026-10-17T07:01:41.762595+00:00"
     },
     {
       "article": null,
@@ -6219,7 +6264,7 @@
       "id": "1819554593455722543",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 56,
+      "likes": 55,
       "links": [],
       "media": [],
       "mentions": [],
@@ -6234,7 +6279,8 @@
       "text": "PBメーカーが使えなくなっちゃったね\n531日間私のPBの成長に貢献してくれてありがとうございます\n今はもう完全自作立ち絵だぜ！\n（ついでにPBメーカーの動画は一つも収益化していないぜ！）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1819554593455722543",
-      "views": 2240
+      "views": 2243,
+      "metric_observed_at": "2026-10-17T07:01:41.762604+00:00"
     },
     {
       "article": null,
@@ -6276,7 +6322,8 @@
       "text": "アイアンゴーレムがポピー持ってるの初めて見た",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1816648385807667435",
-      "views": 2097
+      "views": 2100,
+      "metric_observed_at": "2026-10-17T07:01:41.762617+00:00"
     },
     {
       "article": null,
@@ -6318,7 +6365,8 @@
       "text": "PB動画の再生数1位の座は君に譲るよ…\nそのまま100万まで頑張ってくれ！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1815903875205087679",
-      "views": 3102
+      "views": 3104,
+      "metric_observed_at": "2026-10-17T07:01:41.762626+00:00"
     },
     {
       "article": null,
@@ -12269,5 +12317,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T06:05:59.825677+00:00"
+  "last_metric_refresh_at": "2026-10-17T07:01:41.762734+00:00"
 }
