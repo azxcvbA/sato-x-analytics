@@ -11,15 +11,15 @@
 
 **重要:** GitHub Pagesは原則公開サイト。`data.json`の投稿情報も誰でも取得できる。GitHub Pagesはログイン認証を提供しない。自分だけで使う場合は公開せず `python -m http.server 8000` でローカル起動し `http://localhost:8000` を開くことを推奨。
 
-## 自動更新の現状
+## 自動更新と増加速度の履歴
 
-GitHub Actionsは毎時17分(UTC)に起動する設定。ただし **初期状態ではXから自動取得しない**。X公式APIには継続無料の読み取りを保証する方法がないため、費用ゼロを守るための設計。
-
-実験的に、**既に収録されている直近20投稿の公開エンゲージメント数**を、非公式の第三者APIから毎時取得する機能を同梱。実行するにはGitHubのSettings → Secrets and variables → Actions → Variables → New repository variableで `SATO_ENABLE_UNOFFICIAL_REFRESH` = `1` を設定する。
-
-このAPIは非公式で、成功・継続利用・各指標の取得を保証しない。特にブックマーク数が欠けることがある。取得できない項目は以前の値を維持し、失敗時はファイルを変更しない。**新規投稿の自動発見は未実装**。GitHub Actions自体が正常終了してもデータ更新が成功したとは限らない。第三者サービスへのアクセスに関する利用条件は有効化前に確認すること。
-
-新しい投稿は、JSONを再エクスポートして `data.json` と差し替えるか、サイトの「JSONをローカル読込」で表示できる。ローカル読込はサーバーへアップロードされない。
+- `.github/workflows/hourly-refresh.yml` を GitHub Actions が毎時17分（UTC）付近に実行する設定。
+- 非公式の公開取得元（FxTwitter）から既知の投稿・直近の公開投稿を取得できた場合に `data.json` を更新します。リポジトリ変数 `SATO_ENABLE_UNOFFICIAL_REFRESH=0` を指定するとこの取得を停止できます。
+- `scripts/record_history.py` が取得済み数値を日時付きで `metric-history.json` に追記し、`/growth/` で投稿ごとの前回比や1時間換算の増加速度を確認できます。
+- 増加速度 = （新しい値 − 前の値）÷ 実際の経過時間（時間）。1時間ぴったりの測定やXのリアルタイム値を保証するものではありません。
+- 元の取得元が停止した、インプレッションを返さない、GitHub Actionsが遅延・停止した場合、履歴も更新されません。
+- 履歴作成以前の細かい推移は復元できません。初回には比較対象がないので、次の有効な取得が必要です。
+- GitHub Pagesで公開している `metric-history.json` と `data.json` は誰でも閲覧できます。
 
 ## その他
 
