@@ -129,6 +129,10 @@ def main():
         if incoming is None:
             continue
         ident = incoming["id"]
+        # Store a per-post observation time only when an actual view count was
+        # received. Otherwise later snapshots must not pretend views were sampled.
+        if "views" in incoming:
+            incoming["metric_observed_at"] = datetime.now(timezone.utc).isoformat()
         if ident not in indexed:
             rows.append(incoming)
             indexed[ident] = incoming
@@ -136,6 +140,9 @@ def main():
         else:
             row = indexed[ident]
             dirty = False
+            if "metric_observed_at" in incoming:
+                row["metric_observed_at"] = incoming["metric_observed_at"]
+                dirty = True
             for field in METRICS.values():
                 if field in incoming and row.get(field) != incoming[field]:
                     row[field] = incoming[field]
