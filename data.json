@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 306,
+  "count": 307,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,8 +502,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 479,
-      "metric_observed_at": "2026-10-17T10:42:29.023974+00:00"
+      "views": 481,
+      "metric_observed_at": "2026-10-17T11:41:17.358698+00:00"
     },
     {
       "id": "2110727885514514465",
@@ -574,8 +574,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1184,
-      "metric_observed_at": "2026-10-17T10:42:29.023981+00:00"
+      "views": 1188,
+      "metric_observed_at": "2026-10-17T11:41:17.358705+00:00"
     },
     {
       "id": "2110717307630854507",
@@ -632,8 +632,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1847,
-      "metric_observed_at": "2026-10-17T10:42:29.023987+00:00"
+      "views": 1851,
+      "metric_observed_at": "2026-10-17T11:41:17.358712+00:00"
     },
     {
       "id": "2110708839695949870",
@@ -650,8 +650,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1680,
-      "metric_observed_at": "2026-10-17T10:42:29.023993+00:00"
+      "views": 1682,
+      "metric_observed_at": "2026-10-17T11:41:17.358718+00:00"
     },
     {
       "id": "2110688633024139752",
@@ -668,8 +668,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 379,
-      "metric_observed_at": "2026-10-17T10:42:29.023998+00:00"
+      "views": 381,
+      "metric_observed_at": "2026-10-17T11:41:17.358723+00:00"
     },
     {
       "id": "2110678432430555148",
@@ -705,8 +705,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1985,
-      "metric_observed_at": "2026-10-17T10:42:29.024005+00:00"
+      "views": 1990,
+      "metric_observed_at": "2026-10-17T11:41:17.358729+00:00"
     },
     {
       "id": "2110665472505172348",
@@ -742,8 +742,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3084,
-      "metric_observed_at": "2026-10-17T10:42:29.024011+00:00"
+      "views": 3089,
+      "metric_observed_at": "2026-10-17T11:41:17.358734+00:00"
     },
     {
       "id": "2110663221522952416",
@@ -779,8 +779,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 677,
-      "metric_observed_at": "2026-10-17T10:42:29.024018+00:00"
+      "views": 680,
+      "metric_observed_at": "2026-10-17T11:41:17.358740+00:00"
     },
     {
       "id": "2110646766240760043",
@@ -797,8 +797,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 814,
-      "metric_observed_at": "2026-10-17T10:42:29.024023+00:00"
+      "views": 817,
+      "metric_observed_at": "2026-10-17T11:41:17.358745+00:00"
     },
     {
       "id": "2110638148846076204",
@@ -815,8 +815,8 @@
       "replies": 9,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1827,
-      "metric_observed_at": "2026-10-17T10:42:29.024028+00:00"
+      "views": 1830,
+      "metric_observed_at": "2026-10-17T11:41:17.358750+00:00"
     },
     {
       "id": "2110576256534339812",
@@ -833,8 +833,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 592,
-      "metric_observed_at": "2026-10-17T10:42:29.024034+00:00"
+      "views": 594,
+      "metric_observed_at": "2026-10-17T11:41:17.358756+00:00"
     },
     {
       "id": "2110561596582043878",
@@ -851,8 +851,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1665,
-      "metric_observed_at": "2026-10-17T10:42:29.024040+00:00"
+      "views": 1668,
+      "metric_observed_at": "2026-10-17T11:41:17.358762+00:00"
     },
     {
       "id": "2110549274811605423",
@@ -869,8 +869,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 614,
-      "metric_observed_at": "2026-10-17T10:42:29.024046+00:00"
+      "views": 616,
+      "metric_observed_at": "2026-10-17T11:41:17.358767+00:00"
     },
     {
       "id": "2110535515539939803",
@@ -927,8 +927,8 @@
       "replies": 5,
       "quotes": 3,
       "bookmarks": 13,
-      "views": 6662,
-      "metric_observed_at": "2026-10-17T10:42:29.024052+00:00"
+      "views": 6668,
+      "metric_observed_at": "2026-10-17T11:41:17.358772+00:00"
     },
     {
       "id": "2110534044647850040",
@@ -985,8 +985,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 34,
-      "views": 43274,
-      "metric_observed_at": "2026-10-17T10:42:29.024058+00:00"
+      "views": 43280,
+      "metric_observed_at": "2026-10-17T11:41:17.358777+00:00"
     },
     {
       "id": "2110530879009464362",
@@ -1026,6 +1026,43 @@
       "metric_observed_at": "2026-10-17T10:42:29.024064+00:00"
     },
     {
+      "id": "2111418803833999392",
+      "url": "https://x.com/sattoa_ball/status/2111418803833999392",
+      "type": "tweet",
+      "created_at": "Sat Oct 17 11:27:25 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ドイツ「イギリスもそろそろ降伏しそうだな」\n日本「アメリカに宣戦布告しました」\n↑お前お前お前お前お前",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111418737891201024",
+            "url": "https://pbs.twimg.com/media/HU1EJ8Qb0AAXV69.jpg?name=orig",
+            "width": 1700,
+            "height": 1462
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111418737891201024",
+            "url": "https://pbs.twimg.com/media/HU1EJ8Qb0AAXV69.jpg?name=orig",
+            "width": 1700,
+            "height": 1462
+          }
+        ]
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 54,
+      "metric_observed_at": "2026-10-17T11:41:17.358506+00:00"
+    },
+    {
       "id": "2111391097968804075",
       "url": "https://x.com/sattoa_ball/status/2111391097968804075",
       "type": "tweet",
@@ -1054,13 +1091,13 @@
           }
         ]
       },
-      "likes": 28,
+      "likes": 41,
       "retweets": 2,
-      "replies": 2,
+      "replies": 3,
       "quotes": 1,
-      "bookmarks": 9,
-      "views": 1369,
-      "metric_observed_at": "2026-10-17T10:42:29.023783+00:00"
+      "bookmarks": 10,
+      "views": 1654,
+      "metric_observed_at": "2026-10-17T11:41:17.358556+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1096,8 +1133,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1020,
-      "metric_observed_at": "2026-10-17T10:42:29.023837+00:00"
+      "views": 1055,
+      "metric_observed_at": "2026-10-17T11:41:17.358572+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1115,7 +1152,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 42,
-      "metric_observed_at": "2026-10-17T10:42:29.023867+00:00"
+      "metric_observed_at": "2026-10-17T11:41:17.358597+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1133,7 +1170,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 61,
-      "metric_observed_at": "2026-10-17T10:42:29.023858+00:00"
+      "metric_observed_at": "2026-10-17T11:41:17.358591+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1182,8 +1219,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 751,
-      "metric_observed_at": "2026-10-17T10:42:29.023849+00:00"
+      "views": 769,
+      "metric_observed_at": "2026-10-17T11:41:17.358582+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1200,8 +1237,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 335,
-      "metric_observed_at": "2026-10-17T10:42:29.023881+00:00"
+      "views": 343,
+      "metric_observed_at": "2026-10-17T11:41:17.358611+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1218,8 +1255,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1785,
-      "metric_observed_at": "2026-10-17T10:42:29.023874+00:00"
+      "views": 1818,
+      "metric_observed_at": "2026-10-17T11:41:17.358604+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1231,13 +1268,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 1213,
-      "retweets": 58,
-      "replies": 143,
-      "quotes": 68,
-      "bookmarks": 200,
-      "views": 275227,
-      "metric_observed_at": "2026-10-17T10:42:29.023887+00:00"
+      "likes": 1339,
+      "retweets": 63,
+      "replies": 151,
+      "quotes": 71,
+      "bookmarks": 217,
+      "views": 295690,
+      "metric_observed_at": "2026-10-17T11:41:17.358619+00:00"
     },
     {
       "id": "2111249331202515358",
@@ -1268,13 +1305,13 @@
           }
         ]
       },
-      "likes": 27,
+      "likes": 26,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 873,
-      "metric_observed_at": "2026-10-17T10:42:29.023894+00:00"
+      "views": 900,
+      "metric_observed_at": "2026-10-17T11:41:17.358627+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -1305,13 +1342,13 @@
           }
         ]
       },
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 660,
-      "metric_observed_at": "2026-10-17T10:42:29.023908+00:00"
+      "views": 687,
+      "metric_observed_at": "2026-10-17T11:41:17.358641+00:00"
     },
     {
       "id": "2111100026684690728",
@@ -1391,13 +1428,13 @@
           }
         }
       },
-      "likes": 72,
+      "likes": 77,
       "retweets": 4,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 16,
-      "views": 6310,
-      "metric_observed_at": "2026-10-17T10:42:29.023901+00:00"
+      "bookmarks": 18,
+      "views": 6488,
+      "metric_observed_at": "2026-10-17T11:41:17.358634+00:00"
     },
     {
       "id": "2111064545662021765",
@@ -1414,8 +1451,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 648,
-      "metric_observed_at": "2026-10-17T10:42:29.023915+00:00"
+      "views": 661,
+      "metric_observed_at": "2026-10-17T11:41:17.358647+00:00"
     },
     {
       "id": "2111001326801007084",
@@ -1486,8 +1523,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2427,
-      "metric_observed_at": "2026-10-17T10:42:29.023922+00:00"
+      "views": 2433,
+      "metric_observed_at": "2026-10-17T11:41:17.358653+00:00"
     },
     {
       "id": "2110962959723950300",
@@ -1544,8 +1581,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3392,
-      "metric_observed_at": "2026-10-17T10:42:29.023929+00:00"
+      "views": 3403,
+      "metric_observed_at": "2026-10-17T11:41:17.358659+00:00"
     },
     {
       "id": "2110954978970046542",
@@ -1562,8 +1599,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 443,
-      "metric_observed_at": "2026-10-17T10:42:29.023935+00:00"
+      "views": 446,
+      "metric_observed_at": "2026-10-17T11:41:17.358665+00:00"
     },
     {
       "id": "2110953087582302489",
@@ -1599,8 +1636,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 6291,
-      "metric_observed_at": "2026-10-17T10:42:29.023942+00:00"
+      "views": 6301,
+      "metric_observed_at": "2026-10-17T11:41:17.358672+00:00"
     },
     {
       "id": "2110944489787531388",
@@ -1617,8 +1654,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 567,
-      "metric_observed_at": "2026-10-17T10:42:29.023949+00:00"
+      "views": 571,
+      "metric_observed_at": "2026-10-17T11:41:17.358678+00:00"
     },
     {
       "id": "2110941863209537744",
@@ -1635,8 +1672,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 870,
-      "metric_observed_at": "2026-10-17T10:42:29.023956+00:00"
+      "views": 873,
+      "metric_observed_at": "2026-10-17T11:41:17.358683+00:00"
     },
     {
       "id": "2110940695334965329",
@@ -1653,8 +1690,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 514,
-      "metric_observed_at": "2026-10-17T10:42:29.023962+00:00"
+      "views": 518,
+      "metric_observed_at": "2026-10-17T11:41:17.358688+00:00"
     },
     {
       "id": "2110891854078341434",
@@ -1690,8 +1727,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1994,
-      "metric_observed_at": "2026-10-17T10:42:29.023968+00:00"
+      "views": 1998,
+      "metric_observed_at": "2026-10-17T11:41:17.358693+00:00"
     },
     {
       "id": "2110386965933908352",
@@ -9066,7 +9103,8 @@
       "text": "今日のトロピコス島\n火薬集まったとかのレベルじゃないくらい集まったｗｗｗ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1735784810982056191",
-      "views": 790
+      "views": 790,
+      "metric_observed_at": "2026-10-17T11:41:17.358784+00:00"
     },
     {
       "article": null,
@@ -9108,7 +9146,8 @@
       "text": "ツイッターほとんどなんもしてねぇ…（画像は1/100くらいで生成されるちょっとレアな青氷の山）",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1734771091820986539",
-      "views": 581
+      "views": 581,
+      "metric_observed_at": "2026-10-17T11:41:17.358791+00:00"
     },
     {
       "article": null,
@@ -9177,7 +9216,8 @@
       "text": "自分でボール描いた\nいつかは動画で使う",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1734152367623598236",
-      "views": 733
+      "views": 733,
+      "metric_observed_at": "2026-10-17T11:41:17.358798+00:00"
     },
     {
       "article": null,
@@ -9219,7 +9259,8 @@
       "text": "ついに！5000人！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1733702453735145793",
-      "views": 788
+      "views": 788,
+      "metric_observed_at": "2026-10-17T11:41:17.358804+00:00"
     },
     {
       "article": null,
@@ -9311,7 +9352,8 @@
       "text": "チャンネル登録者数4000人突破ありがとうございます！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1730503925437169682",
-      "views": 792
+      "views": 792,
+      "metric_observed_at": "2026-10-17T11:41:17.358812+00:00"
     },
     {
       "article": null,
@@ -9353,7 +9395,8 @@
       "text": "1週間で1000人増えたのはありがたい…\nけどバブル終わったら感覚おかしくならないかな…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1729036617598542003",
-      "views": 546
+      "views": 546,
+      "metric_observed_at": "2026-10-17T11:41:17.358819+00:00"
     },
     {
       "article": null,
@@ -9395,7 +9438,8 @@
       "text": "なぁにこれぇ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1728744238874337354",
-      "views": 995
+      "views": 995,
+      "metric_observed_at": "2026-10-17T11:41:17.358826+00:00"
     },
     {
       "article": null,
@@ -9489,7 +9533,8 @@
       "text": "昨日のJアラートがどうたらこうたらで\n私が全然眠れなくて眠すぎてないた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1727125486474854625",
-      "views": 484
+      "views": 484,
+      "metric_observed_at": "2026-10-17T11:41:17.358835+00:00"
     },
     {
       "article": null,
@@ -9521,7 +9566,8 @@
       "text": "急に寒くなりすぎじゃない！？",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1726862093411135708",
-      "views": 513
+      "views": 513,
+      "metric_observed_at": "2026-10-17T11:41:17.358842+00:00"
     },
     {
       "article": null,
@@ -9563,7 +9609,8 @@
       "text": "ポーランドリトアニアがいる地図作った",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1723957265885958585",
-      "views": 711
+      "views": 711,
+      "metric_observed_at": "2026-10-17T11:41:17.358850+00:00"
     },
     {
       "article": null,
@@ -12390,5 +12437,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T10:42:29.024241+00:00"
+  "last_metric_refresh_at": "2026-10-17T11:41:17.358937+00:00"
 }
