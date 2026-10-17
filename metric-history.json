@@ -40,6 +40,15 @@
           "replies": 124,
           "quotes": 58,
           "bookmarks": 169
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 251663,
+          "likes": 1105,
+          "retweets": 53,
+          "replies": 130,
+          "quotes": 62,
+          "bookmarks": 183
         }
       ]
     },
@@ -92,6 +101,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 43264,
+          "likes": 138,
+          "retweets": 9,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 34
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 43269,
           "likes": 138,
           "retweets": 9,
           "replies": 5,
@@ -289,6 +307,15 @@
           "replies": 5,
           "quotes": 3,
           "bookmarks": 13
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 6660,
+          "likes": 114,
+          "retweets": 13,
+          "replies": 5,
+          "quotes": 3,
+          "bookmarks": 13
         }
       ]
     },
@@ -341,6 +368,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 6268,
+          "likes": 100,
+          "retweets": 3,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 7
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 6278,
           "likes": 100,
           "retweets": 3,
           "replies": 1,
@@ -418,6 +454,15 @@
           "replies": 10,
           "quotes": 2,
           "bookmarks": 2
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 5482,
+          "likes": 61,
+          "retweets": 9,
+          "replies": 10,
+          "quotes": 2,
+          "bookmarks": 2
         }
       ]
     },
@@ -460,6 +505,15 @@
           "replies": 4,
           "quotes": 0,
           "bookmarks": 14
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 6127,
+          "likes": 68,
+          "retweets": 4,
+          "replies": 4,
+          "quotes": 0,
+          "bookmarks": 16
         }
       ]
     },
@@ -547,6 +601,15 @@
           "replies": 4,
           "quotes": 2,
           "bookmarks": 5
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 4770,
+          "likes": 117,
+          "retweets": 5,
+          "replies": 4,
+          "quotes": 2,
+          "bookmarks": 5
         }
       ]
     },
@@ -595,6 +658,15 @@
         },
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 3870,
+          "likes": 48,
+          "retweets": 4,
+          "replies": 9,
+          "quotes": 1,
+          "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
           "views": 3870,
           "likes": 48,
           "retweets": 4,
@@ -742,6 +814,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 5
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 3383,
+          "likes": 35,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 5
         }
       ]
     },
@@ -751,6 +832,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 3224,
+          "likes": 28,
+          "retweets": 1,
+          "replies": 3,
+          "quotes": 2,
+          "bookmarks": 2
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
           "views": 3224,
           "likes": 28,
           "retweets": 1,
@@ -808,6 +898,15 @@
           "replies": 5,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 3104,
+          "likes": 62,
+          "retweets": 6,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -841,6 +940,15 @@
           "replies": 5,
           "quotes": 0,
           "bookmarks": 4
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 3079,
+          "likes": 44,
+          "retweets": 0,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 4
         }
       ]
     },
@@ -851,6 +959,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 3045,
+          "likes": 61,
+          "retweets": 5,
+          "replies": 11,
+          "quotes": 1,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 3046,
           "likes": 61,
           "retweets": 5,
           "replies": 11,
@@ -898,6 +1015,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 2994,
+          "likes": 56,
+          "retweets": 4,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
           "views": 2994,
           "likes": 56,
           "retweets": 4,
@@ -1060,6 +1186,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 2796,
+          "likes": 18,
+          "retweets": 3,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -1069,6 +1204,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 2782,
+          "likes": 34,
+          "retweets": 5,
+          "replies": 4,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 2782,
           "likes": 34,
           "retweets": 5,
@@ -1249,6 +1393,15 @@
           "replies": 3,
           "quotes": 0,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 2468,
+          "likes": 38,
+          "retweets": 4,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 1
         }
       ]
     },
@@ -1312,6 +1465,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 4
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 2410,
+          "likes": 41,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 4
         }
       ]
     },
@@ -1351,6 +1513,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 2243,
+          "likes": 55,
+          "retweets": 1,
+          "replies": 6,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
           "views": 2243,
           "likes": 55,
           "retweets": 1,
@@ -1483,6 +1654,15 @@
           "replies": 4,
           "quotes": 1,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 2100,
+          "likes": 36,
+          "retweets": 1,
+          "replies": 4,
+          "quotes": 1,
+          "bookmarks": 1
         }
       ]
     },
@@ -1531,6 +1711,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
+          "views": 2086,
+          "likes": 18,
+          "retweets": 2,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -1556,6 +1745,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 2083,
+          "likes": 20,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 2084,
           "likes": 20,
           "retweets": 0,
           "replies": 2,
@@ -1639,6 +1837,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 2041,
+          "likes": 19,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -1649,6 +1856,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 2007,
+          "likes": 35,
+          "retweets": 4,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 2008,
           "likes": 35,
           "retweets": 4,
           "replies": 5,
@@ -1732,6 +1948,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 5
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1987,
+          "likes": 41,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 5
         }
       ]
     },
@@ -1780,6 +2005,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 4
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1978,
+          "likes": 46,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 4
         }
       ]
     },
@@ -1789,6 +2023,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1969,
+          "likes": 18,
+          "retweets": 2,
+          "replies": 2,
+          "quotes": 1,
+          "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 1969,
           "likes": 18,
           "retweets": 2,
@@ -1834,6 +2077,15 @@
           "replies": 3,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1931,
+          "likes": 14,
+          "retweets": 0,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -1874,6 +2126,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 1869,
+          "likes": 17,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1870,
           "likes": 17,
           "retweets": 0,
           "replies": 2,
@@ -1927,6 +2188,15 @@
           "replies": 1,
           "quotes": 0,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1841,
+          "likes": 28,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 1
         }
       ]
     },
@@ -1975,6 +2245,15 @@
           "replies": 9,
           "quotes": 0,
           "bookmarks": 2
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1823,
+          "likes": 19,
+          "retweets": 0,
+          "replies": 9,
+          "quotes": 0,
+          "bookmarks": 2
         }
       ]
     },
@@ -1984,6 +2263,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1817,
+          "likes": 28,
+          "retweets": 0,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T07:42:55Z",
           "views": 1817,
           "likes": 28,
           "retweets": 0,
@@ -2018,6 +2306,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 1806,
+          "likes": 19,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1807,
           "likes": 19,
           "retweets": 1,
           "replies": 1,
@@ -2063,6 +2360,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 1781,
+          "likes": 21,
+          "retweets": 2,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 1787,
           "likes": 21,
           "retweets": 2,
           "replies": 1,
@@ -2146,6 +2452,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 1686,
+          "likes": 25,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2194,6 +2509,15 @@
           "replies": 3,
           "quotes": 0,
           "bookmarks": 2
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1673,
+          "likes": 21,
+          "retweets": 1,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 2
         }
       ]
     },
@@ -2218,6 +2542,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1650,
+          "likes": 27,
+          "retweets": 3,
+          "replies": 6,
+          "quotes": 0,
+          "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 1650,
           "likes": 27,
           "retweets": 3,
@@ -2266,6 +2599,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1659,
+          "likes": 21,
+          "retweets": 3,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 1
         }
       ]
     },
@@ -2296,6 +2638,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1602,
+          "likes": 8,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2320,6 +2671,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1552,
+          "likes": 20,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 1552,
           "likes": 20,
           "retweets": 2,
@@ -2395,6 +2755,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1506,
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2438,6 +2807,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 1710,
+          "likes": 18,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 2
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1745,
           "likes": 18,
           "retweets": 0,
           "replies": 1,
@@ -2563,6 +2941,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1431,
+          "likes": 11,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2573,6 +2960,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 1423,
+          "likes": 10,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1424,
           "likes": 10,
           "retweets": 0,
           "replies": 0,
@@ -2623,6 +3019,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1391,
+          "likes": 10,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2647,6 +3052,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 1366,
+          "likes": 21,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2656,6 +3070,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1365,
+          "likes": 15,
+          "retweets": 0,
+          "replies": 5,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 1365,
           "likes": 15,
           "retweets": 0,
@@ -2696,6 +3119,15 @@
         {
           "at": "2026-10-17T07:01:41Z",
           "views": 1350,
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1351,
           "likes": 5,
           "retweets": 0,
           "replies": 0,
@@ -2789,6 +3221,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 1314,
+          "likes": 40,
+          "retweets": 2,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 5
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1315,
           "likes": 40,
           "retweets": 2,
           "replies": 1,
@@ -2899,6 +3340,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1206,
+          "likes": 7,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
         }
       ]
     },
@@ -2957,6 +3407,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 1174,
+          "likes": 12,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 1179,
           "likes": 12,
           "retweets": 0,
           "replies": 2,
@@ -3061,6 +3520,15 @@
       "samples": [
         {
           "at": "2026-10-17T07:01:41Z",
+          "views": 1048,
+          "likes": 5,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
           "views": 1048,
           "likes": 5,
           "retweets": 0,
@@ -3349,6 +3817,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T08:44:32Z",
+          "views": 905,
+          "likes": 13,
+          "retweets": 0,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 1
         }
       ]
     },
@@ -3437,6 +3914,15 @@
         {
           "at": "2026-10-17T08:44:32Z",
           "views": 859,
+          "likes": 16,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 862,
           "likes": 16,
           "retweets": 0,
           "replies": 0,
@@ -3544,6 +4030,15 @@
         },
         {
           "at": "2026-10-17T08:44:32Z",
+          "views": 807,
+          "likes": 11,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
           "views": 807,
           "likes": 11,
           "retweets": 0,
@@ -3688,6 +4183,15 @@
           "replies": 0,
           "quotes": 0,
           "bookmarks": 3
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 840,
+          "likes": 27,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 3
         }
       ]
     },
@@ -3787,6 +4291,15 @@
           "replies": 2,
           "quotes": 0,
           "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 865,
+          "likes": 12,
+          "retweets": 1,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 1
         }
       ]
     },
@@ -3798,6 +4311,15 @@
           "at": "2026-10-17T08:44:32Z",
           "views": 708,
           "likes": 7,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 1
+        },
+        {
+          "at": "2026-10-17T09:43:03Z",
+          "views": 721,
+          "likes": 8,
           "retweets": 1,
           "replies": 1,
           "quotes": 0,
