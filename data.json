@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 312,
+  "count": 314,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -502,8 +502,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 504,
-      "metric_observed_at": "2026-10-17T23:35:03.500997+00:00"
+      "views": 507,
+      "metric_observed_at": "2026-10-18T00:57:04.160343+00:00"
     },
     {
       "id": "2110727885514514465",
@@ -574,8 +574,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1216,
-      "metric_observed_at": "2026-10-17T23:35:03.501005+00:00"
+      "views": 1220,
+      "metric_observed_at": "2026-10-18T00:57:04.160349+00:00"
     },
     {
       "id": "2110717307630854507",
@@ -632,8 +632,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1875,
-      "metric_observed_at": "2026-10-17T23:35:03.501013+00:00"
+      "views": 1878,
+      "metric_observed_at": "2026-10-18T00:57:04.160355+00:00"
     },
     {
       "id": "2110708839695949870",
@@ -650,8 +650,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1706,
-      "metric_observed_at": "2026-10-17T23:35:03.501020+00:00"
+      "views": 1709,
+      "metric_observed_at": "2026-10-18T00:57:04.160360+00:00"
     },
     {
       "id": "2110688633024139752",
@@ -668,8 +668,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 402,
-      "metric_observed_at": "2026-10-17T23:35:03.501027+00:00"
+      "views": 404,
+      "metric_observed_at": "2026-10-18T00:57:04.160366+00:00"
     },
     {
       "id": "2110678432430555148",
@@ -705,8 +705,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2020,
-      "metric_observed_at": "2026-10-17T23:35:03.501041+00:00"
+      "views": 2025,
+      "metric_observed_at": "2026-10-18T00:57:04.160371+00:00"
     },
     {
       "id": "2110665472505172348",
@@ -742,8 +742,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3120,
-      "metric_observed_at": "2026-10-17T23:35:03.501055+00:00"
+      "views": 3124,
+      "metric_observed_at": "2026-10-18T00:57:04.160377+00:00"
     },
     {
       "id": "2110663221522952416",
@@ -779,8 +779,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 700,
-      "metric_observed_at": "2026-10-17T23:35:03.501064+00:00"
+      "views": 703,
+      "metric_observed_at": "2026-10-18T00:57:04.160383+00:00"
     },
     {
       "id": "2110646766240760043",
@@ -1026,6 +1026,42 @@
       "metric_observed_at": "2026-10-17T10:42:29.024064+00:00"
     },
     {
+      "id": "2111618246885720401",
+      "url": "https://x.com/sattoa_ball/status/2111618246885720401",
+      "type": "reply",
+      "created_at": "Sun Oct 18 00:39:56 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "個人的に歴史上最も不運だった国家は朝鮮の歴代国家だと思う\n日清・日露戦争などで他国同士の戦場になり、日本の植民地支配が終わったと思えば今度は冷戦の最前線に\nさらに朝鮮戦争で3年間戦い続け、70年以上経った今でも南北分断が続いている\n大国間の対立に巻き込まれすぎだろ",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 29,
+      "metric_observed_at": "2026-10-18T00:57:04.160136+00:00"
+    },
+    {
+      "id": "2111617333152362655",
+      "url": "https://x.com/sattoa_ball/status/2111617333152362655",
+      "type": "tweet",
+      "created_at": "Sun Oct 18 00:36:18 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "歴史上、最も不運だった国家と言えば？\n地理的な位置が悪くて何度も他国に侵攻されたり、大国同士の戦争に巻き込まれたり、自国ではどうにもできない事情で滅亡・分割されたりした国家など",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 50,
+      "metric_observed_at": "2026-10-18T00:57:04.160103+00:00"
+    },
+    {
       "id": "2111471624486822048",
       "url": "https://x.com/sattoa_ball/status/2111471624486822048",
       "type": "tweet",
@@ -1035,13 +1071,13 @@
       "author_id": "1592826578786217984",
       "text": "最高の軍とは\n補給：アメリカ人担当\n戦車：ドイツ人担当\n防衛：フィンランド人担当\n兵士の食事：フランス人担当\n指揮：ソ連人担当\nであり\n\n最悪の軍とは\n補給：日本人担当\n戦車：イタリア人担当\n防衛：ユーゴスラビア人担当\n兵士の食事：イギリス人担当\n指揮：ルーマニア人担当\nである",
       "media": [],
-      "likes": 467,
-      "retweets": 25,
-      "replies": 13,
-      "quotes": 7,
-      "bookmarks": 51,
-      "views": 40451,
-      "metric_observed_at": "2026-10-17T23:35:03.500745+00:00"
+      "likes": 750,
+      "retweets": 48,
+      "replies": 16,
+      "quotes": 11,
+      "bookmarks": 76,
+      "views": 63454,
+      "metric_observed_at": "2026-10-18T00:57:04.160147+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1053,13 +1089,13 @@
       "author_id": "1592826578786217984",
       "text": "ツイートがバズったら宣伝する行動って\n宣伝する側としては合理的だし、原理は理解できるんだけど\n返信を読みたい人からすると宣伝が間に挟まることで余計なスクロールが必要になるんだよね\n返信を見る際のUXが下がるってことだ\n俺は返信を見る際のUXを維持したいのでやらん",
       "media": [],
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 660,
-      "metric_observed_at": "2026-10-17T23:35:03.500788+00:00"
+      "bookmarks": 1,
+      "views": 713,
+      "metric_observed_at": "2026-10-18T00:57:04.160161+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1076,8 +1112,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 306,
-      "metric_observed_at": "2026-10-17T23:35:03.500812+00:00"
+      "views": 337,
+      "metric_observed_at": "2026-10-18T00:57:04.160177+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1094,8 +1130,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 612,
-      "metric_observed_at": "2026-10-17T23:35:03.500802+00:00"
+      "views": 649,
+      "metric_observed_at": "2026-10-18T00:57:04.160169+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1131,8 +1167,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 463,
-      "metric_observed_at": "2026-10-17T23:35:03.500821+00:00"
+      "views": 489,
+      "metric_observed_at": "2026-10-18T00:57:04.160184+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1163,13 +1199,13 @@
           }
         ]
       },
-      "likes": 2713,
-      "retweets": 104,
+      "likes": 3226,
+      "retweets": 119,
       "replies": 17,
-      "quotes": 11,
-      "bookmarks": 137,
-      "views": 206929,
-      "metric_observed_at": "2026-10-17T23:35:03.500829+00:00"
+      "quotes": 12,
+      "bookmarks": 171,
+      "views": 252459,
+      "metric_observed_at": "2026-10-18T00:57:04.160192+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1204,9 +1240,9 @@
       "retweets": 5,
       "replies": 5,
       "quotes": 1,
-      "bookmarks": 18,
-      "views": 3314,
-      "metric_observed_at": "2026-10-17T23:35:03.500840+00:00"
+      "bookmarks": 19,
+      "views": 3454,
+      "metric_observed_at": "2026-10-18T00:57:04.160200+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1237,13 +1273,13 @@
           }
         ]
       },
-      "likes": 113,
+      "likes": 116,
       "retweets": 8,
-      "replies": 48,
+      "replies": 49,
       "quotes": 22,
       "bookmarks": 46,
-      "views": 25342,
-      "metric_observed_at": "2026-10-17T23:35:03.500849+00:00"
+      "views": 26917,
+      "metric_observed_at": "2026-10-18T00:57:04.160206+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1261,7 +1297,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 45,
-      "metric_observed_at": "2026-10-17T23:35:03.500873+00:00"
+      "metric_observed_at": "2026-10-18T00:57:04.160226+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1279,7 +1315,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 67,
-      "metric_observed_at": "2026-10-17T23:35:03.500866+00:00"
+      "metric_observed_at": "2026-10-18T00:57:04.160220+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1328,8 +1364,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 902,
-      "metric_observed_at": "2026-10-17T23:35:03.500857+00:00"
+      "views": 916,
+      "metric_observed_at": "2026-10-18T00:57:04.160214+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1341,13 +1377,13 @@
       "author_id": "1592826578786217984",
       "text": "レビュー：★☆☆☆☆ @BritishTourist1814\n首都の建物は非常に燃えやすくて見ごたえがあったが、帰国後に土地が1エーカーも増えていなかったので星1です。",
       "media": [],
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 559,
-      "metric_observed_at": "2026-10-17T23:35:03.500889+00:00"
+      "views": 601,
+      "metric_observed_at": "2026-10-18T00:57:04.160240+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1359,13 +1395,13 @@
       "author_id": "1592826578786217984",
       "text": "1814年\nイギリス軍はアメリカの首都ワシントンに到達した\nホワイトハウスと連邦議会議事堂を焼き払った\nところが戦後の講和条約では英米の領土は基本的に戦前の状態へ戻された\nつまりイギリスは領土を増やさずにアメリカの首都まで行って帰ってきたことになる\n世界史上最も物騒な観光旅行では？",
       "media": [],
-      "likes": 35,
-      "retweets": 0,
+      "likes": 39,
+      "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 2901,
-      "metric_observed_at": "2026-10-17T23:35:03.500881+00:00"
+      "bookmarks": 5,
+      "views": 3146,
+      "metric_observed_at": "2026-10-18T00:57:04.160233+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1377,13 +1413,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 1884,
-      "retweets": 76,
-      "replies": 176,
-      "quotes": 94,
-      "bookmarks": 291,
-      "views": 402636,
-      "metric_observed_at": "2026-10-17T23:35:03.500896+00:00"
+      "likes": 1924,
+      "retweets": 77,
+      "replies": 181,
+      "quotes": 96,
+      "bookmarks": 301,
+      "views": 416216,
+      "metric_observed_at": "2026-10-18T00:57:04.160247+00:00"
     },
     {
       "id": "2111249331202515358",
@@ -1414,13 +1450,13 @@
           }
         ]
       },
-      "likes": 30,
+      "likes": 31,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1085,
-      "metric_observed_at": "2026-10-17T23:35:03.500904+00:00"
+      "views": 1101,
+      "metric_observed_at": "2026-10-18T00:57:04.160255+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -1456,8 +1492,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 802,
-      "metric_observed_at": "2026-10-17T23:35:03.500920+00:00"
+      "views": 807,
+      "metric_observed_at": "2026-10-18T00:57:04.160269+00:00"
     },
     {
       "id": "2111100026684690728",
@@ -1542,8 +1578,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 18,
-      "views": 7276,
-      "metric_observed_at": "2026-10-17T23:35:03.500928+00:00"
+      "views": 7295,
+      "metric_observed_at": "2026-10-18T00:57:04.160262+00:00"
     },
     {
       "id": "2111064545662021765",
@@ -1560,8 +1596,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 714,
-      "metric_observed_at": "2026-10-17T23:35:03.500934+00:00"
+      "views": 720,
+      "metric_observed_at": "2026-10-18T00:57:04.160275+00:00"
     },
     {
       "id": "2111001326801007084",
@@ -1632,8 +1668,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2494,
-      "metric_observed_at": "2026-10-17T23:35:03.500942+00:00"
+      "views": 2500,
+      "metric_observed_at": "2026-10-18T00:57:04.160281+00:00"
     },
     {
       "id": "2110962959723950300",
@@ -1690,8 +1726,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3451,
-      "metric_observed_at": "2026-10-17T23:35:03.500949+00:00"
+      "views": 3459,
+      "metric_observed_at": "2026-10-18T00:57:04.160288+00:00"
     },
     {
       "id": "2110954978970046542",
@@ -1708,8 +1744,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 484,
-      "metric_observed_at": "2026-10-17T23:35:03.500956+00:00"
+      "views": 486,
+      "metric_observed_at": "2026-10-18T00:57:04.160294+00:00"
     },
     {
       "id": "2110953087582302489",
@@ -1745,8 +1781,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 6373,
-      "metric_observed_at": "2026-10-17T23:35:03.500963+00:00"
+      "views": 6376,
+      "metric_observed_at": "2026-10-18T00:57:04.160300+00:00"
     },
     {
       "id": "2110944489787531388",
@@ -1763,8 +1799,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 602,
-      "metric_observed_at": "2026-10-17T23:35:03.500970+00:00"
+      "views": 604,
+      "metric_observed_at": "2026-10-18T00:57:04.160306+00:00"
     },
     {
       "id": "2110941863209537744",
@@ -1781,8 +1817,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 901,
-      "metric_observed_at": "2026-10-17T23:35:03.500977+00:00"
+      "views": 903,
+      "metric_observed_at": "2026-10-18T00:57:04.160312+00:00"
     },
     {
       "id": "2110940695334965329",
@@ -1799,8 +1835,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 544,
-      "metric_observed_at": "2026-10-17T23:35:03.500984+00:00"
+      "views": 546,
+      "metric_observed_at": "2026-10-18T00:57:04.160317+00:00"
     },
     {
       "id": "2110891854078341434",
@@ -1836,8 +1872,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2029,
-      "metric_observed_at": "2026-10-17T23:35:03.500991+00:00"
+      "views": 2033,
+      "metric_observed_at": "2026-10-18T00:57:04.160324+00:00"
     },
     {
       "id": "2110386965933908352",
@@ -3271,7 +3307,8 @@
       "text": "2018年\nペルーの市長選でレーニン・ウラジーミル・ロドリゲス・バルベルデ氏が\nヒトラー・アルバ・サンチェス氏の立候補に異議を申し立てた\n異議は却下されて、ヒトラー氏は10月7日の選挙で得票率47.7%を得て当選したよ\nなお、現在話題のヒトラー・ムッソリーニ氏とは別人",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109514525343130099",
-      "views": 330
+      "views": 345,
+      "metric_observed_at": "2026-10-18T00:57:04.160389+00:00"
     },
     {
       "article": null,
@@ -3303,7 +3340,8 @@
       "text": "ヒトラーの出馬をレーニンが阻止しようとした話\n\n冗談みたいな話だが\n2018年のペルーで実際に起きた事件\n現在は「ヒトラー・ムッソリーニ」という名前の政治家まで話題になっている\n\n詳細はリプ欄にて",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109513614730338619",
-      "views": 439
+      "views": 461,
+      "metric_observed_at": "2026-10-18T00:57:04.160398+00:00"
     },
     {
       "article": null,
@@ -3335,7 +3373,8 @@
       "text": "名目GDPがドイツ＞日本であることが判明したのは２０２４年２月１５日なんだけど\n俺の感覚的には「ちょっと前起こったこと」なのに\n２年８か月くらい経過しているようだ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109509836627198080",
-      "views": 381
+      "views": 396,
+      "metric_observed_at": "2026-10-18T00:57:04.160405+00:00"
     },
     {
       "article": null,
@@ -3377,7 +3416,8 @@
       "text": "ドイツ陣営（Axis）に\nファシズムのイタリアとファシズムの日本が加盟していると\n陣営名が「日独伊三国同盟」になるように変更\nドイツ陣営（Axis）に日本がいてイタリアが不在の場合は「日独反共協定」となるが、ドイツも日本も共産の場合は「ベルリン＝東京社会主義同盟」になる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109497154096284056",
-      "views": 3583
+      "views": 3621,
+      "metric_observed_at": "2026-10-18T00:57:04.160412+00:00"
     },
     {
       "article": null,
@@ -3413,7 +3453,8 @@
       "text": "日本は戦時中に「生めよ増やせよ」と出生を奨励しながら戦争に突入\n一方で中国は大躍進運動で大規模な犠牲者を出し、その後一人っ子政策で出生を制限した\n人口政策の方向性は正反対でも、人口を減らす実績だけは共通しているらしい",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109437604085240236",
-      "views": 276
+      "views": 289,
+      "metric_observed_at": "2026-10-18T00:57:04.160419+00:00"
     },
     {
       "article": null,
@@ -3445,7 +3486,8 @@
       "text": "日中は、少子高齢化と人口減少に直面している\n中国は一人っ子政策を実施し、日本は出生制限なしで少子化を進めた\nしかし、両国の人口削減には長い歴史がある\n中国は大躍進運動で数千万人、日本は太平洋戦争で約310万人の犠牲者を出した\n人口を減らすことに関しては両国とも今も昔も実績豊富らしい…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109436973844992487",
-      "views": 940
+      "views": 961,
+      "metric_observed_at": "2026-10-18T00:57:04.160425+00:00"
     },
     {
       "article": null,
@@ -3462,7 +3504,7 @@
       "id": "2109276921498685525",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 1095,
+      "likes": 1096,
       "links": [],
       "media": [],
       "mentions": [],
@@ -3477,7 +3519,8 @@
       "text": "モンゴル、世界屈指の海軍国家説\n海軍が大規模な敗北を経験していない\n\n第二次世界大戦でも太平洋戦争でもモンゴル海軍が敵の戦艦に撃沈された記録はない\n\n海軍の維持にほとんど予算を割いていないのにも関わらず海上戦力の損失も少ない\n\n海軍の強さが「どれだけ多くの艦艇を失わずに済んだか」ならね",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109276921498685525",
-      "views": 39016
+      "views": 39100,
+      "metric_observed_at": "2026-10-18T00:57:04.160432+00:00"
     },
     {
       "article": null,
@@ -3512,7 +3555,8 @@
       "text": "ポーランドボールのルールがYoutubeにも適用されるのか調べてみた\n実はそのルールの多くはRedditのr/Polandball向けらしい\n下記のURLは要約すると「Redditのポーランドボール独自ルールをYouTubeに強制することはできない」と書いてあるスレッドだよ\nhttps://www.reddit.com/r/PolandballCommunity/comments/1mj6c3y/is_the_video_compliant_with_the_rules/\n\nhttps://www.reddit.com/r/PolandballCommunity/comments/11ucsur/do_you_enforce_your_rules_out_of_this_subreddit_i/",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109273482479673824",
-      "views": 618
+      "views": 636,
+      "metric_observed_at": "2026-10-18T00:57:04.160439+00:00"
     },
     {
       "article": null,
@@ -3548,7 +3592,8 @@
       "text": "需要の有無はさておき、制作しているHoI4のMODをここに進捗を投稿しようと思う\n主な目的は他の人に見てもらうことじゃなくて、自分で制作状況を振り返りやすくするため\nメモ帳とかに記録すると管理が行き届かず、あとから見つけにくくなったりミスって削除する可能性ある",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109164190300823732",
-      "views": 310
+      "views": 327,
+      "metric_observed_at": "2026-10-18T00:57:04.160447+00:00"
     },
     {
       "article": null,
@@ -3590,7 +3635,8 @@
       "text": "エジプト王国のコンテンツを実装してみる\nこの画像は構想段階で、地図を塗り替えただけ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109160063592267872",
-      "views": 787
+      "views": 816,
+      "metric_observed_at": "2026-10-18T00:57:04.160454+00:00"
     },
     {
       "article": null,
@@ -3641,7 +3687,8 @@
       "text": "8月23日辺りからこのサイトを閲覧しているが\n当時から再生数が一致していないのが気になる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108910223218065855",
-      "views": 769
+      "views": 781,
+      "metric_observed_at": "2026-10-18T00:57:04.160460+00:00"
     },
     {
       "article": null,
@@ -3683,7 +3730,8 @@
       "text": "HoI4でオスマン帝国を復活させて、旧領を再建中\n画像はKSREとその日本語化MODをベースに個人用にさらに改造した「Sato KSREjap」を使用しています\nオスマン帝国の従属国名も独自に変更しているので、かなり雰囲気が出てきた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108788865314197851",
-      "views": 1025
+      "views": 1049,
+      "metric_observed_at": "2026-10-18T00:57:04.160467+00:00"
     },
     {
       "article": null,
@@ -12623,5 +12671,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-17T23:35:03.501269+00:00"
+  "last_metric_refresh_at": "2026-10-18T00:57:04.160561+00:00"
 }
