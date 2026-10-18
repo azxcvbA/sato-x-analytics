@@ -2639,7 +2639,7 @@
       "replies": 8,
       "quotes": 0,
       "bookmarks": 11,
-      "views": 2584,
+      "views": 2668,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -2652,7 +2652,8 @@
       "sensitive": false,
       "edited": false,
       "retweeted": null,
-      "quoted": null
+      "quoted": null,
+      "metric_observed_at": "2026-10-18T17:00:00.862826+00:00"
     },
     {
       "id": "2110187989532057852",
@@ -2671,7 +2672,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1177,
+      "views": 1216,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -2684,7 +2685,8 @@
       "sensitive": false,
       "edited": false,
       "retweeted": null,
-      "quoted": null
+      "quoted": null,
+      "metric_observed_at": "2026-10-18T17:00:00.862866+00:00"
     },
     {
       "article": null,
@@ -12884,5 +12886,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-18T16:30:37.771555+00:00"
+  "last_metric_refresh_at": "2026-10-18T17:00:00.862978+00:00"
 }
