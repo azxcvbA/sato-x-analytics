@@ -20,7 +20,7 @@ API = "https://api.fxtwitter.com/2"
 METRICS = {"likes": "likes", "reposts": "retweets", "replies": "replies",
            "quotes": "quotes", "bookmarks": "bookmarks", "views": "views"}
 PAGES = 3
-OLDER_PER_HOUR = 12
+OLDER_PER_RUN = 2
 
 
 def request(path, params=None):
@@ -109,10 +109,10 @@ def main():
     # Avoid checking the same post twice in a single run.
     recent_ids = {str(p.get("id")) for p in fetched if isinstance(p, dict)}
     older = [ident for ident in indexed if ident not in recent_ids]
-    hour = int(datetime.now(timezone.utc).timestamp() // 3600)
+    interval = int(datetime.now(timezone.utc).timestamp() // 600)
     if older:
-        start = (hour * OLDER_PER_HOUR) % len(older)
-        selection = (older + older)[start:start + min(OLDER_PER_HOUR, len(older))]
+        start = (interval * OLDER_PER_RUN) % len(older)
+        selection = (older + older)[start:start + min(OLDER_PER_RUN, len(older))]
         for ident in selection:
             try:
                 status = request("/status/" + ident).get("status")
