@@ -1,7 +1,5 @@
-name: Profile counts every 10 minutes
+name: Profile counts manual test
 on:
-  schedule:
-    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
