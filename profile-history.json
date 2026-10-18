@@ -7,6 +7,13 @@
       "following": 170,
       "source": "user-provided",
       "observed_at": null
+    },
+    {
+      "date": "2026-10-18",
+      "followers": 1575,
+      "following": 170,
+      "observed_at": "2026-10-18T14:22:59.439855+00:00",
+      "source": "fxtwitter"
     }
   ]
 }

@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 318,
+  "count": 320,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -511,8 +511,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 520,
-      "metric_observed_at": "2026-10-18T12:49:52.062992+00:00"
+      "views": 521,
+      "metric_observed_at": "2026-10-18T14:22:59.245543+00:00"
     },
     {
       "id": "2110727885514514465",
@@ -583,8 +583,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1237,
-      "metric_observed_at": "2026-10-18T12:49:52.063001+00:00"
+      "views": 1240,
+      "metric_observed_at": "2026-10-18T14:22:59.245552+00:00"
     },
     {
       "id": "2110717307630854507",
@@ -1035,6 +1035,61 @@
       "metric_observed_at": "2026-10-18T08:44:18.859870+00:00"
     },
     {
+      "id": "2111819542477554156",
+      "url": "https://x.com/sattoa_ball/status/2111819542477554156",
+      "type": "tweet",
+      "created_at": "Sun Oct 18 13:59:49 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4の自作MODで、中道フランスがメキシコを傀儡化すると国名がメキシコ第二帝政に変わるようにした\n元ネタは1864年に成立したメキシコ第二帝政\nフランス皇帝ナポレオン3世がメキシコに軍事介入して\nオーストリア大公マクシミリアンを皇帝に擁立したことで成立した国家\nフランス軍の撤退後に帝政は崩壊",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111819537209548800",
+            "url": "https://pbs.twimg.com/media/HU6wriEa4AAmywU.png?name=orig",
+            "width": 816,
+            "height": 813
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111819537209548800",
+            "url": "https://pbs.twimg.com/media/HU6wriEa4AAmywU.png?name=orig",
+            "width": 816,
+            "height": 813
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 102,
+      "metric_observed_at": "2026-10-18T14:22:59.245078+00:00"
+    },
+    {
+      "id": "2111805474018611650",
+      "url": "https://x.com/sattoa_ball/status/2111805474018611650",
+      "type": "tweet",
+      "created_at": "Sun Oct 18 13:03:55 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "国際社会「核兵器のない世界を目指しましょう！」\nアメリカ「核軍縮を進めます」\n日本「核実験を禁止します」\n中国「核兵器の製造を制限します」\n北朝鮮「核兵器を全世界に撃ち込めば核も人類も消えるし、核戦争を恐れる者\"すら\"いなくなる究極の平和の完成だ！」",
+      "media": [],
+      "likes": 19,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 380,
+      "metric_observed_at": "2026-10-18T14:22:59.245118+00:00"
+    },
+    {
       "id": "2111800377360441353",
       "url": "https://x.com/sattoa_ball/status/2111800377360441353",
       "type": "tweet",
@@ -1063,13 +1118,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 22,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 46,
-      "metric_observed_at": "2026-10-18T12:49:52.062643+00:00"
+      "bookmarks": 3,
+      "views": 755,
+      "metric_observed_at": "2026-10-18T14:22:59.245146+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -1081,13 +1136,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も敵に回したくない小国と言えば？\n領土も人口も大国には及ばないのに\n軍事力・地形・外交・国民の抵抗などによって\n大国にとってめちゃくちゃ厄介な存在になった国など\nみんなはどの国家を思い浮かべる？",
       "media": [],
-      "likes": 99,
-      "retweets": 3,
-      "replies": 35,
-      "quotes": 9,
-      "bookmarks": 13,
-      "views": 12976,
-      "metric_observed_at": "2026-10-18T12:49:52.062680+00:00"
+      "likes": 143,
+      "retweets": 6,
+      "replies": 45,
+      "quotes": 14,
+      "bookmarks": 16,
+      "views": 16748,
+      "metric_observed_at": "2026-10-18T14:22:59.245165+00:00"
     },
     {
       "id": "2111644119600943198",
@@ -1118,13 +1173,13 @@
           }
         ]
       },
-      "likes": 362,
-      "retweets": 16,
+      "likes": 381,
+      "retweets": 17,
       "replies": 6,
       "quotes": 0,
-      "bookmarks": 31,
-      "views": 16941,
-      "metric_observed_at": "2026-10-18T12:49:52.062701+00:00"
+      "bookmarks": 35,
+      "views": 17688,
+      "metric_observed_at": "2026-10-18T14:22:59.245180+00:00"
     },
     {
       "id": "2111624587410846039",
@@ -1136,13 +1191,13 @@
       "author_id": "1592826578786217984",
       "text": "イギリスは「世界屈指の独立記念日製造大国」と呼ばれる\nかつて、世界中に植民地を築き上げ、そこから去ることで\n数多くの国に「独立記念日」という祝日をプレゼントしたからだ\n地球上のどこかで今日も誰かが祝杯を挙げている\n他国にこれほど多くの祝日をもたらした\n「慈善国家」は他に存在しない！！",
       "media": [],
-      "likes": 43,
+      "likes": 46,
       "retweets": 4,
       "replies": 1,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 2251,
-      "metric_observed_at": "2026-10-18T12:49:52.062715+00:00"
+      "views": 2313,
+      "metric_observed_at": "2026-10-18T14:22:59.245192+00:00"
     },
     {
       "id": "2111618246885720401",
@@ -1154,13 +1209,13 @@
       "author_id": "1592826578786217984",
       "text": "個人的に歴史上最も不運だった国家は朝鮮の歴代国家だと思う\n日清・日露戦争などで他国同士の戦場になり、日本の植民地支配が終わったと思えば今度は冷戦の最前線に\nさらに朝鮮戦争で3年間戦い続け、70年以上経った今でも南北分断が続いている\n大国間の対立に巻き込まれすぎだろ",
       "media": [],
-      "likes": 134,
+      "likes": 140,
       "retweets": 8,
       "replies": 13,
       "quotes": 3,
       "bookmarks": 4,
-      "views": 13654,
-      "metric_observed_at": "2026-10-18T12:49:52.062737+00:00"
+      "views": 14011,
+      "metric_observed_at": "2026-10-18T14:22:59.245215+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1172,13 +1227,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も不運だった国家と言えば？\n地理的な位置が悪くて何度も他国に侵攻されたり、大国同士の戦争に巻き込まれたり、自国ではどうにもできない事情で滅亡・分割されたりした国家など",
       "media": [],
-      "likes": 530,
-      "retweets": 21,
-      "replies": 128,
-      "quotes": 58,
-      "bookmarks": 69,
-      "views": 75810,
-      "metric_observed_at": "2026-10-18T12:49:52.062725+00:00"
+      "likes": 561,
+      "retweets": 23,
+      "replies": 133,
+      "quotes": 63,
+      "bookmarks": 73,
+      "views": 77637,
+      "metric_observed_at": "2026-10-18T14:22:59.245204+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1190,13 +1245,13 @@
       "author_id": "1592826578786217984",
       "text": "最高の軍とは\n補給：アメリカ人担当\n戦車：ドイツ人担当\n防衛：フィンランド人担当\n兵士の食事：フランス人担当\n指揮：ソ連人担当\nであり\n\n最悪の軍とは\n補給：日本人担当\n戦車：イタリア人担当\n防衛：ユーゴスラビア人担当\n兵士の食事：イギリス人担当\n指揮：ルーマニア人担当\nである",
       "media": [],
-      "likes": 3864,
-      "retweets": 209,
-      "replies": 95,
+      "likes": 4197,
+      "retweets": 225,
+      "replies": 103,
       "quotes": 46,
-      "bookmarks": 440,
-      "views": 376240,
-      "metric_observed_at": "2026-10-18T12:49:52.062747+00:00"
+      "bookmarks": 475,
+      "views": 397957,
+      "metric_observed_at": "2026-10-18T14:22:59.245226+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1213,8 +1268,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 946,
-      "metric_observed_at": "2026-10-18T12:49:52.062757+00:00"
+      "views": 964,
+      "metric_observed_at": "2026-10-18T14:22:59.245236+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1231,8 +1286,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 559,
-      "metric_observed_at": "2026-10-18T12:49:52.062777+00:00"
+      "views": 581,
+      "metric_observed_at": "2026-10-18T14:22:59.245255+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1244,13 +1299,13 @@
       "author_id": "1592826578786217984",
       "text": "大喜利\n世界各国がDiscordサーバーを作ったら起こりそうなこと",
       "media": [],
-      "likes": 15,
+      "likes": 16,
       "retweets": 0,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1022,
-      "metric_observed_at": "2026-10-18T12:49:52.062767+00:00"
+      "views": 1083,
+      "metric_observed_at": "2026-10-18T14:22:59.245245+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1286,8 +1341,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 660,
-      "metric_observed_at": "2026-10-18T12:49:52.062786+00:00"
+      "views": 669,
+      "metric_observed_at": "2026-10-18T14:22:59.245265+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1318,13 +1373,13 @@
           }
         ]
       },
-      "likes": 5876,
-      "retweets": 217,
+      "likes": 5948,
+      "retweets": 220,
       "replies": 29,
       "quotes": 30,
-      "bookmarks": 317,
-      "views": 507476,
-      "metric_observed_at": "2026-10-18T12:49:52.062796+00:00"
+      "bookmarks": 322,
+      "views": 509656,
+      "metric_observed_at": "2026-10-18T14:22:59.245275+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1360,8 +1415,8 @@
       "replies": 5,
       "quotes": 1,
       "bookmarks": 26,
-      "views": 4716,
-      "metric_observed_at": "2026-10-18T12:49:52.062805+00:00"
+      "views": 4733,
+      "metric_observed_at": "2026-10-18T14:22:59.245284+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1394,11 +1449,11 @@
       },
       "likes": 159,
       "retweets": 9,
-      "replies": 63,
+      "replies": 64,
       "quotes": 27,
-      "bookmarks": 54,
-      "views": 36254,
-      "metric_observed_at": "2026-10-18T12:49:52.062814+00:00"
+      "bookmarks": 55,
+      "views": 36361,
+      "metric_observed_at": "2026-10-18T14:22:59.245294+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1416,7 +1471,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 58,
-      "metric_observed_at": "2026-10-18T12:49:52.062841+00:00"
+      "metric_observed_at": "2026-10-18T14:22:59.245324+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1434,7 +1489,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 75,
-      "metric_observed_at": "2026-10-18T12:49:52.062833+00:00"
+      "metric_observed_at": "2026-10-18T14:22:59.245314+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1451,8 +1506,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "metric_observed_at": "2026-10-18T08:44:18.859879+00:00",
-      "views": 63
+      "metric_observed_at": "2026-10-18T14:22:59.245353+00:00",
+      "views": 64
     },
     {
       "id": "2111274805861535802",
@@ -1469,8 +1524,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "metric_observed_at": "2026-10-18T05:42:50.868850+00:00",
-      "views": 354
+      "metric_observed_at": "2026-10-18T14:22:59.245344+00:00",
+      "views": 393
     },
     {
       "id": "2111273613588664767",
@@ -1487,8 +1542,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1003,
-      "metric_observed_at": "2026-10-18T12:49:52.062851+00:00"
+      "views": 1009,
+      "metric_observed_at": "2026-10-18T14:22:59.245335+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1505,8 +1560,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 677,
-      "metric_observed_at": "2026-10-18T12:49:52.062869+00:00"
+      "views": 682,
+      "metric_observed_at": "2026-10-18T14:22:59.245372+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1523,8 +1578,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3405,
-      "metric_observed_at": "2026-10-18T12:49:52.062860+00:00"
+      "views": 3413,
+      "metric_observed_at": "2026-10-18T14:22:59.245363+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1536,13 +1591,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 2010,
+      "likes": 2012,
       "retweets": 85,
       "replies": 187,
       "quotes": 101,
-      "bookmarks": 309,
-      "views": 452143,
-      "metric_observed_at": "2026-10-18T12:49:52.062878+00:00"
+      "bookmarks": 310,
+      "views": 452698,
+      "metric_observed_at": "2026-10-18T14:22:59.245380+00:00"
     },
     {
       "id": "2111249331202515358",
@@ -1578,8 +1633,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1157,
-      "metric_observed_at": "2026-10-18T12:49:52.062887+00:00"
+      "views": 1163,
+      "metric_observed_at": "2026-10-18T14:22:59.245389+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -1615,8 +1670,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 851,
-      "metric_observed_at": "2026-10-18T12:49:52.062905+00:00"
+      "views": 855,
+      "metric_observed_at": "2026-10-18T14:22:59.245409+00:00"
     },
     {
       "id": "2111100026684690728",
@@ -1701,8 +1756,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 18,
-      "views": 7387,
-      "metric_observed_at": "2026-10-18T12:49:52.062896+00:00"
+      "views": 7394,
+      "metric_observed_at": "2026-10-18T14:22:59.245399+00:00"
     },
     {
       "id": "2111064545662021765",
@@ -1719,8 +1774,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 772,
-      "metric_observed_at": "2026-10-18T12:49:52.062914+00:00"
+      "views": 775,
+      "metric_observed_at": "2026-10-18T14:22:59.245418+00:00"
     },
     {
       "id": "2111001326801007084",
@@ -1791,8 +1846,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2560,
-      "metric_observed_at": "2026-10-18T12:49:52.062922+00:00"
+      "views": 2565,
+      "metric_observed_at": "2026-10-18T14:22:59.245427+00:00"
     },
     {
       "id": "2110962959723950300",
@@ -1849,8 +1904,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3501,
-      "metric_observed_at": "2026-10-18T12:49:52.062931+00:00"
+      "views": 3506,
+      "metric_observed_at": "2026-10-18T14:22:59.245436+00:00"
     },
     {
       "id": "2110954978970046542",
@@ -1867,8 +1922,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 512,
-      "metric_observed_at": "2026-10-18T12:49:52.062940+00:00"
+      "views": 515,
+      "metric_observed_at": "2026-10-18T14:22:59.245446+00:00"
     },
     {
       "id": "2110953087582302489",
@@ -1899,13 +1954,13 @@
           }
         ]
       },
-      "likes": 100,
+      "likes": 101,
       "retweets": 3,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 6427,
-      "metric_observed_at": "2026-10-18T12:49:52.062949+00:00"
+      "views": 6436,
+      "metric_observed_at": "2026-10-18T14:22:59.245455+00:00"
     },
     {
       "id": "2110944489787531388",
@@ -1922,8 +1977,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 626,
-      "metric_observed_at": "2026-10-18T12:49:52.062957+00:00"
+      "views": 629,
+      "metric_observed_at": "2026-10-18T14:22:59.245504+00:00"
     },
     {
       "id": "2110941863209537744",
@@ -1940,8 +1995,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 919,
-      "metric_observed_at": "2026-10-18T12:49:52.062966+00:00"
+      "views": 922,
+      "metric_observed_at": "2026-10-18T14:22:59.245516+00:00"
     },
     {
       "id": "2110940695334965329",
@@ -1958,8 +2013,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 561,
-      "metric_observed_at": "2026-10-18T12:49:52.062974+00:00"
+      "views": 564,
+      "metric_observed_at": "2026-10-18T14:22:59.245525+00:00"
     },
     {
       "id": "2110891854078341434",
@@ -1995,8 +2050,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2057,
-      "metric_observed_at": "2026-10-18T12:49:52.062983+00:00"
+      "views": 2061,
+      "metric_observed_at": "2026-10-18T14:22:59.245534+00:00"
     },
     {
       "id": "2110386965933908352",
@@ -12827,5 +12882,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-18T13:41:38.844428+00:00"
+  "last_metric_refresh_at": "2026-10-18T14:22:59.245670+00:00"
 }
