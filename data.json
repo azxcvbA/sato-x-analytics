@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 314,
+  "count": 315,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -1026,6 +1026,24 @@
       "metric_observed_at": "2026-10-17T10:42:29.024064+00:00"
     },
     {
+      "id": "2111624587410846039",
+      "url": "https://x.com/sattoa_ball/status/2111624587410846039",
+      "type": "tweet",
+      "created_at": "Sun Oct 18 01:05:08 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "イギリスは「世界屈指の独立記念日製造大国」と呼ばれる\nかつて、世界中に植民地を築き上げ、そこから去ることで\n数多くの国に「独立記念日」という祝日をプレゼントしたからだ\n地球上のどこかで今日も誰かが祝杯を挙げている\n他国にこれほど多くの祝日をもたらした\n「慈善国家」は他に存在しない！！",
+      "media": [],
+      "likes": 12,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 635,
+      "metric_observed_at": "2026-10-18T01:42:29.341595+00:00"
+    },
+    {
       "id": "2111618246885720401",
       "url": "https://x.com/sattoa_ball/status/2111618246885720401",
       "type": "reply",
@@ -1035,13 +1053,13 @@
       "author_id": "1592826578786217984",
       "text": "個人的に歴史上最も不運だった国家は朝鮮の歴代国家だと思う\n日清・日露戦争などで他国同士の戦場になり、日本の植民地支配が終わったと思えば今度は冷戦の最前線に\nさらに朝鮮戦争で3年間戦い続け、70年以上経った今でも南北分断が続いている\n大国間の対立に巻き込まれすぎだろ",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 29,
-      "metric_observed_at": "2026-10-18T00:57:04.160136+00:00"
+      "views": 437,
+      "metric_observed_at": "2026-10-18T01:42:29.341646+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1053,13 +1071,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も不運だった国家と言えば？\n地理的な位置が悪くて何度も他国に侵攻されたり、大国同士の戦争に巻き込まれたり、自国ではどうにもできない事情で滅亡・分割されたりした国家など",
       "media": [],
-      "likes": 0,
+      "likes": 10,
       "retweets": 0,
-      "replies": 1,
+      "replies": 6,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 50,
-      "metric_observed_at": "2026-10-18T00:57:04.160103+00:00"
+      "views": 2466,
+      "metric_observed_at": "2026-10-18T01:42:29.341631+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1071,13 +1089,13 @@
       "author_id": "1592826578786217984",
       "text": "最高の軍とは\n補給：アメリカ人担当\n戦車：ドイツ人担当\n防衛：フィンランド人担当\n兵士の食事：フランス人担当\n指揮：ソ連人担当\nであり\n\n最悪の軍とは\n補給：日本人担当\n戦車：イタリア人担当\n防衛：ユーゴスラビア人担当\n兵士の食事：イギリス人担当\n指揮：ルーマニア人担当\nである",
       "media": [],
-      "likes": 750,
-      "retweets": 48,
-      "replies": 16,
-      "quotes": 11,
-      "bookmarks": 76,
-      "views": 63454,
-      "metric_observed_at": "2026-10-18T00:57:04.160147+00:00"
+      "likes": 928,
+      "retweets": 63,
+      "replies": 18,
+      "quotes": 12,
+      "bookmarks": 91,
+      "views": 80747,
+      "metric_observed_at": "2026-10-18T01:42:29.341656+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1094,8 +1112,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 713,
-      "metric_observed_at": "2026-10-18T00:57:04.160161+00:00"
+      "views": 731,
+      "metric_observed_at": "2026-10-18T01:42:29.341663+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1112,8 +1130,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 337,
-      "metric_observed_at": "2026-10-18T00:57:04.160177+00:00"
+      "views": 351,
+      "metric_observed_at": "2026-10-18T01:42:29.341676+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1130,8 +1148,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 649,
-      "metric_observed_at": "2026-10-18T00:57:04.160169+00:00"
+      "views": 666,
+      "metric_observed_at": "2026-10-18T01:42:29.341669+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1167,8 +1185,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 489,
-      "metric_observed_at": "2026-10-18T00:57:04.160184+00:00"
+      "views": 498,
+      "metric_observed_at": "2026-10-18T01:42:29.341681+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1199,13 +1217,13 @@
           }
         ]
       },
-      "likes": 3226,
-      "retweets": 119,
-      "replies": 17,
-      "quotes": 12,
-      "bookmarks": 171,
-      "views": 252459,
-      "metric_observed_at": "2026-10-18T00:57:04.160192+00:00"
+      "likes": 3517,
+      "retweets": 128,
+      "replies": 18,
+      "quotes": 15,
+      "bookmarks": 190,
+      "views": 278167,
+      "metric_observed_at": "2026-10-18T01:42:29.341687+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1236,13 +1254,13 @@
           }
         ]
       },
-      "likes": 75,
+      "likes": 76,
       "retweets": 5,
       "replies": 5,
       "quotes": 1,
       "bookmarks": 19,
-      "views": 3454,
-      "metric_observed_at": "2026-10-18T00:57:04.160200+00:00"
+      "views": 3560,
+      "metric_observed_at": "2026-10-18T01:42:29.341693+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1273,13 +1291,13 @@
           }
         ]
       },
-      "likes": 116,
+      "likes": 121,
       "retweets": 8,
-      "replies": 49,
-      "quotes": 22,
-      "bookmarks": 46,
-      "views": 26917,
-      "metric_observed_at": "2026-10-18T00:57:04.160206+00:00"
+      "replies": 50,
+      "quotes": 23,
+      "bookmarks": 47,
+      "views": 28102,
+      "metric_observed_at": "2026-10-18T01:42:29.341699+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1297,7 +1315,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 45,
-      "metric_observed_at": "2026-10-18T00:57:04.160226+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341715+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1315,7 +1333,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 67,
-      "metric_observed_at": "2026-10-18T00:57:04.160220+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341710+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1359,13 +1377,13 @@
       "author_id": "1592826578786217984",
       "text": "これは俺の仮説なんだけど\nyoutubeにおけるPBとブラックジョークが合わないのって ブラックジョークが映像である必要が無いからでは？\n逆にカオス系や地図系は映像が本命だから合うのでは？\nPBに向いているのってそのネタの面白さが視覚で増幅されるかどうかでは？",
       "media": [],
-      "likes": 10,
+      "likes": 11,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 916,
-      "metric_observed_at": "2026-10-18T00:57:04.160214+00:00"
+      "views": 925,
+      "metric_observed_at": "2026-10-18T01:42:29.341704+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1377,13 +1395,13 @@
       "author_id": "1592826578786217984",
       "text": "レビュー：★☆☆☆☆ @BritishTourist1814\n首都の建物は非常に燃えやすくて見ごたえがあったが、帰国後に土地が1エーカーも増えていなかったので星1です。",
       "media": [],
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 601,
-      "metric_observed_at": "2026-10-18T00:57:04.160240+00:00"
+      "views": 619,
+      "metric_observed_at": "2026-10-18T01:42:29.341725+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1395,13 +1413,13 @@
       "author_id": "1592826578786217984",
       "text": "1814年\nイギリス軍はアメリカの首都ワシントンに到達した\nホワイトハウスと連邦議会議事堂を焼き払った\nところが戦後の講和条約では英米の領土は基本的に戦前の状態へ戻された\nつまりイギリスは領土を増やさずにアメリカの首都まで行って帰ってきたことになる\n世界史上最も物騒な観光旅行では？",
       "media": [],
-      "likes": 39,
+      "likes": 42,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 3146,
-      "metric_observed_at": "2026-10-18T00:57:04.160233+00:00"
+      "bookmarks": 6,
+      "views": 3268,
+      "metric_observed_at": "2026-10-18T01:42:29.341720+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -11273,7 +11291,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1703753632100040902",
       "views": 617,
-      "metric_observed_at": "2026-10-17T23:35:03.501105+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341731+00:00"
     },
     {
       "article": null,
@@ -11376,7 +11394,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1703225256390041942",
       "views": 1553,
-      "metric_observed_at": "2026-10-17T23:35:03.501115+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341741+00:00"
     },
     {
       "article": null,
@@ -11409,7 +11427,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1702086284968419762",
       "views": 343,
-      "metric_observed_at": "2026-10-17T23:35:03.501124+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341748+00:00"
     },
     {
       "article": null,
@@ -11450,7 +11468,7 @@
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1701969381612273838",
       "views": 295,
-      "metric_observed_at": "2026-10-17T23:35:03.501134+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341754+00:00"
     },
     {
       "article": null,
@@ -11483,7 +11501,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701867635695345979",
       "views": 363,
-      "metric_observed_at": "2026-10-17T23:35:03.501143+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341760+00:00"
     },
     {
       "article": null,
@@ -11518,7 +11536,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701532059540590602",
       "views": 291,
-      "metric_observed_at": "2026-10-17T23:35:03.501151+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341766+00:00"
     },
     {
       "article": null,
@@ -11551,7 +11569,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701520087365398866",
       "views": 414,
-      "metric_observed_at": "2026-10-17T23:35:03.501159+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341772+00:00"
     },
     {
       "article": null,
@@ -11594,7 +11612,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701223570821771599",
       "views": 315,
-      "metric_observed_at": "2026-10-17T23:35:03.501167+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341779+00:00"
     },
     {
       "article": null,
@@ -11627,7 +11645,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1701053095265112237",
       "views": 220,
-      "metric_observed_at": "2026-10-17T23:35:03.501174+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341786+00:00"
     },
     {
       "article": null,
@@ -11670,7 +11688,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1700490802328404165",
       "views": 574,
-      "metric_observed_at": "2026-10-17T23:35:03.501181+00:00"
+      "metric_observed_at": "2026-10-18T01:42:29.341792+00:00"
     },
     {
       "article": null,
@@ -11702,7 +11720,8 @@
       "text": "私的には声低いと思うけど声高い人多いから相対的に低くなってるかもわからん。",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1699746861127757929",
-      "views": 553
+      "views": 553,
+      "metric_observed_at": "2026-10-18T01:42:29.341798+00:00"
     },
     {
       "article": null,
@@ -12671,5 +12690,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-18T00:57:04.160561+00:00"
+  "last_metric_refresh_at": "2026-10-18T01:42:29.341879+00:00"
 }
