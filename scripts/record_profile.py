@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Save a single daily profile snapshot near 23:00 JST. Missing data is not invented."""
+"""Record the newest profile sample every 10 minutes, with a 23 JST daily close. Missing data is not invented."""
 import json
 import pathlib
 import urllib.request
