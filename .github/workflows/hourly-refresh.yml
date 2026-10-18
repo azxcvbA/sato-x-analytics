@@ -1,7 +1,7 @@
-name: Hourly post metrics and history refresh
+name: Post metrics every 10 minutes
 on:
   schedule:
-    - cron: '17 * * * *'
+    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
