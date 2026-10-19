@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 320,
+  "count": 322,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -511,8 +511,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 525,
-      "metric_observed_at": "2026-10-19T00:03:15.828005+00:00"
+      "views": 526,
+      "metric_observed_at": "2026-10-19T01:23:18.100034+00:00"
     },
     {
       "id": "2110727885514514465",
@@ -1068,8 +1068,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 400,
-      "metric_observed_at": "2026-10-19T00:03:15.827723+00:00"
+      "views": 423,
+      "metric_observed_at": "2026-10-19T01:23:18.099723+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1086,8 +1086,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 605,
-      "metric_observed_at": "2026-10-19T00:03:15.827762+00:00"
+      "views": 638,
+      "metric_observed_at": "2026-10-19T01:23:18.099740+00:00"
     },
     {
       "id": "2111800377360441353",
@@ -1118,13 +1118,13 @@
           }
         ]
       },
-      "likes": 41,
-      "retweets": 2,
+      "likes": 43,
+      "retweets": 3,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 1505,
-      "metric_observed_at": "2026-10-19T00:03:15.827774+00:00"
+      "bookmarks": 6,
+      "views": 1567,
+      "metric_observed_at": "2026-10-19T01:23:18.099751+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -1136,13 +1136,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も敵に回したくない小国と言えば？\n領土も人口も大国には及ばないのに\n軍事力・地形・外交・国民の抵抗などによって\n大国にとってめちゃくちゃ厄介な存在になった国など\nみんなはどの国家を思い浮かべる？",
       "media": [],
-      "likes": 223,
+      "likes": 238,
       "retweets": 10,
-      "replies": 63,
-      "quotes": 18,
-      "bookmarks": 32,
-      "views": 28643,
-      "metric_observed_at": "2026-10-19T00:03:15.827784+00:00"
+      "replies": 67,
+      "quotes": 19,
+      "bookmarks": 34,
+      "views": 30609,
+      "metric_observed_at": "2026-10-19T01:23:18.099761+00:00"
     },
     {
       "id": "2111644119600943198",
@@ -1173,13 +1173,13 @@
           }
         ]
       },
-      "likes": 437,
+      "likes": 443,
       "retweets": 18,
       "replies": 6,
       "quotes": 0,
-      "bookmarks": 39,
-      "views": 19992,
-      "metric_observed_at": "2026-10-19T00:03:15.827792+00:00"
+      "bookmarks": 40,
+      "views": 20405,
+      "metric_observed_at": "2026-10-19T01:23:18.099771+00:00"
     },
     {
       "id": "2111624587410846039",
@@ -1196,8 +1196,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 2403,
-      "metric_observed_at": "2026-10-19T00:03:15.827799+00:00"
+      "views": 2420,
+      "metric_observed_at": "2026-10-19T01:23:18.099780+00:00"
     },
     {
       "id": "2111618246885720401",
@@ -1214,8 +1214,8 @@
       "replies": 13,
       "quotes": 3,
       "bookmarks": 4,
-      "views": 14949,
-      "metric_observed_at": "2026-10-19T00:03:15.827814+00:00"
+      "views": 15066,
+      "metric_observed_at": "2026-10-19T01:23:18.099796+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1227,13 +1227,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も不運だった国家と言えば？\n地理的な位置が悪くて何度も他国に侵攻されたり、大国同士の戦争に巻き込まれたり、自国ではどうにもできない事情で滅亡・分割されたりした国家など",
       "media": [],
-      "likes": 621,
+      "likes": 627,
       "retweets": 27,
-      "replies": 144,
+      "replies": 145,
       "quotes": 65,
       "bookmarks": 77,
-      "views": 81721,
-      "metric_observed_at": "2026-10-19T00:03:15.827807+00:00"
+      "views": 82253,
+      "metric_observed_at": "2026-10-19T01:23:18.099788+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1245,13 +1245,13 @@
       "author_id": "1592826578786217984",
       "text": "最高の軍とは\n補給：アメリカ人担当\n戦車：ドイツ人担当\n防衛：フィンランド人担当\n兵士の食事：フランス人担当\n指揮：ソ連人担当\nであり\n\n最悪の軍とは\n補給：日本人担当\n戦車：イタリア人担当\n防衛：ユーゴスラビア人担当\n兵士の食事：イギリス人担当\n指揮：ルーマニア人担当\nである",
       "media": [],
-      "likes": 4550,
-      "retweets": 251,
-      "replies": 106,
+      "likes": 4575,
+      "retweets": 253,
+      "replies": 107,
       "quotes": 47,
-      "bookmarks": 502,
-      "views": 416308,
-      "metric_observed_at": "2026-10-19T00:03:15.827822+00:00"
+      "bookmarks": 505,
+      "views": 417190,
+      "metric_observed_at": "2026-10-19T01:23:18.099804+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1268,8 +1268,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 988,
-      "metric_observed_at": "2026-10-19T00:03:15.827828+00:00"
+      "views": 991,
+      "metric_observed_at": "2026-10-19T01:23:18.099812+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1286,8 +1286,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 596,
-      "metric_observed_at": "2026-10-19T00:03:15.827842+00:00"
+      "views": 599,
+      "metric_observed_at": "2026-10-19T01:23:18.099827+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1304,8 +1304,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1111,
-      "metric_observed_at": "2026-10-19T00:03:15.827835+00:00"
+      "views": 1115,
+      "metric_observed_at": "2026-10-19T01:23:18.099820+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1341,8 +1341,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 684,
-      "metric_observed_at": "2026-10-19T00:03:15.827849+00:00"
+      "views": 687,
+      "metric_observed_at": "2026-10-19T01:23:18.099834+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1373,13 +1373,13 @@
           }
         ]
       },
-      "likes": 6003,
+      "likes": 6005,
       "retweets": 223,
       "replies": 29,
       "quotes": 31,
       "bookmarks": 324,
-      "views": 511592,
-      "metric_observed_at": "2026-10-19T00:03:15.827855+00:00"
+      "views": 511750,
+      "metric_observed_at": "2026-10-19T01:23:18.099842+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1415,8 +1415,8 @@
       "replies": 5,
       "quotes": 1,
       "bookmarks": 26,
-      "views": 4767,
-      "metric_observed_at": "2026-10-19T00:03:15.827863+00:00"
+      "views": 4770,
+      "metric_observed_at": "2026-10-19T01:23:18.099850+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1452,8 +1452,8 @@
       "replies": 64,
       "quotes": 27,
       "bookmarks": 55,
-      "views": 36583,
-      "metric_observed_at": "2026-10-19T00:03:15.827869+00:00"
+      "views": 36620,
+      "metric_observed_at": "2026-10-19T01:23:18.099857+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1471,7 +1471,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 61,
-      "metric_observed_at": "2026-10-19T00:03:15.827888+00:00"
+      "metric_observed_at": "2026-10-19T01:23:18.099880+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1489,7 +1489,25 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 79,
-      "metric_observed_at": "2026-10-19T00:03:15.827882+00:00"
+      "metric_observed_at": "2026-10-19T01:23:18.099872+00:00"
+    },
+    {
+      "id": "2111275732416741748",
+      "url": "https://x.com/sattoa_ball/status/2111275732416741748",
+      "type": "reply",
+      "created_at": "Sat Oct 17 01:58:54 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "日本のPB界隈における正統派の定義と\nYouTubeで求められる面白さのズレがあると思うんよ\n不快かどうかという評価基準を除外して\nブラックジョークの内容が倫理的に問題かどうかではなく\n純粋に映像作品としてどの程度の価値を持つのかの話ね",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 52,
+      "metric_observed_at": "2026-10-19T01:23:18.099902+00:00"
     },
     {
       "id": "2111274890901041519",
@@ -1506,7 +1524,7 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "metric_observed_at": "2026-10-19T00:03:15.827908+00:00",
+      "metric_observed_at": "2026-10-19T01:23:18.099895+00:00",
       "views": 68
     },
     {
@@ -1542,8 +1560,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1018,
-      "metric_observed_at": "2026-10-19T00:03:15.827896+00:00"
+      "views": 1019,
+      "metric_observed_at": "2026-10-19T01:23:18.099888+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1560,8 +1578,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 687,
-      "metric_observed_at": "2026-10-19T00:03:15.827919+00:00"
+      "views": 688,
+      "metric_observed_at": "2026-10-19T01:23:18.099933+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1578,8 +1596,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3425,
-      "metric_observed_at": "2026-10-19T00:03:15.827913+00:00"
+      "views": 3426,
+      "metric_observed_at": "2026-10-19T01:23:18.099924+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1591,13 +1609,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の国家で「国名が強そうなのに実態との落差が大きい国」と言えば？\n国名だけなら世界征服できそうなのに、実際には領土が小さかったり軍事力が弱かったり存続期間が短かったりする国家など",
       "media": [],
-      "likes": 2013,
+      "likes": 2014,
       "retweets": 85,
       "replies": 187,
       "quotes": 101,
       "bookmarks": 311,
-      "views": 453979,
-      "metric_observed_at": "2026-10-19T00:03:15.827925+00:00"
+      "views": 454142,
+      "metric_observed_at": "2026-10-19T01:23:18.099941+00:00"
     },
     {
       "id": "2111249331202515358",
@@ -1633,8 +1651,66 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1171,
-      "metric_observed_at": "2026-10-19T00:03:15.827930+00:00"
+      "views": 1172,
+      "metric_observed_at": "2026-10-19T01:23:18.099948+00:00"
+    },
+    {
+      "id": "2111990172720243045",
+      "url": "https://x.com/sattoa_ball/status/2111990172720243045",
+      "type": "tweet",
+      "created_at": "Mon Oct 19 01:17:50 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4のフランスには「政治的準内戦」と「政治的暴力」という国民精神があるんだけど\n最近のパリの大規模デモを見てると約90年経っても両方解除できていない説が浮上してくる\nフランスは国家方針を90年間進めずにデバフの永久保持縛りプレイでもしてるのか？",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2111989628677095424",
+            "url": "https://pbs.twimg.com/media/HU9LYKKbgAA7_Zr.png?name=orig",
+            "width": 308,
+            "height": 262
+          },
+          {
+            "type": "photo",
+            "id": "2111989705718034432",
+            "url": "https://pbs.twimg.com/media/HU9LcpKa8AADRp4.png?name=orig",
+            "width": 321,
+            "height": 301
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2111989628677095424",
+            "url": "https://pbs.twimg.com/media/HU9LYKKbgAA7_Zr.png?name=orig",
+            "width": 308,
+            "height": 262
+          },
+          {
+            "type": "photo",
+            "id": "2111989705718034432",
+            "url": "https://pbs.twimg.com/media/HU9LcpKa8AADRp4.png?name=orig",
+            "width": 321,
+            "height": 301
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2111990172720243045/HU9LYKKbgAA7_Zr/HU9LcpKa8AADRp4",
+            "webp": "https://mosaic.fxtwitter.com/webp/2111990172720243045/HU9LYKKbgAA7_Zr/HU9LcpKa8AADRp4"
+          }
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 32,
+      "metric_observed_at": "2026-10-19T01:23:18.099691+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -1670,8 +1746,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 858,
-      "metric_observed_at": "2026-10-19T00:03:15.827943+00:00"
+      "views": 859,
+      "metric_observed_at": "2026-10-19T01:23:18.099964+00:00"
     },
     {
       "id": "2111100026684690728",
@@ -1756,8 +1832,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 18,
-      "views": 7404,
-      "metric_observed_at": "2026-10-19T00:03:15.827937+00:00"
+      "views": 7405,
+      "metric_observed_at": "2026-10-19T01:23:18.099956+00:00"
     },
     {
       "id": "2111064545662021765",
@@ -1774,8 +1850,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 779,
-      "metric_observed_at": "2026-10-19T00:03:15.827949+00:00"
+      "views": 780,
+      "metric_observed_at": "2026-10-19T01:23:18.099971+00:00"
     },
     {
       "id": "2111001326801007084",
@@ -1846,8 +1922,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2577,
-      "metric_observed_at": "2026-10-19T00:03:15.827955+00:00"
+      "views": 2578,
+      "metric_observed_at": "2026-10-19T01:23:18.099978+00:00"
     },
     {
       "id": "2110962959723950300",
@@ -1904,8 +1980,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3516,
-      "metric_observed_at": "2026-10-19T00:03:15.827961+00:00"
+      "views": 3518,
+      "metric_observed_at": "2026-10-19T01:23:18.099984+00:00"
     },
     {
       "id": "2110954978970046542",
@@ -1922,8 +1998,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 520,
-      "metric_observed_at": "2026-10-19T00:03:15.827967+00:00"
+      "views": 521,
+      "metric_observed_at": "2026-10-19T01:23:18.099992+00:00"
     },
     {
       "id": "2110953087582302489",
@@ -1959,8 +2035,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 8,
-      "views": 6466,
-      "metric_observed_at": "2026-10-19T00:03:15.827975+00:00"
+      "views": 6470,
+      "metric_observed_at": "2026-10-19T01:23:18.099999+00:00"
     },
     {
       "id": "2110944489787531388",
@@ -1977,8 +2053,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 633,
-      "metric_observed_at": "2026-10-19T00:03:15.827981+00:00"
+      "views": 634,
+      "metric_observed_at": "2026-10-19T01:23:18.100006+00:00"
     },
     {
       "id": "2110941863209537744",
@@ -1995,8 +2071,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 926,
-      "metric_observed_at": "2026-10-19T00:03:15.827987+00:00"
+      "views": 927,
+      "metric_observed_at": "2026-10-19T01:23:18.100013+00:00"
     },
     {
       "id": "2110940695334965329",
@@ -2013,8 +2089,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 569,
-      "metric_observed_at": "2026-10-19T00:03:15.827993+00:00"
+      "views": 570,
+      "metric_observed_at": "2026-10-19T01:23:18.100021+00:00"
     },
     {
       "id": "2110891854078341434",
@@ -2050,8 +2126,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2066,
-      "metric_observed_at": "2026-10-19T00:03:15.827999+00:00"
+      "views": 2067,
+      "metric_observed_at": "2026-10-19T01:23:18.100027+00:00"
     },
     {
       "id": "2110386965933908352",
@@ -3890,7 +3966,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108910223218065855",
       "views": 786,
-      "metric_observed_at": "2026-10-18T11:40:21.672002+00:00"
+      "metric_observed_at": "2026-10-19T01:23:18.100042+00:00"
     },
     {
       "article": null,
@@ -3932,8 +4008,8 @@
       "text": "HoI4でオスマン帝国を復活させて、旧領を再建中\n画像はKSREとその日本語化MODをベースに個人用にさらに改造した「Sato KSREjap」を使用しています\nオスマン帝国の従属国名も独自に変更しているので、かなり雰囲気が出てきた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108788865314197851",
-      "views": 1051,
-      "metric_observed_at": "2026-10-18T11:40:21.672007+00:00"
+      "views": 1054,
+      "metric_observed_at": "2026-10-19T01:23:18.100051+00:00"
     },
     {
       "article": null,
@@ -12896,5 +12972,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-19T00:45:42.243773+00:00"
+  "last_metric_refresh_at": "2026-10-19T01:23:18.100161+00:00"
 }
