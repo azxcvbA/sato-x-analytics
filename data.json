@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 332,
+  "count": 333,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -1064,12 +1064,12 @@
         ]
       },
       "likes": 11,
-      "retweets": 0,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 763,
-      "metric_observed_at": "2026-10-19T13:07:21.419278+00:00"
+      "views": 783,
+      "metric_observed_at": "2026-10-19T13:59:32.439627+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1081,13 +1081,13 @@
       "author_id": "1592826578786217984",
       "text": "国際社会「核兵器のない世界を目指しましょう！」\nアメリカ「核軍縮を進めます」\n日本「核実験を禁止します」\n中国「核兵器の製造を制限します」\n北朝鮮「核兵器を全世界に撃ち込めば核も人類も消えるし、核戦争を恐れる者\"すら\"いなくなる究極の平和の完成だ！」",
       "media": [],
-      "likes": 30,
+      "likes": 31,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 894,
-      "metric_observed_at": "2026-10-19T13:07:21.419288+00:00"
+      "views": 903,
+      "metric_observed_at": "2026-10-19T13:59:32.439636+00:00"
     },
     {
       "id": "2111800377360441353",
@@ -1118,13 +1118,13 @@
           }
         ]
       },
-      "likes": 101,
+      "likes": 103,
       "retweets": 10,
       "replies": 4,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 3395,
-      "metric_observed_at": "2026-10-19T13:07:21.419296+00:00"
+      "views": 3405,
+      "metric_observed_at": "2026-10-19T13:59:32.439646+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -1136,13 +1136,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も敵に回したくない小国と言えば？\n領土も人口も大国には及ばないのに\n軍事力・地形・外交・国民の抵抗などによって\n大国にとってめちゃくちゃ厄介な存在になった国など\nみんなはどの国家を思い浮かべる？",
       "media": [],
-      "likes": 703,
+      "likes": 705,
       "retweets": 32,
       "replies": 219,
-      "quotes": 96,
+      "quotes": 97,
       "bookmarks": 127,
-      "views": 163226,
-      "metric_observed_at": "2026-10-19T13:07:21.419306+00:00"
+      "views": 164498,
+      "metric_observed_at": "2026-10-19T13:59:32.439656+00:00"
     },
     {
       "id": "2111644119600943198",
@@ -1173,13 +1173,13 @@
           }
         ]
       },
-      "likes": 459,
+      "likes": 460,
       "retweets": 18,
       "replies": 6,
       "quotes": 0,
       "bookmarks": 41,
-      "views": 21288,
-      "metric_observed_at": "2026-10-19T13:07:21.419315+00:00"
+      "views": 21297,
+      "metric_observed_at": "2026-10-19T13:59:32.439666+00:00"
     },
     {
       "id": "2111624587410846039",
@@ -1196,8 +1196,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 2495,
-      "metric_observed_at": "2026-10-19T13:07:21.419324+00:00"
+      "views": 2497,
+      "metric_observed_at": "2026-10-19T13:59:32.439677+00:00"
     },
     {
       "id": "2111618246885720401",
@@ -1214,8 +1214,8 @@
       "replies": 13,
       "quotes": 3,
       "bookmarks": 5,
-      "views": 15224,
-      "metric_observed_at": "2026-10-19T13:07:21.419343+00:00"
+      "views": 15238,
+      "metric_observed_at": "2026-10-19T13:59:32.439696+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1232,8 +1232,8 @@
       "replies": 146,
       "quotes": 65,
       "bookmarks": 78,
-      "views": 83213,
-      "metric_observed_at": "2026-10-19T13:07:21.419334+00:00"
+      "views": 83300,
+      "metric_observed_at": "2026-10-19T13:59:32.439687+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1245,13 +1245,13 @@
       "author_id": "1592826578786217984",
       "text": "最高の軍とは\n補給：アメリカ人担当\n戦車：ドイツ人担当\n防衛：フィンランド人担当\n兵士の食事：フランス人担当\n指揮：ソ連人担当\nであり\n\n最悪の軍とは\n補給：日本人担当\n戦車：イタリア人担当\n防衛：ユーゴスラビア人担当\n兵士の食事：イギリス人担当\n指揮：ルーマニア人担当\nである",
       "media": [],
-      "likes": 4670,
-      "retweets": 263,
+      "likes": 4673,
+      "retweets": 264,
       "replies": 109,
       "quotes": 47,
-      "bookmarks": 519,
-      "views": 422270,
-      "metric_observed_at": "2026-10-19T13:07:21.419352+00:00"
+      "bookmarks": 520,
+      "views": 422401,
+      "metric_observed_at": "2026-10-19T13:59:32.439706+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1268,8 +1268,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1050,
-      "metric_observed_at": "2026-10-19T13:07:21.419362+00:00"
+      "views": 1052,
+      "metric_observed_at": "2026-10-19T13:59:32.439717+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1286,8 +1286,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 648,
-      "metric_observed_at": "2026-10-19T13:07:21.419379+00:00"
+      "views": 650,
+      "metric_observed_at": "2026-10-19T13:59:32.439737+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1304,8 +1304,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1181,
-      "metric_observed_at": "2026-10-19T13:07:21.419370+00:00"
+      "views": 1184,
+      "metric_observed_at": "2026-10-19T13:59:32.439727+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1341,8 +1341,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 721,
-      "metric_observed_at": "2026-10-19T13:07:21.419387+00:00"
+      "views": 722,
+      "metric_observed_at": "2026-10-19T13:59:32.439745+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1378,8 +1378,8 @@
       "replies": 29,
       "quotes": 31,
       "bookmarks": 327,
-      "views": 512678,
-      "metric_observed_at": "2026-10-19T13:07:21.419396+00:00"
+      "views": 512717,
+      "metric_observed_at": "2026-10-19T13:59:32.439755+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1415,8 +1415,8 @@
       "replies": 5,
       "quotes": 1,
       "bookmarks": 26,
-      "views": 4849,
-      "metric_observed_at": "2026-10-19T13:07:21.419406+00:00"
+      "views": 4852,
+      "metric_observed_at": "2026-10-19T13:59:32.439764+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1452,8 +1452,8 @@
       "replies": 64,
       "quotes": 27,
       "bookmarks": 55,
-      "views": 36838,
-      "metric_observed_at": "2026-10-19T13:07:21.419414+00:00"
+      "views": 36850,
+      "metric_observed_at": "2026-10-19T13:59:32.439774+00:00"
     },
     {
       "id": "2111277351757853063",
@@ -1471,7 +1471,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 62,
-      "metric_observed_at": "2026-10-19T13:07:21.419442+00:00"
+      "metric_observed_at": "2026-10-19T13:59:32.439801+00:00"
     },
     {
       "id": "2111276332273541239",
@@ -1489,7 +1489,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 82,
-      "metric_observed_at": "2026-10-19T13:07:21.419433+00:00"
+      "metric_observed_at": "2026-10-19T13:59:32.439792+00:00"
     },
     {
       "id": "2111275955281178877",
@@ -1578,8 +1578,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1044,
-      "metric_observed_at": "2026-10-19T13:07:21.419423+00:00"
+      "views": 1045,
+      "metric_observed_at": "2026-10-19T13:59:32.439783+00:00"
     },
     {
       "id": "2111270643979473090",
@@ -1596,8 +1596,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 712,
-      "metric_observed_at": "2026-10-19T13:07:21.419460+00:00"
+      "views": 713,
+      "metric_observed_at": "2026-10-19T13:59:32.439819+00:00"
     },
     {
       "id": "2111270194433966385",
@@ -1614,8 +1614,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3451,
-      "metric_observed_at": "2026-10-19T13:07:21.419450+00:00"
+      "views": 3452,
+      "metric_observed_at": "2026-10-19T13:59:32.439810+00:00"
     },
     {
       "id": "2111264026315706760",
@@ -1673,6 +1673,64 @@
       "metric_observed_at": "2026-10-19T12:15:55.139129+00:00"
     },
     {
+      "id": "2112172513803546638",
+      "url": "https://x.com/sattoa_ball/status/2112172513803546638",
+      "type": "tweet",
+      "created_at": "Mon Oct 19 13:22:24 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4あるある\n「南の王国」が北イタリアに成立する\n南の王国なのに南にいないという矛盾\n史実の「南の王国」はイタリア王国の南部政権を指す通称なので\nさとMODでは国名を「イタリア王国」に変更している。\n\nこれなら北に成立しても違和感がないね！！！！",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112171899736502272",
+            "url": "https://pbs.twimg.com/media/HU_xJuxbMAAL1tn.png?name=orig",
+            "width": 734,
+            "height": 721
+          },
+          {
+            "type": "photo",
+            "id": "2112172503783374848",
+            "url": "https://pbs.twimg.com/media/HU_xs5BbAAAnUxl.png?name=orig",
+            "width": 891,
+            "height": 793
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112171899736502272",
+            "url": "https://pbs.twimg.com/media/HU_xJuxbMAAL1tn.png?name=orig",
+            "width": 734,
+            "height": 721
+          },
+          {
+            "type": "photo",
+            "id": "2112172503783374848",
+            "url": "https://pbs.twimg.com/media/HU_xs5BbAAAnUxl.png?name=orig",
+            "width": 891,
+            "height": 793
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2112172513803546638/HU_xJuxbMAAL1tn/HU_xs5BbAAAnUxl",
+            "webp": "https://mosaic.fxtwitter.com/webp/2112172513803546638/HU_xJuxbMAAL1tn/HU_xs5BbAAAnUxl"
+          }
+        }
+      },
+      "likes": 19,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 555,
+      "metric_observed_at": "2026-10-19T13:59:32.439414+00:00"
+    },
+    {
       "id": "2112166606386450888",
       "url": "https://x.com/sattoa_ball/status/2112166606386450888",
       "type": "tweet",
@@ -1701,13 +1759,13 @@
           }
         ]
       },
-      "likes": 2,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 31,
-      "metric_observed_at": "2026-10-19T13:07:21.419131+00:00"
+      "views": 321,
+      "metric_observed_at": "2026-10-19T13:59:32.439497+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -1738,13 +1796,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 255,
-      "metric_observed_at": "2026-10-19T13:07:21.419202+00:00"
+      "views": 415,
+      "metric_observed_at": "2026-10-19T13:59:32.439546+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -1775,13 +1833,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 284,
-      "metric_observed_at": "2026-10-19T13:07:21.419190+00:00"
+      "views": 465,
+      "metric_observed_at": "2026-10-19T13:59:32.439534+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -1812,13 +1870,13 @@
           }
         ]
       },
-      "likes": 56,
-      "retweets": 1,
-      "replies": 3,
+      "likes": 92,
+      "retweets": 3,
+      "replies": 6,
       "quotes": 0,
-      "bookmarks": 9,
-      "views": 2134,
-      "metric_observed_at": "2026-10-19T13:07:21.419171+00:00"
+      "bookmarks": 14,
+      "views": 3423,
+      "metric_observed_at": "2026-10-19T13:59:32.439519+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -1830,13 +1888,13 @@
       "author_id": "1592826578786217984",
       "text": "右翼と左翼を組み合わせれば両翼になると思ってたけど\n実際には互いの翼を引きちぎり合ってどちらも飛べなくなりそう",
       "media": [],
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 212,
-      "metric_observed_at": "2026-10-19T13:07:21.419215+00:00"
+      "views": 244,
+      "metric_observed_at": "2026-10-19T13:59:32.439559+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -1848,13 +1906,13 @@
       "author_id": "1592826578786217984",
       "text": "北朝鮮「我が国は主体思想に基づき、自力更生を徹底している！」\n中国「では援助を止めてもいいか？」\n北朝鮮「主体思想については誤解があるようだ」",
       "media": [],
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 326,
-      "metric_observed_at": "2026-10-19T13:07:21.419226+00:00"
+      "views": 340,
+      "metric_observed_at": "2026-10-19T13:59:32.439572+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -1891,9 +1949,9 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 502,
-      "metric_observed_at": "2026-10-19T13:07:21.419237+00:00"
+      "bookmarks": 1,
+      "views": 524,
+      "metric_observed_at": "2026-10-19T13:59:32.439584+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -1973,13 +2031,13 @@
           }
         }
       },
-      "likes": 38,
-      "retweets": 3,
+      "likes": 40,
+      "retweets": 2,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 7,
-      "views": 1240,
-      "metric_observed_at": "2026-10-19T13:07:21.419247+00:00"
+      "bookmarks": 8,
+      "views": 1389,
+      "metric_observed_at": "2026-10-19T13:59:32.439595+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -1991,13 +2049,13 @@
       "author_id": "1592826578786217984",
       "text": "hoi4あるある\n国民「経済を立て直してください！」\n政府「70日待ってくれ」（国家方針開始）\n国民「軍隊の装備が不足しています！」\n政府「70日待って」（国家方針開始）\n国民「政治的混乱が深刻です！」\n政府「70日待て」（国家方針開始）\n国民「この国の政府って70日ごとにしか仕事しないの？」",
       "media": [],
-      "likes": 1119,
-      "retweets": 71,
+      "likes": 1243,
+      "retweets": 81,
       "replies": 16,
-      "quotes": 5,
-      "bookmarks": 52,
-      "views": 38684,
-      "metric_observed_at": "2026-10-19T13:07:21.419258+00:00"
+      "quotes": 7,
+      "bookmarks": 55,
+      "views": 42832,
+      "metric_observed_at": "2026-10-19T13:59:32.439607+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2049,13 +2107,13 @@
           }
         }
       },
-      "likes": 190,
-      "retweets": 30,
+      "likes": 205,
+      "retweets": 34,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 15,
-      "views": 5255,
-      "metric_observed_at": "2026-10-19T13:07:21.419269+00:00"
+      "bookmarks": 16,
+      "views": 5606,
+      "metric_observed_at": "2026-10-19T13:59:32.439617+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -7994,7 +8052,7 @@
       "id": "1786914022589399448",
       "in_reply_to": null,
       "lang": "ja",
-      "likes": 27,
+      "likes": 26,
       "links": [],
       "media": [
         {
@@ -8019,7 +8077,8 @@
       "text": "ヒカキンさんすごすぎないか！？\n1週間で100万人も増えとる…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1786914022589399448",
-      "views": 1703
+      "views": 1704,
+      "metric_observed_at": "2026-10-19T13:59:32.439829+00:00"
     },
     {
       "article": null,
@@ -8051,7 +8110,8 @@
       "text": "その動画は消しました\nだから涙拭いてください",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1786553297136140350",
-      "views": 895
+      "views": 895,
+      "metric_observed_at": "2026-10-19T13:59:32.439843+00:00"
     },
     {
       "article": null,
@@ -13327,5 +13387,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-19T13:07:21.419618+00:00"
+  "last_metric_refresh_at": "2026-10-19T13:59:32.439954+00:00"
 }
