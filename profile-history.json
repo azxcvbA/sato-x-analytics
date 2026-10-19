@@ -21,6 +21,13 @@
       "following": 169,
       "observed_at": "2026-10-19T14:39:53.522490+00:00",
       "source": "fxtwitter"
+    },
+    {
+      "date": "2026-10-20",
+      "followers": 1605,
+      "following": 169,
+      "observed_at": "2026-10-19T15:20:24.963803+00:00",
+      "source": "fxtwitter"
     }
   ]
 }
