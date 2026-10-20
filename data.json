@@ -235,13 +235,13 @@
           }
         ]
       },
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 269,
-      "metric_observed_at": "2026-10-18T07:42:49.570597+00:00"
+      "views": 276,
+      "metric_observed_at": "2026-10-20T08:25:33.409252+00:00"
     },
     {
       "id": "2110192096607076516",
@@ -327,7 +327,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 297,
-      "metric_observed_at": "2026-10-20T01:12:59.581340+00:00"
+      "metric_observed_at": "2026-10-20T08:25:33.409260+00:00"
     },
     {
       "id": "2110191800548008237",
@@ -469,13 +469,13 @@
       "author_id": "1592826578786217984",
       "text": "建設速度のバフやデバフについて\nインフラと工場の両方に同じ倍率でかかるなら\n基本的にどちらが得かは変わらない\n\nただし工場だけorインフラだけにかかる補正がある場合は話が変わってくる",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 4,
-      "metric_observed_at": "2026-10-20T07:54:14.447873+00:00"
+      "views": 14,
+      "metric_observed_at": "2026-10-20T08:25:33.409119+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -487,13 +487,13 @@
       "author_id": "1592826578786217984",
       "text": "そういうわけで\n少数の工場なら直接建設\n大量に建てるならインフラ先行が有利になりやすいという結果になった\n\n今回は建設能力を固定した理論計算なんで\n実際には建設スロットや完成した民需工場を次の建設に回せることも考慮する必要があるので\nこれが絶対的な最適解というわけではないぞ",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 6,
-      "metric_observed_at": "2026-10-20T07:54:14.447899+00:00"
+      "views": 14,
+      "metric_observed_at": "2026-10-20T08:25:33.409155+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -505,13 +505,13 @@
       "author_id": "1592826578786217984",
       "text": "HoI4で工場を建てるときインフラを先に整備した方がいいのかそれとも最初から工場を建てた方がいいのか気になったので計算してみた\n\n計算結果は\n建設する工場の数や元のインフラレベルによって変わるようだ\n\nリプで計算結果をまとめている",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 29,
-      "metric_observed_at": "2026-10-20T07:54:14.447815+00:00"
+      "views": 65,
+      "metric_observed_at": "2026-10-20T08:25:33.409081+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -542,13 +542,13 @@
           }
         ]
       },
-      "likes": 90,
+      "likes": 98,
       "retweets": 2,
       "replies": 1,
       "quotes": 1,
       "bookmarks": 4,
-      "views": 2176,
-      "metric_observed_at": "2026-10-20T07:54:14.447905+00:00"
+      "views": 2354,
+      "metric_observed_at": "2026-10-20T08:25:33.409166+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -600,13 +600,13 @@
           }
         }
       },
-      "likes": 80,
-      "retweets": 1,
+      "likes": 84,
+      "retweets": 2,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 6,
-      "views": 4837,
-      "metric_observed_at": "2026-10-20T07:54:14.447920+00:00"
+      "views": 4940,
+      "metric_observed_at": "2026-10-20T08:25:33.409176+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1836,8 +1836,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 730,
-      "metric_observed_at": "2026-10-20T07:54:14.447927+00:00"
+      "views": 736,
+      "metric_observed_at": "2026-10-20T08:25:33.409185+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1851,11 +1851,11 @@
       "media": [],
       "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 377,
-      "metric_observed_at": "2026-10-20T07:54:14.447935+00:00"
+      "views": 392,
+      "metric_observed_at": "2026-10-20T08:25:33.409194+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1908,12 +1908,12 @@
         }
       },
       "likes": 76,
-      "retweets": 6,
+      "retweets": 7,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 2879,
-      "metric_observed_at": "2026-10-20T07:54:14.447941+00:00"
+      "bookmarks": 5,
+      "views": 2975,
+      "metric_observed_at": "2026-10-20T08:25:33.409202+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -1944,13 +1944,13 @@
           }
         ]
       },
-      "likes": 40,
+      "likes": 41,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1301,
-      "metric_observed_at": "2026-10-20T07:54:14.447947+00:00"
+      "views": 1330,
+      "metric_observed_at": "2026-10-20T08:25:33.409212+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -1986,8 +1986,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1903,
-      "metric_observed_at": "2026-10-20T07:54:14.447963+00:00"
+      "views": 1930,
+      "metric_observed_at": "2026-10-20T08:25:33.409237+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -2023,8 +2023,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2079,
-      "metric_observed_at": "2026-10-20T07:54:14.447958+00:00"
+      "views": 2105,
+      "metric_observed_at": "2026-10-20T08:25:33.409229+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -2055,13 +2055,13 @@
           }
         ]
       },
-      "likes": 424,
+      "likes": 430,
       "retweets": 17,
-      "replies": 17,
+      "replies": 19,
       "quotes": 6,
-      "bookmarks": 65,
-      "views": 18061,
-      "metric_observed_at": "2026-10-20T07:54:14.447953+00:00"
+      "bookmarks": 66,
+      "views": 18348,
+      "metric_observed_at": "2026-10-20T08:25:33.409221+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -2078,8 +2078,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 468,
-      "metric_observed_at": "2026-10-20T07:54:14.447969+00:00"
+      "views": 476,
+      "metric_observed_at": "2026-10-20T08:25:33.409244+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -13577,5 +13577,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T07:54:14.448193+00:00"
+  "last_metric_refresh_at": "2026-10-20T08:25:33.409354+00:00"
 }
