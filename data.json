@@ -11391,7 +11391,7 @@
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1711706505412784619",
       "views": 442,
-      "metric_observed_at": "2026-10-19T20:10:18.453557+00:00"
+      "metric_observed_at": "2026-10-20T13:13:00.592991+00:00"
     },
     {
       "article": null,
@@ -11434,7 +11434,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1710816412078584018",
       "views": 667,
-      "metric_observed_at": "2026-10-18T02:43:57.960279+00:00"
+      "metric_observed_at": "2026-10-20T13:13:00.593036+00:00"
     },
     {
       "article": null,
@@ -13652,5 +13652,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T12:21:32.009132+00:00"
+  "last_metric_refresh_at": "2026-10-20T13:13:00.593152+00:00"
 }
