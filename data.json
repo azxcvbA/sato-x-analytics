@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 342,
+  "count": 343,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -460,6 +460,24 @@
       "metric_observed_at": "2026-10-18T07:42:49.570616+00:00"
     },
     {
+      "id": "2112511113023922394",
+      "url": "https://x.com/sattoa_ball/status/2112511113023922394",
+      "type": "tweet",
+      "created_at": "Tue Oct 20 11:47:52 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "世界各国の戦争を終わらせる方法\nアメリカ「圧倒的な工業力で敵を潰す」\nソ連「敵が力尽きるまで消耗戦を継続」\nイギリス「海上封鎖で敵の経済を窒息させる」\nドイツ「短期決戦で敵が立て直す前に勝つ」\nフィンランド「侵略者に戦争の代償をわからせる」\nイタリア「負けそうになったら陣営を変える」",
+      "media": [],
+      "likes": 2,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 19,
+      "metric_observed_at": "2026-10-20T11:52:15.488687+00:00"
+    },
+    {
       "id": "2112479868227297540",
       "url": "https://x.com/sattoa_ball/status/2112479868227297540",
       "type": "tweet",
@@ -488,13 +506,13 @@
           }
         ]
       },
-      "likes": 3,
-      "retweets": 0,
+      "likes": 13,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 86,
-      "metric_observed_at": "2026-10-20T10:12:04.240348+00:00"
+      "views": 1133,
+      "metric_observed_at": "2026-10-20T11:52:15.488715+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -506,13 +524,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で各国が信じたもの\n\nドイツ「電撃戦で片付けてやる！」\n日本「大和魂があれば負けん！」\nイギリス「我が海軍こそ世界最強！」\nアメリカ「足りなきゃ量産すればいい」\nソ連「赤軍が全てを粉砕する！」\nフランス「マジノ線は突破不可能！」\nイタリア「ドイツが何とかしてくれる！」",
       "media": [],
-      "likes": 7,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 26,
+      "retweets": 1,
+      "replies": 3,
       "quotes": 0,
-      "bookmarks": 1,
-      "views": 467,
-      "metric_observed_at": "2026-10-20T10:12:04.240396+00:00"
+      "bookmarks": 4,
+      "views": 1137,
+      "metric_observed_at": "2026-10-20T11:52:15.488733+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -524,13 +542,13 @@
       "author_id": "1592826578786217984",
       "text": "建設速度のバフやデバフについて\nインフラと工場の両方に同じ倍率でかかるなら\n基本的にどちらが得かは変わらない\n\nただし工場だけorインフラだけにかかる補正がある場合は話が変わってくる",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 139,
-      "metric_observed_at": "2026-10-20T10:12:04.240430+00:00"
+      "views": 249,
+      "metric_observed_at": "2026-10-20T11:52:15.488758+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -542,13 +560,13 @@
       "author_id": "1592826578786217984",
       "text": "そういうわけで\n少数の工場なら直接建設\n大量に建てるならインフラ先行が有利になりやすいという結果になった\n\n今回は建設能力を固定した理論計算なんで\n実際には建設スロットや完成した民需工場を次の建設に回せることも考慮する必要があるので\nこれが絶対的な最適解というわけではないぞ",
       "media": [],
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 134,
-      "metric_observed_at": "2026-10-20T10:12:04.240440+00:00"
+      "views": 237,
+      "metric_observed_at": "2026-10-20T11:52:15.488768+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -560,13 +578,13 @@
       "author_id": "1592826578786217984",
       "text": "HoI4で工場を建てるときインフラを先に整備した方がいいのかそれとも最初から工場を建てた方がいいのか気になったので計算してみた\n\n計算結果は\n建設する工場の数や元のインフラレベルによって変わるようだ\n\nリプで計算結果をまとめている",
       "media": [],
-      "likes": 11,
-      "retweets": 0,
+      "likes": 24,
+      "retweets": 1,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 883,
-      "metric_observed_at": "2026-10-20T10:12:04.240414+00:00"
+      "bookmarks": 9,
+      "views": 1518,
+      "metric_observed_at": "2026-10-20T11:52:15.488746+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -597,13 +615,13 @@
           }
         ]
       },
-      "likes": 103,
+      "likes": 112,
       "retweets": 2,
-      "replies": 0,
+      "replies": 1,
       "quotes": 1,
       "bookmarks": 4,
-      "views": 2583,
-      "metric_observed_at": "2026-10-20T10:12:04.240450+00:00"
+      "views": 2824,
+      "metric_observed_at": "2026-10-20T11:52:15.488778+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -655,13 +673,13 @@
           }
         }
       },
-      "likes": 94,
-      "retweets": 3,
+      "likes": 105,
+      "retweets": 6,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 7,
-      "views": 5401,
-      "metric_observed_at": "2026-10-20T10:12:04.240460+00:00"
+      "views": 5937,
+      "metric_observed_at": "2026-10-20T11:52:15.488787+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1891,8 +1909,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 779,
-      "metric_observed_at": "2026-10-20T10:12:04.240470+00:00"
+      "views": 803,
+      "metric_observed_at": "2026-10-20T11:52:15.488797+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1906,11 +1924,11 @@
       "media": [],
       "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 422,
-      "metric_observed_at": "2026-10-20T10:12:04.240480+00:00"
+      "views": 439,
+      "metric_observed_at": "2026-10-20T11:52:15.488808+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1966,9 +1984,9 @@
       "retweets": 7,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 3280,
-      "metric_observed_at": "2026-10-20T10:12:04.240489+00:00"
+      "bookmarks": 6,
+      "views": 3449,
+      "metric_observed_at": "2026-10-20T11:52:15.488817+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -2004,8 +2022,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1389,
-      "metric_observed_at": "2026-10-20T10:12:04.240500+00:00"
+      "views": 1437,
+      "metric_observed_at": "2026-10-20T11:52:15.488827+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -2036,13 +2054,13 @@
           }
         ]
       },
-      "likes": 10,
+      "likes": 12,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2103,
-      "metric_observed_at": "2026-10-20T10:12:04.240528+00:00"
+      "views": 2282,
+      "metric_observed_at": "2026-10-20T11:52:15.488858+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -2073,13 +2091,13 @@
           }
         ]
       },
-      "likes": 8,
+      "likes": 10,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2287,
-      "metric_observed_at": "2026-10-20T10:12:04.240519+00:00"
+      "views": 2494,
+      "metric_observed_at": "2026-10-20T11:52:15.488848+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -2110,13 +2128,13 @@
           }
         ]
       },
-      "likes": 461,
-      "retweets": 18,
-      "replies": 20,
+      "likes": 496,
+      "retweets": 19,
+      "replies": 21,
       "quotes": 6,
-      "bookmarks": 73,
-      "views": 20012,
-      "metric_observed_at": "2026-10-20T10:12:04.240537+00:00"
+      "bookmarks": 79,
+      "views": 21869,
+      "metric_observed_at": "2026-10-20T11:52:15.488838+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -5834,8 +5852,8 @@
       "text": "満タンになったら笑顔になりそうなやつ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895801041511473610",
-      "views": 1475,
-      "metric_observed_at": "2026-10-19T08:30:21.160245+00:00"
+      "views": 1476,
+      "metric_observed_at": "2026-10-20T11:52:15.488867+00:00"
     },
     {
       "article": null,
@@ -5877,8 +5895,8 @@
       "text": "",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895741096250183892",
-      "views": 1396,
-      "metric_observed_at": "2026-10-19T08:30:21.160258+00:00"
+      "views": 1397,
+      "metric_observed_at": "2026-10-20T11:52:15.488877+00:00"
     },
     {
       "article": null,
@@ -13634,5 +13652,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T11:15:52.449862+00:00"
+  "last_metric_refresh_at": "2026-10-20T11:52:15.488980+00:00"
 }
