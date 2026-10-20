@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 343,
+  "count": 346,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -460,6 +460,43 @@
       "metric_observed_at": "2026-10-18T07:42:49.570616+00:00"
     },
     {
+      "id": "2112548510918934979",
+      "url": "https://x.com/sattoa_ball/status/2112548510918934979",
+      "type": "tweet",
+      "created_at": "Tue Oct 20 14:16:28 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "開発途中のmod紹介\nアフリカに植民地国家を追加するmod\nこれはまだ国名変えただけ",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112548439485747200",
+            "url": "https://pbs.twimg.com/media/HVFHnOpakAALua8.jpg?name=orig",
+            "width": 1155,
+            "height": 821
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112548439485747200",
+            "url": "https://pbs.twimg.com/media/HVFHnOpakAALua8.jpg?name=orig",
+            "width": 1155,
+            "height": 821
+          }
+        ]
+      },
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 30,
+      "metric_observed_at": "2026-10-20T14:27:51.772145+00:00"
+    },
+    {
       "id": "2112511113023922394",
       "url": "https://x.com/sattoa_ball/status/2112511113023922394",
       "type": "tweet",
@@ -469,13 +506,13 @@
       "author_id": "1592826578786217984",
       "text": "世界各国の戦争を終わらせる方法\nアメリカ「圧倒的な工業力で敵を潰す」\nソ連「敵が力尽きるまで消耗戦を継続」\nイギリス「海上封鎖で敵の経済を窒息させる」\nドイツ「短期決戦で敵が立て直す前に勝つ」\nフィンランド「侵略者に戦争の代償をわからせる」\nイタリア「負けそうになったら陣営を変える」",
       "media": [],
-      "likes": 49,
-      "retweets": 8,
-      "replies": 0,
-      "quotes": 0,
-      "bookmarks": 2,
-      "views": 1560,
-      "metric_observed_at": "2026-10-20T13:55:53.358962+00:00"
+      "likes": 59,
+      "retweets": 9,
+      "replies": 1,
+      "quotes": 1,
+      "bookmarks": 3,
+      "views": 2070,
+      "metric_observed_at": "2026-10-20T14:27:51.772175+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -506,13 +543,13 @@
           }
         ]
       },
-      "likes": 34,
-      "retweets": 1,
+      "likes": 39,
+      "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1895,
-      "metric_observed_at": "2026-10-20T13:55:53.359004+00:00"
+      "views": 2065,
+      "metric_observed_at": "2026-10-20T14:27:51.772204+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -524,13 +561,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で各国が信じたもの\n\nドイツ「電撃戦で片付けてやる！」\n日本「大和魂があれば負けん！」\nイギリス「我が海軍こそ世界最強！」\nアメリカ「足りなきゃ量産すればいい」\nソ連「赤軍が全てを粉砕する！」\nフランス「マジノ線は突破不可能！」\nイタリア「ドイツが何とかしてくれる！」",
       "media": [],
-      "likes": 1102,
-      "retweets": 57,
-      "replies": 13,
-      "quotes": 5,
-      "bookmarks": 117,
-      "views": 34161,
-      "metric_observed_at": "2026-10-20T13:55:53.359020+00:00"
+      "likes": 1564,
+      "retweets": 85,
+      "replies": 16,
+      "quotes": 8,
+      "bookmarks": 152,
+      "views": 50116,
+      "metric_observed_at": "2026-10-20T14:27:51.772217+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -547,8 +584,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 337,
-      "metric_observed_at": "2026-10-20T13:55:53.359045+00:00"
+      "views": 342,
+      "metric_observed_at": "2026-10-20T14:27:51.772236+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -565,8 +602,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 323,
-      "metric_observed_at": "2026-10-20T13:55:53.359055+00:00"
+      "views": 328,
+      "metric_observed_at": "2026-10-20T14:27:51.772244+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -583,8 +620,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 10,
-      "views": 2073,
-      "metric_observed_at": "2026-10-20T13:55:53.359033+00:00"
+      "views": 2121,
+      "metric_observed_at": "2026-10-20T14:27:51.772227+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -615,13 +652,13 @@
           }
         ]
       },
-      "likes": 122,
+      "likes": 126,
       "retweets": 3,
       "replies": 1,
       "quotes": 1,
       "bookmarks": 5,
-      "views": 3223,
-      "metric_observed_at": "2026-10-20T13:55:53.359065+00:00"
+      "views": 3382,
+      "metric_observed_at": "2026-10-20T14:27:51.772251+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -673,13 +710,13 @@
           }
         }
       },
-      "likes": 118,
-      "retweets": 7,
+      "likes": 125,
+      "retweets": 8,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 7,
-      "views": 6619,
-      "metric_observed_at": "2026-10-20T13:55:53.359076+00:00"
+      "views": 6947,
+      "metric_observed_at": "2026-10-20T14:27:51.772259+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1290,8 +1327,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 880,
-      "metric_observed_at": "2026-10-20T10:12:04.240646+00:00"
+      "views": 899,
+      "metric_observed_at": "2026-10-20T14:27:51.772419+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1308,8 +1345,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 951,
-      "metric_observed_at": "2026-10-20T10:12:04.240656+00:00"
+      "views": 960,
+      "metric_observed_at": "2026-10-20T14:27:51.772429+00:00"
     },
     {
       "id": "2111800377360441353",
@@ -1345,8 +1382,8 @@
       "replies": 4,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 3500,
-      "metric_observed_at": "2026-10-20T10:12:04.240664+00:00"
+      "views": 3528,
+      "metric_observed_at": "2026-10-20T14:27:51.772437+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -1358,13 +1395,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も敵に回したくない小国と言えば？\n領土も人口も大国には及ばないのに\n軍事力・地形・外交・国民の抵抗などによって\n大国にとってめちゃくちゃ厄介な存在になった国など\nみんなはどの国家を思い浮かべる？",
       "media": [],
-      "likes": 709,
+      "likes": 710,
       "retweets": 32,
-      "replies": 220,
-      "quotes": 98,
+      "replies": 219,
+      "quotes": 99,
       "bookmarks": 127,
-      "views": 172598,
-      "metric_observed_at": "2026-10-20T10:12:04.240673+00:00"
+      "views": 172968,
+      "metric_observed_at": "2026-10-20T14:27:51.772444+00:00"
     },
     {
       "id": "2111644119600943198",
@@ -1400,8 +1437,8 @@
       "replies": 6,
       "quotes": 0,
       "bookmarks": 41,
-      "views": 21405,
-      "metric_observed_at": "2026-10-20T10:12:04.240682+00:00"
+      "views": 21429,
+      "metric_observed_at": "2026-10-20T14:27:51.772452+00:00"
     },
     {
       "id": "2111624587410846039",
@@ -1418,8 +1455,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 2524,
-      "metric_observed_at": "2026-10-20T10:12:04.240691+00:00"
+      "views": 2530,
+      "metric_observed_at": "2026-10-20T14:27:51.772459+00:00"
     },
     {
       "id": "2111618246885720401",
@@ -1436,8 +1473,8 @@
       "replies": 13,
       "quotes": 3,
       "bookmarks": 5,
-      "views": 15321,
-      "metric_observed_at": "2026-10-20T10:12:04.240711+00:00"
+      "views": 15360,
+      "metric_observed_at": "2026-10-20T14:27:51.772473+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1449,13 +1486,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も不運だった国家と言えば？\n地理的な位置が悪くて何度も他国に侵攻されたり、大国同士の戦争に巻き込まれたり、自国ではどうにもできない事情で滅亡・分割されたりした国家など",
       "media": [],
-      "likes": 635,
+      "likes": 636,
       "retweets": 28,
       "replies": 146,
       "quotes": 65,
       "bookmarks": 78,
-      "views": 83724,
-      "metric_observed_at": "2026-10-20T10:12:04.240701+00:00"
+      "views": 83829,
+      "metric_observed_at": "2026-10-20T14:27:51.772466+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1472,8 +1509,8 @@
       "replies": 109,
       "quotes": 47,
       "bookmarks": 520,
-      "views": 423089,
-      "metric_observed_at": "2026-10-20T10:12:04.240722+00:00"
+      "views": 423249,
+      "metric_observed_at": "2026-10-20T14:27:51.772481+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1490,8 +1527,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1072,
-      "metric_observed_at": "2026-10-20T10:12:04.240732+00:00"
+      "views": 1079,
+      "metric_observed_at": "2026-10-20T14:27:51.772488+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1508,8 +1545,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 668,
-      "metric_observed_at": "2026-10-20T10:12:04.240763+00:00"
+      "views": 673,
+      "metric_observed_at": "2026-10-20T14:27:51.772502+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1526,8 +1563,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1210,
-      "metric_observed_at": "2026-10-20T10:12:04.240741+00:00"
+      "views": 1223,
+      "metric_observed_at": "2026-10-20T14:27:51.772495+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1904,13 +1941,13 @@
       "author_id": "1592826578786217984",
       "text": "2003年12月、米軍がサダム・フセイン拘束した\nアメリカ「賠償金を支払え。さもなければサダム・フセインを生かして返すぞ」\nイラク「そんな脅迫が許されると思っているのか！」\nアメリカ「では返還の手続きを…」\nイラク「待ってくれ、金額はいくらだ？」",
       "media": [],
-      "likes": 13,
+      "likes": 16,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 860,
-      "metric_observed_at": "2026-10-20T13:55:53.359085+00:00"
+      "views": 883,
+      "metric_observed_at": "2026-10-20T14:27:51.772267+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1924,11 +1961,11 @@
       "media": [],
       "likes": 6,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 475,
-      "metric_observed_at": "2026-10-20T13:55:53.359095+00:00"
+      "views": 486,
+      "metric_observed_at": "2026-10-20T14:27:51.772275+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1980,13 +2017,13 @@
           }
         }
       },
-      "likes": 94,
+      "likes": 95,
       "retweets": 7,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3680,
-      "metric_observed_at": "2026-10-20T13:55:53.359104+00:00"
+      "views": 3694,
+      "metric_observed_at": "2026-10-20T14:27:51.772283+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -2022,8 +2059,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1586,
-      "metric_observed_at": "2026-10-20T13:55:53.359114+00:00"
+      "views": 1594,
+      "metric_observed_at": "2026-10-20T14:27:51.772291+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -2059,8 +2096,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2331,
-      "metric_observed_at": "2026-10-20T13:55:53.359143+00:00"
+      "views": 2333,
+      "metric_observed_at": "2026-10-20T14:27:51.772313+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -2096,8 +2133,82 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2547,
-      "metric_observed_at": "2026-10-20T13:55:53.359134+00:00"
+      "views": 2549,
+      "metric_observed_at": "2026-10-20T14:27:51.772306+00:00"
+    },
+    {
+      "id": "2112150239054528915",
+      "url": "https://x.com/sattoa_ball/status/2112150239054528915",
+      "type": "reply",
+      "created_at": "Mon Oct 19 11:53:53 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "日中周辺",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112150201880444928",
+            "url": "https://pbs.twimg.com/media/HU_dav9agAAj4tc.jpg?name=orig",
+            "width": 1490,
+            "height": 879
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112150201880444928",
+            "url": "https://pbs.twimg.com/media/HU_dav9agAAj4tc.jpg?name=orig",
+            "width": 1490,
+            "height": 879
+          }
+        ]
+      },
+      "likes": 17,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 3052,
+      "metric_observed_at": "2026-10-20T14:27:51.772339+00:00"
+    },
+    {
+      "id": "2112147423841927257",
+      "url": "https://x.com/sattoa_ball/status/2112147423841927257",
+      "type": "reply",
+      "created_at": "Mon Oct 19 11:42:42 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "北欧",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112147411816890368",
+            "url": "https://pbs.twimg.com/media/HU_a4WKbQAAirpI.jpg?name=orig",
+            "width": 1283,
+            "height": 692
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112147411816890368",
+            "url": "https://pbs.twimg.com/media/HU_a4WKbQAAirpI.jpg?name=orig",
+            "width": 1283,
+            "height": 692
+          }
+        ]
+      },
+      "likes": 23,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 1,
+      "bookmarks": 0,
+      "views": 3150,
+      "metric_observed_at": "2026-10-20T14:27:51.772332+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -2128,13 +2239,13 @@
           }
         ]
       },
-      "likes": 512,
+      "likes": 514,
       "retweets": 19,
       "replies": 22,
       "quotes": 6,
       "bookmarks": 82,
-      "views": 22233,
-      "metric_observed_at": "2026-10-20T13:55:53.359124+00:00"
+      "views": 22271,
+      "metric_observed_at": "2026-10-20T14:27:51.772325+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -2146,13 +2257,13 @@
       "author_id": "1592826578786217984",
       "text": "右翼と左翼を組み合わせれば両翼になると思ってたけど\n実際には互いの翼を引きちぎり合ってどちらも飛べなくなりそう",
       "media": [],
-      "likes": 18,
+      "likes": 19,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 496,
-      "metric_observed_at": "2026-10-20T10:12:04.240545+00:00"
+      "views": 575,
+      "metric_observed_at": "2026-10-20T14:27:51.772345+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -2164,13 +2275,13 @@
       "author_id": "1592826578786217984",
       "text": "北朝鮮「我が国は主体思想に基づき、自力更生を徹底している！」\n中国「では援助を止めてもいいか？」\n北朝鮮「主体思想については誤解があるようだ」",
       "media": [],
-      "likes": 14,
+      "likes": 15,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 569,
-      "metric_observed_at": "2026-10-20T10:12:04.240597+00:00"
+      "views": 596,
+      "metric_observed_at": "2026-10-20T14:27:51.772352+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -2208,8 +2319,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 744,
-      "metric_observed_at": "2026-10-20T10:12:04.240610+00:00"
+      "views": 769,
+      "metric_observed_at": "2026-10-20T14:27:51.772359+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -2294,8 +2405,8 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 19,
-      "views": 3030,
-      "metric_observed_at": "2026-10-20T10:12:04.240620+00:00"
+      "views": 3078,
+      "metric_observed_at": "2026-10-20T14:27:51.772366+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -2307,13 +2418,13 @@
       "author_id": "1592826578786217984",
       "text": "hoi4あるある\n国民「経済を立て直してください！」\n政府「70日待ってくれ」（国家方針開始）\n国民「軍隊の装備が不足しています！」\n政府「70日待って」（国家方針開始）\n国民「政治的混乱が深刻です！」\n政府「70日待て」（国家方針開始）\n国民「この国の政府って70日ごとにしか仕事しないの？」",
       "media": [],
-      "likes": 2077,
-      "retweets": 126,
+      "likes": 2108,
+      "retweets": 131,
       "replies": 22,
-      "quotes": 11,
-      "bookmarks": 101,
-      "views": 74228,
-      "metric_observed_at": "2026-10-20T10:12:04.240629+00:00"
+      "quotes": 12,
+      "bookmarks": 109,
+      "views": 75392,
+      "metric_observed_at": "2026-10-20T14:27:51.772374+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2370,8 +2481,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 20,
-      "views": 8086,
-      "metric_observed_at": "2026-10-20T10:12:04.240638+00:00"
+      "views": 8123,
+      "metric_observed_at": "2026-10-20T14:27:51.772382+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -4088,8 +4199,8 @@
       "text": "想像のマジノ線：国境に巨大な壁がある\n🇫🇷🧱🧱🧱🧱🧱🇩🇪\n実際のマジノ線：地下に鉄道、兵舎、発電所、弾薬庫、砲台まで備えた要塞が埋まっている\n🇫🇷💣🏰💣🇩🇪\n🚇🛏️⚡🔗\n地下都市かな？\n第二次世界大戦、ドイツがマジノ線を迂回しようとしたのも納得できる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109542993439166967",
-      "views": 9117,
-      "metric_observed_at": "2026-10-18T10:42:44.773405+00:00"
+      "views": 9141,
+      "metric_observed_at": "2026-10-20T14:27:51.772509+00:00"
     },
     {
       "article": null,
@@ -4127,8 +4238,8 @@
       "text": "@grok 民主主義国家で国民の過半数が自由かつ公正な国民投票によって独裁制への移行を支持した場合、その決定は民主的と言える？\n「決定の手続きが民主的か」と「決定後の政治体制が民主的か」を区別して論じてください",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109526308569116980",
-      "views": 371,
-      "metric_observed_at": "2026-10-18T10:42:44.773414+00:00"
+      "views": 379,
+      "metric_observed_at": "2026-10-20T14:27:51.772518+00:00"
     },
     {
       "article": null,
@@ -13653,5 +13764,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T13:55:53.359309+00:00"
+  "last_metric_refresh_at": "2026-10-20T14:27:51.772611+00:00"
 }
