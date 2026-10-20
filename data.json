@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 337,
+  "count": 340,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -460,6 +460,60 @@
       "metric_observed_at": "2026-10-18T07:42:49.570616+00:00"
     },
     {
+      "id": "2112447315336405450",
+      "url": "https://x.com/sattoa_ball/status/2112447315336405450",
+      "type": "reply",
+      "created_at": "Tue Oct 20 07:34:22 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "建設速度のバフやデバフについて\nインフラと工場の両方に同じ倍率でかかるなら\n基本的にどちらが得かは変わらない\n\nただし工場だけorインフラだけにかかる補正がある場合は話が変わってくる",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 4,
+      "metric_observed_at": "2026-10-20T07:54:14.447873+00:00"
+    },
+    {
+      "id": "2112447316754096215",
+      "url": "https://x.com/sattoa_ball/status/2112447316754096215",
+      "type": "reply",
+      "created_at": "Tue Oct 20 07:34:22 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "そういうわけで\n少数の工場なら直接建設\n大量に建てるならインフラ先行が有利になりやすいという結果になった\n\n今回は建設能力を固定した理論計算なんで\n実際には建設スロットや完成した民需工場を次の建設に回せることも考慮する必要があるので\nこれが絶対的な最適解というわけではないぞ",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 6,
+      "metric_observed_at": "2026-10-20T07:54:14.447899+00:00"
+    },
+    {
+      "id": "2112447309699330082",
+      "url": "https://x.com/sattoa_ball/status/2112447309699330082",
+      "type": "tweet",
+      "created_at": "Tue Oct 20 07:34:20 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4で工場を建てるときインフラを先に整備した方がいいのかそれとも最初から工場を建てた方がいいのか気になったので計算してみた\n\n計算結果は\n建設する工場の数や元のインフラレベルによって変わるようだ\n\nリプで計算結果をまとめている",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 29,
+      "metric_observed_at": "2026-10-20T07:54:14.447815+00:00"
+    },
+    {
       "id": "2112371569163112625",
       "url": "https://x.com/sattoa_ball/status/2112371569163112625",
       "type": "tweet",
@@ -488,13 +542,13 @@
           }
         ]
       },
-      "likes": 82,
-      "retweets": 1,
-      "replies": 0,
+      "likes": 90,
+      "retweets": 2,
+      "replies": 1,
       "quotes": 1,
       "bookmarks": 4,
-      "views": 1889,
-      "metric_observed_at": "2026-10-20T07:12:48.796198+00:00"
+      "views": 2176,
+      "metric_observed_at": "2026-10-20T07:54:14.447905+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -546,13 +600,13 @@
           }
         }
       },
-      "likes": 75,
-      "retweets": 0,
+      "likes": 80,
+      "retweets": 1,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 6,
-      "views": 4475,
-      "metric_observed_at": "2026-10-20T07:12:48.796248+00:00"
+      "views": 4837,
+      "metric_observed_at": "2026-10-20T07:54:14.447920+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1163,8 +1217,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 871,
-      "metric_observed_at": "2026-10-20T07:12:48.796342+00:00"
+      "views": 874,
+      "metric_observed_at": "2026-10-20T07:54:14.448003+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1181,8 +1235,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 945,
-      "metric_observed_at": "2026-10-20T07:12:48.796349+00:00"
+      "views": 947,
+      "metric_observed_at": "2026-10-20T07:54:14.448008+00:00"
     },
     {
       "id": "2111800377360441353",
@@ -1218,8 +1272,8 @@
       "replies": 4,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 3485,
-      "metric_observed_at": "2026-10-20T07:12:48.796355+00:00"
+      "views": 3487,
+      "metric_observed_at": "2026-10-20T07:54:14.448013+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -1236,8 +1290,8 @@
       "replies": 221,
       "quotes": 98,
       "bookmarks": 127,
-      "views": 172283,
-      "metric_observed_at": "2026-10-20T07:12:48.796361+00:00"
+      "views": 172361,
+      "metric_observed_at": "2026-10-20T07:54:14.448019+00:00"
     },
     {
       "id": "2111644119600943198",
@@ -1273,8 +1327,8 @@
       "replies": 6,
       "quotes": 0,
       "bookmarks": 41,
-      "views": 21391,
-      "metric_observed_at": "2026-10-20T07:12:48.796366+00:00"
+      "views": 21396,
+      "metric_observed_at": "2026-10-20T07:54:14.448024+00:00"
     },
     {
       "id": "2111624587410846039",
@@ -1291,8 +1345,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 2519,
-      "metric_observed_at": "2026-10-20T07:12:48.796371+00:00"
+      "views": 2520,
+      "metric_observed_at": "2026-10-20T07:54:14.448029+00:00"
     },
     {
       "id": "2111618246885720401",
@@ -1309,8 +1363,8 @@
       "replies": 13,
       "quotes": 3,
       "bookmarks": 5,
-      "views": 15304,
-      "metric_observed_at": "2026-10-20T07:12:48.796381+00:00"
+      "views": 15305,
+      "metric_observed_at": "2026-10-20T07:54:14.448038+00:00"
     },
     {
       "id": "2111617333152362655",
@@ -1327,8 +1381,8 @@
       "replies": 146,
       "quotes": 65,
       "bookmarks": 78,
-      "views": 83696,
-      "metric_observed_at": "2026-10-20T07:12:48.796376+00:00"
+      "views": 83703,
+      "metric_observed_at": "2026-10-20T07:54:14.448033+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -1345,8 +1399,8 @@
       "replies": 109,
       "quotes": 47,
       "bookmarks": 520,
-      "views": 423007,
-      "metric_observed_at": "2026-10-20T07:12:48.796387+00:00"
+      "views": 423023,
+      "metric_observed_at": "2026-10-20T07:54:14.448044+00:00"
     },
     {
       "id": "2111467877949919233",
@@ -1364,7 +1418,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 1070,
-      "metric_observed_at": "2026-10-20T07:12:48.796392+00:00"
+      "metric_observed_at": "2026-10-20T07:54:14.448049+00:00"
     },
     {
       "id": "2111439541320196539",
@@ -1382,7 +1436,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 666,
-      "metric_observed_at": "2026-10-20T07:12:48.796403+00:00"
+      "metric_observed_at": "2026-10-20T07:54:14.448057+00:00"
     },
     {
       "id": "2111438764530942390",
@@ -1400,7 +1454,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 1206,
-      "metric_observed_at": "2026-10-20T07:12:48.796397+00:00"
+      "metric_observed_at": "2026-10-20T07:54:14.448053+00:00"
     },
     {
       "id": "2111435571352777083",
@@ -1437,7 +1491,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 735,
-      "metric_observed_at": "2026-10-20T07:12:48.796408+00:00"
+      "metric_observed_at": "2026-10-20T07:54:14.448062+00:00"
     },
     {
       "id": "2111418803833999392",
@@ -1473,8 +1527,8 @@
       "replies": 29,
       "quotes": 31,
       "bookmarks": 328,
-      "views": 513107,
-      "metric_observed_at": "2026-10-20T07:12:48.796414+00:00"
+      "views": 513125,
+      "metric_observed_at": "2026-10-20T07:54:14.448067+00:00"
     },
     {
       "id": "2111391097968804075",
@@ -1510,8 +1564,8 @@
       "replies": 5,
       "quotes": 1,
       "bookmarks": 26,
-      "views": 4887,
-      "metric_observed_at": "2026-10-20T07:12:48.796419+00:00"
+      "views": 4888,
+      "metric_observed_at": "2026-10-20T07:54:14.448072+00:00"
     },
     {
       "id": "2111322756516401585",
@@ -1782,8 +1836,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 720,
-      "metric_observed_at": "2026-10-20T07:12:48.796259+00:00"
+      "views": 730,
+      "metric_observed_at": "2026-10-20T07:54:14.447927+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1795,13 +1849,13 @@
       "author_id": "1592826578786217984",
       "text": "「震度3なら日本人はビビらない」ってネタあるけど\n同じ震度3でも揺れ方は違う\n\n浅く近い地震：突然ガタッと揺れて驚く\n遠く大きな地震：長く揺れて不安になる\n遠方のゆっくりした揺れ：気づかないことも気持ち悪くなることもある\n\n震度は揺れの強さを示す数字であり\n人間の反応を決める数字ではない",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 368,
-      "metric_observed_at": "2026-10-20T07:12:48.796269+00:00"
+      "views": 377,
+      "metric_observed_at": "2026-10-20T07:54:14.447935+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1858,8 +1912,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2813,
-      "metric_observed_at": "2026-10-20T07:12:48.796275+00:00"
+      "views": 2879,
+      "metric_observed_at": "2026-10-20T07:54:14.447941+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -1890,13 +1944,13 @@
           }
         ]
       },
-      "likes": 37,
+      "likes": 40,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1265,
-      "metric_observed_at": "2026-10-20T07:12:48.796282+00:00"
+      "views": 1301,
+      "metric_observed_at": "2026-10-20T07:54:14.447947+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -1932,8 +1986,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1855,
-      "metric_observed_at": "2026-10-20T07:12:48.796302+00:00"
+      "views": 1903,
+      "metric_observed_at": "2026-10-20T07:54:14.447963+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -1969,8 +2023,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2028,
-      "metric_observed_at": "2026-10-20T07:12:48.796296+00:00"
+      "views": 2079,
+      "metric_observed_at": "2026-10-20T07:54:14.447958+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -2001,13 +2055,13 @@
           }
         ]
       },
-      "likes": 412,
+      "likes": 424,
       "retweets": 17,
-      "replies": 16,
+      "replies": 17,
       "quotes": 6,
       "bookmarks": 65,
-      "views": 17637,
-      "metric_observed_at": "2026-10-20T07:12:48.796288+00:00"
+      "views": 18061,
+      "metric_observed_at": "2026-10-20T07:54:14.447953+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -2019,13 +2073,13 @@
       "author_id": "1592826578786217984",
       "text": "右翼と左翼を組み合わせれば両翼になると思ってたけど\n実際には互いの翼を引きちぎり合ってどちらも飛べなくなりそう",
       "media": [],
-      "likes": 15,
+      "likes": 16,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 452,
-      "metric_observed_at": "2026-10-20T07:12:48.796307+00:00"
+      "views": 468,
+      "metric_observed_at": "2026-10-20T07:54:14.447969+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -2042,8 +2096,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 496,
-      "metric_observed_at": "2026-10-20T07:12:48.796312+00:00"
+      "views": 510,
+      "metric_observed_at": "2026-10-20T07:54:14.447975+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -2076,13 +2130,13 @@
           }
         ]
       },
-      "likes": 20,
+      "likes": 21,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 716,
-      "metric_observed_at": "2026-10-20T07:12:48.796318+00:00"
+      "views": 724,
+      "metric_observed_at": "2026-10-20T07:54:14.447981+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -2162,13 +2216,13 @@
           }
         }
       },
-      "likes": 85,
+      "likes": 87,
       "retweets": 8,
       "replies": 2,
-      "quotes": 0,
-      "bookmarks": 17,
-      "views": 2961,
-      "metric_observed_at": "2026-10-20T07:12:48.796324+00:00"
+      "quotes": 1,
+      "bookmarks": 18,
+      "views": 2997,
+      "metric_observed_at": "2026-10-20T07:54:14.447986+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -2180,13 +2234,13 @@
       "author_id": "1592826578786217984",
       "text": "hoi4あるある\n国民「経済を立て直してください！」\n政府「70日待ってくれ」（国家方針開始）\n国民「軍隊の装備が不足しています！」\n政府「70日待って」（国家方針開始）\n国民「政治的混乱が深刻です！」\n政府「70日待て」（国家方針開始）\n国民「この国の政府って70日ごとにしか仕事しないの？」",
       "media": [],
-      "likes": 2041,
-      "retweets": 124,
+      "likes": 2050,
+      "retweets": 125,
       "replies": 22,
       "quotes": 11,
-      "bookmarks": 98,
-      "views": 72980,
-      "metric_observed_at": "2026-10-20T07:12:48.796330+00:00"
+      "bookmarks": 100,
+      "views": 73331,
+      "metric_observed_at": "2026-10-20T07:54:14.447992+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2243,8 +2297,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 21,
-      "views": 8012,
-      "metric_observed_at": "2026-10-20T07:12:48.796337+00:00"
+      "views": 8040,
+      "metric_observed_at": "2026-10-20T07:54:14.447997+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -5180,8 +5234,8 @@
       "text": "やばいなこりゃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041285576794511",
-      "views": 1978,
-      "metric_observed_at": "2026-10-18T21:57:53.178828+00:00"
+      "views": 1981,
+      "metric_observed_at": "2026-10-20T07:54:14.448077+00:00"
     },
     {
       "article": null,
@@ -5213,8 +5267,8 @@
       "text": "ツイッター死んでた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899041086133387346",
-      "views": 1424,
-      "metric_observed_at": "2026-10-17T09:43:03.491493+00:00"
+      "views": 1431,
+      "metric_observed_at": "2026-10-20T07:54:14.448084+00:00"
     },
     {
       "article": null,
@@ -13523,5 +13577,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T07:12:48.796577+00:00"
+  "last_metric_refresh_at": "2026-10-20T07:54:14.448193+00:00"
 }
