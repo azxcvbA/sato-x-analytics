@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 336,
+  "count": 337,
   "tweets": [
     {
       "id": "2110379127421497774",
@@ -460,6 +460,43 @@
       "metric_observed_at": "2026-10-18T07:42:49.570616+00:00"
     },
     {
+      "id": "2112371569163112625",
+      "url": "https://x.com/sattoa_ball/status/2112371569163112625",
+      "type": "tweet",
+      "created_at": "Tue Oct 20 02:33:22 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4で東インド会社をプレイしてるんだけど\nこれ本当に第二次世界大戦のゲームか？\n法人税を計算し\n株主に配当金を支払い\n節税を考え\n土地を買収し\n会社の利益を増やす\n\n敵国より税務署の方が怖い",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112370155221368832",
+            "url": "https://pbs.twimg.com/media/HVClduAbQAAlpxB.jpg?name=orig",
+            "width": 1350,
+            "height": 826
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112370155221368832",
+            "url": "https://pbs.twimg.com/media/HVClduAbQAAlpxB.jpg?name=orig",
+            "width": 1350,
+            "height": 826
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 115,
+      "metric_observed_at": "2026-10-20T02:58:03.410436+00:00"
+    },
+    {
       "id": "2112342235421589849",
       "url": "https://x.com/sattoa_ball/status/2112342235421589849",
       "type": "tweet",
@@ -509,13 +546,13 @@
           }
         }
       },
-      "likes": 6,
+      "likes": 23,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 307,
-      "metric_observed_at": "2026-10-20T02:18:06.934909+00:00"
+      "quotes": 1,
+      "bookmarks": 1,
+      "views": 1236,
+      "metric_observed_at": "2026-10-20T02:58:03.410473+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1126,8 +1163,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 844,
-      "metric_observed_at": "2026-10-20T02:18:06.935087+00:00"
+      "views": 848,
+      "metric_observed_at": "2026-10-20T02:58:03.410607+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1745,8 +1782,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 590,
-      "metric_observed_at": "2026-10-20T02:18:06.934952+00:00"
+      "views": 605,
+      "metric_observed_at": "2026-10-20T02:58:03.410491+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1763,8 +1800,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 325,
-      "metric_observed_at": "2026-10-20T02:18:06.934968+00:00"
+      "views": 333,
+      "metric_observed_at": "2026-10-20T02:58:03.410503+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1816,13 +1853,13 @@
           }
         }
       },
-      "likes": 62,
+      "likes": 63,
       "retweets": 5,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2118,
-      "metric_observed_at": "2026-10-20T02:18:06.934979+00:00"
+      "views": 2276,
+      "metric_observed_at": "2026-10-20T02:58:03.410513+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -1853,13 +1890,13 @@
           }
         ]
       },
-      "likes": 25,
+      "likes": 27,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 905,
-      "metric_observed_at": "2026-10-20T02:18:06.934990+00:00"
+      "bookmarks": 1,
+      "views": 949,
+      "metric_observed_at": "2026-10-20T02:58:03.410523+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -1890,13 +1927,13 @@
           }
         ]
       },
-      "likes": 7,
+      "likes": 8,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1566,
-      "metric_observed_at": "2026-10-20T02:18:06.935021+00:00"
+      "views": 1621,
+      "metric_observed_at": "2026-10-20T02:58:03.410550+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -1927,13 +1964,13 @@
           }
         ]
       },
-      "likes": 6,
+      "likes": 7,
       "retweets": 0,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1717,
-      "metric_observed_at": "2026-10-20T02:18:06.935012+00:00"
+      "views": 1777,
+      "metric_observed_at": "2026-10-20T02:58:03.410542+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -1964,13 +2001,13 @@
           }
         ]
       },
-      "likes": 333,
-      "retweets": 12,
-      "replies": 13,
-      "quotes": 4,
-      "bookmarks": 51,
-      "views": 14365,
-      "metric_observed_at": "2026-10-20T02:18:06.935000+00:00"
+      "likes": 347,
+      "retweets": 13,
+      "replies": 14,
+      "quotes": 5,
+      "bookmarks": 54,
+      "views": 15032,
+      "metric_observed_at": "2026-10-20T02:58:03.410532+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -1987,8 +2024,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 355,
-      "metric_observed_at": "2026-10-20T02:18:06.935031+00:00"
+      "views": 360,
+      "metric_observed_at": "2026-10-20T02:58:03.410557+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -2000,13 +2037,13 @@
       "author_id": "1592826578786217984",
       "text": "北朝鮮「我が国は主体思想に基づき、自力更生を徹底している！」\n中国「では援助を止めてもいいか？」\n北朝鮮「主体思想については誤解があるようだ」",
       "media": [],
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 423,
-      "metric_observed_at": "2026-10-20T02:18:06.935041+00:00"
+      "views": 440,
+      "metric_observed_at": "2026-10-20T02:58:03.410565+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -2044,8 +2081,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 670,
-      "metric_observed_at": "2026-10-20T02:18:06.935050+00:00"
+      "views": 679,
+      "metric_observed_at": "2026-10-20T02:58:03.410573+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -2125,13 +2162,13 @@
           }
         }
       },
-      "likes": 68,
+      "likes": 72,
       "retweets": 6,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 16,
-      "views": 2330,
-      "metric_observed_at": "2026-10-20T02:18:06.935059+00:00"
+      "views": 2475,
+      "metric_observed_at": "2026-10-20T02:58:03.410581+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -2143,13 +2180,13 @@
       "author_id": "1592826578786217984",
       "text": "hoi4あるある\n国民「経済を立て直してください！」\n政府「70日待ってくれ」（国家方針開始）\n国民「軍隊の装備が不足しています！」\n政府「70日待って」（国家方針開始）\n国民「政治的混乱が深刻です！」\n政府「70日待て」（国家方針開始）\n国民「この国の政府って70日ごとにしか仕事しないの？」",
       "media": [],
-      "likes": 1795,
-      "retweets": 110,
-      "replies": 21,
+      "likes": 1835,
+      "retweets": 112,
+      "replies": 22,
       "quotes": 10,
-      "bookmarks": 88,
-      "views": 64466,
-      "metric_observed_at": "2026-10-20T02:18:06.935069+00:00"
+      "bookmarks": 92,
+      "views": 65771,
+      "metric_observed_at": "2026-10-20T02:58:03.410590+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2202,12 +2239,12 @@
         }
       },
       "likes": 284,
-      "retweets": 37,
+      "retweets": 38,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 21,
-      "views": 7742,
-      "metric_observed_at": "2026-10-20T02:18:06.935078+00:00"
+      "bookmarks": 20,
+      "views": 7793,
+      "metric_observed_at": "2026-10-20T02:58:03.410599+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -4616,8 +4653,8 @@
       "text": "久しぶりにゴッドフィールドやったけどおもろいわ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1908853777571922223",
-      "views": 6014,
-      "metric_observed_at": "2026-10-18T20:58:44.828585+00:00"
+      "views": 6020,
+      "metric_observed_at": "2026-10-20T02:58:03.410615+00:00"
     },
     {
       "article": null,
@@ -4649,8 +4686,8 @@
       "text": "スイッチ２の値段いくらなんだろう・・・\n一番気になるとこ何も言ってなかったからかなｃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1907433905172733967",
-      "views": 6306,
-      "metric_observed_at": "2026-10-19T12:15:55.139136+00:00"
+      "views": 6307,
+      "metric_observed_at": "2026-10-20T02:58:03.410626+00:00"
     },
     {
       "article": null,
@@ -13486,5 +13523,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T02:18:06.935365+00:00"
+  "last_metric_refresh_at": "2026-10-20T02:58:03.410737+00:00"
 }
