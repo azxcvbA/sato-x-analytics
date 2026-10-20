@@ -4740,8 +4740,8 @@
       "text": "トレンドのランキングで\nトモコレがニンダイ超えちゃった、えぐい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1905269673870188811",
-      "views": 2544,
-      "metric_observed_at": "2026-10-18T11:40:21.672052+00:00"
+      "views": 2548,
+      "metric_observed_at": "2026-10-20T00:25:50.085399+00:00"
     },
     {
       "article": null,
@@ -4783,8 +4783,8 @@
       "text": "ウクライナのロシア侵攻パート２",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1904498386562101337",
-      "views": 2465,
-      "metric_observed_at": "2026-10-18T11:40:21.672058+00:00"
+      "views": 2469,
+      "metric_observed_at": "2026-10-20T00:25:50.085443+00:00"
     },
     {
       "article": null,
@@ -13428,5 +13428,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-19T23:54:15.540684+00:00"
+  "last_metric_refresh_at": "2026-10-20T00:25:50.085569+00:00"
 }
