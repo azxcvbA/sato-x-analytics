@@ -488,13 +488,13 @@
           }
         ]
       },
-      "likes": 46,
+      "likes": 56,
       "retweets": 1,
       "replies": 0,
       "quotes": 1,
-      "bookmarks": 3,
-      "views": 1210,
-      "metric_observed_at": "2026-10-20T05:15:23.189669+00:00"
+      "bookmarks": 4,
+      "views": 1398,
+      "metric_observed_at": "2026-10-20T05:51:07.642293+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -546,13 +546,13 @@
           }
         }
       },
-      "likes": 55,
+      "likes": 63,
       "retweets": 1,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 3387,
-      "metric_observed_at": "2026-10-20T05:15:23.189713+00:00"
+      "views": 3730,
+      "metric_observed_at": "2026-10-20T05:51:07.642331+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1164,7 +1164,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 864,
-      "metric_observed_at": "2026-10-20T05:15:23.189868+00:00"
+      "metric_observed_at": "2026-10-20T05:51:07.642452+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1777,13 +1777,13 @@
       "author_id": "1592826578786217984",
       "text": "2003年12月、米軍がサダム・フセイン拘束した\nアメリカ「賠償金を支払え。さもなければサダム・フセインを生かして返すぞ」\nイラク「そんな脅迫が許されると思っているのか！」\nアメリカ「では返還の手続きを…」\nイラク「待ってくれ、金額はいくらだ？」",
       "media": [],
-      "likes": 10,
+      "likes": 11,
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 678,
-      "metric_observed_at": "2026-10-20T05:15:23.189730+00:00"
+      "views": 688,
+      "metric_observed_at": "2026-10-20T05:51:07.642344+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -1800,8 +1800,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 354,
-      "metric_observed_at": "2026-10-20T05:15:23.189744+00:00"
+      "views": 356,
+      "metric_observed_at": "2026-10-20T05:51:07.642355+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -1853,13 +1853,13 @@
           }
         }
       },
-      "likes": 71,
+      "likes": 72,
       "retweets": 6,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2651,
-      "metric_observed_at": "2026-10-20T05:15:23.189756+00:00"
+      "views": 2691,
+      "metric_observed_at": "2026-10-20T05:51:07.642364+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -1894,9 +1894,9 @@
       "retweets": 1,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 1155,
-      "metric_observed_at": "2026-10-20T05:15:23.189766+00:00"
+      "bookmarks": 3,
+      "views": 1177,
+      "metric_observed_at": "2026-10-20T05:51:07.642372+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -1932,8 +1932,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1781,
-      "metric_observed_at": "2026-10-20T05:15:23.189799+00:00"
+      "views": 1802,
+      "metric_observed_at": "2026-10-20T05:51:07.642397+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -1969,8 +1969,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 1951,
-      "metric_observed_at": "2026-10-20T05:15:23.189788+00:00"
+      "views": 1973,
+      "metric_observed_at": "2026-10-20T05:51:07.642389+00:00"
     },
     {
       "id": "2112147121659134278",
@@ -2001,13 +2001,13 @@
           }
         ]
       },
-      "likes": 393,
+      "likes": 399,
       "retweets": 17,
       "replies": 15,
       "quotes": 6,
-      "bookmarks": 61,
-      "views": 16927,
-      "metric_observed_at": "2026-10-20T05:15:23.189777+00:00"
+      "bookmarks": 62,
+      "views": 17128,
+      "metric_observed_at": "2026-10-20T05:51:07.642380+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -2024,8 +2024,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 408,
-      "metric_observed_at": "2026-10-20T05:15:23.189808+00:00"
+      "views": 423,
+      "metric_observed_at": "2026-10-20T05:51:07.642405+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -2042,8 +2042,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 470,
-      "metric_observed_at": "2026-10-20T05:15:23.189817+00:00"
+      "views": 475,
+      "metric_observed_at": "2026-10-20T05:51:07.642412+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -2076,13 +2076,13 @@
           }
         ]
       },
-      "likes": 17,
+      "likes": 18,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 694,
-      "metric_observed_at": "2026-10-20T05:15:23.189827+00:00"
+      "views": 703,
+      "metric_observed_at": "2026-10-20T05:51:07.642420+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -2162,13 +2162,13 @@
           }
         }
       },
-      "likes": 80,
+      "likes": 81,
       "retweets": 8,
       "replies": 2,
       "quotes": 1,
-      "bookmarks": 16,
-      "views": 2824,
-      "metric_observed_at": "2026-10-20T05:15:23.189837+00:00"
+      "bookmarks": 17,
+      "views": 2866,
+      "metric_observed_at": "2026-10-20T05:51:07.642428+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -2180,13 +2180,13 @@
       "author_id": "1592826578786217984",
       "text": "hoi4あるある\n国民「経済を立て直してください！」\n政府「70日待ってくれ」（国家方針開始）\n国民「軍隊の装備が不足しています！」\n政府「70日待って」（国家方針開始）\n国民「政治的混乱が深刻です！」\n政府「70日待て」（国家方針開始）\n国民「この国の政府って70日ごとにしか仕事しないの？」",
       "media": [],
-      "likes": 1949,
-      "retweets": 120,
+      "likes": 1984,
+      "retweets": 121,
       "replies": 22,
       "quotes": 11,
       "bookmarks": 96,
-      "views": 70222,
-      "metric_observed_at": "2026-10-20T05:15:23.189847+00:00"
+      "views": 71433,
+      "metric_observed_at": "2026-10-20T05:51:07.642436+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2238,13 +2238,13 @@
           }
         }
       },
-      "likes": 288,
+      "likes": 290,
       "retweets": 38,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 21,
-      "views": 7945,
-      "metric_observed_at": "2026-10-20T05:15:23.189858+00:00"
+      "views": 7964,
+      "metric_observed_at": "2026-10-20T05:51:07.642444+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -6123,8 +6123,8 @@
       "text": "よしゃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1893290315571716188",
-      "views": 1502,
-      "metric_observed_at": "2026-10-17T10:42:29.024144+00:00"
+      "views": 1503,
+      "metric_observed_at": "2026-10-20T05:51:07.642459+00:00"
     },
     {
       "article": null,
@@ -6157,7 +6157,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1893257922018189325",
       "views": 1036,
-      "metric_observed_at": "2026-10-17T10:42:29.024151+00:00"
+      "metric_observed_at": "2026-10-20T05:51:07.642469+00:00"
     },
     {
       "article": null,
@@ -13523,5 +13523,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-20T05:15:23.190210+00:00"
+  "last_metric_refresh_at": "2026-10-20T05:51:07.642558+00:00"
 }
