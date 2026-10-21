@@ -6549,8 +6549,8 @@
       "text": "omedetou",
       "type": "quote",
       "url": "https://x.com/sattoa_ball/status/1894688144580391365",
-      "views": 1322,
-      "metric_observed_at": "2026-10-19T09:14:25.112720+00:00"
+      "views": 1324,
+      "metric_observed_at": "2026-10-21T12:42:44.850978+00:00"
     },
     {
       "article": null,
@@ -6592,8 +6592,8 @@
       "text": "你好すこるアル",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1894295697438253317",
-      "views": 2892,
-      "metric_observed_at": "2026-10-19T09:14:25.112728+00:00"
+      "views": 2893,
+      "metric_observed_at": "2026-10-21T12:42:44.851036+00:00"
     },
     {
       "article": null,
@@ -14042,5 +14042,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-21T12:00:02.722194+00:00"
+  "last_metric_refresh_at": "2026-10-21T12:42:44.851131+00:00"
 }
