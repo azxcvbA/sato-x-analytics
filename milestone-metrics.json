@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-21T22:18:19.096171+00:00",
+  "generated_at": "2026-10-21T22:55:15.807058+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -149,7 +149,16 @@
       "text": "1941年のユーゴスラビア分割をHoI4のKSREで再現してみた\nドイツ・イタリア・ハンガリー・ブルガリアによる領土分割に加え\nクロアチア独立国やセルビアの軍政\nモンテネグロの占領統治なども再現\n当時のバルカン半島は国境が複雑すぎる",
       "created_at": "2026-10-21T00:19:32+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-21T22:55:15+00:00",
+          "offset_minutes": -84.3,
+          "views": 2967,
+          "likes": 64,
+          "retweets": 4,
+          "replies": 4,
+          "quotes": 0,
+          "bookmarks": 8
+        },
         "48": null
       }
     },
@@ -240,14 +249,14 @@
       "created_at": "2026-10-20T23:38:33+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-21T22:18:18+00:00",
-          "offset_minutes": -80.2,
-          "views": 45236,
-          "likes": 884,
-          "retweets": 54,
-          "replies": 13,
+          "observed_at": "2026-10-21T22:55:15+00:00",
+          "offset_minutes": -43.3,
+          "views": 47199,
+          "likes": 921,
+          "retweets": 55,
+          "replies": 15,
           "quotes": 0,
-          "bookmarks": 77
+          "bookmarks": 81
         },
         "48": null
       }
