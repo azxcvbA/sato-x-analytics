@@ -27,7 +27,11 @@ def utc_date(value: str | None):
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc)
     except (TypeError, ValueError):
-        return None
+        try:
+            from email.utils import parsedate_to_datetime
+            return parsedate_to_datetime(value).astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            return None
 
 
 def main():
