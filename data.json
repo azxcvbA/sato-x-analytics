@@ -21,8 +21,137 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 357,
+  "count": 361,
   "tweets": [
+    {
+      "id": "2112890604552425744",
+      "url": "https://x.com/sattoa_ball/status/2112890604552425744",
+      "type": "tweet",
+      "created_at": "Wed Oct 21 12:55:50 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "PHPに深刻な脆弱性が見つかったのは事実だけど、過度に不安がる必要はないと思う\n重要なのは危険性を正しく理解すること\n特に、対応が求められるのはPHPを利用するサイトの運営者側であって\n一般利用者が直接修正できる問題ではないんよ\n危険性の軽視も、過剰な不安の拡散も避けるべきでしょう",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 109,
+      "metric_observed_at": "2026-10-21T13:12:29.227024+00:00"
+    },
+    {
+      "id": "2112876917603131458",
+      "url": "https://x.com/sattoa_ball/status/2112876917603131458",
+      "type": "reply",
+      "created_at": "Wed Oct 21 12:01:27 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "【融和政策】\n現地住民との協力関係を重視し、占領統治の安定を目指す政策\n住民の意見を尊重し、対話による統治を実現する\nもちろん、占領を続けるかどうかについては対話の対象外である",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112876601268690944",
+            "url": "https://pbs.twimg.com/media/HVJyEwja4AAMlqr.png?name=orig",
+            "width": 311,
+            "height": 315
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112876601268690944",
+            "url": "https://pbs.twimg.com/media/HVJyEwja4AAMlqr.png?name=orig",
+            "width": 311,
+            "height": 315
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 62,
+      "metric_observed_at": "2026-10-21T13:12:29.227069+00:00"
+    },
+    {
+      "id": "2112876919922503754",
+      "url": "https://x.com/sattoa_ball/status/2112876919922503754",
+      "type": "reply",
+      "created_at": "Wed Oct 21 12:01:27 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "【徹底的資源収奪】\n占領地の工場と資源を最大限に動員する占領政策\n占領地の経済を我が国の戦争遂行に役立てるのだ\n現地の将来については、戦争に勝ってから考えればよい。資源が残っていればの話だが",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112876819783589888",
+            "url": "https://pbs.twimg.com/media/HVJyRelboAARujn.png?name=orig",
+            "width": 307,
+            "height": 347
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112876819783589888",
+            "url": "https://pbs.twimg.com/media/HVJyRelboAARujn.png?name=orig",
+            "width": 307,
+            "height": 347
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 49,
+      "metric_observed_at": "2026-10-21T13:12:29.227076+00:00"
+    },
+    {
+      "id": "2112876908363047063",
+      "url": "https://x.com/sattoa_ball/status/2112876908363047063",
+      "type": "tweet",
+      "created_at": "Wed Oct 21 12:01:24 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4で占領地をどう統治する？\n\n戦災復興を優先するか\n現地住民を徴募するか\n司法制度を整備するか\n住民との融和を図るか\nそれとも…工場と資源を徹底的に収奪するか\n占領法を5種類追加するMODを制作しました",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112875760914722816",
+            "url": "https://pbs.twimg.com/media/HVJxT1_a8AAF5__.png?name=orig",
+            "width": 442,
+            "height": 189
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112875760914722816",
+            "url": "https://pbs.twimg.com/media/HVJxT1_a8AAF5__.png?name=orig",
+            "width": 442,
+            "height": 189
+          }
+        ]
+      },
+      "likes": 21,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 767,
+      "metric_observed_at": "2026-10-21T13:12:29.227058+00:00"
+    },
     {
       "id": "2112851882591092918",
       "url": "https://x.com/sattoa_ball/status/2112851882591092918",
@@ -33,13 +162,13 @@
       "author_id": "1592826578786217984",
       "text": "独裁者が考える民主主義\n\n「国民には自由に投票する権利がある。ただし、選択肢は一つだ」",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 73,
-      "metric_observed_at": "2026-10-21T11:25:00.091913+00:00"
+      "views": 127,
+      "metric_observed_at": "2026-10-21T13:12:29.227082+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -70,13 +199,13 @@
           }
         ]
       },
-      "likes": 6,
+      "likes": 13,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 277,
-      "metric_observed_at": "2026-10-21T11:25:00.091955+00:00"
+      "views": 534,
+      "metric_observed_at": "2026-10-21T13:12:29.227094+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -88,13 +217,13 @@
       "author_id": "1592826578786217984",
       "text": "世界史で信用できない言葉たち\n\n「クリスマスまでには戦争が終わるさ」\n「この領土が最後の要求だ」\n「独立を尊重する」\n「一時的な軍事占領に過ぎない」\n「防衛のための先制攻撃だ」\n「我々は平和を望んでいる」\n「この条約によって恒久的な平和が実現する」\n「この動員は単なる軍事演習だ」",
       "media": [],
-      "likes": 98,
-      "retweets": 8,
-      "replies": 3,
+      "likes": 137,
+      "retweets": 11,
+      "replies": 4,
       "quotes": 1,
-      "bookmarks": 8,
-      "views": 1731,
-      "metric_observed_at": "2026-10-21T11:25:00.091972+00:00"
+      "bookmarks": 12,
+      "views": 2266,
+      "metric_observed_at": "2026-10-21T13:12:29.227104+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -106,13 +235,13 @@
       "author_id": "1592826578786217984",
       "text": "以下本音\n自分の行為が周囲を消耗させたことは認める\nしかし、消耗させたという結果だけで自分の行為が不当だったとは考えない\n不当だったと思っていない以上、反省を装って謝罪するつもりもない\n自分の立場を少しでも良く見せるためのパフォーマンスを行うつもりはない",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 211,
-      "metric_observed_at": "2026-10-21T11:25:00.091996+00:00"
+      "views": 242,
+      "metric_observed_at": "2026-10-21T13:12:29.227118+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -124,13 +253,13 @@
       "author_id": "1592826578786217984",
       "text": "俺がPBwikiをBANされるまでの経緯\n2026年1月　約3年ぶりに復帰\n歴史・政治系記事を大規模改修するも編集方針を巡って対立\n大量編集やサンドボックスの利用も問題視される\n8月 一般ルール5項を根拠としたブロック投票が開始\n規定の曖昧さと適用根拠を巡って議論\n9月 BANされていた",
       "media": [],
-      "likes": 17,
+      "likes": 20,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1025,
-      "metric_observed_at": "2026-10-21T11:25:00.091985+00:00"
+      "views": 1159,
+      "metric_observed_at": "2026-10-21T13:12:29.227111+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -142,13 +271,13 @@
       "author_id": "1592826578786217984",
       "text": "最近投稿した「第二次世界大戦で各国が信じたもの」などの歴史系BJは\n表示回数に対するいいね率が高めだった\nこういったネタを積極的に投稿していこうと思う\n最近のPB界隈はBJが少ないと感じている人や、単純にBJが好きな人に楽しんでもらえれば嬉しい\n尚,投稿するネタがすべてオリジナルとは限らない",
       "media": [],
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 243,
-      "metric_observed_at": "2026-10-21T11:25:00.092006+00:00"
+      "views": 268,
+      "metric_observed_at": "2026-10-21T13:12:29.227124+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -179,13 +308,13 @@
           }
         ]
       },
-      "likes": 50,
-      "retweets": 3,
+      "likes": 54,
+      "retweets": 4,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 2277,
-      "metric_observed_at": "2026-10-21T11:25:00.092017+00:00"
+      "bookmarks": 6,
+      "views": 2591,
+      "metric_observed_at": "2026-10-21T13:12:29.227130+00:00"
     },
     {
       "id": "2110379127421497774",
@@ -633,13 +762,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦、各国の誤算\n\nドイツ「ソ連なら短期間で倒せる」\n日本「アメリカの戦意を挫けば講和できる」\nイタリア「ギリシャくらい簡単に勝てる」\nフランス「アルデンヌから大軍は来ない」\n\nアメリカ「世界中に兵器を配ってたら、自分の軍隊の分まで余ったんだが」",
       "media": [],
-      "likes": 175,
-      "retweets": 10,
-      "replies": 5,
+      "likes": 443,
+      "retweets": 27,
+      "replies": 7,
       "quotes": 0,
-      "bookmarks": 20,
-      "views": 7054,
-      "metric_observed_at": "2026-10-21T11:25:00.092027+00:00"
+      "bookmarks": 46,
+      "views": 21130,
+      "metric_observed_at": "2026-10-21T13:12:29.227136+00:00"
     },
     {
       "id": "2112557465653129512",
@@ -651,13 +780,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上「どう考えても負けそうなのに最終的に勝った国家」と言えば？\n開戦時の国力差・軍事力・領土・外交状況などを考えると絶望的だったのに、戦争の結末が予想外だった事例を知りたい。",
       "media": [],
-      "likes": 433,
-      "retweets": 21,
-      "replies": 130,
-      "quotes": 43,
-      "bookmarks": 58,
-      "views": 60954,
-      "metric_observed_at": "2026-10-21T11:25:00.092038+00:00"
+      "likes": 448,
+      "retweets": 22,
+      "replies": 135,
+      "quotes": 45,
+      "bookmarks": 62,
+      "views": 62977,
+      "metric_observed_at": "2026-10-21T13:12:29.227143+00:00"
     },
     {
       "id": "2112548510918934979",
@@ -688,13 +817,13 @@
           }
         ]
       },
-      "likes": 56,
-      "retweets": 1,
+      "likes": 57,
+      "retweets": 0,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1698,
-      "metric_observed_at": "2026-10-21T11:25:00.092047+00:00"
+      "views": 1749,
+      "metric_observed_at": "2026-10-21T13:12:29.227150+00:00"
     },
     {
       "id": "2112511113023922394",
@@ -706,13 +835,13 @@
       "author_id": "1592826578786217984",
       "text": "世界各国の戦争を終わらせる方法\nアメリカ「圧倒的な工業力で敵を潰す」\nソ連「敵が力尽きるまで消耗戦を継続」\nイギリス「海上封鎖で敵の経済を窒息させる」\nドイツ「短期決戦で敵が立て直す前に勝つ」\nフィンランド「侵略者に戦争の代償をわからせる」\nイタリア「負けそうになったら陣営を変える」",
       "media": [],
-      "likes": 456,
-      "retweets": 36,
-      "replies": 5,
+      "likes": 468,
+      "retweets": 37,
+      "replies": 6,
       "quotes": 6,
-      "bookmarks": 46,
-      "views": 26968,
-      "metric_observed_at": "2026-10-21T11:25:00.092057+00:00"
+      "bookmarks": 48,
+      "views": 27654,
+      "metric_observed_at": "2026-10-21T13:12:29.227157+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -743,13 +872,13 @@
           }
         ]
       },
-      "likes": 70,
+      "likes": 71,
       "retweets": 5,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3575,
-      "metric_observed_at": "2026-10-21T11:25:00.092068+00:00"
+      "views": 3587,
+      "metric_observed_at": "2026-10-21T13:12:29.227163+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -761,13 +890,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で各国が信じたもの\n\nドイツ「電撃戦で片付けてやる！」\n日本「大和魂があれば負けん！」\nイギリス「我が海軍こそ世界最強！」\nアメリカ「足りなきゃ量産すればいい」\nソ連「赤軍が全てを粉砕する！」\nフランス「マジノ線は突破不可能！」\nイタリア「ドイツが何とかしてくれる！」",
       "media": [],
-      "likes": 6759,
-      "retweets": 379,
+      "likes": 6885,
+      "retweets": 391,
       "replies": 47,
       "quotes": 26,
-      "bookmarks": 605,
-      "views": 202710,
-      "metric_observed_at": "2026-10-21T11:25:00.092079+00:00"
+      "bookmarks": 620,
+      "views": 205091,
+      "metric_observed_at": "2026-10-21T13:12:29.227170+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -784,8 +913,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 446,
-      "metric_observed_at": "2026-10-21T11:25:00.092099+00:00"
+      "views": 447,
+      "metric_observed_at": "2026-10-21T13:12:29.227183+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -802,8 +931,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 427,
-      "metric_observed_at": "2026-10-21T11:25:00.092109+00:00"
+      "views": 428,
+      "metric_observed_at": "2026-10-21T13:12:29.227189+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -818,10 +947,10 @@
       "likes": 43,
       "retweets": 2,
       "replies": 1,
-      "quotes": 1,
+      "quotes": 0,
       "bookmarks": 11,
-      "views": 2751,
-      "metric_observed_at": "2026-10-21T11:25:00.092090+00:00"
+      "views": 2761,
+      "metric_observed_at": "2026-10-21T13:12:29.227176+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -857,8 +986,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 5,
-      "views": 4479,
-      "metric_observed_at": "2026-10-21T11:25:00.092118+00:00"
+      "views": 4497,
+      "metric_observed_at": "2026-10-21T13:12:29.227195+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -915,8 +1044,8 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 12,
-      "views": 9466,
-      "metric_observed_at": "2026-10-21T11:25:00.092129+00:00"
+      "views": 9484,
+      "metric_observed_at": "2026-10-21T13:12:29.227201+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -2146,8 +2275,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 960,
-      "metric_observed_at": "2026-10-21T11:25:00.092138+00:00"
+      "views": 967,
+      "metric_observed_at": "2026-10-21T13:12:29.227207+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -2164,8 +2293,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 558,
-      "metric_observed_at": "2026-10-21T11:25:00.092147+00:00"
+      "views": 568,
+      "metric_observed_at": "2026-10-21T13:12:29.227213+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -2222,8 +2351,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3788,
-      "metric_observed_at": "2026-10-21T11:25:00.092157+00:00"
+      "views": 3794,
+      "metric_observed_at": "2026-10-21T13:12:29.227244+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -2259,8 +2388,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1677,
-      "metric_observed_at": "2026-10-21T11:25:00.092166+00:00"
+      "views": 1683,
+      "metric_observed_at": "2026-10-21T13:12:29.227251+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -2296,8 +2425,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2362,
-      "metric_observed_at": "2026-10-21T11:25:00.092192+00:00"
+      "views": 2363,
+      "metric_observed_at": "2026-10-21T13:12:29.227272+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -2334,7 +2463,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 2580,
-      "metric_observed_at": "2026-10-21T11:25:00.092184+00:00"
+      "metric_observed_at": "2026-10-21T13:12:29.227265+00:00"
     },
     {
       "id": "2112152519204028732",
@@ -2517,9 +2646,9 @@
       "retweets": 19,
       "replies": 22,
       "quotes": 6,
-      "bookmarks": 84,
-      "views": 22594,
-      "metric_observed_at": "2026-10-21T11:25:00.092174+00:00"
+      "bookmarks": 83,
+      "views": 22624,
+      "metric_observed_at": "2026-10-21T13:12:29.227258+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -12327,7 +12456,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1707720956377235492",
       "views": 278,
-      "metric_observed_at": "2026-10-20T22:36:49.204290+00:00"
+      "metric_observed_at": "2026-10-21T13:12:29.227279+00:00"
     },
     {
       "article": null,
@@ -12369,8 +12498,8 @@
       "text": "謎の動画できた()",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1705550152902258926",
-      "views": 337,
-      "metric_observed_at": "2026-10-20T22:36:49.204333+00:00"
+      "views": 338,
+      "metric_observed_at": "2026-10-21T13:12:29.227288+00:00"
     },
     {
       "article": null,
@@ -14042,5 +14171,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-21T12:42:44.851131+00:00"
+  "last_metric_refresh_at": "2026-10-21T13:12:29.227376+00:00"
 }
