@@ -1,8 +1,18 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-21T13:12:29.681155+00:00",
+  "generated_at": "2026-10-21T13:26:02.978105+00:00",
   "posts": [
+    {
+      "id": "2112895499460395384",
+      "url": "https://x.com/sattoa_ball/status/2112895499460395384",
+      "text": "注意喚起自体は重要だと思うけど\nこれを見た一般利用者が具体的に何をすればいいのか分かりにくい気がする\n今回、主に対応が求められるのはPHPを利用するサイトの運営者側だし\n一般利用者と運営者で必要な対応が異なることを\nもう少し明確に説明した方が不必要な不安を減らせると思うよ",
+      "created_at": "2026-10-21T13:15:17+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
     {
       "id": "2112890604552425744",
       "url": "https://x.com/sattoa_ball/status/2112890604552425744",
@@ -209,7 +219,16 @@
       "text": "歴史上「どう考えても負けそうなのに最終的に勝った国家」と言えば？\n開戦時の国力差・軍事力・領土・外交状況などを考えると絶望的だったのに、戦争の結末が予想外だった事例を知りたい。",
       "created_at": "2026-10-20T14:52:03+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-21T13:26:02+00:00",
+          "offset_minutes": -86.0,
+          "views": 63226,
+          "likes": 449,
+          "retweets": 23,
+          "replies": 136,
+          "quotes": 46,
+          "bookmarks": 62
+        },
         "48": null
       }
     },
@@ -220,9 +239,9 @@
       "created_at": "2026-10-20T14:16:28+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-21T13:12:29+00:00",
-          "offset_minutes": -64.0,
-          "views": 1749,
+          "observed_at": "2026-10-21T13:26:02+00:00",
+          "offset_minutes": -50.4,
+          "views": 1750,
           "likes": 57,
           "retweets": 0,
           "replies": 3,
@@ -1164,7 +1183,16 @@
       "created_at": "2026-10-19T14:35:31+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-21T13:26:02+00:00",
+          "offset_minutes": -69.5,
+          "views": 967,
+          "likes": 17,
+          "retweets": 1,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 1
+        }
       }
     },
     {
@@ -1174,7 +1202,16 @@
       "created_at": "2026-10-19T14:29:17+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-21T13:26:02+00:00",
+          "offset_minutes": -63.2,
+          "views": 568,
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -1194,9 +1231,9 @@
           "bookmarks": 7
         },
         "48": {
-          "observed_at": "2026-10-21T13:12:29+00:00",
-          "offset_minutes": -9.9,
-          "views": 3794,
+          "observed_at": "2026-10-21T13:26:02+00:00",
+          "offset_minutes": 3.6,
+          "views": 3795,
           "likes": 96,
           "retweets": 7,
           "replies": 0,
@@ -1364,7 +1401,16 @@
       "created_at": "2026-10-19T11:22:23+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-21T11:25:00+00:00",
+          "offset_minutes": 2.6,
+          "views": 622,
+          "likes": 19,
+          "retweets": 1,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -1374,7 +1420,16 @@
       "created_at": "2026-10-19T10:47:38+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-21T11:25:00+00:00",
+          "offset_minutes": 37.4,
+          "views": 638,
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -1384,7 +1439,16 @@
       "created_at": "2026-10-19T10:01:20+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-21T11:25:00+00:00",
+          "offset_minutes": 83.7,
+          "views": 825,
+          "likes": 23,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 1
+        }
       }
     },
     {
