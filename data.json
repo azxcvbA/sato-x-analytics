@@ -12977,7 +12977,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1703225256390041942",
       "views": 1553,
-      "metric_observed_at": "2026-10-18T20:29:30.707732+00:00"
+      "metric_observed_at": "2026-10-21T20:38:51.586805+00:00"
     },
     {
       "article": null,
@@ -13010,7 +13010,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1702086284968419762",
       "views": 344,
-      "metric_observed_at": "2026-10-21T14:09:01.891127+00:00"
+      "metric_observed_at": "2026-10-21T20:38:51.586850+00:00"
     },
     {
       "article": null,
@@ -14283,5 +14283,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-21T20:06:50.039706+00:00"
+  "last_metric_refresh_at": "2026-10-21T20:38:51.586980+00:00"
 }
