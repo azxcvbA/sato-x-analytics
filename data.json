@@ -13648,7 +13648,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1667774570609401863",
       "views": 135,
-      "metric_observed_at": "2026-10-21T15:21:55.645458+00:00"
+      "metric_observed_at": "2026-10-21T21:51:50.732183+00:00"
     },
     {
       "article": null,
@@ -14283,5 +14283,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-21T21:13:39.148327+00:00"
+  "last_metric_refresh_at": "2026-10-21T21:51:50.732331+00:00"
 }
