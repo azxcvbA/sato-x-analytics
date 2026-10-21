@@ -1,8 +1,18 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-21T13:26:02.978105+00:00",
+  "generated_at": "2026-10-21T14:09:02.227458+00:00",
   "posts": [
+    {
+      "id": "2112899046146965923",
+      "url": "https://x.com/sattoa_ball/status/2112899046146965923",
+      "text": "PHPに重大な脆弱性が2件発覚\n政府「今夜23時に修正パッチ公開！」\nWeb管理者「総動員法を採用だ」\n\nパッチ適用速度：+100%\n睡眠時間：-80%\n残業時間：+200%\n安定度：-50%\n管理者の生存率：-3%\n\n管理者「寝る人間がいるならまだ余裕があるぞ」\n政府「女性労働力を採用しました」\n管理者「」",
+      "created_at": "2026-10-21T13:29:23+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
     {
       "id": "2112895499460395384",
       "url": "https://x.com/sattoa_ball/status/2112895499460395384",
@@ -220,14 +230,14 @@
       "created_at": "2026-10-20T14:52:03+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-21T13:26:02+00:00",
-          "offset_minutes": -86.0,
-          "views": 63226,
-          "likes": 449,
-          "retweets": 23,
-          "replies": 136,
-          "quotes": 46,
-          "bookmarks": 62
+          "observed_at": "2026-10-21T14:09:01+00:00",
+          "offset_minutes": -43.0,
+          "views": 64062,
+          "likes": 459,
+          "retweets": 24,
+          "replies": 138,
+          "quotes": 47,
+          "bookmarks": 63
         },
         "48": null
       }
@@ -239,11 +249,11 @@
       "created_at": "2026-10-20T14:16:28+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-21T13:26:02+00:00",
-          "offset_minutes": -50.4,
-          "views": 1750,
+          "observed_at": "2026-10-21T14:09:01+00:00",
+          "offset_minutes": -7.5,
+          "views": 1758,
           "likes": 57,
-          "retweets": 0,
+          "retweets": 1,
           "replies": 3,
           "quotes": 0,
           "bookmarks": 3
@@ -1184,9 +1194,9 @@
       "milestones": {
         "24": null,
         "48": {
-          "observed_at": "2026-10-21T13:26:02+00:00",
-          "offset_minutes": -69.5,
-          "views": 967,
+          "observed_at": "2026-10-21T14:09:01+00:00",
+          "offset_minutes": -26.5,
+          "views": 968,
           "likes": 17,
           "retweets": 1,
           "replies": 0,
@@ -1203,8 +1213,8 @@
       "milestones": {
         "24": null,
         "48": {
-          "observed_at": "2026-10-21T13:26:02+00:00",
-          "offset_minutes": -63.2,
+          "observed_at": "2026-10-21T14:09:01+00:00",
+          "offset_minutes": -20.3,
           "views": 568,
           "likes": 8,
           "retweets": 0,
