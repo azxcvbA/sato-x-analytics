@@ -47,11 +47,11 @@ def main():
     observed = timestamp.isoformat(timespec="seconds").replace("+00:00", "Z")
 
     # Selection by public metric counts; preserve already-tracked posts in history.
-    tweets = sorted(
-        (t for t in data.get("tweets", []) if str(t.get("id", "")).isdigit()),
-        key=lambda t: int(t.get("views") or 0),
-        reverse=True,
-    )[:MAX_POSTS]
+    # Prioritize all recent posts so new low-view posts also get 24h/48h observations.
+    all_tweets = [t for t in data.get("tweets", []) if str(t.get("id", "")).isdigit()]
+    recent = sorted(all_tweets, key=lambda t: utc_date(t.get("created_at")) or datetime.min.replace(tzinfo=timezone.utc), reverse=True)[:MAX_POSTS]
+    popular = sorted(all_tweets, key=lambda t: int(t.get("views") or 0), reverse=True)[:MAX_POSTS]
+    tweets = list({str(t["id"]): t for t in popular + recent}.values())
 
     written = 0
     for t in tweets:
