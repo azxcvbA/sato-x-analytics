@@ -21,8 +21,45 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 355,
+  "count": 356,
   "tweets": [
+    {
+      "id": "2112836813060821263",
+      "url": "https://x.com/sattoa_ball/status/2112836813060821263",
+      "type": "tweet",
+      "created_at": "Wed Oct 21 09:22:05 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ゴルバチョフ、何をしても批判される男",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112836629954256896",
+            "url": "https://pbs.twimg.com/media/HVJNuHzbYAA5FAI.jpg?name=orig",
+            "width": 2400,
+            "height": 2000
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112836629954256896",
+            "url": "https://pbs.twimg.com/media/HVJNuHzbYAA5FAI.jpg?name=orig",
+            "width": 2400,
+            "height": 2000
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 35,
+      "metric_observed_at": "2026-10-21T09:37:20.373410+00:00"
+    },
     {
       "id": "2112801153113264462",
       "url": "https://x.com/sattoa_ball/status/2112801153113264462",
@@ -33,13 +70,13 @@
       "author_id": "1592826578786217984",
       "text": "世界史で信用できない言葉たち\n\n「クリスマスまでには戦争が終わるさ」\n「この領土が最後の要求だ」\n「独立を尊重する」\n「一時的な軍事占領に過ぎない」\n「防衛のための先制攻撃だ」\n「我々は平和を望んでいる」\n「この条約によって恒久的な平和が実現する」\n「この動員は単なる軍事演習だ」",
       "media": [],
-      "likes": 51,
-      "retweets": 4,
+      "likes": 69,
+      "retweets": 7,
       "replies": 2,
-      "quotes": 0,
-      "bookmarks": 5,
-      "views": 1025,
-      "metric_observed_at": "2026-10-21T09:03:27.350363+00:00"
+      "quotes": 1,
+      "bookmarks": 6,
+      "views": 1269,
+      "metric_observed_at": "2026-10-21T09:37:20.373445+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -56,8 +93,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 163,
-      "metric_observed_at": "2026-10-21T09:03:27.350422+00:00"
+      "views": 176,
+      "metric_observed_at": "2026-10-21T09:37:20.373473+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -69,13 +106,13 @@
       "author_id": "1592826578786217984",
       "text": "俺がPBwikiをBANされるまでの経緯\n2026年1月　約3年ぶりに復帰\n歴史・政治系記事を大規模改修するも編集方針を巡って対立\n大量編集やサンドボックスの利用も問題視される\n8月 一般ルール5項を根拠としたブロック投票が開始\n規定の曖昧さと適用根拠を巡って議論\n9月 BANされていた",
       "media": [],
-      "likes": 12,
+      "likes": 14,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 808,
-      "metric_observed_at": "2026-10-21T09:03:27.350409+00:00"
+      "views": 865,
+      "metric_observed_at": "2026-10-21T09:37:20.373462+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -92,8 +129,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 209,
-      "metric_observed_at": "2026-10-21T09:03:27.350433+00:00"
+      "views": 223,
+      "metric_observed_at": "2026-10-21T09:37:20.373481+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -124,13 +161,13 @@
           }
         ]
       },
-      "likes": 31,
-      "retweets": 1,
+      "likes": 34,
+      "retweets": 0,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 1588,
-      "metric_observed_at": "2026-10-21T09:03:27.350441+00:00"
+      "bookmarks": 5,
+      "views": 1729,
+      "metric_observed_at": "2026-10-21T09:37:20.373489+00:00"
     },
     {
       "id": "2110379127421497774",
@@ -578,13 +615,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦、各国の誤算\n\nドイツ「ソ連なら短期間で倒せる」\n日本「アメリカの戦意を挫けば講和できる」\nイタリア「ギリシャくらい簡単に勝てる」\nフランス「アルデンヌから大軍は来ない」\n\nアメリカ「世界中に兵器を配ってたら、自分の軍隊の分まで余ったんだが」",
       "media": [],
-      "likes": 14,
+      "likes": 20,
       "retweets": 0,
-      "replies": 4,
+      "replies": 5,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 1017,
-      "metric_observed_at": "2026-10-21T09:03:27.350450+00:00"
+      "bookmarks": 4,
+      "views": 1671,
+      "metric_observed_at": "2026-10-21T09:37:20.373497+00:00"
     },
     {
       "id": "2112557465653129512",
@@ -596,13 +633,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上「どう考えても負けそうなのに最終的に勝った国家」と言えば？\n開戦時の国力差・軍事力・領土・外交状況などを考えると絶望的だったのに、戦争の結末が予想外だった事例を知りたい。",
       "media": [],
-      "likes": 392,
-      "retweets": 20,
-      "replies": 124,
+      "likes": 407,
+      "retweets": 21,
+      "replies": 128,
       "quotes": 41,
-      "bookmarks": 56,
-      "views": 57535,
-      "metric_observed_at": "2026-10-21T09:03:27.350459+00:00"
+      "bookmarks": 58,
+      "views": 58367,
+      "metric_observed_at": "2026-10-21T09:37:20.373505+00:00"
     },
     {
       "id": "2112548510918934979",
@@ -638,8 +675,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1622,
-      "metric_observed_at": "2026-10-21T09:03:27.350468+00:00"
+      "views": 1645,
+      "metric_observed_at": "2026-10-21T09:37:20.373512+00:00"
     },
     {
       "id": "2112511113023922394",
@@ -651,13 +688,13 @@
       "author_id": "1592826578786217984",
       "text": "世界各国の戦争を終わらせる方法\nアメリカ「圧倒的な工業力で敵を潰す」\nソ連「敵が力尽きるまで消耗戦を継続」\nイギリス「海上封鎖で敵の経済を窒息させる」\nドイツ「短期決戦で敵が立て直す前に勝つ」\nフィンランド「侵略者に戦争の代償をわからせる」\nイタリア「負けそうになったら陣営を変える」",
       "media": [],
-      "likes": 424,
+      "likes": 426,
       "retweets": 35,
       "replies": 5,
       "quotes": 6,
       "bookmarks": 46,
-      "views": 25866,
-      "metric_observed_at": "2026-10-21T09:03:27.350477+00:00"
+      "views": 26096,
+      "metric_observed_at": "2026-10-21T09:37:20.373519+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -688,13 +725,13 @@
           }
         ]
       },
-      "likes": 71,
+      "likes": 70,
       "retweets": 5,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3535,
-      "metric_observed_at": "2026-10-21T09:03:27.350486+00:00"
+      "views": 3548,
+      "metric_observed_at": "2026-10-21T09:37:20.373526+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -706,13 +743,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で各国が信じたもの\n\nドイツ「電撃戦で片付けてやる！」\n日本「大和魂があれば負けん！」\nイギリス「我が海軍こそ世界最強！」\nアメリカ「足りなきゃ量産すればいい」\nソ連「赤軍が全てを粉砕する！」\nフランス「マジノ線は突破不可能！」\nイタリア「ドイツが何とかしてくれる！」",
       "media": [],
-      "likes": 6565,
-      "retweets": 368,
+      "likes": 6628,
+      "retweets": 369,
       "replies": 47,
-      "quotes": 24,
-      "bookmarks": 574,
-      "views": 198133,
-      "metric_observed_at": "2026-10-21T09:03:27.350495+00:00"
+      "quotes": 25,
+      "bookmarks": 580,
+      "views": 199580,
+      "metric_observed_at": "2026-10-21T09:37:20.373533+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -729,8 +766,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 443,
-      "metric_observed_at": "2026-10-21T09:03:27.350510+00:00"
+      "views": 444,
+      "metric_observed_at": "2026-10-21T09:37:20.373547+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -747,8 +784,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 424,
-      "metric_observed_at": "2026-10-21T09:03:27.350517+00:00"
+      "views": 425,
+      "metric_observed_at": "2026-10-21T09:37:20.373553+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -763,10 +800,10 @@
       "likes": 43,
       "retweets": 2,
       "replies": 1,
-      "quotes": 1,
+      "quotes": 0,
       "bookmarks": 11,
-      "views": 2718,
-      "metric_observed_at": "2026-10-21T09:03:27.350502+00:00"
+      "views": 2732,
+      "metric_observed_at": "2026-10-21T09:37:20.373540+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -802,8 +839,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 5,
-      "views": 4459,
-      "metric_observed_at": "2026-10-21T09:03:27.350525+00:00"
+      "views": 4465,
+      "metric_observed_at": "2026-10-21T09:37:20.373560+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -860,8 +897,8 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 12,
-      "views": 9439,
-      "metric_observed_at": "2026-10-21T09:03:27.350533+00:00"
+      "views": 9451,
+      "metric_observed_at": "2026-10-21T09:37:20.373567+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1472,8 +1509,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 919,
-      "metric_observed_at": "2026-10-21T09:03:27.350642+00:00"
+      "views": 923,
+      "metric_observed_at": "2026-10-21T09:37:20.373661+00:00"
     },
     {
       "id": "2111805474018611650",
@@ -1490,8 +1527,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 977,
-      "metric_observed_at": "2026-10-21T09:03:27.350650+00:00"
+      "views": 980,
+      "metric_observed_at": "2026-10-21T09:37:20.373684+00:00"
     },
     {
       "id": "2111800377360441353",
@@ -1527,8 +1564,8 @@
       "replies": 4,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 3557,
-      "metric_observed_at": "2026-10-21T09:03:27.350657+00:00"
+      "views": 3561,
+      "metric_observed_at": "2026-10-21T09:37:20.373704+00:00"
     },
     {
       "id": "2111752883905691719",
@@ -2091,8 +2128,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 948,
-      "metric_observed_at": "2026-10-21T09:03:27.350541+00:00"
+      "views": 952,
+      "metric_observed_at": "2026-10-21T09:37:20.373574+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -2109,8 +2146,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 547,
-      "metric_observed_at": "2026-10-21T09:03:27.350550+00:00"
+      "views": 552,
+      "metric_observed_at": "2026-10-21T09:37:20.373581+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -2162,13 +2199,13 @@
           }
         }
       },
-      "likes": 95,
+      "likes": 96,
       "retweets": 7,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 3770,
-      "metric_observed_at": "2026-10-21T09:03:27.350558+00:00"
+      "views": 3781,
+      "metric_observed_at": "2026-10-21T09:37:20.373589+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -2204,8 +2241,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1663,
-      "metric_observed_at": "2026-10-21T09:03:27.350566+00:00"
+      "views": 1669,
+      "metric_observed_at": "2026-10-21T09:37:20.373596+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -2241,8 +2278,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2360,
-      "metric_observed_at": "2026-10-21T09:03:27.350589+00:00"
+      "views": 2362,
+      "metric_observed_at": "2026-10-21T09:37:20.373616+00:00"
     },
     {
       "id": "2112152791066263674",
@@ -2278,8 +2315,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2577,
-      "metric_observed_at": "2026-10-21T09:03:27.350581+00:00"
+      "views": 2580,
+      "metric_observed_at": "2026-10-21T09:37:20.373609+00:00"
     },
     {
       "id": "2112152519204028732",
@@ -2463,8 +2500,8 @@
       "replies": 22,
       "quotes": 6,
       "bookmarks": 84,
-      "views": 22559,
-      "metric_observed_at": "2026-10-21T09:03:27.350573+00:00"
+      "views": 22570,
+      "metric_observed_at": "2026-10-21T09:37:20.373603+00:00"
     },
     {
       "id": "2112142313715851350",
@@ -2481,8 +2518,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 612,
-      "metric_observed_at": "2026-10-21T09:03:27.350596+00:00"
+      "views": 618,
+      "metric_observed_at": "2026-10-21T09:37:20.373622+00:00"
     },
     {
       "id": "2112133568520741168",
@@ -2499,8 +2536,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 629,
-      "metric_observed_at": "2026-10-21T09:03:27.350603+00:00"
+      "views": 634,
+      "metric_observed_at": "2026-10-21T09:37:20.373628+00:00"
     },
     {
       "id": "2112121916492578994",
@@ -2538,8 +2575,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 812,
-      "metric_observed_at": "2026-10-21T09:03:27.350610+00:00"
+      "views": 818,
+      "metric_observed_at": "2026-10-21T09:37:20.373635+00:00"
     },
     {
       "id": "2112083463461650801",
@@ -2624,8 +2661,8 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 19,
-      "views": 3145,
-      "metric_observed_at": "2026-10-21T09:03:27.350618+00:00"
+      "views": 3150,
+      "metric_observed_at": "2026-10-21T09:37:20.373641+00:00"
     },
     {
       "id": "2112065334199107913",
@@ -2641,9 +2678,9 @@
       "retweets": 131,
       "replies": 22,
       "quotes": 11,
-      "bookmarks": 109,
-      "views": 76034,
-      "metric_observed_at": "2026-10-21T09:03:27.350626+00:00"
+      "bookmarks": 108,
+      "views": 76046,
+      "metric_observed_at": "2026-10-21T09:37:20.373648+00:00"
     },
     {
       "id": "2111990172720243045",
@@ -2700,8 +2737,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 20,
-      "views": 8178,
-      "metric_observed_at": "2026-10-21T09:03:27.350634+00:00"
+      "views": 8182,
+      "metric_observed_at": "2026-10-21T09:37:20.373655+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -3528,7 +3565,7 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 8,
-      "views": 3779,
+      "views": 3789,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3561,7 +3598,7 @@
       "edited": false,
       "retweeted": null,
       "quoted": null,
-      "metric_observed_at": "2026-10-20T05:15:23.190094+00:00"
+      "metric_observed_at": "2026-10-21T09:37:20.373712+00:00"
     },
     {
       "id": "2110206598656430464",
@@ -3580,7 +3617,7 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 617,
+      "views": 620,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3594,7 +3631,7 @@
       "edited": false,
       "retweeted": null,
       "quoted": null,
-      "metric_observed_at": "2026-10-20T05:15:23.190104+00:00"
+      "metric_observed_at": "2026-10-21T09:37:20.373721+00:00"
     },
     {
       "id": "2110198731190722919",
@@ -13987,5 +14024,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-21T09:03:27.350807+00:00"
+  "last_metric_refresh_at": "2026-10-21T09:37:20.373835+00:00"
 }
