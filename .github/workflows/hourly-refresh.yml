@@ -25,11 +25,13 @@ jobs:
         run: python scripts/refresh.py
       - name: Record timestamped observations
         run: python scripts/record_history.py
+      - name: Build 24h and 48h metric snapshots
+        run: python scripts/build_milestones.py
       - name: Record follower and following counts
         run: python scripts/record_profile.py
       - name: Commit changes if any
         run: |
-          git add data.json metric-history.json profile-history.json
+          git add data.json metric-history.json milestone-metrics.json profile-history.json
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
