@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T07:12:25.067327+00:00",
+  "generated_at": "2026-10-22T07:57:28.236911+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -99,7 +99,16 @@
       "text": "ゴルバチョフ、何をしても批判される男",
       "created_at": "2026-10-21T09:22:05+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-22T07:57:27+00:00",
+          "offset_minutes": -84.6,
+          "views": 1895,
+          "likes": 55,
+          "retweets": 1,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 4
+        },
         "48": null
       }
     },
@@ -389,7 +398,16 @@
           "quotes": 24,
           "bookmarks": 574
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T07:57:27+00:00",
+          "offset_minutes": -51.2,
+          "views": 210503,
+          "likes": 7137,
+          "retweets": 408,
+          "replies": 48,
+          "quotes": 27,
+          "bookmarks": 638
+        }
       }
     },
     {
