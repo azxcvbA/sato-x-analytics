@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 367,
+  "count": 368,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -33,13 +33,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で、枢軸国の敗北に最も大きく影響した判断を下した国家はどこだと思う？",
       "media": [],
-      "likes": 455,
+      "likes": 487,
       "retweets": 15,
       "replies": 59,
       "quotes": 26,
       "bookmarks": 72,
-      "views": 102963,
-      "metric_observed_at": "2026-10-22T09:18:45.952859+00:00"
+      "views": 105208,
+      "metric_observed_at": "2026-10-22T10:01:32.029298+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2409,
-      "metric_observed_at": "2026-10-22T09:18:45.952870+00:00"
+      "views": 2465,
+      "metric_observed_at": "2026-10-22T10:01:32.029309+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 438,
-      "metric_observed_at": "2026-10-22T09:18:45.952878+00:00"
+      "views": 440,
+      "metric_observed_at": "2026-10-22T10:01:32.029319+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 555,
-      "metric_observed_at": "2026-10-22T09:18:45.952886+00:00"
+      "views": 558,
+      "metric_observed_at": "2026-10-22T10:01:32.029330+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 327,
-      "metric_observed_at": "2026-10-22T09:18:45.952894+00:00"
+      "views": 338,
+      "metric_observed_at": "2026-10-22T10:01:32.029342+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -187,8 +187,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 278,
-      "metric_observed_at": "2026-10-22T09:18:45.952908+00:00"
+      "views": 283,
+      "metric_observed_at": "2026-10-22T10:01:32.029363+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -224,8 +224,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 243,
-      "metric_observed_at": "2026-10-22T09:18:45.952915+00:00"
+      "views": 247,
+      "metric_observed_at": "2026-10-22T10:01:32.029373+00:00"
     },
     {
       "id": "2112876908363047063",
@@ -256,13 +256,13 @@
           }
         ]
       },
-      "likes": 78,
+      "likes": 79,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 3664,
-      "metric_observed_at": "2026-10-22T09:18:45.952901+00:00"
+      "views": 3751,
+      "metric_observed_at": "2026-10-22T10:01:32.029353+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -279,8 +279,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 251,
-      "metric_observed_at": "2026-10-22T09:18:45.952922+00:00"
+      "views": 254,
+      "metric_observed_at": "2026-10-22T10:01:32.029382+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -311,13 +311,13 @@
           }
         ]
       },
-      "likes": 58,
+      "likes": 59,
       "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 1973,
-      "metric_observed_at": "2026-10-22T09:18:45.952929+00:00"
+      "views": 1999,
+      "metric_observed_at": "2026-10-22T10:01:32.029391+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -334,8 +334,8 @@
       "replies": 10,
       "quotes": 1,
       "bookmarks": 32,
-      "views": 6441,
-      "metric_observed_at": "2026-10-22T09:18:45.952936+00:00"
+      "views": 6460,
+      "metric_observed_at": "2026-10-22T10:01:32.029401+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -352,8 +352,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 370,
-      "metric_observed_at": "2026-10-22T09:18:45.952949+00:00"
+      "views": 372,
+      "metric_observed_at": "2026-10-22T10:01:32.029455+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -370,8 +370,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1569,
-      "metric_observed_at": "2026-10-22T09:18:45.952942+00:00"
+      "views": 1571,
+      "metric_observed_at": "2026-10-22T10:01:32.029444+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -388,8 +388,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 322,
-      "metric_observed_at": "2026-10-22T09:18:45.952955+00:00"
+      "views": 323,
+      "metric_observed_at": "2026-10-22T10:01:32.029464+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -425,8 +425,8 @@
       "replies": 4,
       "quotes": 0,
       "bookmarks": 8,
-      "views": 3144,
-      "metric_observed_at": "2026-10-22T09:18:45.952962+00:00"
+      "views": 3153,
+      "metric_observed_at": "2026-10-22T10:01:32.029474+00:00"
     },
     {
       "id": "2110379127421497774",
@@ -879,8 +879,8 @@
       "replies": 17,
       "quotes": 2,
       "bookmarks": 87,
-      "views": 50282,
-      "metric_observed_at": "2026-10-22T09:18:45.952968+00:00"
+      "views": 50324,
+      "metric_observed_at": "2026-10-22T10:01:32.029483+00:00"
     },
     {
       "id": "2112557465653129512",
@@ -896,9 +896,9 @@
       "retweets": 24,
       "replies": 140,
       "quotes": 49,
-      "bookmarks": 63,
-      "views": 74317,
-      "metric_observed_at": "2026-10-22T09:18:45.952997+00:00"
+      "bookmarks": 62,
+      "views": 74376,
+      "metric_observed_at": "2026-10-22T10:01:32.029493+00:00"
     },
     {
       "id": "2112548510918934979",
@@ -934,8 +934,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1807,
-      "metric_observed_at": "2026-10-22T09:18:45.953003+00:00"
+      "views": 1809,
+      "metric_observed_at": "2026-10-22T10:01:32.029501+00:00"
     },
     {
       "id": "2112511113023922394",
@@ -952,8 +952,8 @@
       "replies": 6,
       "quotes": 6,
       "bookmarks": 50,
-      "views": 28018,
-      "metric_observed_at": "2026-10-22T09:18:45.953010+00:00"
+      "views": 28029,
+      "metric_observed_at": "2026-10-22T10:01:32.029511+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -989,8 +989,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3634,
-      "metric_observed_at": "2026-10-22T09:18:45.953015+00:00"
+      "views": 3636,
+      "metric_observed_at": "2026-10-22T10:01:32.029519+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -1003,12 +1003,12 @@
       "text": "第二次世界大戦で各国が信じたもの\n\nドイツ「電撃戦で片付けてやる！」\n日本「大和魂があれば負けん！」\nイギリス「我が海軍こそ世界最強！」\nアメリカ「足りなきゃ量産すればいい」\nソ連「赤軍が全てを粉砕する！」\nフランス「マジノ線は突破不可能！」\nイタリア「ドイツが何とかしてくれる！」",
       "media": [],
       "likes": 7147,
-      "retweets": 409,
+      "retweets": 410,
       "replies": 48,
       "quotes": 27,
       "bookmarks": 638,
-      "views": 210690,
-      "metric_observed_at": "2026-10-22T09:18:45.953022+00:00"
+      "views": 210762,
+      "metric_observed_at": "2026-10-22T10:01:32.029527+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -1026,7 +1026,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 455,
-      "metric_observed_at": "2026-10-22T09:18:45.953035+00:00"
+      "metric_observed_at": "2026-10-22T10:01:32.029545+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -1044,7 +1044,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 436,
-      "metric_observed_at": "2026-10-22T09:18:45.953042+00:00"
+      "metric_observed_at": "2026-10-22T10:01:32.029554+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -1061,8 +1061,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 11,
-      "views": 2807,
-      "metric_observed_at": "2026-10-22T09:18:45.953029+00:00"
+      "views": 2810,
+      "metric_observed_at": "2026-10-22T10:01:32.029537+00:00"
     },
     {
       "id": "2112371569163112625",
@@ -1098,8 +1098,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 5,
-      "views": 4539,
-      "metric_observed_at": "2026-10-22T09:18:45.953048+00:00"
+      "views": 4541,
+      "metric_observed_at": "2026-10-22T10:01:32.029562+00:00"
     },
     {
       "id": "2112342235421589849",
@@ -1156,8 +1156,8 @@
       "replies": 0,
       "quotes": 2,
       "bookmarks": 12,
-      "views": 9538,
-      "metric_observed_at": "2026-10-22T09:18:45.953055+00:00"
+      "views": 9541,
+      "metric_observed_at": "2026-10-22T10:01:32.029570+00:00"
     },
     {
       "id": "2109990179566133498",
@@ -1197,6 +1197,64 @@
       "metric_observed_at": "2026-10-18T08:44:18.859792+00:00"
     },
     {
+      "id": "2113209084027765096",
+      "url": "https://x.com/sattoa_ball/status/2113209084027765096",
+      "type": "tweet",
+      "created_at": "Thu Oct 22 10:01:21 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "HoI4の日本語化MODで\nオランダ領東インドの国家方針によって成立する「オランダ・インドネシア連合」を「ネーデルランド・インディエ連合王国」に変更\n\n国家元首がウィルヘルミナ女王なので君主制を反映した国名にしてみた\n\n植民地時代の呼称「インディエ」も採用",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113209025227902976",
+            "url": "https://pbs.twimg.com/media/HVOgaYTb0AAKMuM.jpg?name=orig",
+            "width": 1290,
+            "height": 792
+          },
+          {
+            "type": "photo",
+            "id": "2113209060917231616",
+            "url": "https://pbs.twimg.com/media/HVOgcdQbwAAp0cH.jpg?name=orig",
+            "width": 1160,
+            "height": 764
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113209025227902976",
+            "url": "https://pbs.twimg.com/media/HVOgaYTb0AAKMuM.jpg?name=orig",
+            "width": 1290,
+            "height": 792
+          },
+          {
+            "type": "photo",
+            "id": "2113209060917231616",
+            "url": "https://pbs.twimg.com/media/HVOgcdQbwAAp0cH.jpg?name=orig",
+            "width": 1160,
+            "height": 764
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2113209084027765096/HVOgaYTb0AAKMuM/HVOgcdQbwAAp0cH",
+            "webp": "https://mosaic.fxtwitter.com/webp/2113209084027765096/HVOgaYTb0AAKMuM/HVOgcdQbwAAp0cH"
+          }
+        }
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 1,
+      "metric_observed_at": "2026-10-22T10:01:32.029236+00:00"
+    },
+    {
       "id": "2113179300077977705",
       "url": "https://x.com/sattoa_ball/status/2113179300077977705",
       "type": "tweet",
@@ -1206,13 +1264,13 @@
       "author_id": "1592826578786217984",
       "text": "ロシア・ウクライナ戦争が長期化\nアウディーイウカ周辺で攻勢を強化\nイスラエルとハマスの戦争が勃発して約2週間\nガザ地区への本格的な地上侵攻はまだ始まっていない\n米大統領はバイデン\n日本の首相は岸田文雄\nアルゼンチン大統領選挙でミレイが注目されてた\n\n↑これが3年前？？？？？？？",
       "media": [],
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 100,
-      "metric_observed_at": "2026-10-22T09:18:45.952808+00:00"
+      "bookmarks": 1,
+      "views": 191,
+      "metric_observed_at": "2026-10-22T10:01:32.029269+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1229,8 +1287,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 176,
-      "metric_observed_at": "2026-10-22T09:18:45.952843+00:00"
+      "views": 183,
+      "metric_observed_at": "2026-10-22T10:01:32.029286+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -2423,8 +2481,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 984,
-      "metric_observed_at": "2026-10-22T09:18:45.953061+00:00"
+      "views": 985,
+      "metric_observed_at": "2026-10-22T10:01:32.029580+00:00"
     },
     {
       "id": "2112189345608376738",
@@ -2441,8 +2499,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 583,
-      "metric_observed_at": "2026-10-22T09:18:45.953068+00:00"
+      "views": 584,
+      "metric_observed_at": "2026-10-22T10:01:32.029589+00:00"
     },
     {
       "id": "2112172513803546638",
@@ -2499,8 +2557,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 3818,
-      "metric_observed_at": "2026-10-22T09:18:45.953074+00:00"
+      "views": 3820,
+      "metric_observed_at": "2026-10-22T10:01:32.029597+00:00"
     },
     {
       "id": "2112166606386450888",
@@ -2536,8 +2594,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1704,
-      "metric_observed_at": "2026-10-22T09:18:45.953080+00:00"
+      "views": 1705,
+      "metric_observed_at": "2026-10-22T10:01:32.029606+00:00"
     },
     {
       "id": "2112152869814387051",
@@ -6518,8 +6576,8 @@
       "text": "満タンになったら笑顔になりそうなやつ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895801041511473610",
-      "views": 1477,
-      "metric_observed_at": "2026-10-21T12:00:02.722043+00:00"
+      "views": 1478,
+      "metric_observed_at": "2026-10-22T10:01:32.029616+00:00"
     },
     {
       "article": null,
@@ -6561,8 +6619,8 @@
       "text": "",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1895741096250183892",
-      "views": 1398,
-      "metric_observed_at": "2026-10-21T12:00:02.722082+00:00"
+      "views": 1399,
+      "metric_observed_at": "2026-10-22T10:01:32.029626+00:00"
     },
     {
       "article": null,
@@ -14323,5 +14381,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T09:18:45.953229+00:00"
+  "last_metric_refresh_at": "2026-10-22T10:01:32.029733+00:00"
 }
