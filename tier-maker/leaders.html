@@ -6,7 +6,6 @@
 <script>
 (()=>{'use strict';
 const people=[
-['augustus','アウグストゥス','Augustus'],['victoria','ヴィクトリア女王','Queen Victoria'],
 ['wilhelm2','ヴィルヘルム2世','Wilhelm II, German Emperor'],['nicholas2','ニコライ2世','Nicholas II of Russia'],
 ['lenin','ウラジーミル・レーニン','Vladimir Lenin'],['stalin','ヨシフ・スターリン','Joseph Stalin'],
 ['hitler','アドルフ・ヒトラー','Adolf Hitler'],['mussolini','ベニート・ムッソリーニ','Benito Mussolini'],
@@ -26,8 +25,35 @@ const people=[
 ['sukarno','スカルノ','Sukarno'],['suharto','スハルト','Suharto'],
 ['putin','ウラジーミル・プーチン','Vladimir Putin'],['zelenskyy','ウォロディミル・ゼレンスキー','Volodymyr Zelenskyy'],
 ['xi','習近平','Xi Jinping'],['merkel','アンゲラ・メルケル','Angela Merkel'],
+['hirota','広田弘毅','Kōki Hirota'],['konoe','近衛文麿','Fumimaro Konoe'],['trump','ドナルド・トランプ','Donald Trump'],
+['abe','安倍晋三','Shinzo Abe'],['yoshida','吉田茂','Shigeru Yoshida'],['tanaka','田中角栄','Kakuei Tanaka'],
+['kishi','岸信介','Nobusuke Kishi'],['koizumi','小泉純一郎','Junichiro Koizumi'],['kishida','岸田文雄','Fumio Kishida'],
+['sunak','孫文','Sun Yat-sen'],['yuan','袁世凱','Yuan Shikai'],['hu','胡錦濤','Hu Jintao'],
+['jiang','江沢民','Jiang Zemin'],['kimjongil','金正日','Kim Jong Il'],['kimjongun','金正恩','Kim Jong Un'],
+['roosevelt','セオドア・ルーズベルト','Theodore Roosevelt'],['wilson','ウッドロウ・ウィルソン','Woodrow Wilson'],
+['eisenhower','ドワイト・アイゼンハワー','Dwight D. Eisenhower'],['jfk','ジョン・F・ケネディ','John F. Kennedy'],
+['nixon','リチャード・ニクソン','Richard Nixon'],['obama','バラク・オバマ','Barack Obama'],
+['biden','ジョー・バイデン','Joe Biden'],['lbj','リンドン・ジョンソン','Lyndon B. Johnson'],
+['macron','エマニュエル・マクロン','Emmanuel Macron'],['putin2','ボリス・エリツィン','Boris Yeltsin'],
+['brezhnev','レオニード・ブレジネフ','Leonid Brezhnev'],['khrushchev','ニキータ・フルシチョフ','Nikita Khrushchev'],
+['pilsudski','ユゼフ・ピウスツキ','Józef Piłsudski'],['horthy','ホルティ・ミクローシュ','Miklós Horthy'],
+['franco','フランシスコ・フランコ','Francisco Franco'],['salazar','アントニオ・サラザール','António de Oliveira Salazar'],
+['haile','ハイレ・セラシエ','Haile Selassie'],['lumumba','パトリス・ルムンバ','Patrice Lumumba'],
+['mobutu','モブツ・セセ・セコ','Mobutu Sese Seko'],['mugabe','ロバート・ムガベ','Robert Mugabe'],
+['amin','イディ・アミン','Idi Amin'],['gaddafi','ムアンマル・カダフィ','Muammar Gaddafi'],
+['assad','バッシャール・アサド','Bashar al-Assad'],['khomeini','ルーホッラー・ホメイニー','Ruhollah Khomeini'],
+['pahlavi','モハンマド・レザー・パフラヴィー','Mohammad Reza Pahlavi'],['erdogan','レジェップ・エルドアン','Recep Tayyip Erdoğan'],
+['ben_gurion','ダヴィド・ベン＝グリオン','David Ben-Gurion'],['netanyahu','ベンヤミン・ネタニヤフ','Benjamin Netanyahu'],
+['peron','フアン・ペロン','Juan Perón'],['allende','サルバドール・アジェンデ','Salvador Allende'],
+['lula','ルーラ','Luiz Inácio Lula da Silva'],['bolsonaro','ジャイル・ボルソナーロ','Jair Bolsonaro'],
+['hochi','ホー・チ・ミン','Ho Chi Minh'],['diem','ゴ・ディン・ジエム','Ngo Dinh Diem'],
+['marcos','フェルディナンド・マルコス','Ferdinand Marcos'],['marcosjr','フェルディナンド・マルコス・ジュニア','Bongbong Marcos'],
+['sihanouk','ノロドム・シハヌーク','Norodom Sihanouk'],['hun_sen','フン・セン','Hun Sen'],
+['suharto2','マハティール・モハマド','Mahathir Mohamad'],['vajiravudh','ラーマ6世','Vajiravudh'],
+['saud','アブドゥルアズィーズ','Ibn Saud'],['mbs','ムハンマド・ビン・サルマーン','Mohammed bin Salman'],
+['lukashenko','アレクサンドル・ルカシェンコ','Alexander Lukashenko'],['orban','オルバーン・ヴィクトル','Viktor Orbán'],
 ['elizabeth2','エリザベス2世','Elizabeth II'],['wilhelmina','ウィルヘルミナ女王','Wilhelmina of the Netherlands']
-].filter(p=>!['augustus','victoria'].includes(p[0]));
+];
 const ranks=[['S','#ff8080'],['A','#ffbc80'],['B','#ffdf83'],['C','#fff38a'],['D','#a8d99c']];
 const key='sato-leaders-tier-2026-v1', $=id=>document.getElementById(id);
 let positions={};try{positions=JSON.parse(localStorage.getItem(key)||'{}')}catch{}
@@ -37,7 +63,43 @@ function card(p){let el=document.createElement('div');el.className='tile';el.dra
 function move(id,zone){if(!id)return;positions[id]=zone;chosen=null;localStorage.setItem(key,JSON.stringify(positions));render()}
 function setup(zone,id){zone.dataset.zone=id;zone.ondragover=e=>{e.preventDefault();zone.classList.add('over')};zone.ondragleave=()=>zone.classList.remove('over');zone.ondrop=e=>{e.preventDefault();zone.classList.remove('over');move(dragged||e.dataTransfer.getData('text/plain'),id)};zone.onclick=e=>{if(!e.target.closest('.tile')&&chosen)move(chosen,id)}}
 function render(){let b=$('board');b.replaceChildren();for(const [rank,color] of ranks){let row=document.createElement('div');row.className='tier';let label=document.createElement('div');label.className='rank';label.style.background=color;label.textContent=rank;let zone=document.createElement('div');zone.className='zone';setup(zone,rank);people.filter(p=>positions[p[0]]===rank).forEach(p=>zone.append(card(p)));row.append(label,zone);b.append(row)}let pool=$('pool');pool.replaceChildren();setup(pool,'pool');people.filter(p=>!ranks.some(r=>r[0]===positions[p[0]])).forEach(p=>pool.append(card(p)));requestAnimationFrame(fit)}
-async function loadImages(){let done=0;for(let i=0;i<people.length;i+=12){let group=people.slice(i,i+12);let titles=group.map(p=>p[2]).join('|');try{let url='https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=pageimages&pithumbsize=400&titles='+encodeURIComponent(titles);let data=await (await fetch(url)).json();let pages=Object.values(data.query?.pages||{});for(const p of group){let pg=pages.find(v=>v.title.toLowerCase()===p[2].toLowerCase());if(pg?.thumbnail?.source)images[p[0]]=pg.thumbnail.source}done+=group.length;$('status').textContent='肖像取得 '+done+'/'+people.length;render()}catch(e){$('status').textContent='一部の肖像を取得できませんでした。再取得できます'}}render()}
+async function loadImages(){
+let loaded=0,failed=0;
+const overrides={wilhelm2:'ヴィルヘルム2世 (ドイツ皇帝)',nicholas2:'ニコライ2世 (ロシア皇帝)',park:'朴正煕',hirota:'広田弘毅',konoe:'近衛文麿',trump:'ドナルド・トランプ',sunak:'孫文',putin2:'ボリス・エリツィン',suharto2:'マハティール・ビン・モハマド'};
+for(let i=0;i<people.length;i+=10){
+const group=people.slice(i,i+10);
+try{
+const titles=group.map(p=>p[2]);
+const u='https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=pageimages&pithumbsize=360&titles='+encodeURIComponent(titles.join('|'));
+const data=await (await fetch(u)).json();
+const pages=Object.values(data.query?.pages||{});
+const redirects=new Map((data.query?.redirects||[]).map(x=>[x.from.toLowerCase(),x.to.toLowerCase()]));
+const normalized=new Map((data.query?.normalized||[]).map(x=>[x.from.toLowerCase(),x.to.toLowerCase()]));
+for(const p of group){
+let name=p[2].toLowerCase();name=normalized.get(name)||name;name=redirects.get(name)||name;
+const pg=pages.find(v=>v.title.toLowerCase()===name);
+if(pg?.thumbnail?.source){images[p[0]]=pg.thumbnail.source;loaded++}
+else failed++;
+}
+}catch(e){failed+=group.length}
+$('status').textContent='肖像取得: '+loaded+'件 / '+people.length+'人（未取得 '+failed+'件）';
+render();
+}
+const missing=people.filter(p=>!images[p[0]]);
+for(let i=0;i<missing.length;i+=10){
+const group=missing.slice(i,i+10);
+try{
+const titles=group.map(p=>overrides[p[0]]||p[1]);
+const u='https://ja.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=pageimages&pithumbsize=360&titles='+encodeURIComponent(titles.join('|'));
+const data=await (await fetch(u)).json();
+const pages=Object.values(data.query?.pages||{});
+const redirect=new Map([...(data.query?.redirects||[]),...(data.query?.normalized||[])].map(x=>[x.from,x.to]));
+for(const p of group){let title=overrides[p[0]]||p[1];title=redirect.get(title)||title;const pg=pages.find(v=>v.title===title);if(pg?.thumbnail?.source){images[p[0]]=pg.thumbnail.source;loaded++}}
+}catch(e){}
+render();
+}
+$('status').textContent='肖像取得完了: '+loaded+' / '+people.length+'人。未取得の人物は頭文字を表示します。';
+}
 function download(data,name,type){let u=URL.createObjectURL(new Blob([data],{type}));let a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),3000)}
 $('reset').onclick=()=>{if(confirm('全員を未分類に戻しますか？')){positions={};localStorage.removeItem(key);render()}};$('retry').onclick=loadImages;$('json').onclick=()=>download(JSON.stringify({title:'1900年以降の指導者',positions,people:people.map(p=>({id:p[0],name:p[1],wikipedia:p[2]}))},null,2),'leaders-tier-data.json','application/json');
 $('png').onclick=async()=>{let W=1250,L=125,size=100,gap=5,cols=Math.floor((W-L-12)/(size+gap));let rows=ranks.map(([rank,color])=>{let members=people.filter(p=>positions[p[0]]===rank);return {rank,color,members,h:Math.max(112,Math.ceil(members.length/cols)*(size+gap)+gap)}});let H=80+rows.reduce((a,r)=>a+r.h,0);let c=document.createElement('canvas');c.width=W;c.height=H;let g=c.getContext('2d');g.fillStyle='#10151f';g.fillRect(0,0,W,H);g.fillStyle='#fff';g.font='bold 31px sans-serif';g.fillText('1900年以降の指導者 Tier表',20,47);let y=80;for(const row of rows){g.fillStyle=row.color;g.fillRect(0,y,L,row.h);g.fillStyle='#10151f';g.font='bold 35px sans-serif';g.fillText(row.rank,48,y+65);g.fillStyle='#172131';g.fillRect(L,y,W-L,row.h);for(let i=0;i<row.members.length;i++){let p=row.members[i],x=L+gap+(i%cols)*(size+gap),yy=y+gap+Math.floor(i/cols)*(size+gap);g.fillStyle='#344154';g.fillRect(x,yy,size,size);if(images[p[0]]){try{let im=new Image();im.crossOrigin='anonymous';im.src=images[p[0]];await im.decode();let scale=Math.max(size/im.naturalWidth,77/im.naturalHeight),iw=im.naturalWidth*scale,ih=im.naturalHeight*scale;g.save();g.beginPath();g.rect(x,yy,size,77);g.clip();g.drawImage(im,x+(size-iw)/2,yy,iw,ih);g.restore()}catch{}}g.fillStyle='#091320';g.fillRect(x,yy+77,size,23);g.fillStyle='white';g.font='bold 13px sans-serif';let tw=g.measureText(p[1]).width;g.save();g.translate(x+size/2,yy+93);g.scale(Math.min(1,(size-4)/Math.max(1,tw)),1);g.textAlign='center';g.fillText(p[1],0,0);g.restore()}y+=row.h}try{let blob=await new Promise((res,rej)=>c.toBlob(b=>b?res(b):rej(Error('PNG生成失敗'))));download(blob,'leaders-tier.png','image/png');$('status').textContent='PNGを保存しました'}catch(e){$('status').textContent='画像の取得元によってPNG保存が制限される場合があります: '+e.message}};
