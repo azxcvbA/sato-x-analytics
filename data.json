@@ -13955,7 +13955,8 @@
       "text": "youtubeで動画上げてるから見てくださいね！\nhttps://youtube.com/@sattoaPB?si=P7AYKDzWYwWIctKp",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698338296706068605",
-      "views": 23565
+      "views": 24177,
+      "metric_observed_at": "2026-10-22T20:57:59.535392+00:00"
     },
     {
       "article": null,
@@ -13997,7 +13998,8 @@
       "text": "分断ドイツ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698337733050278205",
-      "views": 311
+      "views": 311,
+      "metric_observed_at": "2026-10-22T20:57:59.535419+00:00"
     },
     {
       "article": null,
@@ -14730,5 +14732,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T20:18:51.234023+00:00"
+  "last_metric_refresh_at": "2026-10-22T20:57:59.535542+00:00"
 }
