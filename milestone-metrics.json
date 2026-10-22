@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T22:07:19.662110+00:00",
+  "generated_at": "2026-10-22T22:45:05.126658+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -404,7 +404,16 @@
           "quotes": 1,
           "bookmarks": 86
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T22:45:04+00:00",
+          "offset_minutes": -53.5,
+          "views": 50557,
+          "likes": 975,
+          "retweets": 59,
+          "replies": 17,
+          "quotes": 2,
+          "bookmarks": 87
+        }
       }
     },
     {
