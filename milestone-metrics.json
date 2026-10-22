@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T06:16:56.057440+00:00",
+  "generated_at": "2026-10-22T07:12:25.067327+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -110,14 +110,14 @@
       "created_at": "2026-10-21T07:00:23+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-22T06:16:55+00:00",
-          "offset_minutes": -43.5,
-          "views": 5876,
-          "likes": 327,
-          "retweets": 31,
+          "observed_at": "2026-10-22T07:12:24+00:00",
+          "offset_minutes": 12.0,
+          "views": 6344,
+          "likes": 355,
+          "retweets": 32,
           "replies": 10,
           "quotes": 1,
-          "bookmarks": 31
+          "bookmarks": 32
         },
         "48": null
       }
@@ -400,9 +400,9 @@
       "milestones": {
         "24": null,
         "48": {
-          "observed_at": "2026-10-22T06:16:55+00:00",
-          "offset_minutes": -77.5,
-          "views": 451,
+          "observed_at": "2026-10-22T07:12:24+00:00",
+          "offset_minutes": -22.0,
+          "views": 453,
           "likes": 3,
           "retweets": 0,
           "replies": 1,
@@ -419,9 +419,9 @@
       "milestones": {
         "24": null,
         "48": {
-          "observed_at": "2026-10-22T06:16:55+00:00",
-          "offset_minutes": -77.5,
-          "views": 432,
+          "observed_at": "2026-10-22T07:12:24+00:00",
+          "offset_minutes": -22.0,
+          "views": 434,
           "likes": 5,
           "retweets": 0,
           "replies": 0,
@@ -447,9 +447,9 @@
           "bookmarks": 11
         },
         "48": {
-          "observed_at": "2026-10-22T06:16:55+00:00",
-          "offset_minutes": -77.4,
-          "views": 2795,
+          "observed_at": "2026-10-22T07:12:24+00:00",
+          "offset_minutes": -21.9,
+          "views": 2801,
           "likes": 43,
           "retweets": 2,
           "replies": 1,
