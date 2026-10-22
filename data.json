@@ -5760,7 +5760,8 @@
       "text": "日本かいた",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1900859020224634885",
-      "views": 2718
+      "views": 2733,
+      "metric_observed_at": "2026-10-22T04:34:49.626287+00:00"
     },
     {
       "article": null,
@@ -5802,7 +5803,8 @@
       "text": "ドッスンになったさと",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1899473332577370593",
-      "views": 2720
+      "views": 2734,
+      "metric_observed_at": "2026-10-22T04:34:49.626328+00:00"
     },
     {
       "article": null,
@@ -14303,5 +14305,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T04:01:34.040141+00:00"
+  "last_metric_refresh_at": "2026-10-22T04:34:49.626440+00:00"
 }
