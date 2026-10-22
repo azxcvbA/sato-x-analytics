@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T05:46:10.658864+00:00",
+  "generated_at": "2026-10-22T06:16:56.057440+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -110,14 +110,14 @@
       "created_at": "2026-10-21T07:00:23+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-22T05:46:10+00:00",
-          "offset_minutes": -74.2,
-          "views": 5699,
-          "likes": 317,
-          "retweets": 29,
+          "observed_at": "2026-10-22T06:16:55+00:00",
+          "offset_minutes": -43.5,
+          "views": 5876,
+          "likes": 327,
+          "retweets": 31,
           "replies": 10,
           "quotes": 1,
-          "bookmarks": 27
+          "bookmarks": 31
         },
         "48": null
       }
@@ -399,7 +399,16 @@
       "created_at": "2026-10-20T07:34:22+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T06:16:55+00:00",
+          "offset_minutes": -77.5,
+          "views": 451,
+          "likes": 3,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -409,7 +418,16 @@
       "created_at": "2026-10-20T07:34:22+00:00",
       "milestones": {
         "24": null,
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T06:16:55+00:00",
+          "offset_minutes": -77.5,
+          "views": 432,
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -428,7 +446,16 @@
           "quotes": 0,
           "bookmarks": 11
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T06:16:55+00:00",
+          "offset_minutes": -77.4,
+          "views": 2795,
+          "likes": 43,
+          "retweets": 2,
+          "replies": 1,
+          "quotes": 1,
+          "bookmarks": 11
+        }
       }
     },
     {
