@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T11:47:45.438066+00:00",
+  "generated_at": "2026-10-22T12:23:45.646963+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -29,7 +29,16 @@
       "text": "PHPに重大な脆弱性が2件発覚\n政府「今夜23時に修正パッチ公開！」\nWeb管理者「総動員法を採用だ」\n\nパッチ適用速度：+100%\n睡眠時間：-80%\n残業時間：+200%\n安定度：-50%\n管理者の生存率：-3%\n\n管理者「寝る人間がいるならまだ余裕があるぞ」\n政府「女性労働力を採用しました」\n管理者「」",
       "created_at": "2026-10-21T13:29:23+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-22T12:23:45+00:00",
+          "offset_minutes": -65.6,
+          "views": 462,
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 1
+        },
         "48": null
       }
     },
@@ -40,9 +49,9 @@
       "created_at": "2026-10-21T13:15:17+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-22T11:47:44+00:00",
-          "offset_minutes": -87.5,
-          "views": 572,
+          "observed_at": "2026-10-22T12:23:45+00:00",
+          "offset_minutes": -51.5,
+          "views": 578,
           "likes": 5,
           "retweets": 0,
           "replies": 0,
@@ -59,9 +68,9 @@
       "created_at": "2026-10-21T12:55:50+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-22T11:47:44+00:00",
-          "offset_minutes": -68.1,
-          "views": 351,
+          "observed_at": "2026-10-22T12:23:45+00:00",
+          "offset_minutes": -32.1,
+          "views": 361,
           "likes": 2,
           "retweets": 1,
           "replies": 0,
@@ -415,9 +424,9 @@
           "bookmarks": 46
         },
         "48": {
-          "observed_at": "2026-10-22T10:35:58+00:00",
-          "offset_minutes": -71.9,
-          "views": 28039,
+          "observed_at": "2026-10-22T12:23:45+00:00",
+          "offset_minutes": 35.9,
+          "views": 28058,
           "likes": 470,
           "retweets": 37,
           "replies": 6,
