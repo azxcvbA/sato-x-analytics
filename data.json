@@ -38,8 +38,8 @@
       "replies": 68,
       "quotes": 30,
       "bookmarks": 83,
-      "views": 117488,
-      "metric_observed_at": "2026-10-22T17:14:51.481977+00:00"
+      "views": 117521,
+      "metric_observed_at": "2026-10-22T17:49:24.848012+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2824,
-      "metric_observed_at": "2026-10-22T17:14:51.481984+00:00"
+      "views": 2827,
+      "metric_observed_at": "2026-10-22T17:49:24.848022+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 481,
-      "metric_observed_at": "2026-10-22T17:14:51.481988+00:00"
+      "views": 484,
+      "metric_observed_at": "2026-10-22T17:49:24.848031+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 600,
-      "metric_observed_at": "2026-10-22T17:14:51.481993+00:00"
+      "views": 603,
+      "metric_observed_at": "2026-10-22T17:49:24.848040+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 382,
-      "metric_observed_at": "2026-10-22T17:14:51.481998+00:00"
+      "views": 383,
+      "metric_observed_at": "2026-10-22T17:49:24.848050+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 308,
-      "metric_observed_at": "2026-10-22T17:14:51.482007+00:00"
+      "metric_observed_at": "2026-10-22T17:49:24.848070+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 268,
-      "metric_observed_at": "2026-10-22T17:14:51.482011+00:00"
+      "metric_observed_at": "2026-10-22T17:49:24.848079+00:00"
     },
     {
       "id": "2112876910091120800",
@@ -316,8 +316,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 3965,
-      "metric_observed_at": "2026-10-22T17:14:51.482017+00:00"
+      "views": 3969,
+      "metric_observed_at": "2026-10-22T17:49:24.848060+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -1284,8 +1284,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 127,
-      "metric_observed_at": "2026-10-22T17:14:51.481881+00:00"
+      "views": 176,
+      "metric_observed_at": "2026-10-22T17:49:24.847863+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1302,8 +1302,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 220,
-      "metric_observed_at": "2026-10-22T17:14:51.481921+00:00"
+      "views": 257,
+      "metric_observed_at": "2026-10-22T17:49:24.847906+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1334,13 +1334,13 @@
           }
         ]
       },
-      "likes": 33,
+      "likes": 34,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2723,
-      "metric_observed_at": "2026-10-22T17:14:51.481930+00:00"
+      "views": 2848,
+      "metric_observed_at": "2026-10-22T17:49:24.847922+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1357,8 +1357,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 323,
-      "metric_observed_at": "2026-10-22T17:14:51.481937+00:00"
+      "views": 328,
+      "metric_observed_at": "2026-10-22T17:49:24.847934+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1429,8 +1429,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1371,
-      "metric_observed_at": "2026-10-22T17:14:51.481942+00:00"
+      "views": 1396,
+      "metric_observed_at": "2026-10-22T17:49:24.847944+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1462,12 +1462,12 @@
         ]
       },
       "likes": 32,
-      "retweets": 0,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 2299,
-      "metric_observed_at": "2026-10-22T17:14:51.481947+00:00"
+      "views": 2334,
+      "metric_observed_at": "2026-10-22T17:49:24.847954+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1519,13 +1519,13 @@
           }
         }
       },
-      "likes": 167,
+      "likes": 198,
       "retweets": 9,
-      "replies": 36,
-      "quotes": 19,
-      "bookmarks": 92,
-      "views": 26993,
-      "metric_observed_at": "2026-10-22T17:14:51.481952+00:00"
+      "replies": 40,
+      "quotes": 26,
+      "bookmarks": 112,
+      "views": 33342,
+      "metric_observed_at": "2026-10-22T17:49:24.847963+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1542,8 +1542,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 349,
-      "metric_observed_at": "2026-10-22T17:14:51.481957+00:00"
+      "views": 354,
+      "metric_observed_at": "2026-10-22T17:49:24.847974+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1600,8 +1600,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1261,
-      "metric_observed_at": "2026-10-22T17:14:51.481962+00:00"
+      "views": 1270,
+      "metric_observed_at": "2026-10-22T17:49:24.847984+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1618,8 +1618,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 364,
-      "metric_observed_at": "2026-10-22T17:14:51.481967+00:00"
+      "views": 370,
+      "metric_observed_at": "2026-10-22T17:49:24.847993+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1636,8 +1636,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 248,
-      "metric_observed_at": "2026-10-22T17:14:51.481972+00:00"
+      "views": 251,
+      "metric_observed_at": "2026-10-22T17:49:24.848002+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -14730,5 +14730,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T17:14:51.482246+00:00"
+  "last_metric_refresh_at": "2026-10-22T17:49:24.848217+00:00"
 }
