@@ -2,7 +2,7 @@
 <html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>歴史上の指導者 Tier Maker（1900年以降）</title>
 <style>
 :root{font-family:system-ui,"Yu Gothic",sans-serif;color:#f0f3f8;background:#10151f}*{box-sizing:border-box}body{margin:0}main{max-width:1240px;margin:auto;padding:20px 12px 80px}h1{font-size:1.45rem;margin:0 0 6px}p{color:#b7c4d5;font-size:.9rem;line-height:1.6}button{cursor:pointer;background:#27354a;border:1px solid #50627a;color:white;padding:9px 12px;border-radius:8px;font:inherit}button:hover{background:#394e69}.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin:15px 0}#board{border:2px solid #48566a;border-radius:8px;overflow:hidden}.tier{display:grid;grid-template-columns:105px 1fr;min-height:112px;border-bottom:2px solid #303b4e}.tier:last-child{border:0}.rank{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;color:#151515;font-size:2rem;font-weight:900}.tier-desc{font-size:11px;color:#151515;text-align:center;font-weight:700}.zone{background:#171f2c;min-height:110px;display:flex;flex-wrap:wrap;align-content:flex-start;gap:6px;padding:7px}.zone.over{outline:3px solid #8bc8ff;outline-offset:-3px}.tile{width:104px;height:106px;background:#293548;border:1px solid #5b6d84;border-radius:5px;display:flex;flex-direction:column;cursor:grab;overflow:hidden;user-select:none}.portrait{height:81px;display:grid;place-items:center;overflow:hidden;background:#36445a;color:#fff;font-size:2rem}.portrait img{width:100%;height:100%;object-fit:cover;object-position:center 20%}.name{height:24px;background:#0b1320;border-top:1px solid #54657c;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:0 2px}.name span{display:block;white-space:nowrap;font-size:12px;font-weight:700;transform-origin:center;flex:none}.pool{margin-top:16px;background:#1b2636;border-radius:8px;padding:12px}.pool h2{font-size:1rem;margin:0 0 8px}#status{color:#b7e7b5}small{color:#afbed0}@media(max-width:650px){.tier{grid-template-columns:54px 1fr}.rank{font-size:1.3rem}.tile{width:76px;height:85px}.portrait{height:65px}.name{height:20px}.name span{font-size:10px}.zone{gap:4px;padding:4px}}
-</style></head><body><main><h1>歴史上の指導者 Tier Maker</h1><p>1900年以降に在任した指導者が対象。国家への利益・損害、軍事・外交・内政・長期的影響を考慮して自由に並べ替え。AIによる暫定評価を配置済み。国家への利益・損害、軍事・外交・内政・長期的影響で評価。人物をドラッグして自由に変更できます。</p><div class="toolbar"><button id="png">PNG保存</button><button id="json">編集データ保存</button><button id="reset">AIの評価に戻す</button><button id="retry">肖像を再取得</button></div><div id="board"></div><section class="pool"><h2>未分類の指導者（ドラッグで移動）</h2><div id="pool" class="zone" data-zone="pool"></div></section><p id="status"></p><small>肖像はWikipediaの公開APIから取得。各画像のライセンスは元ファイルページを確認してください。データはこのブラウザに保存されます。スマホでは人物をタップ後、移動先の行の余白をタップしてください。</small></main>
+</style></head><body><main><h1>歴史上の指導者 Tier Maker</h1><p>1900年以降に在任した指導者が対象。国家への利益・損害、軍事・外交・内政・長期的影響を考慮して自由に並べ替え。AIによる暫定評価を配置済み。国家への利益・損害、軍事・外交・内政・長期的影響で評価。人物をドラッグして自由に変更できます。</p><div class="toolbar"><button id="png">PNG保存</button><button id="xpng">X投稿用PNG（2枚）</button><button id="json">編集データ保存</button><button id="reset">AIの評価に戻す</button><button id="retry">肖像を再取得</button></div><div id="board"></div><section class="pool"><h2>未分類の指導者（ドラッグで移動）</h2><div id="pool" class="zone" data-zone="pool"></div></section><p id="status"></p><small>肖像はWikipediaの公開APIから取得。各画像のライセンスは元ファイルページを確認してください。データはこのブラウザに保存されます。スマホでは人物をタップ後、移動先の行の余白をタップしてください。</small></main>
 <script>
 (()=>{'use strict';
 const people=[
@@ -104,6 +104,61 @@ $('status').textContent='肖像取得完了: '+loaded+' / '+people.length+'人�
 function download(data,name,type){let u=URL.createObjectURL(new Blob([data],{type}));let a=document.createElement('a');a.href=u;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(u),3000)}
 $('reset').onclick=()=>{if(confirm('AIの初期配置に戻しますか？')){positions={...aiPositions};localStorage.removeItem(key);render()}};$('retry').onclick=loadImages;$('json').onclick=()=>download(JSON.stringify({title:'1900年以降の指導者',positions,people:people.map(p=>({id:p[0],name:p[1],wikipedia:p[2]}))},null,2),'leaders-tier-data.json','application/json');
 $('png').onclick=async()=>{let W=1250,L=125,size=100,gap=5,cols=Math.floor((W-L-12)/(size+gap));let rows=ranks.map(([rank,color])=>{let members=people.filter(p=>positions[p[0]]===rank);return {rank,color,members,h:Math.max(112,Math.ceil(members.length/cols)*(size+gap)+gap)}});let H=80+rows.reduce((a,r)=>a+r.h,0);let c=document.createElement('canvas');c.width=W;c.height=H;let g=c.getContext('2d');g.fillStyle='#10151f';g.fillRect(0,0,W,H);g.fillStyle='#fff';g.font='bold 31px sans-serif';g.fillText('1900年以降の指導者 Tier表',20,47);let y=80;for(const row of rows){g.fillStyle=row.color;g.fillRect(0,y,L,row.h);g.fillStyle='#10151f';g.font='bold 35px sans-serif';g.fillText(row.rank,48,y+65);g.fillStyle='#172131';g.fillRect(L,y,W-L,row.h);for(let i=0;i<row.members.length;i++){let p=row.members[i],x=L+gap+(i%cols)*(size+gap),yy=y+gap+Math.floor(i/cols)*(size+gap);g.fillStyle='#344154';g.fillRect(x,yy,size,size);if(images[p[0]]){try{let im=new Image();im.crossOrigin='anonymous';im.src=images[p[0]];await im.decode();let scale=Math.max(size/im.naturalWidth,77/im.naturalHeight),iw=im.naturalWidth*scale,ih=im.naturalHeight*scale;g.save();g.beginPath();g.rect(x,yy,size,77);g.clip();g.drawImage(im,x+(size-iw)/2,yy,iw,ih);g.restore()}catch{}}g.fillStyle='#091320';g.fillRect(x,yy+77,size,23);g.fillStyle='white';g.font='bold 13px sans-serif';let tw=g.measureText(p[1]).width;g.save();g.translate(x+size/2,yy+93);g.scale(Math.min(1,(size-4)/Math.max(1,tw)),1);g.textAlign='center';g.fillText(p[1],0,0);g.restore()}y+=row.h}try{let blob=await new Promise((res,rej)=>c.toBlob(b=>b?res(b):rej(Error('PNG生成失敗'))));download(blob,'leaders-tier.png','image/png');$('status').textContent='PNGを保存しました'}catch(e){$('status').textContent='画像の取得元によってPNG保存が制限される場合があります: '+e.message}};
+
+async function exportXImages(){
+const W=1920,H=1080,LEFT=145,PAD=14,GAP=7,TOP=100,BOTTOM=36;
+$('status').textContent='X投稿用画像を生成しています…';
+for(let page=0;page<2;page++){
+const selected=page===0?ranks.slice(0,3):ranks.slice(3,6);
+const sections=selected.map(([rank,color,description])=>({rank,color,description,members:people.filter(p=>positions[p[0]]===rank)}));
+const maxCount=Math.max(...sections.map(x=>x.members.length),1);
+let tileW=132,columns=Math.floor((W-LEFT-PAD*2+GAP)/(tileW+GAP));
+let required=sections.reduce((sum,x)=>sum+Math.max(1,Math.ceil(x.members.length/columns)),0);
+let tileH=Math.floor((H-TOP-BOTTOM-3*GAP*2)/required);
+while(tileH<115&&tileW>90){tileW-=4;columns=Math.floor((W-LEFT-PAD*2+GAP)/(tileW+GAP));required=sections.reduce((sum,x)=>sum+Math.max(1,Math.ceil(x.members.length/columns)),0);tileH=Math.floor((H-TOP-BOTTOM-3*GAP*2)/required)}
+tileH=Math.min(168,tileH);
+const units=sections.map(x=>Math.max(1,Math.ceil(x.members.length/columns)));
+const free=H-TOP-BOTTOM-3*GAP*2-units.reduce((a,b)=>a+b*tileH,0);
+const extra=Math.floor(Math.max(0,free)/3);
+const canvas=document.createElement('canvas');canvas.width=W;canvas.height=H;
+const g=canvas.getContext('2d');g.fillStyle='#10151f';g.fillRect(0,0,W,H);
+g.fillStyle='#f4f7ff';g.font='bold 42px sans-serif';g.fillText('1900年以降の指導者 Tier表',24,58);
+g.font='24px sans-serif';g.fillStyle='#b7c4d5';g.fillText(page===0?'1 / 2  ·  S〜B':'2 / 2  ·  C〜E',W-240,58);
+let y=TOP;
+for(let si=0;si<sections.length;si++){
+const sec=sections[si],rows=units[si],height=rows*tileH+extra+GAP*2;
+g.fillStyle=sec.color;g.fillRect(0,y,LEFT,height);
+g.fillStyle='#10151f';g.textAlign='center';g.font='bold 51px sans-serif';g.fillText(sec.rank,LEFT/2,y+height/2-3);
+g.font='bold 17px sans-serif';g.fillText(sec.description,LEFT/2,y+height/2+26);g.textAlign='left';
+g.fillStyle='#192436';g.fillRect(LEFT,y,W-LEFT,height);
+for(let i=0;i<sec.members.length;i++){
+const p=sec.members[i],x=LEFT+PAD+(i%columns)*(tileW+GAP),yy=y+GAP+Math.floor(i/columns)*tileH;
+const h=tileH-GAP,band=Math.max(24,Math.min(32,Math.round(h*.23))),photoH=h-band;
+g.fillStyle='#354359';g.fillRect(x,yy,tileW,h);
+if(images[p[0]]){
+try{
+const im=new Image();im.crossOrigin='anonymous';im.src=images[p[0]];await im.decode();
+const scale=Math.max(tileW/im.naturalWidth,photoH/im.naturalHeight);
+const iw=im.naturalWidth*scale,ih=im.naturalHeight*scale;
+g.save();g.beginPath();g.rect(x,yy,tileW,photoH);g.clip();g.drawImage(im,x+(tileW-iw)/2,yy,iw,ih);g.restore();
+}catch(e){g.fillStyle='#ffffff';g.font='bold 28px sans-serif';g.fillText(p[1].slice(0,1),x+tileW/2-14,yy+photoH/2)}
+}else{g.fillStyle='#ffffff';g.font='bold 28px sans-serif';g.fillText(p[1].slice(0,1),x+tileW/2-14,yy+photoH/2)}
+g.fillStyle='#081320';g.fillRect(x,yy+photoH,tileW,band);
+g.fillStyle='#ffffff';g.font='bold 17px sans-serif';
+const measured=g.measureText(p[1]).width;
+g.save();g.translate(x+tileW/2,yy+photoH+band*.69);g.scale(Math.min(1,(tileW-5)/Math.max(1,measured)),1);g.textAlign='center';g.fillText(p[1],0,0);g.restore();
+}
+y+=height+GAP;
+}
+try{
+const blob=await new Promise((resolve,reject)=>canvas.toBlob(b=>b?resolve(b):reject(new Error('PNG変換失敗')),'image/png'));
+download(blob,'leaders-tier-X-'+(page+1)+'-of-2.png','image/png');
+}catch(e){$('status').textContent='PNG保存失敗: '+e.message;return}
+}
+$('status').textContent='X投稿用PNGを2枚保存しました（S〜B / C〜E）';
+}
+$('xpng').onclick=exportXImages;
+
 window.addEventListener('resize',fit);render();loadImages();
 })();
 </script></body></html>
