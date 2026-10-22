@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T23:12:55.334198+00:00",
+  "generated_at": "2026-10-22T23:44:00.699454+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -306,9 +306,9 @@
           "bookmarks": 8
         },
         "48": {
-          "observed_at": "2026-10-22T23:12:54+00:00",
-          "offset_minutes": -66.6,
-          "views": 3201,
+          "observed_at": "2026-10-22T23:43:59+00:00",
+          "offset_minutes": -35.5,
+          "views": 3206,
           "likes": 68,
           "retweets": 4,
           "replies": 4,
@@ -414,9 +414,9 @@
           "bookmarks": 86
         },
         "48": {
-          "observed_at": "2026-10-22T23:12:54+00:00",
-          "offset_minutes": -25.6,
-          "views": 50566,
+          "observed_at": "2026-10-22T23:43:59+00:00",
+          "offset_minutes": 5.4,
+          "views": 50571,
           "likes": 975,
           "retweets": 59,
           "replies": 17,
