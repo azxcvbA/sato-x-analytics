@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-22T10:01:32.786736+00:00",
+  "generated_at": "2026-10-22T10:35:59.580388+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -59,7 +59,16 @@
       "text": "【融和政策】\n現地住民との協力関係を重視し、占領統治の安定を目指す政策\n住民の意見を尊重し、対話による統治を実現する\nもちろん、占領を続けるかどうかについては対話の対象外である",
       "created_at": "2026-10-21T12:01:27+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-22T10:35:58+00:00",
+          "offset_minutes": -85.5,
+          "views": 287,
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        },
         "48": null
       }
     },
@@ -69,7 +78,16 @@
       "text": "【徹底的資源収奪】\n占領地の工場と資源を最大限に動員する占領政策\n占領地の経済を我が国の戦争遂行に役立てるのだ\n現地の将来については、戦争に勝ってから考えればよい。資源が残っていればの話だが",
       "created_at": "2026-10-21T12:01:27+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-22T10:35:58+00:00",
+          "offset_minutes": -85.5,
+          "views": 250,
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
         "48": null
       }
     },
@@ -79,7 +97,16 @@
       "text": "HoI4で占領地をどう統治する？\n\n戦災復興を優先するか\n現地住民を徴募するか\n司法制度を整備するか\n住民との融和を図るか\nそれとも…工場と資源を徹底的に収奪するか\n占領法を5種類追加するMODを制作しました",
       "created_at": "2026-10-21T12:01:24+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-22T10:35:58+00:00",
+          "offset_minutes": -85.4,
+          "views": 3796,
+          "likes": 80,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 25
+        },
         "48": null
       }
     },
@@ -90,9 +117,9 @@
       "created_at": "2026-10-21T10:21:58+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-22T10:01:32+00:00",
-          "offset_minutes": -20.4,
-          "views": 254,
+          "observed_at": "2026-10-22T10:35:58+00:00",
+          "offset_minutes": 14.0,
+          "views": 261,
           "likes": 6,
           "retweets": 0,
           "replies": 1,
@@ -369,7 +396,16 @@
           "quotes": 6,
           "bookmarks": 46
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-22T10:35:58+00:00",
+          "offset_minutes": -71.9,
+          "views": 28039,
+          "likes": 470,
+          "retweets": 37,
+          "replies": 6,
+          "quotes": 6,
+          "bookmarks": 50
+        }
       }
     },
     {
