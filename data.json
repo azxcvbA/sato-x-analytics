@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 374,
+  "count": 375,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -33,13 +33,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で、枢軸国の敗北に最も大きく影響した判断を下した国家はどこだと思う？",
       "media": [],
-      "likes": 591,
+      "likes": 604,
       "retweets": 16,
       "replies": 67,
       "quotes": 30,
       "bookmarks": 82,
-      "views": 115842,
-      "metric_observed_at": "2026-10-22T14:38:16.400150+00:00"
+      "views": 117093,
+      "metric_observed_at": "2026-10-22T15:18:35.917211+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2782,
-      "metric_observed_at": "2026-10-22T14:38:16.400158+00:00"
+      "views": 2810,
+      "metric_observed_at": "2026-10-22T15:18:35.917219+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 472,
-      "metric_observed_at": "2026-10-22T14:38:16.400164+00:00"
+      "views": 477,
+      "metric_observed_at": "2026-10-22T15:18:35.917225+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 591,
-      "metric_observed_at": "2026-10-22T14:38:16.400171+00:00"
+      "views": 597,
+      "metric_observed_at": "2026-10-22T15:18:35.917232+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 373,
-      "metric_observed_at": "2026-10-22T14:38:16.400178+00:00"
+      "views": 378,
+      "metric_observed_at": "2026-10-22T15:18:35.917238+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 306,
-      "metric_observed_at": "2026-10-22T14:38:16.400192+00:00"
+      "metric_observed_at": "2026-10-22T15:18:35.917252+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 267,
-      "metric_observed_at": "2026-10-22T14:38:16.400199+00:00"
+      "metric_observed_at": "2026-10-22T15:18:35.917264+00:00"
     },
     {
       "id": "2112876908363047063",
@@ -261,8 +261,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 3945,
-      "metric_observed_at": "2026-10-22T14:38:16.400185+00:00"
+      "views": 3952,
+      "metric_observed_at": "2026-10-22T15:18:35.917244+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -1197,6 +1197,24 @@
       "metric_observed_at": "2026-10-18T08:44:18.859792+00:00"
     },
     {
+      "id": "2113286854451896731",
+      "url": "https://x.com/sattoa_ball/status/2113286854451896731",
+      "type": "quote",
+      "created_at": "Thu Oct 22 15:10:23 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "これ確か内部の容量を効率よく使うためだっけ\n内部まで分けると「片方が満杯でもう片方には空きがある」っていう状況が発生が発生するから\n内部を共通にすることで容器の種類による偏りを防いでるんよ\n投入口を分けているのは捨てられる容器の種類を案内するためだな",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 33,
+      "metric_observed_at": "2026-10-22T15:18:35.917098+00:00"
+    },
+    {
       "id": "2113253670980845646",
       "url": "https://x.com/sattoa_ball/status/2113253670980845646",
       "type": "tweet",
@@ -1225,13 +1243,13 @@
           }
         ]
       },
-      "likes": 21,
+      "likes": 25,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 1104,
-      "metric_observed_at": "2026-10-22T14:38:16.400048+00:00"
+      "bookmarks": 4,
+      "views": 1389,
+      "metric_observed_at": "2026-10-22T15:18:35.917134+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1248,8 +1266,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 259,
-      "metric_observed_at": "2026-10-22T14:38:16.400087+00:00"
+      "views": 294,
+      "metric_observed_at": "2026-10-22T15:18:35.917150+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1315,13 +1333,13 @@
           }
         }
       },
-      "likes": 28,
+      "likes": 29,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1064,
-      "metric_observed_at": "2026-10-22T14:38:16.400099+00:00"
+      "views": 1202,
+      "metric_observed_at": "2026-10-22T15:18:35.917160+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1352,13 +1370,13 @@
           }
         ]
       },
-      "likes": 26,
+      "likes": 29,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1835,
-      "metric_observed_at": "2026-10-22T14:38:16.400108+00:00"
+      "views": 1984,
+      "metric_observed_at": "2026-10-22T15:18:35.917169+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1410,13 +1428,13 @@
           }
         }
       },
-      "likes": 37,
+      "likes": 54,
       "retweets": 2,
-      "replies": 7,
+      "replies": 16,
       "quotes": 2,
-      "bookmarks": 6,
-      "views": 2359,
-      "metric_observed_at": "2026-10-22T14:38:16.400116+00:00"
+      "bookmarks": 21,
+      "views": 5678,
+      "metric_observed_at": "2026-10-22T15:18:35.917177+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1433,8 +1451,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 323,
-      "metric_observed_at": "2026-10-22T14:38:16.400124+00:00"
+      "views": 332,
+      "metric_observed_at": "2026-10-22T15:18:35.917184+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1490,9 +1508,9 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 1125,
-      "metric_observed_at": "2026-10-22T14:38:16.400130+00:00"
+      "bookmarks": 3,
+      "views": 1184,
+      "metric_observed_at": "2026-10-22T15:18:35.917191+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1509,8 +1527,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 346,
-      "metric_observed_at": "2026-10-22T14:38:16.400136+00:00"
+      "views": 353,
+      "metric_observed_at": "2026-10-22T15:18:35.917198+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1527,8 +1545,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 234,
-      "metric_observed_at": "2026-10-22T14:38:16.400143+00:00"
+      "views": 240,
+      "metric_observed_at": "2026-10-22T15:18:35.917204+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -5538,8 +5556,8 @@
       "text": "エジプト王国のコンテンツを実装してみる\nこの画像は構想段階で、地図を塗り替えただけ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109160063592267872",
-      "views": 830,
-      "metric_observed_at": "2026-10-22T03:20:24.285117+00:00"
+      "views": 833,
+      "metric_observed_at": "2026-10-22T15:18:35.917274+00:00"
     },
     {
       "article": null,
@@ -5590,8 +5608,8 @@
       "text": "8月23日辺りからこのサイトを閲覧しているが\n当時から再生数が一致していないのが気になる",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2108910223218065855",
-      "views": 786,
-      "metric_observed_at": "2026-10-19T01:23:18.100042+00:00"
+      "views": 799,
+      "metric_observed_at": "2026-10-22T15:18:35.917282+00:00"
     },
     {
       "article": null,
@@ -14621,5 +14639,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T14:38:16.400330+00:00"
+  "last_metric_refresh_at": "2026-10-22T15:18:35.917398+00:00"
 }
