@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 368,
+  "count": 372,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -33,13 +33,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で、枢軸国の敗北に最も大きく影響した判断を下した国家はどこだと思う？",
       "media": [],
-      "likes": 500,
+      "likes": 536,
       "retweets": 15,
-      "replies": 59,
-      "quotes": 26,
-      "bookmarks": 73,
-      "views": 106773,
-      "metric_observed_at": "2026-10-22T10:35:58.773002+00:00"
+      "replies": 62,
+      "quotes": 30,
+      "bookmarks": 74,
+      "views": 110386,
+      "metric_observed_at": "2026-10-22T11:47:44.912609+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -91,13 +91,13 @@
           }
         }
       },
-      "likes": 29,
+      "likes": 32,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2529,
-      "metric_observed_at": "2026-10-22T10:35:58.773014+00:00"
+      "views": 2605,
+      "metric_observed_at": "2026-10-22T11:47:44.912617+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 447,
-      "metric_observed_at": "2026-10-22T10:35:58.773024+00:00"
+      "views": 453,
+      "metric_observed_at": "2026-10-22T11:47:44.912625+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 566,
-      "metric_observed_at": "2026-10-22T10:35:58.773034+00:00"
+      "views": 572,
+      "metric_observed_at": "2026-10-22T11:47:44.912631+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 345,
-      "metric_observed_at": "2026-10-22T10:35:58.773044+00:00"
+      "views": 351,
+      "metric_observed_at": "2026-10-22T11:47:44.912637+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -187,8 +187,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 287,
-      "metric_observed_at": "2026-10-22T10:35:58.773063+00:00"
+      "views": 294,
+      "metric_observed_at": "2026-10-22T11:47:44.912649+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -224,8 +224,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 250,
-      "metric_observed_at": "2026-10-22T10:35:58.773072+00:00"
+      "views": 256,
+      "metric_observed_at": "2026-10-22T11:47:44.912655+00:00"
     },
     {
       "id": "2112876908363047063",
@@ -256,13 +256,13 @@
           }
         ]
       },
-      "likes": 80,
+      "likes": 83,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 3796,
-      "metric_observed_at": "2026-10-22T10:35:58.773053+00:00"
+      "views": 3879,
+      "metric_observed_at": "2026-10-22T11:47:44.912643+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -279,8 +279,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 261,
-      "metric_observed_at": "2026-10-22T10:35:58.773081+00:00"
+      "views": 265,
+      "metric_observed_at": "2026-10-22T11:47:44.912661+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -1197,6 +1197,191 @@
       "metric_observed_at": "2026-10-18T08:44:18.859792+00:00"
     },
     {
+      "id": "2113230887735476717",
+      "url": "https://x.com/sattoa_ball/status/2113230887735476717",
+      "type": "tweet",
+      "created_at": "Thu Oct 22 11:28:00 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "【スペイン内戦】\n史実\nスペイン「内戦が始まってしまった…」\nドイツ「国民派を支援する。兵器の実戦試験も兼ねてな」\nソ連「共和国側には我々が支援する」\n\nHoI4\nスペイン「内戦が始まってしまった…」\nドイツ「将軍の経験値稼ぐぞ」\nソ連「戦車師団の育成だ」\nスペイン「軍事演習場じゃねぇんだぞ」",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113174623793840128",
+            "url": "https://pbs.twimg.com/media/HVOBH8-aAAAAmG2.jpg?name=orig",
+            "width": 1200,
+            "height": 800
+          },
+          {
+            "type": "photo",
+            "id": "2113174623743590400",
+            "url": "https://pbs.twimg.com/media/HVOBH8ybQAAGL82.png?name=orig",
+            "width": 960,
+            "height": 723
+          },
+          {
+            "type": "photo",
+            "id": "2113174623739428864",
+            "url": "https://pbs.twimg.com/media/HVOBH8xbwAAz0TQ.png?name=orig",
+            "width": 897,
+            "height": 698
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113174623793840128",
+            "url": "https://pbs.twimg.com/media/HVOBH8-aAAAAmG2.jpg?name=orig",
+            "width": 1200,
+            "height": 800
+          },
+          {
+            "type": "photo",
+            "id": "2113174623743590400",
+            "url": "https://pbs.twimg.com/media/HVOBH8ybQAAGL82.png?name=orig",
+            "width": 960,
+            "height": 723
+          },
+          {
+            "type": "photo",
+            "id": "2113174623739428864",
+            "url": "https://pbs.twimg.com/media/HVOBH8xbwAAz0TQ.png?name=orig",
+            "width": 897,
+            "height": 698
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2113230887735476717/HVOBH8-aAAAAmG2/HVOBH8ybQAAGL82/HVOBH8xbwAAz0TQ",
+            "webp": "https://mosaic.fxtwitter.com/webp/2113230887735476717/HVOBH8-aAAAAmG2/HVOBH8ybQAAGL82/HVOBH8xbwAAz0TQ"
+          }
+        }
+      },
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 59,
+      "metric_observed_at": "2026-10-22T11:47:44.912503+00:00"
+    },
+    {
+      "id": "2113223853811827137",
+      "url": "https://x.com/sattoa_ball/status/2113223853811827137",
+      "type": "tweet",
+      "created_at": "Thu Oct 22 11:00:03 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ドイツ「今はイギリスとの戦争で忙しい。バルカン半島で余計な問題を起こすなよ😠」\nイタリア「ギリシャくらい簡単に倒せるだろ🍕」\nドイツ「だから勝手に戦争を始めるなって💢」\nイタリア「ギリシャに宣戦布告しました😎」\nイタリア「ギリシャ軍に押し返されています😨」\n↑お前お前お前お前お前",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113156067375149056",
+            "url": "https://pbs.twimg.com/media/HVNwP07bcAAS-2P.jpg?name=orig",
+            "width": 1200,
+            "height": 1200
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113156067375149056",
+            "url": "https://pbs.twimg.com/media/HVNwP07bcAAS-2P.jpg?name=orig",
+            "width": 1200,
+            "height": 1200
+          }
+        ]
+      },
+      "likes": 10,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 1,
+      "views": 391,
+      "metric_observed_at": "2026-10-22T11:47:44.912541+00:00"
+    },
+    {
+      "id": "2113221545892217298",
+      "url": "https://x.com/sattoa_ball/status/2113221545892217298",
+      "type": "tweet",
+      "created_at": "Thu Oct 22 10:50:52 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "1900年以降の国家指導者99人を\n国家への貢献度や軍事・外交・内政の実績などを基準にTier表にしてみた\nS〜Eの6段階評価でかなり賛否が分かれそうな配置もあるだろうね\n異論や反論は歓迎する\n特に「この指導者はもっと上（or下）だろ」という意見があれば聞きたい",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113221216094056448",
+            "url": "https://pbs.twimg.com/media/HVOrf-0a8AAw_1D.jpg?name=orig",
+            "width": 1529,
+            "height": 776
+          },
+          {
+            "type": "photo",
+            "id": "2113221290291326977",
+            "url": "https://pbs.twimg.com/media/HVOrkTObcAEfB76.jpg?name=orig",
+            "width": 1063,
+            "height": 443
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113221216094056448",
+            "url": "https://pbs.twimg.com/media/HVOrf-0a8AAw_1D.jpg?name=orig",
+            "width": 1529,
+            "height": 776
+          },
+          {
+            "type": "photo",
+            "id": "2113221290291326977",
+            "url": "https://pbs.twimg.com/media/HVOrkTObcAEfB76.jpg?name=orig",
+            "width": 1063,
+            "height": 443
+          }
+        ],
+        "mosaic": {
+          "type": "mosaic_photo",
+          "formats": {
+            "jpeg": "https://mosaic.fxtwitter.com/jpeg/2113221545892217298/HVOrf-0a8AAw_1D/HVOrkTObcAEfB76",
+            "webp": "https://mosaic.fxtwitter.com/webp/2113221545892217298/HVOrf-0a8AAw_1D/HVOrkTObcAEfB76"
+          }
+        }
+      },
+      "likes": 7,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 2,
+      "views": 260,
+      "metric_observed_at": "2026-10-22T11:47:44.912549+00:00"
+    },
+    {
+      "id": "2113219814651232433",
+      "url": "https://x.com/sattoa_ball/status/2113219814651232433",
+      "type": "tweet",
+      "created_at": "Thu Oct 22 10:44:00 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "歴史の話だと戦争に勝った国より負けた国の軍隊や兵器の方が有名になることがあるよねー\n特に第二次世界大戦のドイツ軍なんかがそうだが\nこれは兵器の性能が理由なのかそれとも創作物やゲームの影響なのか、なんだと思う？",
+      "media": [],
+      "likes": 5,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 135,
+      "metric_observed_at": "2026-10-22T11:47:44.912576+00:00"
+    },
+    {
       "id": "2113209084027765096",
       "url": "https://x.com/sattoa_ball/status/2113209084027765096",
       "type": "tweet",
@@ -1246,13 +1431,13 @@
           }
         }
       },
-      "likes": 5,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 289,
-      "metric_observed_at": "2026-10-22T10:35:58.772932+00:00"
+      "views": 768,
+      "metric_observed_at": "2026-10-22T11:47:44.912580+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1264,13 +1449,13 @@
       "author_id": "1592826578786217984",
       "text": "ロシア・ウクライナ戦争が長期化\nアウディーイウカ周辺で攻勢を強化\nイスラエルとハマスの戦争が勃発して約2週間\nガザ地区への本格的な地上侵攻はまだ始まっていない\n米大統領はバイデン\n日本の首相は岸田文雄\nアルゼンチン大統領選挙でミレイが注目されてた\n\n↑これが3年前？？？？？？？",
       "media": [],
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 245,
-      "metric_observed_at": "2026-10-22T10:35:58.772975+00:00"
+      "views": 287,
+      "metric_observed_at": "2026-10-22T11:47:44.912594+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1282,13 +1467,13 @@
       "author_id": "1592826578786217984",
       "text": "「儲ける」の「儲」という漢字を分解すると「信者」になる\n昔の人はよく考えたもんだ\n信じる人が増えれば増えるほど誰かの財布が厚くなると\nしかし問題は、厚くなるのが信者の財布とは限らないことだ",
       "media": [],
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 190,
-      "metric_observed_at": "2026-10-22T10:35:58.772990+00:00"
+      "views": 203,
+      "metric_observed_at": "2026-10-22T11:47:44.912602+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -3813,8 +3998,8 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 5,
-      "views": 4457,
+      "bookmarks": 4,
+      "views": 4472,
       "hashtags": [],
       "mentions": [],
       "links": [
@@ -3849,7 +4034,7 @@
       "edited": false,
       "retweeted": null,
       "quoted": null,
-      "metric_observed_at": "2026-10-19T20:47:32.941781+00:00"
+      "metric_observed_at": "2026-10-22T11:47:44.912667+00:00"
     },
     {
       "id": "2110253632797216854",
@@ -3868,7 +4053,7 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 20,
-      "views": 6251,
+      "views": 6337,
       "hashtags": [],
       "mentions": [],
       "links": [],
@@ -3901,7 +4086,7 @@
       "edited": false,
       "retweeted": null,
       "quoted": null,
-      "metric_observed_at": "2026-10-19T20:47:32.941823+00:00"
+      "metric_observed_at": "2026-10-22T11:47:44.912675+00:00"
     },
     {
       "id": "2110237782828613889",
@@ -14381,5 +14566,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-22T11:11:18.904881+00:00"
+  "last_metric_refresh_at": "2026-10-22T11:47:44.912802+00:00"
 }
