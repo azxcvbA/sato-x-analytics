@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T16:39:12.242770+00:00",
+  "exported_at": "2026-10-23T17:16:28.851366+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -10173,8 +10173,8 @@
       "text": "もはや塹壕戦\nロシアとウクライナ付近です\n沿ドニなんとかはいないけど大丈夫だよね！",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1784824583474012416",
-      "views": 1031,
-      "metric_observed_at": "2026-10-21T08:20:42.019345+00:00"
+      "views": 1033,
+      "metric_observed_at": "2026-10-23T17:16:28.851169+00:00"
     },
     {
       "article": null,
@@ -10217,7 +10217,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1784487165017428369",
       "views": 1145,
-      "metric_observed_at": "2026-10-21T08:20:42.019354+00:00"
+      "metric_observed_at": "2026-10-23T17:16:28.851216+00:00"
     },
     {
       "article": null,
@@ -15251,5 +15251,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T16:39:12.242771+00:00"
+  "last_metric_refresh_at": "2026-10-23T17:16:28.851369+00:00"
 }
