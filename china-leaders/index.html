@@ -19,6 +19,8 @@ async function loadPortraits(){
   render();
   const missing=pending.filter(p=>!portraits.has(p.id));
   if(missing.length){const jp=await request("ja",missing.map(p=>p.name));const jfound=new Map(jp.filter(x=>x.thumbnail?.source).map(x=>[x.title.replace(/\\s*\\(.*\\)$/,""),x.thumbnail.source]));missing.forEach(p=>{const src=jfound.get(p.name);if(src)portraits.set(p.id,src)});render()}
+  if(!portraits.has(31)){for(const title of ["李强 (1959年)","李强 (政治人物)"]){const matches=await request("zh",[title]);const src=matches.find(x=>x.thumbnail?.source)?.thumbnail.source;if(src){portraits.set(31,src);break}}render()}
+
  }catch(e){console.warn("肖像画像を取得できませんでした",e)}
 }
 const levels=[["S","#ff7777"],["A","#ffaf70"],["B","#f5dc79"],["C","#a5d990"],["D","#83bfea"],["E","#a9a6d6"]];
