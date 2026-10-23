@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T15:20:45.014399+00:00",
+  "exported_at": "2026-10-23T16:03:10.692873+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -1355,11 +1355,11 @@
       "media": [],
       "likes": 8,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 767,
-      "metric_observed_at": "2026-10-23T15:00:07.660804+00:00"
+      "views": 771,
+      "metric_observed_at": "2026-10-23T16:03:10.692661+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1377,7 +1377,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 665,
-      "metric_observed_at": "2026-10-23T15:00:07.660814+00:00"
+      "metric_observed_at": "2026-10-23T16:03:10.692674+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1413,8 +1413,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5377,
-      "metric_observed_at": "2026-10-23T15:00:07.660823+00:00"
+      "views": 5380,
+      "metric_observed_at": "2026-10-23T16:03:10.692684+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1431,8 +1431,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 2,
-      "views": 598,
-      "metric_observed_at": "2026-10-23T15:00:07.660832+00:00"
+      "views": 603,
+      "metric_observed_at": "2026-10-23T16:03:10.692693+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1502,9 +1502,9 @@
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 4,
-      "views": 2020,
-      "metric_observed_at": "2026-10-23T15:00:07.660841+00:00"
+      "bookmarks": 5,
+      "views": 2023,
+      "metric_observed_at": "2026-10-23T16:03:10.692703+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -3526,13 +3526,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も過大評価されている国家ってどこだと思う？\n知名度やイメージでは超大国扱いされているけど、実際の軍事力・経済力・外交実績を見るとそこまで強くなかった国家\n逆に過小評価されている国家でも可OK",
       "media": [],
-      "likes": 2,
+      "likes": 5,
       "retweets": 0,
-      "replies": 1,
-      "quotes": 0,
+      "replies": 3,
+      "quotes": 1,
       "bookmarks": 0,
-      "views": 104,
-      "metric_observed_at": "2026-10-23T15:00:07.660620+00:00"
+      "views": 845,
+      "metric_observed_at": "2026-10-23T16:03:10.692477+00:00"
     },
     {
       "id": "2113616044019610013",
@@ -3563,13 +3563,13 @@
           }
         ]
       },
-      "likes": 9,
+      "likes": 10,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 335,
-      "metric_observed_at": "2026-10-23T15:00:07.660662+00:00"
+      "views": 370,
+      "metric_observed_at": "2026-10-23T16:03:10.692509+00:00"
     },
     {
       "id": "2113608526413324428",
@@ -3605,8 +3605,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 388,
-      "metric_observed_at": "2026-10-23T15:00:07.660678+00:00"
+      "views": 442,
+      "metric_observed_at": "2026-10-23T16:03:10.692525+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3623,8 +3623,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 477,
-      "metric_observed_at": "2026-10-23T15:00:07.660690+00:00"
+      "views": 634,
+      "metric_observed_at": "2026-10-23T16:03:10.692537+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3660,8 +3660,8 @@
       "replies": 2,
       "quotes": 1,
       "bookmarks": 0,
-      "views": 2294,
-      "metric_observed_at": "2026-10-23T15:00:07.660701+00:00"
+      "views": 2774,
+      "metric_observed_at": "2026-10-23T16:03:10.692548+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3673,13 +3673,13 @@
       "author_id": "1592826578786217984",
       "text": "急に話変わってすまんけど\nAIの文字生成って最近になって改善されたよね\nひらがなとひらがなが混ざった架空文字とかあんま生成されん",
       "media": [],
-      "likes": 6,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 372,
-      "metric_observed_at": "2026-10-23T15:00:07.660721+00:00"
+      "views": 397,
+      "metric_observed_at": "2026-10-23T16:03:10.692570+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3710,13 +3710,13 @@
           }
         ]
       },
-      "likes": 59,
-      "retweets": 3,
+      "likes": 61,
+      "retweets": 4,
       "replies": 5,
       "quotes": 1,
-      "bookmarks": 5,
-      "views": 2586,
-      "metric_observed_at": "2026-10-23T15:00:07.660711+00:00"
+      "bookmarks": 6,
+      "views": 2776,
+      "metric_observed_at": "2026-10-23T16:03:10.692559+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -3768,13 +3768,13 @@
           }
         }
       },
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 492,
-      "metric_observed_at": "2026-10-23T15:00:07.660730+00:00"
+      "views": 501,
+      "metric_observed_at": "2026-10-23T16:03:10.692581+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3791,8 +3791,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 155,
-      "metric_observed_at": "2026-10-23T15:00:07.660750+00:00"
+      "views": 161,
+      "metric_observed_at": "2026-10-23T16:03:10.692601+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3828,8 +3828,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 395,
-      "metric_observed_at": "2026-10-23T15:00:07.660740+00:00"
+      "views": 438,
+      "metric_observed_at": "2026-10-23T16:03:10.692591+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3865,8 +3865,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 208,
-      "metric_observed_at": "2026-10-23T15:00:07.660759+00:00"
+      "views": 212,
+      "metric_observed_at": "2026-10-23T16:03:10.692612+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3878,13 +3878,13 @@
       "author_id": "1592826578786217984",
       "text": "きっかけになった前回の国家指導者Tier表はこちら\nhttps://x.com/sattoa_ball/status/2113221545892217298?s=20",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 194,
-      "metric_observed_at": "2026-10-23T15:00:07.660778+00:00"
+      "views": 276,
+      "metric_observed_at": "2026-10-23T16:03:10.692632+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3915,13 +3915,13 @@
           }
         ]
       },
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 2,
-      "quotes": 0,
-      "bookmarks": 0,
-      "views": 523,
-      "metric_observed_at": "2026-10-23T15:00:07.660768+00:00"
+      "quotes": 1,
+      "bookmarks": 2,
+      "views": 1240,
+      "metric_observed_at": "2026-10-23T16:03:10.692621+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3938,8 +3938,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 270,
-      "metric_observed_at": "2026-10-23T15:00:07.660796+00:00"
+      "views": 271,
+      "metric_observed_at": "2026-10-23T16:03:10.692651+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3956,8 +3956,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1119,
-      "metric_observed_at": "2026-10-23T15:00:07.660787+00:00"
+      "views": 1139,
+      "metric_observed_at": "2026-10-23T16:03:10.692642+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -5294,8 +5294,8 @@
       "text": "効果（1/2）",
       "type": "reply",
       "url": "https://x.com/sattoa_ball/status/2109990146057928851",
-      "views": 523,
-      "metric_observed_at": "2026-10-18T09:43:23.241453+00:00"
+      "views": 609,
+      "metric_observed_at": "2026-10-23T16:03:10.692712+00:00"
     },
     {
       "article": null,
@@ -5328,7 +5328,7 @@
       "mentions": [],
       "pinned": false,
       "quoted": null,
-      "quotes": 0,
+      "quotes": 1,
       "replies": 2,
       "retweeted": null,
       "retweets": 1,
@@ -5337,8 +5337,8 @@
       "text": "【HoI4 MOD更新：占領法を5種類追加】\n占領地の統治方針をより細かく選択できるように\n\n復興行政：戦災復興を優先　修理速度バフ\n現地徴募制度：占領地から人的資源を確保\n暫定司法制度：司法制度の整備、治安を改善\n融和政策：住民との協力を重視\n徹底的資源収奪：工場と資源を根こそぎ動員",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/2109989605307249135",
-      "views": 1858,
-      "metric_observed_at": "2026-10-18T09:43:23.241458+00:00"
+      "views": 2699,
+      "metric_observed_at": "2026-10-23T16:03:10.692724+00:00"
     },
     {
       "article": null,
@@ -15251,5 +15251,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T15:20:45.014402+00:00"
+  "last_metric_refresh_at": "2026-10-23T16:03:10.692877+00:00"
 }
