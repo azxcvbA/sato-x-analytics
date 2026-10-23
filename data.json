@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T14:06:59.507478+00:00",
+  "exported_at": "2026-10-23T14:45:52.405481+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 395,
+  "count": 396,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -33,13 +33,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦で、枢軸国の敗北に最も大きく影響した判断を下した国家はどこだと思う？",
       "media": [],
-      "likes": 611,
-      "retweets": 17,
+      "likes": 613,
+      "retweets": 18,
       "replies": 68,
       "quotes": 30,
       "bookmarks": 84,
-      "views": 118324,
-      "metric_observed_at": "2026-10-23T12:35:06.795869+00:00"
+      "views": 118403,
+      "metric_observed_at": "2026-10-23T14:45:52.405253+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2923,
-      "metric_observed_at": "2026-10-23T12:35:06.795875+00:00"
+      "views": 2935,
+      "metric_observed_at": "2026-10-23T14:45:52.405261+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 524,
-      "metric_observed_at": "2026-10-23T12:35:06.795880+00:00"
+      "views": 530,
+      "metric_observed_at": "2026-10-23T14:45:52.405270+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 635,
-      "metric_observed_at": "2026-10-23T12:35:06.795886+00:00"
+      "views": 639,
+      "metric_observed_at": "2026-10-23T14:45:52.405278+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 418,
-      "metric_observed_at": "2026-10-23T12:35:06.795891+00:00"
+      "views": 424,
+      "metric_observed_at": "2026-10-23T14:45:52.405285+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 309,
-      "metric_observed_at": "2026-10-23T12:35:06.795902+00:00"
+      "metric_observed_at": "2026-10-23T14:45:52.405300+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 269,
-      "metric_observed_at": "2026-10-23T12:35:06.795907+00:00"
+      "metric_observed_at": "2026-10-23T14:45:52.405307+00:00"
     },
     {
       "id": "2112876913899577404",
@@ -385,13 +385,13 @@
           }
         ]
       },
-      "likes": 85,
+      "likes": 86,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 4058,
-      "metric_observed_at": "2026-10-23T12:35:06.795896+00:00"
+      "views": 4067,
+      "metric_observed_at": "2026-10-23T14:45:52.405292+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -408,8 +408,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 319,
-      "metric_observed_at": "2026-10-23T12:35:06.795912+00:00"
+      "views": 322,
+      "metric_observed_at": "2026-10-23T14:45:52.405315+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -445,8 +445,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2112,
-      "metric_observed_at": "2026-10-23T12:35:06.795916+00:00"
+      "views": 2117,
+      "metric_observed_at": "2026-10-23T14:45:52.405322+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -1358,8 +1358,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 761,
-      "metric_observed_at": "2026-10-23T14:06:59.507290+00:00"
+      "views": 764,
+      "metric_observed_at": "2026-10-23T14:45:52.405162+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1376,8 +1376,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 663,
-      "metric_observed_at": "2026-10-23T14:06:59.507300+00:00"
+      "views": 664,
+      "metric_observed_at": "2026-10-23T14:45:52.405171+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1413,8 +1413,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5370,
-      "metric_observed_at": "2026-10-23T14:06:59.507311+00:00"
+      "views": 5375,
+      "metric_observed_at": "2026-10-23T14:45:52.405179+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1431,8 +1431,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 2,
-      "views": 591,
-      "metric_observed_at": "2026-10-23T14:06:59.507320+00:00"
+      "views": 596,
+      "metric_observed_at": "2026-10-23T14:45:52.405187+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1503,8 +1503,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2016,
-      "metric_observed_at": "2026-10-23T14:06:59.507329+00:00"
+      "views": 2019,
+      "metric_observed_at": "2026-10-23T14:45:52.405195+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1540,8 +1540,8 @@
       "replies": 0,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 3620,
-      "metric_observed_at": "2026-10-23T14:06:59.507338+00:00"
+      "views": 3621,
+      "metric_observed_at": "2026-10-23T14:45:52.405205+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1593,13 +1593,13 @@
           }
         }
       },
-      "likes": 666,
+      "likes": 667,
       "retweets": 30,
       "replies": 127,
-      "quotes": 61,
-      "bookmarks": 396,
-      "views": 177954,
-      "metric_observed_at": "2026-10-23T12:42:19.181800+00:00"
+      "quotes": 62,
+      "bookmarks": 398,
+      "views": 178832,
+      "metric_observed_at": "2026-10-23T14:45:52.405214+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1616,8 +1616,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 444,
-      "metric_observed_at": "2026-10-23T12:35:06.795848+00:00"
+      "views": 452,
+      "metric_observed_at": "2026-10-23T14:45:52.405223+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1669,13 +1669,13 @@
           }
         }
       },
-      "likes": 24,
+      "likes": 25,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1533,
-      "metric_observed_at": "2026-10-23T12:35:06.795853+00:00"
+      "views": 1549,
+      "metric_observed_at": "2026-10-23T14:45:52.405231+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1692,8 +1692,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 448,
-      "metric_observed_at": "2026-10-23T12:35:06.795858+00:00"
+      "views": 460,
+      "metric_observed_at": "2026-10-23T14:45:52.405239+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1710,8 +1710,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 301,
-      "metric_observed_at": "2026-10-23T12:35:06.795864+00:00"
+      "views": 309,
+      "metric_observed_at": "2026-10-23T14:45:52.405246+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -3517,6 +3517,24 @@
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
     },
     {
+      "id": "2113638272299831330",
+      "url": "https://x.com/sattoa_ball/status/2113638272299831330",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 14:26:48 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "歴史上、最も過大評価されている国家ってどこだと思う？\n知名度やイメージでは超大国扱いされているけど、実際の軍事力・経済力・外交実績を見るとそこまで強くなかった国家\n逆に過小評価されている国家でも可OK",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 45,
+      "metric_observed_at": "2026-10-23T14:45:52.404960+00:00"
+    },
+    {
       "id": "2113616044019610013",
       "url": "https://x.com/sattoa_ball/status/2113616044019610013",
       "type": "tweet",
@@ -3545,13 +3563,13 @@
           }
         ]
       },
-      "likes": 7,
+      "likes": 9,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 202,
-      "metric_observed_at": "2026-10-23T14:06:59.507107+00:00"
+      "views": 316,
+      "metric_observed_at": "2026-10-23T14:45:52.405022+00:00"
     },
     {
       "id": "2113608526413324428",
@@ -3582,13 +3600,13 @@
           }
         ]
       },
-      "likes": 5,
+      "likes": 10,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 279,
-      "metric_observed_at": "2026-10-23T14:06:59.507149+00:00"
+      "views": 361,
+      "metric_observed_at": "2026-10-23T14:45:52.405042+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3600,13 +3618,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
       "media": [],
-      "likes": 10,
+      "likes": 14,
       "retweets": 3,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 426,
-      "metric_observed_at": "2026-10-23T14:06:59.507166+00:00"
+      "views": 458,
+      "metric_observed_at": "2026-10-23T14:45:52.405054+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3637,13 +3655,13 @@
           }
         ]
       },
-      "likes": 23,
+      "likes": 31,
       "retweets": 0,
       "replies": 2,
       "quotes": 1,
       "bookmarks": 0,
-      "views": 1671,
-      "metric_observed_at": "2026-10-23T14:06:59.507180+00:00"
+      "views": 2169,
+      "metric_observed_at": "2026-10-23T14:45:52.405065+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3655,13 +3673,13 @@
       "author_id": "1592826578786217984",
       "text": "急に話変わってすまんけど\nAIの文字生成って最近になって改善されたよね\nひらがなとひらがなが混ざった架空文字とかあんま生成されん",
       "media": [],
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 332,
-      "metric_observed_at": "2026-10-23T14:06:59.507202+00:00"
+      "views": 364,
+      "metric_observed_at": "2026-10-23T14:45:52.405085+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3692,13 +3710,13 @@
           }
         ]
       },
-      "likes": 48,
-      "retweets": 1,
-      "replies": 4,
+      "likes": 57,
+      "retweets": 3,
+      "replies": 5,
       "quotes": 1,
       "bookmarks": 5,
-      "views": 2272,
-      "metric_observed_at": "2026-10-23T14:06:59.507191+00:00"
+      "views": 2530,
+      "metric_observed_at": "2026-10-23T14:45:52.405075+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -3750,13 +3768,13 @@
           }
         }
       },
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 468,
-      "metric_observed_at": "2026-10-23T14:06:59.507212+00:00"
+      "views": 486,
+      "metric_observed_at": "2026-10-23T14:45:52.405094+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3768,13 +3786,13 @@
       "author_id": "1592826578786217984",
       "text": "1939年\nフィンランドでは冬戦争（Winter War）が勃発した\n一方その頃\nChatGPTの世界線ではアフガニスタンでタラ戦争（Tar War）が勃発していたらしい\nWinter Warから勝手にTar Warを生み出すな\n\nWinterの「ter」とTarをかけて架空の戦争を創造するな\nしかも戦争が始まった年だけ一致してるのが余計に…",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 149,
-      "metric_observed_at": "2026-10-23T14:06:59.507233+00:00"
+      "views": 152,
+      "metric_observed_at": "2026-10-23T14:45:52.405113+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3805,13 +3823,13 @@
           }
         ]
       },
-      "likes": 5,
+      "likes": 8,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 377,
-      "metric_observed_at": "2026-10-23T14:06:59.507223+00:00"
+      "views": 390,
+      "metric_observed_at": "2026-10-23T14:45:52.405104+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3847,8 +3865,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 202,
-      "metric_observed_at": "2026-10-23T14:06:59.507243+00:00"
+      "views": 205,
+      "metric_observed_at": "2026-10-23T14:45:52.405122+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3865,8 +3883,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 162,
-      "metric_observed_at": "2026-10-23T14:06:59.507262+00:00"
+      "views": 179,
+      "metric_observed_at": "2026-10-23T14:45:52.405138+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3897,13 +3915,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 294,
-      "metric_observed_at": "2026-10-23T14:06:59.507252+00:00"
+      "views": 402,
+      "metric_observed_at": "2026-10-23T14:45:52.405130+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3920,8 +3938,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 264,
-      "metric_observed_at": "2026-10-23T14:06:59.507281+00:00"
+      "views": 268,
+      "metric_observed_at": "2026-10-23T14:45:52.405155+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3933,13 +3951,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
       "media": [],
-      "likes": 25,
+      "likes": 27,
       "retweets": 0,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 1066,
-      "metric_observed_at": "2026-10-23T14:06:59.507271+00:00"
+      "views": 1102,
+      "metric_observed_at": "2026-10-23T14:45:52.405146+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -10435,7 +10453,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1782665822865166834",
       "views": 1279,
-      "metric_observed_at": "2026-10-20T17:37:49.261278+00:00"
+      "metric_observed_at": "2026-10-23T14:45:52.405330+00:00"
     },
     {
       "article": null,
@@ -10478,7 +10496,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1782316102485471419",
       "views": 800,
-      "metric_observed_at": "2026-10-20T17:37:49.261288+00:00"
+      "metric_observed_at": "2026-10-23T14:45:52.405340+00:00"
     },
     {
       "article": null,
@@ -15233,5 +15251,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T14:06:59.507482+00:00"
+  "last_metric_refresh_at": "2026-10-23T14:45:52.405484+00:00"
 }

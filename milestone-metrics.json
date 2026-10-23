@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-23T14:07:00.356470+00:00",
+  "generated_at": "2026-10-23T14:45:53.264126+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -19,7 +19,16 @@
           "quotes": 30,
           "bookmarks": 82
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T14:45:52+00:00",
+          "offset_minutes": -19.0,
+          "views": 118403,
+          "likes": 613,
+          "retweets": 18,
+          "replies": 68,
+          "quotes": 30,
+          "bookmarks": 84
+        }
       }
     },
     {
@@ -38,7 +47,16 @@
           "quotes": 0,
           "bookmarks": 3
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T14:45:52+00:00",
+          "offset_minutes": -14.9,
+          "views": 2935,
+          "likes": 37,
+          "retweets": 1,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 3
+        }
       }
     },
     {
@@ -841,7 +859,16 @@
       "text": "歴史上の人物の名言や発言を対義語にしてください\n例：\nチャーチル\n「我々は決して降伏しない」\n　　　　　⇕\n「白旗を増産せよ」\nリプ欄で募集",
       "created_at": "2026-10-22T15:50:40+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T14:45:52+00:00",
+          "offset_minutes": -64.8,
+          "views": 764,
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        },
         "48": null
       }
     },
@@ -852,9 +879,9 @@
       "created_at": "2026-10-22T15:10:23+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-23T14:06:59+00:00",
-          "offset_minutes": -63.4,
-          "views": 663,
+          "observed_at": "2026-10-23T14:45:52+00:00",
+          "offset_minutes": -24.5,
+          "views": 664,
           "likes": 3,
           "retweets": 0,
           "replies": 0,
@@ -2173,6 +2200,16 @@
           "quotes": 0,
           "bookmarks": 20
         }
+      }
+    },
+    {
+      "id": "2113638272299831330",
+      "url": "https://x.com/sattoa_ball/status/2113638272299831330",
+      "text": "歴史上、最も過大評価されている国家ってどこだと思う？\n知名度やイメージでは超大国扱いされているけど、実際の軍事力・経済力・外交実績を見るとそこまで強くなかった国家\n逆に過小評価されている国家でも可OK",
+      "created_at": "2026-10-23T14:26:48+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
       }
     },
     {
