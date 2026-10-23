@@ -1820,8 +1820,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 447,
-      "metric_observed_at": "2026-10-21T17:46:48.474617+00:00"
+      "views": 453,
+      "metric_observed_at": "2026-10-23T02:53:21.900855+00:00"
     },
     {
       "id": "2110678432430555148",
@@ -1857,8 +1857,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2035,
-      "metric_observed_at": "2026-10-18T08:44:18.859784+00:00"
+      "views": 2108,
+      "metric_observed_at": "2026-10-23T02:53:21.900912+00:00"
     },
     {
       "id": "2110665472505172348",
@@ -14732,5 +14732,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T02:14:37.362821+00:00"
+  "last_metric_refresh_at": "2026-10-23T02:53:21.901007+00:00"
 }
