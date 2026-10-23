@@ -133,20 +133,24 @@ def main():
         time.sleep(1)
 
 
+    # RSS is an independent discovery path, even when timeline returns HTTP 200.
+    rss_ids = fallback_posts()
+    for ident in rss_ids:
+        if ident in original_ids or ident in {str(p.get("id")) for p in fetched if isinstance(p, dict)}:
+            continue
+        try:
+            status = request("/status/" + ident).get("status")
+            if isinstance(status, dict):
+                fetched.append(status)
+        except Exception as exc:
+            print("Fallback status failed:", ident, repr(exc))
+        time.sleep(0.3)
     if not timeline_ok:
-        print("WARNING: timeline endpoint unavailable; attempting RSS fallback")
-        for ident in fallback_posts():
-            if ident in original_ids:
-                continue
-            try:
-                status = request("/status/" + ident).get("status")
-                if isinstance(status, dict):
-                    fetched.append(status)
-            except Exception as exc:
-                print("Fallback status failed:", ident, repr(exc))
-            time.sleep(0.3)
-        if not any((converted := convert(p)) and converted["id"] not in original_ids for p in fetched):
-            print("WARNING: no new posts recovered; new-post collection degraded")
+        print("WARNING: timeline endpoint unavailable")
+    if not rss_ids:
+        print("WARNING: RSS discovery returned no IDs")
+    if not any((converted := convert(p)) and converted["id"] not in original_ids for p in fetched):
+        print("No new posts discovered in this run")
 
     # Check a rotating slice of older posts to keep their engagement updated.
     # Avoid checking the same post twice in a single run.
