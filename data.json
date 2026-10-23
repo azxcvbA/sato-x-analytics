@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 389,
+  "count": 392,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -38,8 +38,8 @@
       "replies": 68,
       "quotes": 30,
       "bookmarks": 84,
-      "views": 118219,
-      "metric_observed_at": "2026-10-23T09:10:47.582359+00:00"
+      "views": 118293,
+      "metric_observed_at": "2026-10-23T11:28:33.955059+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2904,
-      "metric_observed_at": "2026-10-23T09:10:47.582366+00:00"
+      "views": 2916,
+      "metric_observed_at": "2026-10-23T11:28:33.955068+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 517,
-      "metric_observed_at": "2026-10-23T09:10:47.582372+00:00"
+      "views": 523,
+      "metric_observed_at": "2026-10-23T11:28:33.955074+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 629,
-      "metric_observed_at": "2026-10-23T09:10:47.582378+00:00"
+      "views": 634,
+      "metric_observed_at": "2026-10-23T11:28:33.955081+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 412,
-      "metric_observed_at": "2026-10-23T09:10:47.582384+00:00"
+      "views": 417,
+      "metric_observed_at": "2026-10-23T11:28:33.955089+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 309,
-      "metric_observed_at": "2026-10-23T09:10:47.582397+00:00"
+      "metric_observed_at": "2026-10-23T11:28:33.955105+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 269,
-      "metric_observed_at": "2026-10-23T09:10:47.582403+00:00"
+      "metric_observed_at": "2026-10-23T11:28:33.955112+00:00"
     },
     {
       "id": "2112876913899577404",
@@ -390,8 +390,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 4039,
-      "metric_observed_at": "2026-10-23T09:49:16.512242+00:00"
+      "views": 4052,
+      "metric_observed_at": "2026-10-23T11:28:33.955096+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -408,8 +408,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 313,
-      "metric_observed_at": "2026-10-23T09:10:47.582410+00:00"
+      "views": 319,
+      "metric_observed_at": "2026-10-23T11:28:33.955118+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -445,8 +445,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2105,
-      "metric_observed_at": "2026-10-23T09:10:47.582416+00:00"
+      "views": 2111,
+      "metric_observed_at": "2026-10-23T11:28:33.955124+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -458,13 +458,13 @@
       "author_id": "1592826578786217984",
       "text": "世界史で信用できない言葉たち\n\n「クリスマスまでには戦争が終わるさ」\n「この領土が最後の要求だ」\n「独立を尊重する」\n「一時的な軍事占領に過ぎない」\n「防衛のための先制攻撃だ」\n「我々は平和を望んでいる」\n「この条約によって恒久的な平和が実現する」\n「この動員は単なる軍事演習だ」",
       "media": [],
-      "likes": 365,
+      "likes": 366,
       "retweets": 32,
       "replies": 9,
       "quotes": 1,
       "bookmarks": 32,
-      "views": 6607,
-      "metric_observed_at": "2026-10-23T09:10:47.582422+00:00"
+      "views": 6610,
+      "metric_observed_at": "2026-10-23T11:28:33.955131+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -481,8 +481,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 408,
-      "metric_observed_at": "2026-10-23T09:10:47.582435+00:00"
+      "views": 411,
+      "metric_observed_at": "2026-10-23T11:28:33.955142+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -499,8 +499,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1624,
-      "metric_observed_at": "2026-10-23T09:10:47.582428+00:00"
+      "views": 1628,
+      "metric_observed_at": "2026-10-23T11:28:33.955136+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -517,8 +517,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 353,
-      "metric_observed_at": "2026-10-23T09:10:47.582441+00:00"
+      "views": 356,
+      "metric_observed_at": "2026-10-23T11:28:33.955148+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -1353,13 +1353,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の人物の名言や発言を対義語にしてください\n例：\nチャーチル\n「我々は決して降伏しない」\n　　　　　⇕\n「白旗を増産せよ」\nリプ欄で募集",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 681,
-      "metric_observed_at": "2026-10-23T09:10:47.582288+00:00"
+      "views": 708,
+      "metric_observed_at": "2026-10-23T11:28:33.954971+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1371,13 +1371,13 @@
       "author_id": "1592826578786217984",
       "text": "これ確か内部の容量を効率よく使うためだっけ\n内部まで分けると「片方が満杯でもう片方には空きがある」っていう状況が発生が発生するから\n内部を共通にすることで容器の種類による偏りを防いでるんよ\n投入口を分けているのは捨てられる容器の種類を案内するためだな",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 621,
-      "metric_observed_at": "2026-10-23T09:10:47.582296+00:00"
+      "views": 639,
+      "metric_observed_at": "2026-10-23T11:28:33.954978+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1408,13 +1408,13 @@
           }
         ]
       },
-      "likes": 55,
+      "likes": 56,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
-      "bookmarks": 6,
-      "views": 5103,
-      "metric_observed_at": "2026-10-23T09:10:47.582302+00:00"
+      "bookmarks": 7,
+      "views": 5200,
+      "metric_observed_at": "2026-10-23T11:28:33.954986+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1426,13 +1426,13 @@
       "author_id": "1592826578786217984",
       "text": "もし、あなたが1936年1月にタイムスリップして、アドルフ・ヒトラーの立場になったら何をしますか？\n人格や価値観は現在のあなたのままで、未来の歴史も知っているものとする\n当時のドイツの国家指導者として、あなたならどのような政策を実行しますか？",
       "media": [],
-      "likes": 10,
+      "likes": 11,
       "retweets": 0,
       "replies": 1,
       "quotes": 1,
-      "bookmarks": 1,
-      "views": 467,
-      "metric_observed_at": "2026-10-23T09:10:47.582308+00:00"
+      "bookmarks": 2,
+      "views": 563,
+      "metric_observed_at": "2026-10-23T11:28:33.954993+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1498,13 +1498,13 @@
           }
         }
       },
-      "likes": 39,
+      "likes": 41,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 1872,
-      "metric_observed_at": "2026-10-23T09:10:47.582314+00:00"
+      "bookmarks": 4,
+      "views": 1971,
+      "metric_observed_at": "2026-10-23T11:28:33.955000+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1535,13 +1535,13 @@
           }
         ]
       },
-      "likes": 49,
+      "likes": 51,
       "retweets": 1,
       "replies": 0,
-      "quotes": 0,
-      "bookmarks": 2,
-      "views": 3512,
-      "metric_observed_at": "2026-10-23T09:10:47.582320+00:00"
+      "quotes": 1,
+      "bookmarks": 3,
+      "views": 3586,
+      "metric_observed_at": "2026-10-23T11:28:33.955007+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1593,13 +1593,13 @@
           }
         }
       },
-      "likes": 638,
-      "retweets": 29,
-      "replies": 113,
-      "quotes": 59,
-      "bookmarks": 382,
-      "views": 167631,
-      "metric_observed_at": "2026-10-23T09:10:47.582327+00:00"
+      "likes": 664,
+      "retweets": 30,
+      "replies": 127,
+      "quotes": 61,
+      "bookmarks": 396,
+      "views": 177116,
+      "metric_observed_at": "2026-10-23T11:28:33.955014+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1616,8 +1616,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 432,
-      "metric_observed_at": "2026-10-23T09:10:47.582334+00:00"
+      "views": 443,
+      "metric_observed_at": "2026-10-23T11:28:33.955021+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1669,13 +1669,13 @@
           }
         }
       },
-      "likes": 22,
+      "likes": 24,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1504,
-      "metric_observed_at": "2026-10-23T09:10:47.582341+00:00"
+      "views": 1524,
+      "metric_observed_at": "2026-10-23T11:28:33.955028+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1687,13 +1687,13 @@
       "author_id": "1592826578786217984",
       "text": "ロシア・ウクライナ戦争が長期化\nアウディーイウカ周辺で攻勢を強化\nイスラエルとハマスの戦争が勃発して約2週間\nガザ地区への本格的な地上侵攻はまだ始まっていない\n米大統領はバイデン\n日本の首相は岸田文雄\nアルゼンチン大統領選挙でミレイが注目されてた\n\n↑これが3年前？？？？？？？",
       "media": [],
-      "likes": 10,
+      "likes": 12,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 433,
-      "metric_observed_at": "2026-10-23T09:10:47.582347+00:00"
+      "views": 445,
+      "metric_observed_at": "2026-10-23T11:28:33.955048+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1710,8 +1710,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 293,
-      "metric_observed_at": "2026-10-23T09:10:47.582353+00:00"
+      "views": 300,
+      "metric_observed_at": "2026-10-23T11:28:33.955054+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -1968,8 +1968,8 @@
       "replies": 5,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 3139,
-      "metric_observed_at": "2026-10-18T08:44:18.859800+00:00"
+      "views": 3220,
+      "metric_observed_at": "2026-10-23T11:28:33.955154+00:00"
     },
     {
       "id": "2110663221522952416",
@@ -2005,8 +2005,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 745,
-      "metric_observed_at": "2026-10-22T15:58:41.886694+00:00"
+      "views": 748,
+      "metric_observed_at": "2026-10-23T11:28:33.955161+00:00"
     },
     {
       "id": "2110646766240760043",
@@ -3517,6 +3517,98 @@
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
     },
     {
+      "id": "2113585746993111154",
+      "url": "https://x.com/sattoa_ball/status/2113585746993111154",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 10:58:05 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "hoi4あるある\n誰もやらない1939年8月シナリオ\n存在は知ってるが、結局いつも1936年1月から始める",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113585742127783936",
+            "url": "https://pbs.twimg.com/media/HVT3CMHbYAAqjwP.png?name=orig",
+            "width": 579,
+            "height": 474
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113585742127783936",
+            "url": "https://pbs.twimg.com/media/HVT3CMHbYAAqjwP.png?name=orig",
+            "width": 579,
+            "height": 474
+          }
+        ]
+      },
+      "likes": 4,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 202,
+      "metric_observed_at": "2026-10-23T11:28:33.954855+00:00"
+    },
+    {
+      "id": "2113577254240530616",
+      "url": "https://x.com/sattoa_ball/status/2113577254240530616",
+      "type": "reply",
+      "created_at": "Fri Oct 23 10:24:20 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "急に話変わってすまんけど\nAIの文字生成って最近になって改善されたよね\nひらがなとひらがなが混ざった架空文字とかあんま生成されん",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 63,
+      "metric_observed_at": "2026-10-23T11:28:33.954898+00:00"
+    },
+    {
+      "id": "2113576531088093256",
+      "url": "https://x.com/sattoa_ball/status/2113576531088093256",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 10:21:28 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "Hoi4のイタリア　絶望のスパイラルに陥っている",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113576523441786881",
+            "url": "https://pbs.twimg.com/media/HVTupl1aUAEpeD6.jpg?name=orig",
+            "width": 1312,
+            "height": 1199
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113576523441786881",
+            "url": "https://pbs.twimg.com/media/HVTupl1aUAEpeD6.jpg?name=orig",
+            "width": 1312,
+            "height": 1199
+          }
+        ]
+      },
+      "likes": 7,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 306,
+      "metric_observed_at": "2026-10-23T11:28:33.954889+00:00"
+    },
+    {
       "id": "2113556608861286413",
       "url": "https://x.com/sattoa_ball/status/2113556608861286413",
       "type": "quote",
@@ -3566,13 +3658,13 @@
           }
         }
       },
-      "likes": 0,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 25,
-      "metric_observed_at": "2026-10-23T09:10:47.582204+00:00"
+      "views": 346,
+      "metric_observed_at": "2026-10-23T11:28:33.954905+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3584,13 +3676,13 @@
       "author_id": "1592826578786217984",
       "text": "1939年\nフィンランドでは冬戦争（Winter War）が勃発した\n一方その頃\nChatGPTの世界線ではアフガニスタンでタラ戦争（Tar War）が勃発していたらしい\nWinter Warから勝手にTar Warを生み出すな\n\nWinterの「ter」とTarをかけて架空の戦争を創造するな\nしかも戦争が始まった年だけ一致してるのが余計に…",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 62,
-      "metric_observed_at": "2026-10-23T09:10:47.582239+00:00"
+      "views": 108,
+      "metric_observed_at": "2026-10-23T11:28:33.954928+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3621,13 +3713,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 158,
-      "metric_observed_at": "2026-10-23T09:10:47.582225+00:00"
+      "views": 281,
+      "metric_observed_at": "2026-10-23T11:28:33.954919+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3658,13 +3750,13 @@
           }
         ]
       },
-      "likes": 2,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 101,
-      "metric_observed_at": "2026-10-23T09:10:47.582250+00:00"
+      "views": 166,
+      "metric_observed_at": "2026-10-23T11:28:33.954936+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3681,8 +3773,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 90,
-      "metric_observed_at": "2026-10-23T09:10:47.582266+00:00"
+      "views": 127,
+      "metric_observed_at": "2026-10-23T11:28:33.954950+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3718,8 +3810,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 150,
-      "metric_observed_at": "2026-10-23T09:10:47.582259+00:00"
+      "views": 204,
+      "metric_observed_at": "2026-10-23T11:28:33.954943+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3731,13 +3823,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtubeに限らず結局、何をやっても批判する人はいるのだから\n全員から好かれるなんて不可能なんだから、自分がやりたいことをやればいいと思う",
       "media": [],
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 157,
-      "metric_observed_at": "2026-10-23T09:10:47.582282+00:00"
+      "views": 212,
+      "metric_observed_at": "2026-10-23T11:28:33.954965+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3749,13 +3841,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
       "media": [],
-      "likes": 13,
+      "likes": 19,
       "retweets": 0,
-      "replies": 2,
+      "replies": 3,
       "quotes": 0,
-      "bookmarks": 0,
-      "views": 615,
-      "metric_observed_at": "2026-10-23T09:10:47.582274+00:00"
+      "bookmarks": 1,
+      "views": 842,
+      "metric_observed_at": "2026-10-23T11:28:33.954957+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -15047,5 +15139,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T10:56:45.592841+00:00"
+  "last_metric_refresh_at": "2026-10-23T11:28:33.955271+00:00"
 }

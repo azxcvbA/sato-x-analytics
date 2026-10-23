@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-23T10:56:46.274748+00:00",
+  "generated_at": "2026-10-23T11:28:34.656184+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -95,7 +95,16 @@
           "quotes": 0,
           "bookmarks": 0
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -87.3,
+          "views": 417,
+          "likes": 2,
+          "retweets": 1,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -114,7 +123,16 @@
           "quotes": 0,
           "bookmarks": 0
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -32.9,
+          "views": 309,
+          "likes": 2,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -133,7 +151,16 @@
           "quotes": 0,
           "bookmarks": 0
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -32.9,
+          "views": 269,
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -192,7 +219,16 @@
           "quotes": 0,
           "bookmarks": 25
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -32.9,
+          "views": 4052,
+          "likes": 85,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 25
+        }
       }
     },
     {
@@ -212,9 +248,9 @@
           "bookmarks": 0
         },
         "48": {
-          "observed_at": "2026-10-23T09:10:47+00:00",
-          "offset_minutes": -71.2,
-          "views": 313,
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": 66.6,
+          "views": 319,
           "likes": 6,
           "retweets": 0,
           "replies": 1,
@@ -807,7 +843,16 @@
       "text": "HoI4あるある\n講和会議の付加要求「軍需工場の解体」\n存在は知ってるけど、一度も使ったことがない",
       "created_at": "2026-10-22T12:58:32+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -90.0,
+          "views": 5200,
+          "likes": 56,
+          "retweets": 2,
+          "replies": 3,
+          "quotes": 0,
+          "bookmarks": 7
+        },
         "48": null
       }
     },
@@ -817,7 +862,16 @@
       "text": "もし、あなたが1936年1月にタイムスリップして、アドルフ・ヒトラーの立場になったら何をしますか？\n人格や価値観は現在のあなたのままで、未来の歴史も知っているものとする\n当時のドイツの国家指導者として、あなたならどのような政策を実行しますか？",
       "created_at": "2026-10-22T12:30:25+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": -61.9,
+          "views": 563,
+          "likes": 11,
+          "retweets": 0,
+          "replies": 1,
+          "quotes": 1,
+          "bookmarks": 2
+        },
         "48": null
       }
     },
@@ -827,7 +881,16 @@
       "text": "【スペイン内戦】\n史実\nスペイン「内戦が始まってしまった…」\nドイツ「国民派を支援する。兵器の実戦試験も兼ねてな」\nソ連「共和国側には我々が支援する」\n\nHoI4\nスペイン「内戦が始まってしまった…」\nドイツ「将軍の経験値稼ぐぞ」\nソ連「戦車師団の育成だ」\nスペイン「軍事演習場じゃねぇんだぞ」",
       "created_at": "2026-10-22T11:28:00+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": 0.6,
+          "views": 1971,
+          "likes": 41,
+          "retweets": 2,
+          "replies": 2,
+          "quotes": 0,
+          "bookmarks": 4
+        },
         "48": null
       }
     },
@@ -837,7 +900,16 @@
       "text": "ドイツ「今はイギリスとの戦争で忙しい。バルカン半島で余計な問題を起こすなよ😠」\nイタリア「ギリシャくらい簡単に倒せるだろ🍕」\nドイツ「だから勝手に戦争を始めるなって💢」\nイタリア「ギリシャに宣戦布告しました😎」\nイタリア「ギリシャ軍に押し返されています😨」\n↑お前お前お前お前お前",
       "created_at": "2026-10-22T11:00:03+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": 28.5,
+          "views": 3586,
+          "likes": 51,
+          "retweets": 1,
+          "replies": 0,
+          "quotes": 1,
+          "bookmarks": 3
+        },
         "48": null
       }
     },
@@ -847,7 +919,16 @@
       "text": "1900年以降の国家指導者99人を\n国家への貢献度や軍事・外交・内政の実績などを基準にTier表にしてみた\nS〜Eの6段階評価でかなり賛否が分かれそうな配置もあるだろうね\n異論や反論は歓迎する\n特に「この指導者はもっと上（or下）だろ」という意見があれば聞きたい",
       "created_at": "2026-10-22T10:50:52+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": 37.7,
+          "views": 177116,
+          "likes": 664,
+          "retweets": 30,
+          "replies": 127,
+          "quotes": 61,
+          "bookmarks": 396
+        },
         "48": null
       }
     },
@@ -857,7 +938,16 @@
       "text": "歴史の話だと戦争に勝った国より負けた国の軍隊や兵器の方が有名になることがあるよねー\n特に第二次世界大戦のドイツ軍なんかがそうだが\nこれは兵器の性能が理由なのかそれとも創作物やゲームの影響なのか、なんだと思う？",
       "created_at": "2026-10-22T10:44:00+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-23T11:28:33+00:00",
+          "offset_minutes": 44.5,
+          "views": 443,
+          "likes": 13,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
         "48": null
       }
     },
@@ -2056,6 +2146,36 @@
           "quotes": 0,
           "bookmarks": 20
         }
+      }
+    },
+    {
+      "id": "2113585746993111154",
+      "url": "https://x.com/sattoa_ball/status/2113585746993111154",
+      "text": "hoi4あるある\n誰もやらない1939年8月シナリオ\n存在は知ってるが、結局いつも1936年1月から始める",
+      "created_at": "2026-10-23T10:58:05+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
+    {
+      "id": "2113577254240530616",
+      "url": "https://x.com/sattoa_ball/status/2113577254240530616",
+      "text": "急に話変わってすまんけど\nAIの文字生成って最近になって改善されたよね\nひらがなとひらがなが混ざった架空文字とかあんま生成されん",
+      "created_at": "2026-10-23T10:24:20+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
+    {
+      "id": "2113576531088093256",
+      "url": "https://x.com/sattoa_ball/status/2113576531088093256",
+      "text": "Hoi4のイタリア　絶望のスパイラルに陥っている",
+      "created_at": "2026-10-23T10:21:28+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
       }
     },
     {
