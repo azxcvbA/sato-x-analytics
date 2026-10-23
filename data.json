@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 386,
+  "count": 388,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -38,8 +38,8 @@
       "replies": 68,
       "quotes": 30,
       "bookmarks": 84,
-      "views": 118158,
-      "metric_observed_at": "2026-10-23T07:09:29.085978+00:00"
+      "views": 118174,
+      "metric_observed_at": "2026-10-23T07:54:54.608846+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2890,
-      "metric_observed_at": "2026-10-23T07:09:29.085985+00:00"
+      "views": 2898,
+      "metric_observed_at": "2026-10-23T07:54:54.608852+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -1353,13 +1353,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の人物の名言や発言を対義語にしてください\n例：\nチャーチル\n「我々は決して降伏しない」\n　　　　　⇕\n「白旗を増産せよ」\nリプ欄で募集",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 646,
-      "metric_observed_at": "2026-10-23T07:09:29.085902+00:00"
+      "views": 659,
+      "metric_observed_at": "2026-10-23T07:54:54.608785+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1371,13 +1371,13 @@
       "author_id": "1592826578786217984",
       "text": "これ確か内部の容量を効率よく使うためだっけ\n内部まで分けると「片方が満杯でもう片方には空きがある」っていう状況が発生が発生するから\n内部を共通にすることで容器の種類による偏りを防いでるんよ\n投入口を分けているのは捨てられる容器の種類を案内するためだな",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 604,
-      "metric_observed_at": "2026-10-23T07:09:29.085910+00:00"
+      "views": 612,
+      "metric_observed_at": "2026-10-23T07:54:54.608792+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1408,13 +1408,13 @@
           }
         ]
       },
-      "likes": 51,
+      "likes": 53,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 4978,
-      "metric_observed_at": "2026-10-23T07:09:29.085917+00:00"
+      "views": 5041,
+      "metric_observed_at": "2026-10-23T07:54:54.608798+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1426,13 +1426,13 @@
       "author_id": "1592826578786217984",
       "text": "もし、あなたが1936年1月にタイムスリップして、アドルフ・ヒトラーの立場になったら何をしますか？\n人格や価値観は現在のあなたのままで、未来の歴史も知っているものとする\n当時のドイツの国家指導者として、あなたならどのような政策を実行しますか？",
       "media": [],
-      "likes": 8,
+      "likes": 9,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 443,
-      "metric_observed_at": "2026-10-23T07:09:29.085924+00:00"
+      "views": 452,
+      "metric_observed_at": "2026-10-23T07:54:54.608803+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1498,13 +1498,13 @@
           }
         }
       },
-      "likes": 37,
+      "likes": 39,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1812,
-      "metric_observed_at": "2026-10-23T07:09:29.085931+00:00"
+      "views": 1838,
+      "metric_observed_at": "2026-10-23T07:54:54.608809+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1538,10 +1538,10 @@
       "likes": 49,
       "retweets": 1,
       "replies": 0,
-      "quotes": 0,
+      "quotes": 1,
       "bookmarks": 2,
-      "views": 3461,
-      "metric_observed_at": "2026-10-23T07:09:29.085938+00:00"
+      "views": 3481,
+      "metric_observed_at": "2026-10-23T07:54:54.608814+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1593,13 +1593,13 @@
           }
         }
       },
-      "likes": 613,
+      "likes": 624,
       "retweets": 28,
-      "replies": 107,
-      "quotes": 58,
-      "bookmarks": 373,
-      "views": 158919,
-      "metric_observed_at": "2026-10-23T07:09:29.085945+00:00"
+      "replies": 108,
+      "quotes": 59,
+      "bookmarks": 377,
+      "views": 162291,
+      "metric_observed_at": "2026-10-23T07:54:54.608820+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1616,8 +1616,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 415,
-      "metric_observed_at": "2026-10-23T07:09:29.085952+00:00"
+      "views": 421,
+      "metric_observed_at": "2026-10-23T07:54:54.608825+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1674,8 +1674,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1475,
-      "metric_observed_at": "2026-10-23T07:09:29.085958+00:00"
+      "views": 1483,
+      "metric_observed_at": "2026-10-23T07:54:54.608830+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1692,8 +1692,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 424,
-      "metric_observed_at": "2026-10-23T07:09:29.085965+00:00"
+      "views": 428,
+      "metric_observed_at": "2026-10-23T07:54:54.608835+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1710,8 +1710,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 285,
-      "metric_observed_at": "2026-10-23T07:09:29.085971+00:00"
+      "views": 290,
+      "metric_observed_at": "2026-10-23T07:54:54.608841+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -3517,6 +3517,61 @@
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
     },
     {
+      "id": "2113532463465271543",
+      "url": "https://x.com/sattoa_ball/status/2113532463465271543",
+      "type": "reply",
+      "created_at": "Fri Oct 23 07:26:21 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "1939年\nフィンランドでは冬戦争（Winter War）が勃発した\n一方その頃\nChatGPTの世界線ではアフガニスタンでタラ戦争（Tar War）が勃発していたらしい\nWinter Warから勝手にTar Warを生み出すな\n\nWinterの「ter」とTarをかけて架空の戦争を創造するな\nしかも戦争が始まった年だけ一致してるのが余計に…",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 31,
+      "metric_observed_at": "2026-10-23T07:54:54.608737+00:00"
+    },
+    {
+      "id": "2113532028297924611",
+      "url": "https://x.com/sattoa_ball/status/2113532028297924611",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 07:24:37 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ChatGPTに「タラ戦争って何」と聞いたら日本語が崩壊した\n「タラ戦争ではなくタラ戦争ではなくタラ戦争……ではなくタラ戦争ではなくタラ戦争」\n何を訂正してるんだお前は",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113531928431427584",
+            "url": "https://pbs.twimg.com/media/HVTGF0eaAAAjVF6.png?name=orig",
+            "width": 827,
+            "height": 571
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113531928431427584",
+            "url": "https://pbs.twimg.com/media/HVTGF0eaAAAjVF6.png?name=orig",
+            "width": 827,
+            "height": 571
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 75,
+      "metric_observed_at": "2026-10-23T07:54:54.608698+00:00"
+    },
+    {
       "id": "2113528042991837481",
       "url": "https://x.com/sattoa_ball/status/2113528042991837481",
       "type": "quote",
@@ -3550,8 +3605,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 8,
-      "metric_observed_at": "2026-10-23T07:09:29.085826+00:00"
+      "views": 52,
+      "metric_observed_at": "2026-10-23T07:54:54.608746+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3568,8 +3623,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 51,
-      "metric_observed_at": "2026-10-23T07:09:29.085876+00:00"
+      "views": 74,
+      "metric_observed_at": "2026-10-23T07:54:54.608766+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3605,8 +3660,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 103,
-      "metric_observed_at": "2026-10-23T07:09:29.085860+00:00"
+      "views": 129,
+      "metric_observed_at": "2026-10-23T07:54:54.608759+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3618,13 +3673,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtubeに限らず結局、何をやっても批判する人はいるのだから\n全員から好かれるなんて不可能なんだから、自分がやりたいことをやればいいと思う",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 113,
-      "metric_observed_at": "2026-10-23T07:09:29.085895+00:00"
+      "views": 132,
+      "metric_observed_at": "2026-10-23T07:54:54.608779+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3636,13 +3691,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
       "media": [],
-      "likes": 6,
+      "likes": 10,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 450,
-      "metric_observed_at": "2026-10-23T07:09:29.085885+00:00"
+      "views": 513,
+      "metric_observed_at": "2026-10-23T07:54:54.608773+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -8707,7 +8762,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820721955915620751",
       "views": 1817,
-      "metric_observed_at": "2026-10-23T05:46:22.758630+00:00"
+      "metric_observed_at": "2026-10-23T07:54:54.608859+00:00"
     },
     {
       "article": null,
@@ -8750,7 +8805,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1820407042575925253",
       "views": 2086,
-      "metric_observed_at": "2026-10-18T13:41:38.844345+00:00"
+      "metric_observed_at": "2026-10-23T07:54:54.608867+00:00"
     },
     {
       "article": null,
@@ -14934,5 +14989,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T07:09:29.086246+00:00"
+  "last_metric_refresh_at": "2026-10-23T07:54:54.609002+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-23T07:09:29.753258+00:00",
+  "generated_at": "2026-10-23T07:54:55.099753+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -860,9 +860,9 @@
       "created_at": "2026-10-22T08:03:00+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-23T07:09:29+00:00",
-          "offset_minutes": -53.5,
-          "views": 424,
+          "observed_at": "2026-10-23T07:54:54+00:00",
+          "offset_minutes": -8.1,
+          "views": 428,
           "likes": 10,
           "retweets": 0,
           "replies": 0,
@@ -2029,6 +2029,26 @@
           "quotes": 0,
           "bookmarks": 20
         }
+      }
+    },
+    {
+      "id": "2113532463465271543",
+      "url": "https://x.com/sattoa_ball/status/2113532463465271543",
+      "text": "1939年\nフィンランドでは冬戦争（Winter War）が勃発した\n一方その頃\nChatGPTの世界線ではアフガニスタンでタラ戦争（Tar War）が勃発していたらしい\nWinter Warから勝手にTar Warを生み出すな\n\nWinterの「ter」とTarをかけて架空の戦争を創造するな\nしかも戦争が始まった年だけ一致してるのが余計に…",
+      "created_at": "2026-10-23T07:26:21+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
+    {
+      "id": "2113532028297924611",
+      "url": "https://x.com/sattoa_ball/status/2113532028297924611",
+      "text": "ChatGPTに「タラ戦争って何」と聞いたら日本語が崩壊した\n「タラ戦争ではなくタラ戦争ではなくタラ戦争……ではなくタラ戦争ではなくタラ戦争」\n何を訂正してるんだお前は",
+      "created_at": "2026-10-23T07:24:37+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
       }
     },
     {
