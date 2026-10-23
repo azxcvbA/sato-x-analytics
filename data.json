@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 379,
+  "count": 383,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -38,8 +38,8 @@
       "replies": 68,
       "quotes": 30,
       "bookmarks": 84,
-      "views": 118084,
-      "metric_observed_at": "2026-10-23T04:00:06.038422+00:00"
+      "views": 118118,
+      "metric_observed_at": "2026-10-23T05:08:53.140384+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2876,
-      "metric_observed_at": "2026-10-23T04:00:06.038431+00:00"
+      "views": 2879,
+      "metric_observed_at": "2026-10-23T05:08:53.140399+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -114,8 +114,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 508,
-      "metric_observed_at": "2026-10-23T04:00:06.038439+00:00"
+      "views": 509,
+      "metric_observed_at": "2026-10-23T05:08:53.140408+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -132,8 +132,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 621,
-      "metric_observed_at": "2026-10-23T04:00:06.038446+00:00"
+      "views": 622,
+      "metric_observed_at": "2026-10-23T05:08:53.140417+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -150,8 +150,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 401,
-      "metric_observed_at": "2026-10-23T04:00:06.038453+00:00"
+      "views": 403,
+      "metric_observed_at": "2026-10-23T05:08:53.140426+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 309,
-      "metric_observed_at": "2026-10-23T04:00:06.038464+00:00"
+      "metric_observed_at": "2026-10-23T05:08:53.140445+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,81 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 269,
-      "metric_observed_at": "2026-10-23T04:00:06.038470+00:00"
+      "metric_observed_at": "2026-10-23T05:08:53.140455+00:00"
+    },
+    {
+      "id": "2112876913899577404",
+      "url": "https://x.com/sattoa_ball/status/2112876913899577404",
+      "type": "reply",
+      "created_at": "Wed Oct 21 12:01:26 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "【現地徴募制度】\n占領地の人的資源を軍事目的に動員する占領政策\n昨日まで敵国の国民だった者が、今日は我が軍の兵士となる\n祖国への忠誠心は変わらなくても、制服と命令書だけは変更できるのだ",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112876386142789632",
+            "url": "https://pbs.twimg.com/media/HVJx4PJaIAAK1hS.png?name=orig",
+            "width": 313,
+            "height": 333
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112876386142789632",
+            "url": "https://pbs.twimg.com/media/HVJx4PJaIAAK1hS.png?name=orig",
+            "width": 313,
+            "height": 333
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 349,
+      "metric_observed_at": "2026-10-23T05:08:53.140475+00:00"
+    },
+    {
+      "id": "2112876915753459810",
+      "url": "https://x.com/sattoa_ball/status/2112876915753459810",
+      "type": "reply",
+      "created_at": "Wed Oct 21 12:01:26 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "【暫定司法制度】\n占領地に司法制度を整備し、治安の安定を図る占領政策\n法の支配を確立するため、まず占領軍が法律を決める\n公平な裁判を保証するが、何が犯罪かを決めるのは我々だ",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2112876480867016704",
+            "url": "https://pbs.twimg.com/media/HVJx9wBbIAA3zTZ.png?name=orig",
+            "width": 320,
+            "height": 323
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2112876480867016704",
+            "url": "https://pbs.twimg.com/media/HVJx9wBbIAA3zTZ.png?name=orig",
+            "width": 320,
+            "height": 323
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 313,
+      "metric_observed_at": "2026-10-23T05:08:53.140483+00:00"
     },
     {
       "id": "2112876910091120800",
@@ -316,8 +390,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 4012,
-      "metric_observed_at": "2026-10-23T04:00:06.038476+00:00"
+      "views": 4016,
+      "metric_observed_at": "2026-10-23T05:08:53.140465+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -334,8 +408,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 304,
-      "metric_observed_at": "2026-10-23T04:00:06.038494+00:00"
+      "views": 305,
+      "metric_observed_at": "2026-10-23T05:08:53.140490+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -371,8 +445,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2089,
-      "metric_observed_at": "2026-10-23T04:00:06.038498+00:00"
+      "views": 2091,
+      "metric_observed_at": "2026-10-23T05:08:53.140500+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -384,13 +458,13 @@
       "author_id": "1592826578786217984",
       "text": "世界史で信用できない言葉たち\n\n「クリスマスまでには戦争が終わるさ」\n「この領土が最後の要求だ」\n「独立を尊重する」\n「一時的な軍事占領に過ぎない」\n「防衛のための先制攻撃だ」\n「我々は平和を望んでいる」\n「この条約によって恒久的な平和が実現する」\n「この動員は単なる軍事演習だ」",
       "media": [],
-      "likes": 365,
+      "likes": 364,
       "retweets": 32,
       "replies": 9,
       "quotes": 1,
       "bookmarks": 31,
-      "views": 6585,
-      "metric_observed_at": "2026-10-23T04:00:06.038503+00:00"
+      "views": 6592,
+      "metric_observed_at": "2026-10-23T05:08:53.140519+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -407,8 +481,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 399,
-      "metric_observed_at": "2026-10-23T04:00:06.038513+00:00"
+      "views": 400,
+      "metric_observed_at": "2026-10-23T05:08:53.140538+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -425,8 +499,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1611,
-      "metric_observed_at": "2026-10-23T04:00:06.038508+00:00"
+      "views": 1612,
+      "metric_observed_at": "2026-10-23T05:08:53.140529+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -443,8 +517,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 344,
-      "metric_observed_at": "2026-10-23T04:00:06.038519+00:00"
+      "views": 345,
+      "metric_observed_at": "2026-10-23T05:08:53.140548+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -480,8 +554,8 @@
       "replies": 4,
       "quotes": 0,
       "bookmarks": 8,
-      "views": 3216,
-      "metric_observed_at": "2026-10-23T04:00:06.038525+00:00"
+      "views": 3220,
+      "metric_observed_at": "2026-10-23T05:08:53.140557+00:00"
     },
     {
       "id": "2110379127421497774",
@@ -934,8 +1008,8 @@
       "replies": 17,
       "quotes": 2,
       "bookmarks": 87,
-      "views": 50598,
-      "metric_observed_at": "2026-10-23T04:00:06.038530+00:00"
+      "views": 50607,
+      "metric_observed_at": "2026-10-23T05:08:53.140566+00:00"
     },
     {
       "id": "2112557465653129512",
@@ -952,8 +1026,8 @@
       "replies": 140,
       "quotes": 49,
       "bookmarks": 63,
-      "views": 75153,
-      "metric_observed_at": "2026-10-23T04:00:06.038536+00:00"
+      "views": 75177,
+      "metric_observed_at": "2026-10-23T05:08:53.140576+00:00"
     },
     {
       "id": "2112548510918934979",
@@ -989,8 +1063,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1842,
-      "metric_observed_at": "2026-10-23T04:00:06.038542+00:00"
+      "views": 1843,
+      "metric_observed_at": "2026-10-23T05:08:53.140584+00:00"
     },
     {
       "id": "2112511113023922394",
@@ -1007,8 +1081,8 @@
       "replies": 6,
       "quotes": 6,
       "bookmarks": 49,
-      "views": 28127,
-      "metric_observed_at": "2026-10-23T04:00:06.038546+00:00"
+      "views": 28130,
+      "metric_observed_at": "2026-10-23T05:08:53.140593+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -1044,8 +1118,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3663,
-      "metric_observed_at": "2026-10-23T04:00:06.038551+00:00"
+      "views": 3664,
+      "metric_observed_at": "2026-10-23T05:08:53.140601+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -1062,8 +1136,8 @@
       "replies": 48,
       "quotes": 27,
       "bookmarks": 637,
-      "views": 211425,
-      "metric_observed_at": "2026-10-23T04:00:06.038555+00:00"
+      "views": 211449,
+      "metric_observed_at": "2026-10-23T05:08:53.140611+00:00"
     },
     {
       "id": "2112447315336405450",
@@ -1081,7 +1155,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 456,
-      "metric_observed_at": "2026-10-23T04:00:06.038565+00:00"
+      "metric_observed_at": "2026-10-23T05:08:53.140631+00:00"
     },
     {
       "id": "2112447316754096215",
@@ -1099,7 +1173,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 437,
-      "metric_observed_at": "2026-10-23T04:00:06.038569+00:00"
+      "metric_observed_at": "2026-10-23T05:08:53.140640+00:00"
     },
     {
       "id": "2112447309699330082",
@@ -1116,8 +1190,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 2834,
-      "metric_observed_at": "2026-10-23T04:00:06.038560+00:00"
+      "views": 2837,
+      "metric_observed_at": "2026-10-23T05:08:53.140621+00:00"
     },
     {
       "id": "2112447311095963747",
@@ -1284,8 +1358,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 588,
-      "metric_observed_at": "2026-10-23T04:00:06.038222+00:00"
+      "views": 610,
+      "metric_observed_at": "2026-10-23T05:08:53.140257+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1302,8 +1376,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 569,
-      "metric_observed_at": "2026-10-23T04:00:06.038274+00:00"
+      "views": 585,
+      "metric_observed_at": "2026-10-23T05:08:53.140276+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1339,8 +1413,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 4762,
-      "metric_observed_at": "2026-10-23T04:00:06.038337+00:00"
+      "views": 4837,
+      "metric_observed_at": "2026-10-23T05:08:53.140291+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1357,8 +1431,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 418,
-      "metric_observed_at": "2026-10-23T04:00:06.038352+00:00"
+      "views": 423,
+      "metric_observed_at": "2026-10-23T05:08:53.140302+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1424,13 +1498,13 @@
           }
         }
       },
-      "likes": 35,
+      "likes": 36,
       "retweets": 2,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1701,
-      "metric_observed_at": "2026-10-23T04:00:06.038363+00:00"
+      "views": 1754,
+      "metric_observed_at": "2026-10-23T05:08:53.140313+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1461,13 +1535,13 @@
           }
         ]
       },
-      "likes": 47,
+      "likes": 48,
       "retweets": 1,
       "replies": 0,
       "quotes": 1,
       "bookmarks": 2,
-      "views": 3366,
-      "metric_observed_at": "2026-10-23T04:00:06.038374+00:00"
+      "views": 3411,
+      "metric_observed_at": "2026-10-23T05:08:53.140324+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1519,13 +1593,13 @@
           }
         }
       },
-      "likes": 546,
+      "likes": 585,
       "retweets": 28,
-      "replies": 101,
-      "quotes": 57,
-      "bookmarks": 326,
-      "views": 135734,
-      "metric_observed_at": "2026-10-23T04:00:06.038386+00:00"
+      "replies": 104,
+      "quotes": 56,
+      "bookmarks": 352,
+      "views": 148945,
+      "metric_observed_at": "2026-10-23T05:08:53.140334+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1537,13 +1611,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史の話だと戦争に勝った国より負けた国の軍隊や兵器の方が有名になることがあるよねー\n特に第二次世界大戦のドイツ軍なんかがそうだが\nこれは兵器の性能が理由なのかそれとも創作物やゲームの影響なのか、なんだと思う？",
       "media": [],
-      "likes": 11,
+      "likes": 10,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 403,
-      "metric_observed_at": "2026-10-23T04:00:06.038396+00:00"
+      "views": 407,
+      "metric_observed_at": "2026-10-23T05:08:53.140344+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1595,13 +1669,13 @@
           }
         }
       },
-      "likes": 18,
+      "likes": 19,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1426,
-      "metric_observed_at": "2026-10-23T04:00:06.038403+00:00"
+      "views": 1451,
+      "metric_observed_at": "2026-10-23T05:08:53.140354+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1618,8 +1692,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 415,
-      "metric_observed_at": "2026-10-23T04:00:06.038409+00:00"
+      "views": 419,
+      "metric_observed_at": "2026-10-23T05:08:53.140365+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1636,8 +1710,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 283,
-      "metric_observed_at": "2026-10-23T04:00:06.038415+00:00"
+      "views": 284,
+      "metric_observed_at": "2026-10-23T05:08:53.140374+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -3441,6 +3515,42 @@
       "bookmarks": 20,
       "views": 8187,
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
+    },
+    {
+      "id": "2113481242708701420",
+      "url": "https://x.com/sattoa_ball/status/2113481242708701420",
+      "type": "reply",
+      "created_at": "Fri Oct 23 04:02:49 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "Youtubeに限らず結局、何をやっても批判する人はいるのだから\n全員から好かれるなんて不可能なんだから、自分がやりたいことをやればいいと思う",
+      "media": [],
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 59,
+      "metric_observed_at": "2026-10-23T05:08:53.140241+00:00"
+    },
+    {
+      "id": "2113481066292134023",
+      "url": "https://x.com/sattoa_ball/status/2113481066292134023",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 04:02:07 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
+      "media": [],
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 250,
+      "metric_observed_at": "2026-10-23T05:08:53.140165+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -6498,8 +6608,8 @@
       "text": "今日も更新",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898603621488681332",
-      "views": 1935,
-      "metric_observed_at": "2026-10-19T03:06:11.744201+00:00"
+      "views": 1941,
+      "metric_observed_at": "2026-10-23T05:08:53.140650+00:00"
     },
     {
       "article": null,
@@ -6541,8 +6651,8 @@
       "text": "もち",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1898373186078797944",
-      "views": 1811,
-      "metric_observed_at": "2026-10-19T03:06:11.744210+00:00"
+      "views": 1817,
+      "metric_observed_at": "2026-10-23T05:08:53.140661+00:00"
     },
     {
       "article": null,
@@ -14732,5 +14842,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T04:34:25.750480+00:00"
+  "last_metric_refresh_at": "2026-10-23T05:08:53.140773+00:00"
 }
