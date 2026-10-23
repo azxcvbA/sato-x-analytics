@@ -353,8 +353,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 473,
-      "metric_observed_at": "2026-10-23T04:00:06.038487+00:00"
+      "views": 475,
+      "metric_observed_at": "2026-10-23T09:49:16.512200+00:00"
     },
     {
       "id": "2112876908363047063",
@@ -390,8 +390,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 4033,
-      "metric_observed_at": "2026-10-23T09:10:47.582390+00:00"
+      "views": 4039,
+      "metric_observed_at": "2026-10-23T09:49:16.512242+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -15047,5 +15047,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T09:10:47.582587+00:00"
+  "last_metric_refresh_at": "2026-10-23T09:49:16.512364+00:00"
 }
