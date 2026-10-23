@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - '.github/workflows/hourly-refresh.yml'
+      - 'scripts/refresh.py'
   workflow_dispatch:
 permissions:
   contents: write
