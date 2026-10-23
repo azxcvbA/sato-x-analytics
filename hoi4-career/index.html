@@ -81,7 +81,6 @@ const statKeys=Object.keys(defs);
 function formatStat(key,val){if(val===null||val===undefined)return '—';return val.toLocaleString('ja-JP',{maximumFractionDigits:['playtime','averageHours','yearsPerHour'].includes(key)?2:0});}
 function render(){
  const list=visible(),key=$('metric').value;
- const heading=$('metricHeadings');heading.textContent='';heading.colSpan=statKeys.length;
  $('rows').replaceChildren(...list.map((r,i)=>{const tr=document.createElement('tr');[i+1,r.name,r.tag,...statKeys.map(k=>formatStat(k,r.stats[k]))].forEach(v=>{const td=document.createElement('td');td.textContent=v;tr.append(td);});return tr;}));
  $('summary').textContent=groups.length?'表示：'+list.length+'件 / 対象：'+(groups.find(g=>String(g.id)===$('group').value)?.rows.length||0)+'レコード':'データ未読込';
 }
