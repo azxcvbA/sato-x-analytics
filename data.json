@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T12:35:06.796077+00:00",
+  "exported_at": "2026-10-23T12:42:19.181919+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -1355,11 +1355,11 @@
       "media": [],
       "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 731,
-      "metric_observed_at": "2026-10-23T12:35:06.795807+00:00"
+      "views": 734,
+      "metric_observed_at": "2026-10-23T12:42:19.181755+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1376,8 +1376,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 647,
-      "metric_observed_at": "2026-10-23T12:35:06.795813+00:00"
+      "views": 650,
+      "metric_observed_at": "2026-10-23T12:42:19.181762+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1408,13 +1408,13 @@
           }
         ]
       },
-      "likes": 56,
+      "likes": 57,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5297,
-      "metric_observed_at": "2026-10-23T12:35:06.795818+00:00"
+      "views": 5315,
+      "metric_observed_at": "2026-10-23T12:42:19.181770+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1431,8 +1431,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 2,
-      "views": 574,
-      "metric_observed_at": "2026-10-23T12:35:06.795824+00:00"
+      "views": 577,
+      "metric_observed_at": "2026-10-23T12:42:19.181778+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1503,8 +1503,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1998,
-      "metric_observed_at": "2026-10-23T12:35:06.795829+00:00"
+      "views": 2000,
+      "metric_observed_at": "2026-10-23T12:42:19.181786+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1540,8 +1540,8 @@
       "replies": 0,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 3600,
-      "metric_observed_at": "2026-10-23T12:35:06.795835+00:00"
+      "views": 3602,
+      "metric_observed_at": "2026-10-23T12:42:19.181793+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1598,8 +1598,8 @@
       "replies": 127,
       "quotes": 61,
       "bookmarks": 396,
-      "views": 177903,
-      "metric_observed_at": "2026-10-23T12:35:06.795841+00:00"
+      "views": 177954,
+      "metric_observed_at": "2026-10-23T12:42:19.181800+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -3091,8 +3091,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2589,
-      "metric_observed_at": "2026-10-22T15:58:41.886627+00:00"
+      "views": 2595,
+      "metric_observed_at": "2026-10-23T12:42:19.181808+00:00"
     },
     {
       "id": "2112152519204028732",
@@ -3128,8 +3128,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2785,
-      "metric_observed_at": "2026-10-21T03:08:09.876315+00:00"
+      "views": 2805,
+      "metric_observed_at": "2026-10-23T12:42:19.181816+00:00"
     },
     {
       "id": "2112152160859525417",
@@ -3545,13 +3545,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 23,
-      "metric_observed_at": "2026-10-23T12:35:06.795681+00:00"
+      "views": 33,
+      "metric_observed_at": "2026-10-23T12:42:19.181614+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3563,13 +3563,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
       "media": [],
-      "likes": 3,
+      "likes": 5,
       "retweets": 2,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 140,
-      "metric_observed_at": "2026-10-23T12:35:06.795721+00:00"
+      "views": 179,
+      "metric_observed_at": "2026-10-23T12:42:19.181650+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3600,13 +3600,13 @@
           }
         ]
       },
-      "likes": 10,
+      "likes": 12,
       "retweets": 0,
       "replies": 2,
       "quotes": 1,
       "bookmarks": 0,
-      "views": 954,
-      "metric_observed_at": "2026-10-23T12:35:06.795730+00:00"
+      "views": 1008,
+      "metric_observed_at": "2026-10-23T12:42:19.181663+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3623,8 +3623,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 187,
-      "metric_observed_at": "2026-10-23T12:35:06.795753+00:00"
+      "views": 199,
+      "metric_observed_at": "2026-10-23T12:42:19.181683+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3659,9 +3659,9 @@
       "retweets": 1,
       "replies": 4,
       "quotes": 0,
-      "bookmarks": 3,
-      "views": 1147,
-      "metric_observed_at": "2026-10-23T12:35:06.795743+00:00"
+      "bookmarks": 4,
+      "views": 1210,
+      "metric_observed_at": "2026-10-23T12:42:19.181674+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -3718,8 +3718,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 388,
-      "metric_observed_at": "2026-10-23T12:35:06.795760+00:00"
+      "views": 395,
+      "metric_observed_at": "2026-10-23T12:42:19.181693+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3736,8 +3736,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 127,
-      "metric_observed_at": "2026-10-23T12:35:06.795773+00:00"
+      "views": 130,
+      "metric_observed_at": "2026-10-23T12:42:19.181710+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3768,13 +3768,13 @@
           }
         ]
       },
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 325,
-      "metric_observed_at": "2026-10-23T12:35:06.795767+00:00"
+      "views": 330,
+      "metric_observed_at": "2026-10-23T12:42:19.181702+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3810,8 +3810,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 180,
-      "metric_observed_at": "2026-10-23T12:35:06.795779+00:00"
+      "views": 183,
+      "metric_observed_at": "2026-10-23T12:42:19.181718+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3823,13 +3823,13 @@
       "author_id": "1592826578786217984",
       "text": "きっかけになった前回の国家指導者Tier表はこちら\nhttps://x.com/sattoa_ball/status/2113221545892217298?s=20",
       "media": [],
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 140,
-      "metric_observed_at": "2026-10-23T12:35:06.795790+00:00"
+      "views": 143,
+      "metric_observed_at": "2026-10-23T12:42:19.181734+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3865,8 +3865,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 226,
-      "metric_observed_at": "2026-10-23T12:35:06.795784+00:00"
+      "views": 229,
+      "metric_observed_at": "2026-10-23T12:42:19.181726+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3883,8 +3883,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 233,
-      "metric_observed_at": "2026-10-23T12:35:06.795801+00:00"
+      "views": 236,
+      "metric_observed_at": "2026-10-23T12:42:19.181748+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3899,10 +3899,10 @@
       "likes": 19,
       "retweets": 0,
       "replies": 3,
-      "quotes": 0,
+      "quotes": 1,
       "bookmarks": 1,
-      "views": 928,
-      "metric_observed_at": "2026-10-23T12:35:06.795796+00:00"
+      "views": 934,
+      "metric_observed_at": "2026-10-23T12:42:19.181741+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -15194,5 +15194,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T12:35:06.796078+00:00"
+  "last_metric_refresh_at": "2026-10-23T12:42:19.181922+00:00"
 }
