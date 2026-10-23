@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T21:55:57.337229+00:00",
+  "exported_at": "2026-10-23T22:24:42.758804+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -12904,7 +12904,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1712736594774643031",
       "views": 485,
-      "metric_observed_at": "2026-10-18T02:43:57.960257+00:00"
+      "metric_observed_at": "2026-10-23T22:24:42.758621+00:00"
     },
     {
       "article": null,
@@ -12947,7 +12947,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1712297883167527407",
       "views": 632,
-      "metric_observed_at": "2026-10-19T20:10:18.453544+00:00"
+      "metric_observed_at": "2026-10-23T22:24:42.758664+00:00"
     },
     {
       "article": null,
@@ -15251,5 +15251,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T21:55:57.337233+00:00"
+  "last_metric_refresh_at": "2026-10-23T22:24:42.758808+00:00"
 }
