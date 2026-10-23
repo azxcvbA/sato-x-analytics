@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T12:42:19.181919+00:00",
+  "exported_at": "2026-10-23T13:24:07.099296+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 394,
+  "count": 395,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -1353,13 +1353,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上の人物の名言や発言を対義語にしてください\n例：\nチャーチル\n「我々は決して降伏しない」\n　　　　　⇕\n「白旗を増産せよ」\nリプ欄で募集",
       "media": [],
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 734,
-      "metric_observed_at": "2026-10-23T12:42:19.181755+00:00"
+      "views": 743,
+      "metric_observed_at": "2026-10-23T13:24:07.099120+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1371,13 +1371,13 @@
       "author_id": "1592826578786217984",
       "text": "これ確か内部の容量を効率よく使うためだっけ\n内部まで分けると「片方が満杯でもう片方には空きがある」っていう状況が発生が発生するから\n内部を共通にすることで容器の種類による偏りを防いでるんよ\n投入口を分けているのは捨てられる容器の種類を案内するためだな",
       "media": [],
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 650,
-      "metric_observed_at": "2026-10-23T12:42:19.181762+00:00"
+      "views": 651,
+      "metric_observed_at": "2026-10-23T13:24:07.099127+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1408,13 +1408,13 @@
           }
         ]
       },
-      "likes": 57,
+      "likes": 58,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 7,
-      "views": 5315,
-      "metric_observed_at": "2026-10-23T12:42:19.181770+00:00"
+      "views": 5351,
+      "metric_observed_at": "2026-10-23T13:24:07.099133+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1431,8 +1431,8 @@
       "replies": 1,
       "quotes": 1,
       "bookmarks": 2,
-      "views": 577,
-      "metric_observed_at": "2026-10-23T12:42:19.181778+00:00"
+      "views": 580,
+      "metric_observed_at": "2026-10-23T13:24:07.099140+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1503,8 +1503,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 2000,
-      "metric_observed_at": "2026-10-23T12:42:19.181786+00:00"
+      "views": 2002,
+      "metric_observed_at": "2026-10-23T13:24:07.099146+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1540,8 +1540,8 @@
       "replies": 0,
       "quotes": 1,
       "bookmarks": 3,
-      "views": 3602,
-      "metric_observed_at": "2026-10-23T12:42:19.181793+00:00"
+      "views": 3607,
+      "metric_observed_at": "2026-10-23T13:24:07.099153+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -3517,6 +3517,43 @@
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
     },
     {
+      "id": "2113616044019610013",
+      "url": "https://x.com/sattoa_ball/status/2113616044019610013",
+      "type": "tweet",
+      "created_at": "Fri Oct 23 12:58:28 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "今日だけでXのフォロワーが約300人増えた\n恐らく政治指導者ティア表が中国語圏に拡散された影響だと思う\n実際にそのツイートで中国語の返信がかなり増えてるし、日本語の投稿でも海外に届くんだな　と思った",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113616039754039296",
+            "url": "https://pbs.twimg.com/media/HVUSlvkbgAAEifB.png?name=orig",
+            "width": 892,
+            "height": 413
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113616039754039296",
+            "url": "https://pbs.twimg.com/media/HVUSlvkbgAAEifB.png?name=orig",
+            "width": 892,
+            "height": 413
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 37,
+      "metric_observed_at": "2026-10-23T13:24:07.098965+00:00"
+    },
+    {
       "id": "2113608526413324428",
       "url": "https://x.com/sattoa_ball/status/2113608526413324428",
       "type": "tweet",
@@ -3545,13 +3582,13 @@
           }
         ]
       },
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 33,
-      "metric_observed_at": "2026-10-23T12:42:19.181614+00:00"
+      "views": 121,
+      "metric_observed_at": "2026-10-23T13:24:07.099011+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3563,13 +3600,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
       "media": [],
-      "likes": 5,
-      "retweets": 2,
+      "likes": 8,
+      "retweets": 3,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 179,
-      "metric_observed_at": "2026-10-23T12:42:19.181650+00:00"
+      "views": 322,
+      "metric_observed_at": "2026-10-23T13:24:07.099029+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3600,13 +3637,13 @@
           }
         ]
       },
-      "likes": 12,
+      "likes": 17,
       "retweets": 0,
       "replies": 2,
       "quotes": 1,
       "bookmarks": 0,
-      "views": 1008,
-      "metric_observed_at": "2026-10-23T12:42:19.181663+00:00"
+      "views": 1266,
+      "metric_observed_at": "2026-10-23T13:24:07.099039+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3623,8 +3660,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 199,
-      "metric_observed_at": "2026-10-23T12:42:19.181683+00:00"
+      "views": 259,
+      "metric_observed_at": "2026-10-23T13:24:07.099055+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3655,13 +3692,13 @@
           }
         ]
       },
-      "likes": 29,
+      "likes": 37,
       "retweets": 1,
       "replies": 4,
-      "quotes": 0,
-      "bookmarks": 4,
-      "views": 1210,
-      "metric_observed_at": "2026-10-23T12:42:19.181674+00:00"
+      "quotes": 1,
+      "bookmarks": 5,
+      "views": 1716,
+      "metric_observed_at": "2026-10-23T13:24:07.099047+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -3713,13 +3750,13 @@
           }
         }
       },
-      "likes": 6,
+      "likes": 8,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 395,
-      "metric_observed_at": "2026-10-23T12:42:19.181693+00:00"
+      "views": 426,
+      "metric_observed_at": "2026-10-23T13:24:07.099064+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3736,8 +3773,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 130,
-      "metric_observed_at": "2026-10-23T12:42:19.181710+00:00"
+      "views": 131,
+      "metric_observed_at": "2026-10-23T13:24:07.099079+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3773,8 +3810,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 330,
-      "metric_observed_at": "2026-10-23T12:42:19.181702+00:00"
+      "views": 346,
+      "metric_observed_at": "2026-10-23T13:24:07.099071+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3810,8 +3847,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 183,
-      "metric_observed_at": "2026-10-23T12:42:19.181718+00:00"
+      "views": 186,
+      "metric_observed_at": "2026-10-23T13:24:07.099086+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3828,8 +3865,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 143,
-      "metric_observed_at": "2026-10-23T12:42:19.181734+00:00"
+      "views": 146,
+      "metric_observed_at": "2026-10-23T13:24:07.099099+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3865,8 +3902,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 229,
-      "metric_observed_at": "2026-10-23T12:42:19.181726+00:00"
+      "views": 240,
+      "metric_observed_at": "2026-10-23T13:24:07.099092+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3883,8 +3920,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 236,
-      "metric_observed_at": "2026-10-23T12:42:19.181748+00:00"
+      "views": 244,
+      "metric_observed_at": "2026-10-23T13:24:07.099113+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3896,13 +3933,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
       "media": [],
-      "likes": 19,
+      "likes": 22,
       "retweets": 0,
       "replies": 3,
       "quotes": 1,
       "bookmarks": 1,
-      "views": 934,
-      "metric_observed_at": "2026-10-23T12:42:19.181741+00:00"
+      "views": 984,
+      "metric_observed_at": "2026-10-23T13:24:07.099106+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -9709,7 +9746,8 @@
       "text": "ただの愚痴です。ごめんなさい\n私の配信で関係ない話ばっかりして、何回も注意してるのにそれを聞かず、コメント非表示にされて「これは自分のせいじゃない！\n」と冤罪かぁ…\nルールに関係ない話はしないで！ってあるのにね…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1790742810502779263",
-      "views": 2543
+      "views": 2547,
+      "metric_observed_at": "2026-10-23T13:24:07.099160+00:00"
     },
     {
       "article": null,
@@ -9751,7 +9789,8 @@
       "text": "ショートの再生数も横動画に追いついてほしいな〜",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1789121295831179468",
-      "views": 1085
+      "views": 1085,
+      "metric_observed_at": "2026-10-23T13:24:07.099169+00:00"
     },
     {
       "article": null,
@@ -15194,5 +15233,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T12:42:19.181922+00:00"
+  "last_metric_refresh_at": "2026-10-23T13:24:07.099299+00:00"
 }
