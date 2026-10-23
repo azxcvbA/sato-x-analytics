@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-23T12:04:03.474178+00:00",
+  "generated_at": "2026-10-23T12:35:07.342499+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -57,7 +57,16 @@
           "quotes": 0,
           "bookmarks": 1
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T12:35:06+00:00",
+          "offset_minutes": -54.3,
+          "views": 524,
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 1
+        }
       }
     },
     {
@@ -76,7 +85,16 @@
           "quotes": 0,
           "bookmarks": 0
         },
-        "48": null
+        "48": {
+          "observed_at": "2026-10-23T12:35:06+00:00",
+          "offset_minutes": -40.2,
+          "views": 635,
+          "likes": 5,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        }
       }
     },
     {
@@ -96,9 +114,9 @@
           "bookmarks": 0
         },
         "48": {
-          "observed_at": "2026-10-23T11:28:33+00:00",
-          "offset_minutes": -87.3,
-          "views": 417,
+          "observed_at": "2026-10-23T12:35:06+00:00",
+          "offset_minutes": -20.7,
+          "views": 418,
           "likes": 2,
           "retweets": 1,
           "replies": 0,
@@ -844,9 +862,9 @@
       "created_at": "2026-10-22T12:58:32+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-23T11:28:33+00:00",
-          "offset_minutes": -90.0,
-          "views": 5200,
+          "observed_at": "2026-10-23T12:35:06+00:00",
+          "offset_minutes": -23.4,
+          "views": 5297,
           "likes": 56,
           "retweets": 2,
           "replies": 3,
@@ -863,9 +881,9 @@
       "created_at": "2026-10-22T12:30:25+00:00",
       "milestones": {
         "24": {
-          "observed_at": "2026-10-23T11:28:33+00:00",
-          "offset_minutes": -61.9,
-          "views": 563,
+          "observed_at": "2026-10-23T12:35:06+00:00",
+          "offset_minutes": 4.7,
+          "views": 574,
           "likes": 11,
           "retweets": 0,
           "replies": 1,
@@ -2146,6 +2164,26 @@
           "quotes": 0,
           "bookmarks": 20
         }
+      }
+    },
+    {
+      "id": "2113608526413324428",
+      "url": "https://x.com/sattoa_ball/status/2113608526413324428",
+      "text": "HoI4で国家方針とは別に、政治力を消費して一定期間だけ政策を実行できるディシジョンMOD\n国家方針とは別の「第二の国家方針」みたいな仕組みを目指してる",
+      "created_at": "2026-10-23T12:28:36+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
+      }
+    },
+    {
+      "id": "2113602131517469105",
+      "url": "https://x.com/sattoa_ball/status/2113602131517469105",
+      "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
+      "created_at": "2026-10-23T12:03:11+00:00",
+      "milestones": {
+        "24": null,
+        "48": null
       }
     },
     {
