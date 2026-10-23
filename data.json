@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-23T15:00:07.661127+00:00",
+  "exported_at": "2026-10-23T15:20:45.014399+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -9249,8 +9249,8 @@
       "text": "マインクラフトたのしい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1812738606068617254",
-      "views": 1686,
-      "metric_observed_at": "2026-10-20T15:11:21.235469+00:00"
+      "views": 1687,
+      "metric_observed_at": "2026-10-23T15:20:45.014232+00:00"
     },
     {
       "article": null,
@@ -9294,8 +9294,8 @@
       "text": "@fuhifum \n一ヶ月で50万再生は速すぎるでしょ…",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1807282745053167757",
-      "views": 399,
-      "metric_observed_at": "2026-10-20T15:11:21.235476+00:00"
+      "views": 400,
+      "metric_observed_at": "2026-10-23T15:20:45.014280+00:00"
     },
     {
       "article": null,
@@ -15251,5 +15251,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T15:00:07.661130+00:00"
+  "last_metric_refresh_at": "2026-10-23T15:20:45.014402+00:00"
 }
