@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 385,
+  "count": 386,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -38,8 +38,8 @@
       "replies": 68,
       "quotes": 30,
       "bookmarks": 84,
-      "views": 118145,
-      "metric_observed_at": "2026-10-23T06:16:41.476532+00:00"
+      "views": 118158,
+      "metric_observed_at": "2026-10-23T07:09:29.085978+00:00"
     },
     {
       "id": "2112922053003407840",
@@ -96,8 +96,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 2884,
-      "metric_observed_at": "2026-10-23T06:16:41.476540+00:00"
+      "views": 2890,
+      "metric_observed_at": "2026-10-23T07:09:29.085985+00:00"
     },
     {
       "id": "2112899046146965923",
@@ -115,7 +115,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 510,
-      "metric_observed_at": "2026-10-23T06:16:41.476547+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086011+00:00"
     },
     {
       "id": "2112895499460395384",
@@ -133,7 +133,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 623,
-      "metric_observed_at": "2026-10-23T06:16:41.476553+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086019+00:00"
     },
     {
       "id": "2112890604552425744",
@@ -151,7 +151,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 405,
-      "metric_observed_at": "2026-10-23T06:16:41.476560+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086027+00:00"
     },
     {
       "id": "2112876917603131458",
@@ -188,7 +188,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 309,
-      "metric_observed_at": "2026-10-23T05:46:22.758493+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086040+00:00"
     },
     {
       "id": "2112876919922503754",
@@ -225,7 +225,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 269,
-      "metric_observed_at": "2026-10-23T05:46:22.758501+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086046+00:00"
     },
     {
       "id": "2112876913899577404",
@@ -390,8 +390,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 25,
-      "views": 4018,
-      "metric_observed_at": "2026-10-23T06:16:41.476568+00:00"
+      "views": 4020,
+      "metric_observed_at": "2026-10-23T07:09:29.086033+00:00"
     },
     {
       "id": "2112851882591092918",
@@ -409,7 +409,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 306,
-      "metric_observed_at": "2026-10-23T06:16:41.476574+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086052+00:00"
     },
     {
       "id": "2112836813060821263",
@@ -445,8 +445,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 2092,
-      "metric_observed_at": "2026-10-23T05:46:22.758518+00:00"
+      "views": 2096,
+      "metric_observed_at": "2026-10-23T07:09:29.086059+00:00"
     },
     {
       "id": "2112801153113264462",
@@ -458,13 +458,13 @@
       "author_id": "1592826578786217984",
       "text": "世界史で信用できない言葉たち\n\n「クリスマスまでには戦争が終わるさ」\n「この領土が最後の要求だ」\n「独立を尊重する」\n「一時的な軍事占領に過ぎない」\n「防衛のための先制攻撃だ」\n「我々は平和を望んでいる」\n「この条約によって恒久的な平和が実現する」\n「この動員は単なる軍事演習だ」",
       "media": [],
-      "likes": 364,
+      "likes": 365,
       "retweets": 32,
       "replies": 9,
       "quotes": 1,
-      "bookmarks": 31,
-      "views": 6593,
-      "metric_observed_at": "2026-10-23T05:46:22.758527+00:00"
+      "bookmarks": 32,
+      "views": 6596,
+      "metric_observed_at": "2026-10-23T07:09:29.086066+00:00"
     },
     {
       "id": "2112772765174616478",
@@ -481,8 +481,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 400,
-      "metric_observed_at": "2026-10-23T05:46:22.758544+00:00"
+      "views": 401,
+      "metric_observed_at": "2026-10-23T07:09:29.086079+00:00"
     },
     {
       "id": "2112772763467583772",
@@ -499,8 +499,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 4,
-      "views": 1613,
-      "metric_observed_at": "2026-10-23T05:46:22.758535+00:00"
+      "views": 1614,
+      "metric_observed_at": "2026-10-23T07:09:29.086072+00:00"
     },
     {
       "id": "2112743815555785039",
@@ -517,8 +517,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 345,
-      "metric_observed_at": "2026-10-23T05:46:22.758552+00:00"
+      "views": 346,
+      "metric_observed_at": "2026-10-23T07:09:29.086085+00:00"
     },
     {
       "id": "2112700275685560781",
@@ -554,8 +554,8 @@
       "replies": 4,
       "quotes": 0,
       "bookmarks": 8,
-      "views": 3220,
-      "metric_observed_at": "2026-10-23T05:46:22.758559+00:00"
+      "views": 3222,
+      "metric_observed_at": "2026-10-23T07:09:29.086091+00:00"
     },
     {
       "id": "2110379127421497774",
@@ -1008,8 +1008,8 @@
       "replies": 17,
       "quotes": 2,
       "bookmarks": 87,
-      "views": 50610,
-      "metric_observed_at": "2026-10-23T05:46:22.758567+00:00"
+      "views": 50620,
+      "metric_observed_at": "2026-10-23T07:09:29.086097+00:00"
     },
     {
       "id": "2112557465653129512",
@@ -1026,8 +1026,8 @@
       "replies": 140,
       "quotes": 49,
       "bookmarks": 63,
-      "views": 75193,
-      "metric_observed_at": "2026-10-23T05:46:22.758576+00:00"
+      "views": 75223,
+      "metric_observed_at": "2026-10-23T07:09:29.086104+00:00"
     },
     {
       "id": "2112548510918934979",
@@ -1063,8 +1063,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1843,
-      "metric_observed_at": "2026-10-23T05:46:22.758584+00:00"
+      "views": 1844,
+      "metric_observed_at": "2026-10-23T07:09:29.086110+00:00"
     },
     {
       "id": "2112511113023922394",
@@ -1081,8 +1081,8 @@
       "replies": 6,
       "quotes": 6,
       "bookmarks": 49,
-      "views": 28132,
-      "metric_observed_at": "2026-10-23T05:46:22.758592+00:00"
+      "views": 28133,
+      "metric_observed_at": "2026-10-23T07:09:29.086116+00:00"
     },
     {
       "id": "2112479868227297540",
@@ -1118,8 +1118,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 5,
-      "views": 3664,
-      "metric_observed_at": "2026-10-23T05:46:22.758601+00:00"
+      "views": 3665,
+      "metric_observed_at": "2026-10-23T07:09:29.086122+00:00"
     },
     {
       "id": "2112466025719677352",
@@ -1358,8 +1358,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 627,
-      "metric_observed_at": "2026-10-23T06:16:41.476454+00:00"
+      "views": 646,
+      "metric_observed_at": "2026-10-23T07:09:29.085902+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -1376,8 +1376,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 595,
-      "metric_observed_at": "2026-10-23T06:16:41.476463+00:00"
+      "views": 604,
+      "metric_observed_at": "2026-10-23T07:09:29.085910+00:00"
     },
     {
       "id": "2113253670980845646",
@@ -1408,13 +1408,13 @@
           }
         ]
       },
-      "likes": 50,
+      "likes": 51,
       "retweets": 2,
       "replies": 3,
       "quotes": 0,
       "bookmarks": 6,
-      "views": 4907,
-      "metric_observed_at": "2026-10-23T06:16:41.476470+00:00"
+      "views": 4978,
+      "metric_observed_at": "2026-10-23T07:09:29.085917+00:00"
     },
     {
       "id": "2113246595026469196",
@@ -1431,8 +1431,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 428,
-      "metric_observed_at": "2026-10-23T06:16:41.476478+00:00"
+      "views": 443,
+      "metric_observed_at": "2026-10-23T07:09:29.085924+00:00"
     },
     {
       "id": "2113230887735476717",
@@ -1503,8 +1503,8 @@
       "replies": 2,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1787,
-      "metric_observed_at": "2026-10-23T06:16:41.476485+00:00"
+      "views": 1812,
+      "metric_observed_at": "2026-10-23T07:09:29.085931+00:00"
     },
     {
       "id": "2113223853811827137",
@@ -1535,13 +1535,13 @@
           }
         ]
       },
-      "likes": 48,
+      "likes": 49,
       "retweets": 1,
       "replies": 0,
-      "quotes": 1,
+      "quotes": 0,
       "bookmarks": 2,
-      "views": 3438,
-      "metric_observed_at": "2026-10-23T06:16:41.476491+00:00"
+      "views": 3461,
+      "metric_observed_at": "2026-10-23T07:09:29.085938+00:00"
     },
     {
       "id": "2113221545892217298",
@@ -1593,13 +1593,13 @@
           }
         }
       },
-      "likes": 603,
+      "likes": 613,
       "retweets": 28,
-      "replies": 105,
+      "replies": 107,
       "quotes": 58,
-      "bookmarks": 364,
-      "views": 155650,
-      "metric_observed_at": "2026-10-23T06:16:41.476499+00:00"
+      "bookmarks": 373,
+      "views": 158919,
+      "metric_observed_at": "2026-10-23T07:09:29.085945+00:00"
     },
     {
       "id": "2113219814651232433",
@@ -1616,8 +1616,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 411,
-      "metric_observed_at": "2026-10-23T06:16:41.476507+00:00"
+      "views": 415,
+      "metric_observed_at": "2026-10-23T07:09:29.085952+00:00"
     },
     {
       "id": "2113209084027765096",
@@ -1674,8 +1674,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 3,
-      "views": 1464,
-      "metric_observed_at": "2026-10-23T06:16:41.476514+00:00"
+      "views": 1475,
+      "metric_observed_at": "2026-10-23T07:09:29.085958+00:00"
     },
     {
       "id": "2113179300077977705",
@@ -1692,8 +1692,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 423,
-      "metric_observed_at": "2026-10-23T06:16:41.476520+00:00"
+      "views": 424,
+      "metric_observed_at": "2026-10-23T07:09:29.085965+00:00"
     },
     {
       "id": "2113077145388089581",
@@ -1711,7 +1711,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 285,
-      "metric_observed_at": "2026-10-23T06:16:41.476526+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.085971+00:00"
     },
     {
       "id": "2110733273794236648",
@@ -3517,6 +3517,43 @@
       "metric_observed_at": "2026-10-21T11:25:00.092244+00:00"
     },
     {
+      "id": "2113528042991837481",
+      "url": "https://x.com/sattoa_ball/status/2113528042991837481",
+      "type": "quote",
+      "created_at": "Fri Oct 23 07:08:47 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "デカルト：我思う、ゆえに我あり。知らんけど\n哲学の根本原理が575の俳句になって最後の5音で全部台無しになっちゃった…",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113527797541228544",
+            "url": "https://pbs.twimg.com/media/HVTCVXtb0AAEWoY.png?name=orig",
+            "width": 250,
+            "height": 306
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113527797541228544",
+            "url": "https://pbs.twimg.com/media/HVTCVXtb0AAEWoY.png?name=orig",
+            "width": 250,
+            "height": 306
+          }
+        ]
+      },
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 8,
+      "metric_observed_at": "2026-10-23T07:09:29.085826+00:00"
+    },
+    {
       "id": "2113506513604186465",
       "url": "https://x.com/sattoa_ball/status/2113506513604186465",
       "type": "reply",
@@ -3531,8 +3568,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 22,
-      "metric_observed_at": "2026-10-23T06:16:41.476421+00:00"
+      "views": 51,
+      "metric_observed_at": "2026-10-23T07:09:29.085876+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -3568,8 +3605,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 50,
-      "metric_observed_at": "2026-10-23T06:16:41.476361+00:00"
+      "views": 103,
+      "metric_observed_at": "2026-10-23T07:09:29.085860+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -3581,13 +3618,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtubeに限らず結局、何をやっても批判する人はいるのだから\n全員から好かれるなんて不可能なんだから、自分がやりたいことをやればいいと思う",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 89,
-      "metric_observed_at": "2026-10-23T06:16:41.476446+00:00"
+      "views": 113,
+      "metric_observed_at": "2026-10-23T07:09:29.085895+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -3599,13 +3636,13 @@
       "author_id": "1592826578786217984",
       "text": "Youtube投稿者あるある\n投稿者「流行の企画を投稿だ」\n批判者「他人の真似ばかり」\n\n投稿者「誰もやらない企画を投稿だ」\n批判者「需要ないことやってどうすんの？」\n\n投稿者「動画を収益化しました」\n批判者「結局金目当てかよ」\n\n投稿者「収益化せず趣味で続けています」\n批判者「時間の無駄じゃん」",
       "media": [],
-      "likes": 3,
+      "likes": 6,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 375,
-      "metric_observed_at": "2026-10-23T06:16:41.476435+00:00"
+      "views": 450,
+      "metric_observed_at": "2026-10-23T07:09:29.085885+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -10432,8 +10469,8 @@
       "text": "ポーランドボールで検索したら\nポーランドボールさとボールって出てくるのマジで嬉しい:⁠-⁠D",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1778944822340112416",
-      "views": 1443,
-      "metric_observed_at": "2026-10-17T17:40:11.659352+00:00"
+      "views": 1445,
+      "metric_observed_at": "2026-10-23T07:09:29.086129+00:00"
     },
     {
       "article": null,
@@ -10476,7 +10513,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1778717488538370224",
       "views": 1232,
-      "metric_observed_at": "2026-10-17T17:40:11.659359+00:00"
+      "metric_observed_at": "2026-10-23T07:09:29.086139+00:00"
     },
     {
       "article": null,
@@ -14897,5 +14934,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-23T06:16:41.476685+00:00"
+  "last_metric_refresh_at": "2026-10-23T07:09:29.086246+00:00"
 }
