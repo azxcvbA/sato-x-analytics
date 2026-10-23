@@ -7,8 +7,8 @@ main{max-width:1100px;margin:auto;padding:30px 18px}h1{font-size:27px}p{color:#b
 .panel{background:#172337;border:1px solid #33435d;border-radius:14px;padding:18px;margin:17px 0}
 .controls{display:flex;gap:9px;flex-wrap:wrap;align-items:center;margin:13px 0}button,input,select{background:#263955;color:white;border:1px solid #526682;border-radius:7px;padding:10px;font:inherit}
 button{cursor:pointer}input[type=file]{max-width:100%}input[type=search]{width:min(320px,100%)}label{color:#cad7e9}
-table{width:100%;border-collapse:collapse}th,td{padding:11px 9px;border-bottom:1px solid #33435d;text-align:left}
-th{color:#b8c9e1}td:last-child{font-variant-numeric:tabular-nums;text-align:right}th:last-child{text-align:right}
+table{width:max-content;min-width:100%;border-collapse:collapse}th,td{padding:11px 9px;border-bottom:1px solid #33435d;text-align:left}
+th{color:#b8c9e1}td:nth-child(n+4){font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}th:nth-child(n+4){text-align:right;white-space:nowrap}thead th{position:sticky;top:0;background:#21324c}th button{background:none;border:0;padding:0;color:#b8c9e1;font-weight:700;cursor:pointer}th button:hover{text-decoration:underline}
 a{color:#8bbcff}.status{color:#a8d6ff}.warn{color:#ffd38b}.sub{font-size:13px}.scroller{overflow-x:auto}
 </style></head><body><main>
 <p><a href="../">← X分析サイトに戻る</a></p>
@@ -16,27 +16,27 @@ a{color:#8bbcff}.status{color:#a8d6ff}.warn{color:#ffd38b}.sub{font-size:13px}.s
 <p>Hearts of Iron IV のキャリアプロフィール（.pr）を端末内で解析し、国家別の実統計をランキング表示します。ファイルはサーバーに送信されません。</p>
 <section class="panel"><label for="file">キャリアプロフィールを選択</label><div class="controls"><input id="file" type="file" accept=".pr,.bin,application/octet-stream"></div>
 <div id="status" class="status" role="status">.pr ファイルを選択してください。</div>
-<p class="warn sub">検証済みの8項目のみ表示します。プレイ時間・人的損失などは識別子が未確認のため表示しません。複数のデータ群を合算せず、群ごとに表示します。</p></section>
+<p class="warn sub">確認済みの統計を全列表示します。人的損失など未実装の項目は表示しません。複数のデータ群を合算せず、群ごとに表示します。時間は実プレイ時間（時）、平均は1プレイスルー開始あたりの時間です。</p></section>
 <section class="panel">
 <div class="controls">
 <label for="group">データ群</label><select id="group" disabled><option value="">未読込</option></select>
-<label for="metric">ランキング</label><select id="metric">
+<label for="metric">並べ替える項目</label><select id="metric">
 <option value="starts">プレイスルーの開始</option><option value="factories">建設した工場</option>
 <option value="liberated">解放した国家</option><option value="coups">成功したクーデター</option>
 <option value="pride">沈没した海軍の誇り</option><option value="aces">撃墜されたエース</option>
-<option value="ships">建造した艦艇</option><option value="tanks">製造した戦車</option>
+<option value="ships">建造した艦艇</option><option value="tanks">製造した戦車</option><option value="playtime">プレイ時間（時間）</option><option value="yearsPerHour">年／プレイ時間（年／時間）</option><option value="averageHours">平均プレイ時間（時間／開始）</option>
 </select>
 <input id="search" type="search" placeholder="国家名・タグを検索">
 <select id="sort"><option value="desc">多い順</option><option value="asc">少ない順</option><option value="tag">国家タグ順</option><option value="name">国家名順</option></select>
 <button id="csv">CSVを保存</button><button id="copy">表をコピー</button>
 </div>
-<p id="summary">データ未読込</p><div class="scroller"><table><thead><tr><th>順位</th><th>国家名</th><th>タグ</th><th id="valueHeading">プレイスルーの開始</th></tr></thead><tbody id="rows"></tbody></table></div>
+<p id="summary">データ未読込</p><div class="scroller"><table><thead><tr><th>順位</th><th>国家名</th><th>タグ</th><th id="metricHeadings">統計</th></tr></thead><tbody id="rows"></tbody></table></div>
 </section>
-<p class="sub">解析仕様：統計レコードを終端側の国家タグと結び付け、型 0x0014 の32ビット整数を識別子で抽出します。8項目はゲーム内ドイツ・MOD統計との照合済み。国家名は一部の代表的タグに対応し、未登録タグはそのまま表示します。ローカルファイルの再選択で新しい統計を反映できます。</p>
+<p class="sub">解析仕様：統計レコードを終端側の国家タグと結び付け、型 0x0014 の32ビット整数を識別子で抽出します。ゲーム内経過月数（0x3E3C）と実プレイ秒数（0x3E2A）もドイツ・MOD統計と照合済み。年／プレイ時間＝（経過月数÷12）÷（実プレイ秒数÷3600）、平均プレイ時間＝実プレイ時間÷プレイスルー開始数。国家名は一部の代表的タグに対応し、未登録タグはそのまま表示します。ローカルファイルの再選択で新しい統計を反映できます。</p>
 </main><script>
 'use strict';
 const $=id=>document.getElementById(id);
-const defs={starts:['プレイスルーの開始',0x3e2b],factories:['建設した工場',0x3e32],liberated:['解放した国家',0x3e2f],coups:['成功したクーデター',0x3e30],pride:['沈没した海軍の誇り',0x3e2d],aces:['撃墜されたエース',0x3e2c],ships:['建造した艦艇',0x3e28],tanks:['製造した戦車',0x3e29]};
+const defs={starts:['プレイスルーの開始',0x3e2b],factories:['建設した工場',0x3e32],liberated:['解放した国家',0x3e2f],coups:['成功したクーデター',0x3e30],pride:['沈没した海軍の誇り',0x3e2d],aces:['撃墜されたエース',0x3e2c],ships:['建造した艦艇',0x3e28],tanks:['製造した戦車',0x3e29],playtime:['プレイ時間（時間）',null],yearsPerHour:['年／プレイ時間（年／時間）',null],averageHours:['平均プレイ時間（時間／開始）',null]};
 const names={GER:'ドイツ国',ITA:'イタリア',JAP:'日本',SOV:'ソビエト連邦',USA:'アメリカ合衆国',ENG:'イギリス',FRA:'フランス',POL:'ポーランド',CHI:'中華民国',PRC:'中国共産党',RNG:'中華民国国民政府',MAN:'満洲国',MEN:'蒙古聯合自治政府',MON:'モンゴル',TAN:'タンヌ・トゥヴァ',ROM:'ルーマニア',HUN:'ハンガリー',BUL:'ブルガリア',GRE:'ギリシャ',TUR:'トルコ',FIN:'フィンランド',SWE:'スウェーデン',NOR:'ノルウェー',DEN:'デンマーク',ICE:'アイスランド',LAT:'ラトビア',LIT:'リトアニア',EST:'エストニア',CZE:'チェコスロバキア',AUS:'オーストラリア',NZL:'ニュージーランド',CAN:'カナダ',RAJ:'イギリス領インド',AST:'オーストラリア',SAF:'南アフリカ',BRA:'ブラジル',ARG:'アルゼンチン',MEX:'メキシコ',SPR:'スペイン共和国',SPA:'スペイン国',POR:'ポルトガル',HOL:'オランダ',BEL:'ベルギー',SWI:'スイス',LUX:'ルクセンブルク',YUG:'ユーゴスラビア',ALB:'アルバニア',IRQ:'イラク',PER:'イラン',AFG:'アフガニスタン',SIA:'シャム',PHI:'フィリピン',INS:'オランダ領東インド',ETH:'エチオピア',EGY:'エジプト',SAU:'サウジアラビア',ISR:'イスラエル',KOR:'韓国',NKO:'北朝鮮',RUS:'ロシア',UKR:'ウクライナ',BLR:'ベラルーシ',PRU:'プロイセン',TAL:'タリバン',CHA:'チャド'};
 let groups=[],current=[];
 function u16(b,i){return b[i]|b[i+1]<<8}
@@ -54,9 +54,13 @@ function parse(bytes){
   while(idx+1<markers.length&&markers[idx+1].pos<first)idx++;
   const group=markers[idx]?.id??0;
   const fields={};const stop=Math.min(first+2130,t.pos);
-  for(let j=first;j+10<=stop;j++)if(bytes[j+2]===1&&bytes[j+3]===0&&bytes[j+4]===20&&bytes[j+5]===0){const id=u16(bytes,j);if(Object.values(defs).some(x=>x[1]===id)&&fields[id]===undefined)fields[id]=u32(bytes,j+6);j+=9;}
+  for(let j=first;j+10<=stop;j++)if(bytes[j+2]===1&&bytes[j+3]===0&&bytes[j+4]===20&&bytes[j+5]===0){const id=u16(bytes,j);if((Object.values(defs).some(x=>x[1]===id&&id!==null)||id===0x3e2a||id===0x3e3c)&&fields[id]===undefined)fields[id]=u32(bytes,j+6);j+=9;}
   if(fields[0x3e2b]===undefined)continue;
-  const stats={};for(const [key,def] of Object.entries(defs))stats[key]=fields[def[1]]??null;
+  const stats={};for(const [key,def] of Object.entries(defs))if(def[1]!==null)stats[key]=fields[def[1]]??null;
+  const seconds=fields[0x3e2a],months=fields[0x3e3c],starts=stats.starts;
+  stats.playtime=seconds===undefined?null:seconds/3600;
+  stats.yearsPerHour=seconds>0&&months!==undefined?(months/12)/(seconds/3600):null;
+  stats.averageHours=seconds!==undefined&&starts>0?seconds/3600/starts:null;
   found.push({tag:t.tag,name:names[t.tag]||t.tag,group,stats});
  }
  return found;
@@ -73,14 +77,23 @@ function visible(){
  const sort=$('sort').value;list.sort((a,b)=>sort==='tag'?a.tag.localeCompare(b.tag):sort==='name'?a.name.localeCompare(b.name,'ja'):sort==='asc'?a.stats[key]-b.stats[key]||a.tag.localeCompare(b.tag):b.stats[key]-a.stats[key]||a.tag.localeCompare(b.tag));
  return list;
 }
+const statKeys=Object.keys(defs);
+function formatStat(key,val){if(val===null||val===undefined)return '—';return val.toLocaleString('ja-JP',{maximumFractionDigits:['playtime','averageHours','yearsPerHour'].includes(key)?2:0});}
 function render(){
- const list=visible(),key=$('metric').value;$('valueHeading').textContent=defs[key][0];
- $('rows').replaceChildren(...list.map((r,i)=>{const tr=document.createElement('tr');[i+1,r.name,r.tag,r.stats[key].toLocaleString('ja-JP')].forEach(v=>{const td=document.createElement('td');td.textContent=v;tr.append(td);});return tr;}));
+ const list=visible(),key=$('metric').value;
+ const heading=$('metricHeadings');heading.textContent='';heading.colSpan=statKeys.length;
+ $('rows').replaceChildren(...list.map((r,i)=>{const tr=document.createElement('tr');[i+1,r.name,r.tag,...statKeys.map(k=>formatStat(k,r.stats[k]))].forEach(v=>{const td=document.createElement('td');td.textContent=v;tr.append(td);});return tr;}));
  $('summary').textContent=groups.length?'表示：'+list.length+'件 / 対象：'+(groups.find(g=>String(g.id)===$('group').value)?.rows.length||0)+'レコード':'データ未読込';
 }
+function setupHeaders(){
+ const thead=document.querySelector('thead tr');thead.replaceChildren();
+ for(const title of ['順位','国家名','タグ']){const th=document.createElement('th');th.textContent=title;thead.append(th);}
+ for(const key of statKeys){const th=document.createElement('th'),button=document.createElement('button');button.type='button';button.textContent=defs[key][0];button.title='この項目で並べ替え';button.addEventListener('click',()=>{$('metric').value=key;$('sort').value='desc';render();});th.append(button);thead.append(th);}
+}
+setupHeaders();
 $('file').addEventListener('change',async e=>{const file=e.target.files[0];if(!file)return;try{const rows=parse(new Uint8Array(await file.arrayBuffer()));if(!rows.length)throw Error('統計レコードを検出できませんでした');loadGroups(rows);$('status').textContent=file.name+'：'+rows.length+'統計レコードを解析。データ群を選択してランキングを確認してください。';}catch(err){groups=[];$('group').disabled=true;$('status').textContent='解析エラー：'+err.message;render();}});
 for(const id of ['group','metric','sort'])$(id).addEventListener('change',render);$('search').addEventListener('input',render);
-function csv(){const key=$('metric').value;return ['順位','国家名','国家タグ',defs[key][0]].join(',')+'\r\n'+visible().map((r,i)=>[i+1,r.name,r.tag,r.stats[key]].map(s=>'"'+String(s).replace(/"/g,'""')+'"').join(',')).join('\r\n');}
+function csv(){return ['順位','国家名','国家タグ',...statKeys.map(k=>defs[k][0])].join(',')+'\r\n'+visible().map((r,i)=>[i+1,r.name,r.tag,...statKeys.map(k=>r.stats[k]??'')].map(s=>'"'+String(s).replace(/"/g,'""')+'"').join(',')).join('\r\n');}
 $('csv').addEventListener('click',()=>{const url=URL.createObjectURL(new Blob(['\ufeff'+csv()],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='hoi4-career-'+$('metric').value+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});
 $('copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(csv());$('status').textContent='ランキング表をコピーしました。';}catch(err){$('status').textContent='コピーに失敗しました。CSV保存を使用してください。';}});
 </script></body></html>
