@@ -32,12 +32,13 @@ a{color:#8bbcff}.status{color:#a8d6ff}.warn{color:#ffd38b}.sub{font-size:13px}.s
 </div>
 <p id="summary">データ未読込</p><div class="scroller"><table><thead><tr><th>順位</th><th>国家名</th><th>タグ</th><th id="metricHeadings">統計</th></tr></thead><tbody id="rows"></tbody></table></div>
 </section>
-<p class="sub">解析仕様：統計レコードを終端側の国家タグと結び付け、型 0x0014 の32ビット整数を識別子で抽出します。ゲーム内経過月数（0x3E3C）と実プレイ秒数（0x3E2A）もドイツ・MOD統計と照合済み。年／プレイ時間＝（経過月数÷12）÷（実プレイ秒数÷3600）、平均プレイ時間＝実プレイ時間÷プレイスルー開始数。国家名は一部の代表的タグに対応し、未登録タグはそのまま表示します。ローカルファイルの再選択で新しい統計を反映できます。</p>
+<p class="sub">解析仕様：統計レコードを終端側の国家タグと結び付け、型 0x0014 の32ビット整数を識別子で抽出します。ゲーム内経過月数（0x3E3C）と実プレイ秒数（0x3E2A）もドイツ・MOD統計と照合済み。年／プレイ時間＝（経過月数÷12）÷（実プレイ秒数÷3600）、平均プレイ時間＝実プレイ時間÷プレイスルー開始数。国家名はHoI4のタグ定義を基に表示します。未確認のMOD固有タグは「名称未確認」と表示し、タグ列に識別子を残します。ローカルファイルの再選択で新しい統計を反映できます。</p>
 </main><script>
 'use strict';
 const $=id=>document.getElementById(id);
 const defs={starts:['プレイスルーの開始',0x3e2b],factories:['建設した工場',0x3e32],liberated:['解放した国家',0x3e2f],coups:['成功したクーデター',0x3e30],pride:['沈没した海軍の誇り',0x3e2d],aces:['撃墜されたエース',0x3e2c],ships:['建造した艦艇',0x3e28],tanks:['製造した戦車',0x3e29],playtime:['プレイ時間（時間）',null],yearsPerHour:['年／プレイ時間（年／時間）',null],averageHours:['平均プレイ時間（時間／開始）',null]};
 const names={GER:'ドイツ国',ITA:'イタリア',JAP:'日本',SOV:'ソビエト連邦',USA:'アメリカ合衆国',ENG:'イギリス',FRA:'フランス',POL:'ポーランド',CHI:'中華民国',PRC:'中国共産党',RNG:'中華民国国民政府',MAN:'満洲国',MEN:'蒙古聯合自治政府',MON:'モンゴル',TAN:'タンヌ・トゥヴァ',ROM:'ルーマニア',HUN:'ハンガリー',BUL:'ブルガリア',GRE:'ギリシャ',TUR:'トルコ',FIN:'フィンランド',SWE:'スウェーデン',NOR:'ノルウェー',DEN:'デンマーク',ICE:'アイスランド',LAT:'ラトビア',LIT:'リトアニア',EST:'エストニア',CZE:'チェコスロバキア',AUS:'オーストラリア',NZL:'ニュージーランド',CAN:'カナダ',RAJ:'イギリス領インド',AST:'オーストラリア',SAF:'南アフリカ',BRA:'ブラジル',ARG:'アルゼンチン',MEX:'メキシコ',SPR:'スペイン共和国',SPA:'スペイン国',POR:'ポルトガル',HOL:'オランダ',BEL:'ベルギー',SWI:'スイス',LUX:'ルクセンブルク',YUG:'ユーゴスラビア',ALB:'アルバニア',IRQ:'イラク',PER:'イラン',AFG:'アフガニスタン',SIA:'シャム',PHI:'フィリピン',INS:'オランダ領東インド',ETH:'エチオピア',EGY:'エジプト',SAU:'サウジアラビア',ISR:'イスラエル',KOR:'韓国',NKO:'北朝鮮',RUS:'ロシア',UKR:'ウクライナ',BLR:'ベラルーシ',PRU:'プロイセン',TAL:'タリバン',CHA:'チャド'};
+Object.assign(names,{"AUS":"オーストリア","AST":"オーストラリア","PRU":"ペルー","PRE":"プロイセン","PAP":"教皇領","SIC":"両シチリア王国","ROA":"ドイツ領東アジア","VEN":"ベネズエラ","SYR":"シリア","KUW":"クウェート","DOM":"ドミニカ共和国","SLO":"スロバキア","XSM":"西北三馬","SER":"セルビア","CRO":"クロアチア","BOS":"ボスニア","MAC":"マケドニア","MNT":"モンテネグロ","SLV":"スロベニア","SCO":"スコットランド","IRE":"アイルランド","RHI":"ラインラント","RIG":"リオ・グランデ共和国","GEO":"ジョージア","AZR":"アゼルバイジャン","KAZ":"カザフスタン","KYR":"キルギス","UZB":"ウズベキスタン","TMS":"トルクメニスタン","MOL":"モルドバ","FER":"極東共和国","SHX":"山西軍閥","SIK":"新疆","GXC":"広西軍閥","YUN":"雲南軍閥","XIC":"西康","TIB":"チベット","NEP":"ネパール","BHU":"ブータン","PAK":"パキスタン","KHL":"カリスタン","KSH":"カシミール","MAL":"マラヤ","CAM":"カンボジア","VIN":"ベトナム","LAO":"ラオス","BRM":"ビルマ","KHM":"クメール","OKN":"琉球王国","ANU":"アイヌ共和国","LBA":"リビア","LEB":"レバノン","JOR":"ヨルダン","PAL":"パレスチナ","OMA":"オマーン","YEM":"イエメン","KUR":"クルディスタン","ALG":"アルジェリア","MOR":"モロッコ","TUN":"チュニジア","ERI":"エリトリア","SOM":"ソマリア","GNB":"ギニアビサウ","MLI":"マリ","CAR":"中央アフリカ共和国","CAY":"カイエンヌ","COG":"コンゴ","RWA":"ルワンダ","WES":"西サハラ","AFA":"オーッサ・スルタン国","AOI":"イタリア領東アフリカ","CHL":"チリ","COL":"コロンビア","BOL":"ボリビア","PAR":"パラグアイ","URG":"ウルグアイ","ECU":"エクアドル","PAN":"パナマ","NIC":"ニカラグア","HON":"ホンジュラス","GUA":"グアテマラ","ELS":"エルサルバドル","COS":"コスタリカ","CUB":"キューバ","HAI":"ハイチ","GDL":"グアドループ","CRC":"キュラソー","SAN":"サンマリノ","SMR":"サンマリノ","TNE":"テルナテ・スルタン国","TTS":"トスカーナ","GEN":"ジェノヴァ共和国","RUT":"ルテニア","OCC":"オクシタニア","CAT":"カタルーニャ","NAV":"ナバラ","SIL":"シレジア","BAY":"バイエルン","DNZ":"自由都市ダンツィヒ","RKO":"オストラント国家弁務官区","RKU":"ウクライナ国家弁務官区","RKM":"モスクワ国家弁務官区","RKH":"ベーメン・メーレン保護領","RKB":"ベルギー国家弁務官区","RKC":"バルカン国家弁務官区","RKG":"ノルウェー国家弁務官区","RKN":"オランダ国家弁務官区","RKV":"クライン・ヴェネディヒ国家弁務官区","ADR":"アンドラ","LIB":"リベリア","LIE":"リヒテンシュタイン","MNC":"モナコ","KOM":"コミ共和国","TAT":"タタールスタン","VAT":"バチカン市国","HBC":"冀察政務委員会"});
 let groups=[],current=[];
 function u16(b,i){return b[i]|b[i+1]<<8}
 function u32(b,i){return (b[i]|b[i+1]<<8|b[i+2]<<16|b[i+3]<<24)>>>0}
@@ -61,7 +62,7 @@ function parse(bytes){
   stats.playtime=seconds===undefined?null:seconds/3600;
   stats.yearsPerHour=seconds>0&&months!==undefined?(months/12)/(seconds/3600):null;
   stats.averageHours=seconds!==undefined&&starts>0?seconds/3600/starts:null;
-  found.push({tag:t.tag,name:names[t.tag]||t.tag,group,stats});
+  found.push({tag:t.tag,name:names[t.tag]||'名称未確認',group,stats});
  }
  return found;
 }
