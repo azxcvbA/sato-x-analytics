@@ -11,6 +11,8 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
+import re
 from datetime import datetime, timezone
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -70,12 +72,36 @@ def convert(post):
     return item
 
 
+
+def fallback_posts():
+    """Discover recent IDs from public RSS; verify each via status API."""
+    ids = []
+    for host in ("rsshub.app", "rsshub.rssforever.com"):
+        url = "https://" + host + "/twitter/user/" + HANDLE
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=15) as response:
+                root = ET.fromstring(response.read(2000000))
+            for node in root.findall(".//item"):
+                for link in (node.findtext("link") or "", node.findtext("guid") or ""):
+                    match = re.search(r"/status(?:es)?/(\d{10,25})", link)
+                    if match and match.group(1) not in ids:
+                        ids.append(match.group(1))
+            print("RSS discovery found", len(ids), "IDs")
+            if ids:
+                break
+        except Exception as exc:
+            print("RSS discovery failed:", url, repr(exc))
+    return ids[:80]
+
+
 def main():
     data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
     rows = data["tweets"]
     indexed = {str(row["id"]): row for row in rows if row.get("id")}
     original_ids = set(indexed)
     fetched = []
+    timeline_ok = False
     cursor = None
     seen_cursors = set()
 
@@ -92,6 +118,7 @@ def main():
         if not isinstance(results, list):
             print("Timeline results missing; skipping page")
             break
+        timeline_ok = True
         fetched.extend(results)
         print("Timeline page", page + 1, "posts", len(results))
         if not results:
@@ -104,6 +131,22 @@ def main():
             break
         seen_cursors.add(cursor)
         time.sleep(1)
+
+
+    if not timeline_ok:
+        print("WARNING: timeline endpoint unavailable; attempting RSS fallback")
+        for ident in fallback_posts():
+            if ident in original_ids:
+                continue
+            try:
+                status = request("/status/" + ident).get("status")
+                if isinstance(status, dict):
+                    fetched.append(status)
+            except Exception as exc:
+                print("Fallback status failed:", ident, repr(exc))
+            time.sleep(0.3)
+        if not any((converted := convert(p)) and converted["id"] not in original_ids for p in fetched):
+            print("WARNING: no new posts recovered; new-post collection degraded")
 
     # Check a rotating slice of older posts to keep their engagement updated.
     # Avoid checking the same post twice in a single run.
@@ -157,6 +200,7 @@ def main():
     if added or changed:
         rows.sort(key=lambda row: row.get("created_at") or "", reverse=True)
         data["count"] = len(rows)
+        data["exported_at"] = datetime.now(timezone.utc).isoformat()
         data["last_metric_refresh_at"] = datetime.now(timezone.utc).isoformat()
         DATA_FILE.write_text(
             json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
