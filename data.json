@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-24T10:06:10.996332+00:00",
+  "exported_at": "2026-10-24T10:22:01.141454+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -2481,13 +2481,13 @@
           }
         ]
       },
-      "likes": 8,
+      "likes": 11,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 300,
-      "metric_observed_at": "2026-10-24T10:06:10.995812+00:00"
+      "views": 486,
+      "metric_observed_at": "2026-10-24T10:22:01.141140+00:00"
     },
     {
       "id": "2113869365854756944",
@@ -2504,8 +2504,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "metric_observed_at": "2026-10-24T10:06:10.995862+00:00",
-      "views": 197
+      "metric_observed_at": "2026-10-24T10:22:01.141191+00:00",
+      "views": 202
     },
     {
       "id": "2113869364034494790",
@@ -2536,13 +2536,13 @@
           }
         ]
       },
-      "likes": 27,
-      "retweets": 0,
+      "likes": 29,
+      "retweets": 1,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 832,
-      "metric_observed_at": "2026-10-24T10:06:10.995845+00:00"
+      "views": 862,
+      "metric_observed_at": "2026-10-24T10:22:01.141178+00:00"
     },
     {
       "id": "2113840176934117792",
@@ -2573,13 +2573,13 @@
           }
         ]
       },
-      "likes": 80,
+      "likes": 81,
       "retweets": 8,
       "replies": 2,
       "quotes": 0,
       "bookmarks": 8,
-      "views": 3538,
-      "metric_observed_at": "2026-10-24T10:06:10.995873+00:00"
+      "views": 3590,
+      "metric_observed_at": "2026-10-24T10:22:01.141201+00:00"
     },
     {
       "id": "2113840178716701131",
@@ -2596,8 +2596,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 701,
-      "metric_observed_at": "2026-10-24T10:06:10.995883+00:00"
+      "views": 712,
+      "metric_observed_at": "2026-10-24T10:22:01.141211+00:00"
     },
     {
       "id": "2113829763051913680",
@@ -2628,13 +2628,13 @@
           }
         ]
       },
-      "likes": 379,
+      "likes": 385,
       "retweets": 25,
       "replies": 10,
       "quotes": 4,
-      "bookmarks": 47,
-      "views": 97791,
-      "metric_observed_at": "2026-10-24T10:06:10.995891+00:00"
+      "bookmarks": 48,
+      "views": 100035,
+      "metric_observed_at": "2026-10-24T10:22:01.141219+00:00"
     },
     {
       "id": "2113804425274032455",
@@ -2687,12 +2687,12 @@
         }
       },
       "likes": 15,
-      "retweets": 0,
+      "retweets": 1,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 2025,
-      "metric_observed_at": "2026-10-24T10:06:10.995900+00:00"
+      "views": 2031,
+      "metric_observed_at": "2026-10-24T10:22:01.141227+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -3768,13 +3768,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も過大評価されている国家ってどこだと思う？\n知名度やイメージでは超大国扱いされているけど、実際の軍事力・経済力・外交実績を見るとそこまで強くなかった国家\n逆に過小評価されている国家でも可OK",
       "media": [],
-      "likes": 263,
+      "likes": 264,
       "retweets": 15,
-      "replies": 74,
+      "replies": 75,
       "quotes": 29,
       "bookmarks": 76,
-      "views": 139130,
-      "metric_observed_at": "2026-10-24T10:06:10.995908+00:00"
+      "views": 140095,
+      "metric_observed_at": "2026-10-24T10:22:01.141236+00:00"
     },
     {
       "id": "2113616044019610013",
@@ -3811,7 +3811,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 780,
-      "metric_observed_at": "2026-10-24T10:06:10.995917+00:00"
+      "metric_observed_at": "2026-10-24T10:22:01.141244+00:00"
     },
     {
       "id": "2113608526413324428",
@@ -3847,8 +3847,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 896,
-      "metric_observed_at": "2026-10-24T10:06:10.995925+00:00"
+      "views": 898,
+      "metric_observed_at": "2026-10-24T10:22:01.141251+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3860,13 +3860,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
       "media": [],
-      "likes": 71,
+      "likes": 74,
       "retweets": 7,
       "replies": 1,
-      "quotes": 0,
+      "quotes": 1,
       "bookmarks": 12,
-      "views": 10180,
-      "metric_observed_at": "2026-10-24T10:06:10.995932+00:00"
+      "views": 10486,
+      "metric_observed_at": "2026-10-24T10:22:01.141259+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3902,8 +3902,8 @@
       "replies": 2,
       "quotes": 2,
       "bookmarks": 1,
-      "views": 11566,
-      "metric_observed_at": "2026-10-24T10:06:10.995940+00:00"
+      "views": 11596,
+      "metric_observed_at": "2026-10-24T10:22:01.141267+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3920,8 +3920,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 889,
-      "metric_observed_at": "2026-10-24T10:06:10.995956+00:00"
+      "views": 894,
+      "metric_observed_at": "2026-10-24T10:22:01.141281+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3952,13 +3952,13 @@
           }
         ]
       },
-      "likes": 112,
+      "likes": 113,
       "retweets": 5,
       "replies": 6,
       "quotes": 1,
       "bookmarks": 12,
-      "views": 6762,
-      "metric_observed_at": "2026-10-24T10:06:10.995948+00:00"
+      "views": 6790,
+      "metric_observed_at": "2026-10-24T10:22:01.141274+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -4016,7 +4016,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 1207,
-      "metric_observed_at": "2026-10-24T10:06:10.995963+00:00"
+      "metric_observed_at": "2026-10-24T10:22:01.141289+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -4034,7 +4034,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 337,
-      "metric_observed_at": "2026-10-24T10:06:10.996024+00:00"
+      "metric_observed_at": "2026-10-24T10:22:01.141305+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -4071,7 +4071,7 @@
       "quotes": 0,
       "bookmarks": 0,
       "views": 1173,
-      "metric_observed_at": "2026-10-24T10:06:10.995971+00:00"
+      "metric_observed_at": "2026-10-24T10:22:01.141297+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -4108,7 +4108,7 @@
       "quotes": 0,
       "bookmarks": 1,
       "views": 335,
-      "metric_observed_at": "2026-10-24T10:06:10.996033+00:00"
+      "metric_observed_at": "2026-10-24T10:22:01.141313+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -4125,8 +4125,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 5581,
-      "metric_observed_at": "2026-10-24T10:06:10.996049+00:00"
+      "views": 5583,
+      "metric_observed_at": "2026-10-24T10:22:01.141329+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -4162,8 +4162,8 @@
       "replies": 94,
       "quotes": 4,
       "bookmarks": 43,
-      "views": 38089,
-      "metric_observed_at": "2026-10-24T10:06:10.996041+00:00"
+      "views": 38125,
+      "metric_observed_at": "2026-10-24T10:22:01.141321+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -6792,8 +6792,8 @@
       "text": "トレンドのランキングで\nトモコレがニンダイ超えちゃった、えぐい",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1905269673870188811",
-      "views": 2548,
-      "metric_observed_at": "2026-10-20T00:25:50.085399+00:00"
+      "views": 2561,
+      "metric_observed_at": "2026-10-24T10:22:01.141337+00:00"
     },
     {
       "article": null,
@@ -6835,8 +6835,8 @@
       "text": "ウクライナのロシア侵攻パート２",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1904498386562101337",
-      "views": 2470,
-      "metric_observed_at": "2026-10-21T06:07:52.740806+00:00"
+      "views": 2483,
+      "metric_observed_at": "2026-10-24T10:22:01.141347+00:00"
     },
     {
       "article": null,
@@ -15494,5 +15494,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-24T10:06:10.996335+00:00"
+  "last_metric_refresh_at": "2026-10-24T10:22:01.141457+00:00"
 }
