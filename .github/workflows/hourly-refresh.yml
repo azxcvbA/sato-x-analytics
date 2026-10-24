@@ -1,7 +1,5 @@
 name: Post metrics every 10 minutes
 on:
-  schedule:
-    - cron: '7,17,27,37,47,57 * * * *'
   push:
     paths:
       - '.github/workflows/hourly-refresh.yml'
@@ -22,7 +20,7 @@ jobs:
           python-version: '3.12'
       - name: Update recent known post metrics (unofficial public data)
         env:
-          SATO_ENABLE_UNOFFICIAL_REFRESH: ${{ vars.SATO_ENABLE_UNOFFICIAL_REFRESH != '0' && '1' || '0' }}
+          SATO_ENABLE_UNOFFICIAL_REFRESH: '0'
         run: python scripts/refresh.py
       - name: Record timestamped observations
         run: python scripts/record_history.py
