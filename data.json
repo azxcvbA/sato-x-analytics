@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-24T00:18:23.109227+00:00",
+  "exported_at": "2026-10-24T01:15:57.300567+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -14356,7 +14356,7 @@
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698678716073996491",
       "views": 212,
-      "metric_observed_at": "2026-10-19T22:54:25.991919+00:00"
+      "metric_observed_at": "2026-10-24T01:15:57.300376+00:00"
     },
     {
       "article": null,
@@ -14398,7 +14398,8 @@
       "text": "自作国()",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1698353596134547510",
-      "views": 539
+      "views": 539,
+      "metric_observed_at": "2026-10-24T01:15:57.300423+00:00"
     },
     {
       "article": null,
@@ -15251,5 +15252,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-24T00:18:23.109230+00:00"
+  "last_metric_refresh_at": "2026-10-24T01:15:57.300572+00:00"
 }
