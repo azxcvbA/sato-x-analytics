@@ -1,7 +1,7 @@
 {
   "version": 1,
   "tolerance_minutes": 90,
-  "generated_at": "2026-10-24T04:06:42.230942+00:00",
+  "generated_at": "2026-10-24T04:37:01.445705+00:00",
   "posts": [
     {
       "id": "2112923074404491446",
@@ -2367,7 +2367,16 @@
       "text": "きっかけになった前回の国家指導者Tier表はこちら\nhttps://x.com/sattoa_ball/status/2113221545892217298?s=20",
       "created_at": "2026-10-23T05:43:14+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-24T04:37:00+00:00",
+          "offset_minutes": -66.2,
+          "views": 4601,
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "quotes": 0,
+          "bookmarks": 0
+        },
         "48": null
       }
     },
@@ -2377,7 +2386,16 @@
       "text": "前に投稿した国家指導者Tier表のリプ欄に中国の方が割といたから、今回は中国共産党・中華人民共和国の歴代指導者31人でTier表を作ってみたぞ\nS〜Eの6段階評価でかなり賛否が分かれそうな配置もあるだろうね 異論や反論は歓迎する 特に「この指導者はもっと上（or下）だろ」という意見があれば聞きたい",
       "created_at": "2026-10-23T05:42:18+00:00",
       "milestones": {
-        "24": null,
+        "24": {
+          "observed_at": "2026-10-24T04:37:00+00:00",
+          "offset_minutes": -65.3,
+          "views": 31403,
+          "likes": 80,
+          "retweets": 2,
+          "replies": 79,
+          "quotes": 3,
+          "bookmarks": 31
+        },
         "48": null
       }
     },
