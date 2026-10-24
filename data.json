@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-10-24T03:32:57.212429+00:00",
+  "exported_at": "2026-10-24T04:06:41.420166+00:00",
   "title": "@sattoa_ball",
   "source": {
     "type": "profile",
@@ -21,7 +21,7 @@
     "tweets": 671,
     "verified": false
   },
-  "count": 398,
+  "count": 400,
   "tweets": [
     {
       "id": "2112923074404491446",
@@ -1358,8 +1358,8 @@
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 813,
-      "metric_observed_at": "2026-10-24T03:32:57.212175+00:00"
+      "views": 816,
+      "metric_observed_at": "2026-10-24T04:06:41.420029+00:00"
     },
     {
       "id": "2113286854451896731",
@@ -2453,6 +2453,61 @@
       "metric_observed_at": "2026-10-21T03:48:36.529585+00:00"
     },
     {
+      "id": "2113840176934117792",
+      "url": "https://x.com/sattoa_ball/status/2113840176934117792",
+      "type": "tweet",
+      "created_at": "Sat Oct 24 03:49:06 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "サモアって非武装地帯だったの？？？？？？\nHoi4を購入してからもう半年ほど経過するが\n今初めて知ったんだが\n\n…調べたところ\n1920年の西サモア委任統治規約・第4条には\n「軍事基地・海軍基地・要塞などの建設が禁止」とされてるようだ\nそんな細かい史実まで再現していたのか…",
+      "media": {
+        "all": [
+          {
+            "type": "photo",
+            "id": "2113839100214341632",
+            "url": "https://pbs.twimg.com/media/HVXddkibcAA6jwv.png?name=orig",
+            "width": 543,
+            "height": 401
+          }
+        ],
+        "photos": [
+          {
+            "type": "photo",
+            "id": "2113839100214341632",
+            "url": "https://pbs.twimg.com/media/HVXddkibcAA6jwv.png?name=orig",
+            "width": 543,
+            "height": 401
+          }
+        ]
+      },
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 56,
+      "metric_observed_at": "2026-10-24T04:06:41.419844+00:00"
+    },
+    {
+      "id": "2113840178716701131",
+      "url": "https://x.com/sattoa_ball/status/2113840178716701131",
+      "type": "reply",
+      "created_at": "Sat Oct 24 03:49:06 +0000 2026",
+      "author": "sattoa_ball",
+      "author_name": "さとボール",
+      "author_id": "1592826578786217984",
+      "text": "ちなみに、1920年の規約で禁止されているのは主に軍事基地・要塞の建設辺りで\n軍隊の侵入を禁止してるHoi4の非武装地帯とは厳密にいうと違うんだよね\nけどhoi4の非武装地帯って 「軍関連施設の建設禁止」と「軍隊の移動禁止」を兼ねてるんよ\nヴェルサイユ条約でのラインラントとはわけが違うね",
+      "media": [],
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "bookmarks": 0,
+      "views": 15,
+      "metric_observed_at": "2026-10-24T04:06:41.419882+00:00"
+    },
+    {
       "id": "2113829763051913680",
       "url": "https://x.com/sattoa_ball/status/2113829763051913680",
       "type": "tweet",
@@ -2481,13 +2536,13 @@
           }
         ]
       },
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 78,
-      "metric_observed_at": "2026-10-24T03:32:57.212012+00:00"
+      "views": 149,
+      "metric_observed_at": "2026-10-24T04:06:41.419892+00:00"
     },
     {
       "id": "2113804425274032455",
@@ -2544,8 +2599,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 958,
-      "metric_observed_at": "2026-10-24T03:32:57.212045+00:00"
+      "views": 1162,
+      "metric_observed_at": "2026-10-24T04:06:41.419907+00:00"
     },
     {
       "id": "2111471624486822048",
@@ -3621,13 +3676,13 @@
       "author_id": "1592826578786217984",
       "text": "歴史上、最も過大評価されている国家ってどこだと思う？\n知名度やイメージでは超大国扱いされているけど、実際の軍事力・経済力・外交実績を見るとそこまで強くなかった国家\n逆に過小評価されている国家でも可OK",
       "media": [],
-      "likes": 145,
+      "likes": 166,
       "retweets": 7,
-      "replies": 41,
-      "quotes": 13,
-      "bookmarks": 47,
-      "views": 77441,
-      "metric_observed_at": "2026-10-24T03:32:57.212062+00:00"
+      "replies": 49,
+      "quotes": 14,
+      "bookmarks": 50,
+      "views": 90171,
+      "metric_observed_at": "2026-10-24T04:06:41.419918+00:00"
     },
     {
       "id": "2113616044019610013",
@@ -3658,13 +3713,13 @@
           }
         ]
       },
-      "likes": 12,
+      "likes": 13,
       "retweets": 0,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 663,
-      "metric_observed_at": "2026-10-24T03:32:57.212073+00:00"
+      "views": 674,
+      "metric_observed_at": "2026-10-24T04:06:41.419929+00:00"
     },
     {
       "id": "2113608526413324428",
@@ -3700,8 +3755,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 781,
-      "metric_observed_at": "2026-10-24T03:32:57.212080+00:00"
+      "views": 790,
+      "metric_observed_at": "2026-10-24T04:06:41.419938+00:00"
     },
     {
       "id": "2113602131517469105",
@@ -3713,13 +3768,13 @@
       "author_id": "1592826578786217984",
       "text": "第二次世界大戦前、各国が恐れていたもの\n\nドイツ「再び二正面戦争になること」\n日本「資源が枯渇すること」\nイギリス「ドイツと戦争すること」\nアメリカ「また欧州の戦争に巻き込まれること」\nソ連「日独から攻撃されること」\nフランス「第一次世界大戦の再来」\nイタリア「準備不足で参戦すること」",
       "media": [],
-      "likes": 22,
+      "likes": 27,
       "retweets": 4,
       "replies": 1,
       "quotes": 0,
-      "bookmarks": 2,
-      "views": 3340,
-      "metric_observed_at": "2026-10-24T03:32:57.212088+00:00"
+      "bookmarks": 3,
+      "views": 3440,
+      "metric_observed_at": "2026-10-24T04:06:41.419945+00:00"
     },
     {
       "id": "2113585746993111154",
@@ -3755,8 +3810,8 @@
       "replies": 2,
       "quotes": 2,
       "bookmarks": 1,
-      "views": 8483,
-      "metric_observed_at": "2026-10-24T03:32:57.212095+00:00"
+      "views": 9081,
+      "metric_observed_at": "2026-10-24T04:06:41.419953+00:00"
     },
     {
       "id": "2113577254240530616",
@@ -3773,8 +3828,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 662,
-      "metric_observed_at": "2026-10-24T03:32:57.212110+00:00"
+      "views": 705,
+      "metric_observed_at": "2026-10-24T04:06:41.419966+00:00"
     },
     {
       "id": "2113576531088093256",
@@ -3805,13 +3860,13 @@
           }
         ]
       },
-      "likes": 84,
+      "likes": 88,
       "retweets": 5,
       "replies": 6,
       "quotes": 1,
-      "bookmarks": 10,
-      "views": 4791,
-      "metric_observed_at": "2026-10-24T03:32:57.212103+00:00"
+      "bookmarks": 11,
+      "views": 5091,
+      "metric_observed_at": "2026-10-24T04:06:41.419959+00:00"
     },
     {
       "id": "2113556608861286413",
@@ -3868,8 +3923,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 990,
-      "metric_observed_at": "2026-10-24T03:32:57.212118+00:00"
+      "views": 1004,
+      "metric_observed_at": "2026-10-24T04:06:41.419974+00:00"
     },
     {
       "id": "2113532463465271543",
@@ -3886,8 +3941,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 290,
-      "metric_observed_at": "2026-10-24T03:32:57.212134+00:00"
+      "views": 294,
+      "metric_observed_at": "2026-10-24T04:06:41.419988+00:00"
     },
     {
       "id": "2113532028297924611",
@@ -3918,13 +3973,13 @@
           }
         ]
       },
-      "likes": 17,
+      "likes": 18,
       "retweets": 1,
       "replies": 1,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 968,
-      "metric_observed_at": "2026-10-24T03:32:57.212126+00:00"
+      "views": 989,
+      "metric_observed_at": "2026-10-24T04:06:41.419981+00:00"
     },
     {
       "id": "2113528042991837481",
@@ -3960,8 +4015,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 1,
-      "views": 295,
-      "metric_observed_at": "2026-10-24T03:32:57.212142+00:00"
+      "views": 299,
+      "metric_observed_at": "2026-10-24T04:06:41.419995+00:00"
     },
     {
       "id": "2113506513604186465",
@@ -3973,13 +4028,13 @@
       "author_id": "1592826578786217984",
       "text": "きっかけになった前回の国家指導者Tier表はこちら\nhttps://x.com/sattoa_ball/status/2113221545892217298?s=20",
       "media": [],
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 3995,
-      "metric_observed_at": "2026-10-24T03:32:57.212157+00:00"
+      "views": 4338,
+      "metric_observed_at": "2026-10-24T04:06:41.420009+00:00"
     },
     {
       "id": "2113506277813096791",
@@ -4010,13 +4065,13 @@
           }
         ]
       },
-      "likes": 71,
+      "likes": 75,
       "retweets": 2,
-      "replies": 72,
-      "quotes": 2,
-      "bookmarks": 25,
-      "views": 27331,
-      "metric_observed_at": "2026-10-24T03:32:57.212149+00:00"
+      "replies": 75,
+      "quotes": 3,
+      "bookmarks": 26,
+      "views": 29524,
+      "metric_observed_at": "2026-10-24T04:06:41.420002+00:00"
     },
     {
       "id": "2113481242708701420",
@@ -4033,8 +4088,8 @@
       "replies": 0,
       "quotes": 0,
       "bookmarks": 0,
-      "views": 325,
-      "metric_observed_at": "2026-10-24T03:32:57.212169+00:00"
+      "views": 327,
+      "metric_observed_at": "2026-10-24T04:06:41.420021+00:00"
     },
     {
       "id": "2113481066292134023",
@@ -4051,8 +4106,8 @@
       "replies": 3,
       "quotes": 0,
       "bookmarks": 2,
-      "views": 1282,
-      "metric_observed_at": "2026-10-24T03:32:57.212163+00:00"
+      "views": 1290,
+      "metric_observed_at": "2026-10-24T04:06:41.420015+00:00"
     },
     {
       "id": "2111111748040433800",
@@ -6463,8 +6518,8 @@
       "text": "久しぶりにゴッドフィールドやったけどおもろいわ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1908853777571922223",
-      "views": 6023,
-      "metric_observed_at": "2026-10-21T05:34:18.477106+00:00"
+      "views": 6033,
+      "metric_observed_at": "2026-10-24T04:06:41.420037+00:00"
     },
     {
       "article": null,
@@ -6496,8 +6551,8 @@
       "text": "スイッチ２の値段いくらなんだろう・・・\n一番気になるとこ何も言ってなかったからかなｃ",
       "type": "tweet",
       "url": "https://x.com/sattoa_ball/status/1907433905172733967",
-      "views": 6307,
-      "metric_observed_at": "2026-10-20T02:58:03.410626+00:00"
+      "views": 6319,
+      "metric_observed_at": "2026-10-24T04:06:41.420046+00:00"
     },
     {
       "article": null,
@@ -15347,5 +15402,5 @@
       "views": null
     }
   ],
-  "last_metric_refresh_at": "2026-10-24T03:32:57.212431+00:00"
+  "last_metric_refresh_at": "2026-10-24T04:06:41.420168+00:00"
 }
